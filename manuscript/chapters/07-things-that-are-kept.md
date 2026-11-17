@@ -164,7 +164,7 @@ It was more useful than a chest full of things she could not name.
 
 The next chest was plain.
 
-It stood beneath a great tree in a clearing where the light moved slowly over dark polished wood. Its sides were solid and undecorated. The brass lock had dulled with age, and its keyhole was narrow against the broad lid.
+It stood between the great roots of an ancient tree where the light moved slowly over dark polished wood. A small acorn struck its lid with a hollow knock, rolled across the scratches in the timber and tumbled into the grass. Its sides were solid and undecorated. The brass lock had dulled with age, though years of handling had polished its edges smooth; a narrow keyhole rested at its center.
 
 Brunti walked around it once.
 
@@ -176,7 +176,7 @@ Brunti walked around it once.
 
 “Much more difficult to talk about.”
 
-A fallen leaf slid from the curved edge and came to rest beside the chest. Brunti could see no gap beneath the lid and no sign that the fastening had been forced.
+A slender spiderweb ran between a corner of the chest and the rough bark behind it, trembling in the breeze. A fallen leaf slid from the curved edge and came to rest beside the chest. Brunti could see no gap beneath the lid and no sign that the fastening had been forced.
 
 She considered the object for a while, then wrote a few lines in her notebook.
 

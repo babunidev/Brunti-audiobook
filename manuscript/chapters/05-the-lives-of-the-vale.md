@@ -264,11 +264,11 @@ Brunti traced the pale line around the drawn body.
 
 Mara turned the cloth again.
 
-There was the Nagar Humpback, so high-backed that its ridge rose above the brush before the rest of it came into sight. A heavy neck carried great tusks between its powerful shoulders. Mara had watched one bend low branches under the weight of its passage without seeming to notice them.
+There was the Nagar Humpback, so high-backed that its rounded ridge rose above the brush before the rest of it came into sight. A heavy neck carried great tusks between its powerful shoulders. Mara had watched one force its way between two trees, snag a low branch on a tusk and tear free with an impatient twist that showered leaves across its coarse hide. Its uneven hooves made loose stones shift beneath the brush.
 
 Beside that drawing ran a narrow line of sharp projections.
 
-“The Razorback,” she said. “You can hear it moving through dry growth before you see its face. Horns along the spine. It can turn around a fallen log without losing speed, which makes the space behind it no safer than the space before.”
+“The Razorback,” she said. “You can hear it moving through dry growth before you see its face. A jagged row of horns runs along the spine. I saw one twist sharply around a fallen trunk without losing speed. Its hind hooves dug into the earth, throwing dust behind its shoulders while the horns passed scarcely a hand from the wood. The space behind a log is no safer than the space before it.”
 
 Brunti regarded the pattern of the horns.
 
@@ -280,11 +280,11 @@ The last sketch took almost the whole page.
 
 A colossal Nagar stood with towering horns above a lowered head. Great hooves pressed into broken ground. Mara had marked the shapes of falling grit along a nearby bank.
 
-“Thunderhoof,” she said. “I didn't see the first one that came through the pass. I felt it. The stones beside my sleeping place began to jump. Then I saw the bank crumble and the beast come into the open.”
+“Thunderhoof,” she said. “I didn't see the first one that came through the pass. I felt it. No wind at all, but the pebbles beside my sleeping place began to tremble. Each slow hoofbeat pressed the earth down until the bank shed another trickle of grit. Then it came from behind the rise, horns framing its head.”
 
 “Did you move?”
 
-“Very carefully. The first thing it did was stop and listen.”
+“Very carefully. The first thing it did was stop at the sound of a snapping twig. Its head turned. Then it lifted one great hoof and held it above the earth before bringing it down with enough weight to shake the bank again.”
 
 Brunti looked at the great broad hoof drawn near the edge of the chart.
 
@@ -368,7 +368,7 @@ Only when its heavy steps faded did Brunti release the grip she had kept on the 
 
 High above the valley, a wolf began to call.
 
-The Yowler stood on a rocky outcrop, mottled grey and brown against the stone. Its long cry traveled across the hollow and returned in broken echoes. It paused between calls, ears turning toward sounds Brunti could not hear, then lifted its muzzle again.
+The Yowler stood on a narrow rocky outcrop, mottled grey and brown against the stone. Its lean legs braced against the uneven ledge as a ragged howl traveled across the hollow and returned in broken echoes. A second, sharper cry followed. The wolf fell silent, one ear turned to the distant slope, the other to the valley below. Its pale eyes searched the ground beneath the outcrop, and its forelegs stiffened as it lowered its muzzle. A low growl replaced the fading echo.
 
 The Silvermane did not come back.
 
