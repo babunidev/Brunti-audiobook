@@ -1,0 +1,449 @@
+# Chapter Three — A Road Made of Grass
+
+The ground was still moving when Brunti stepped off the descent platform.
+
+She stood for a moment, waiting for the familiar pulse to rise through the soles of her feet. Above her, the Skyland's broad shadow passed over a stretch of trade yards. Stone bridges and suspended loading frames shone against the morning cloud, and along the lowest terrace a row of Grimnir workers guided the last baskets of metalwork toward the waiting caravans.
+
+Beneath Brunti's feet, the ground gave no answering rhythm.
+
+There was only earth.
+
+She shifted her weight. Soil settled under one heel. A little pebble rolled into the hollow beside it. The small betrayal was so unexpected that she caught the handle of her travel hammer.
+
+Someone laughed behind her.
+
+“First time down?”
+
+The voice belonged to a caravan guide loading sacks onto a low cart. She was broad-shouldered, with a cloth wound over her head against the sun, and she had the unhurried manner of someone who expected travelers to become embarrassed by perfectly ordinary things.
+
+“Not my first,” Brunti said.
+
+“First time listening to the ground, then.”
+
+Brunti looked at her.
+
+The guide pushed a sack farther into the cart. “Up there, the stones tell you what the builders are doing. Down here, most of the stones haven't been told to do anything.”
+
+“They still move.”
+
+“Of course. They just don't announce it.”
+
+Her name was Eda. She had brought the caravan up from the central grasslands and intended to take it back by the same trading paths. When Brunti showed her the copied ledger mark, Eda made no pretense of understanding it.
+
+“Old craft records, you'll want Aetherion eventually. Plenty of clerks there, and half of them certain the other half have mislaid something.”
+
+“I know.”
+
+“Then why are you looking at the hills?”
+
+Brunti followed the guide's gesture toward the green distance.
+
+“Because I have never seen them from below.”
+
+Eda glanced up at the departing Skyland. “That's as good a reason as most.”
+
+They agreed to travel together while the roads remained common.
+
+The descent platform became smaller behind them. By noon, its cranes were fine dark strokes against the sky. Brunti stopped turning to look back.
+
+***
+
+The Lovely Meadows did not resemble the plains from above.
+
+Seen from a Skyland, green country gathered into broad colors: light over a ridge, shadow under clouds, silver where water caught the sun. From the ground, the grass concealed hollows as deep as Brunti's knee and stones that seemed to rise without warning. Some were small and round, tufted with moss. Others stood shoulder-high, their faces furred with green and dotted with pale flowers rooted in the cracks.
+
+Brunti knelt beside one of the larger stones.
+
+Its shaded side was cool. Dampness had gathered beneath the moss, and the rock's uneven surface gave a clear answer when she laid her fingers on it. She followed a narrow ridge until it vanished into the earth.
+
+“Buried work?” Eda asked.
+
+“Possibly.”
+
+“Possibly is the beginning of a long day with you.”
+
+Brunti brought out her notebook. Beneath the entry for the Skyland's damaged join she made a sketch of the ridge. She added the position of three nearby stones, the angle of the ground, and a tiny mark where a small unseen creature had rustled through the greenery.
+
+Eda watched in silence until Brunti finished.
+
+“Are you writing down the creature?”
+
+“I don't know what it was.”
+
+“Then why draw it?”
+
+“Because something was there.”
+
+The guide nodded. “That's fair.”
+
+Brunti liked that answer.
+
+Beyond the stones, wind passed through the high grasses in long, pale waves. Wild herbs gave off a sharp, sweet scent when their stems brushed her pack. For a little while the only sounds were birds calling from the far hedge and the careful knock of the cart wheels over the track.
+
+At the next rise, the meadow fell away toward a stream.
+
+Water slipped across pale stones so clean that every one of their edges remained visible beneath the surface. Tall trees stood over the banks, and among them rose weathered pillars veiled in lichen. Deer grazed beyond the stream. A fox emerged from a band of flowers, studied the caravan, and vanished into the leaves.
+
+Brunti crossed to the nearest pillar.
+
+A few marks remained where the moss had thinned. They were too worn to read. The wind crossed the stream and stirred the trees; water murmured against the stones, while the pillar held the soft vibration of the ground beneath it.
+
+“Enchanted Glades,” Eda said. “The name is older than any map I own.”
+
+“Who made the pillars?”
+
+“Someone who was here before I was.”
+
+Brunti looked up.
+
+Eda smiled. “You'll have to ask a longer-lived guide for the rest.”
+
+Brunti drew the markings. She could imagine the long metal cover in the Skyland memorial, the outer seam that concealed an older join. For a moment she wondered whether the same craft hands had shaped these pillars.
+
+Then she looked again at their weathered faces.
+
+She had no evidence of that at all.
+
+On a fresh line she wrote: Pillars at stream. Maker unknown.
+
+The words seemed less satisfying than her first idea. She kept them.
+
+They left the glades as the sun moved west, the cart wheels carrying a little of the stream's mud onto the rising path.
+
+***
+
+Eda did not take the cart into the Fae Pastures.
+
+She tethered the pack animal at a sheltered bend and showed Brunti the narrow way through a valley of high grass.
+
+“There's a short crossing beyond,” she said. “Come and listen before we go back.”
+
+The pastures were scattered with flowers: yellow among violet, white near the roots of dark trees. Ancient pillars stood between them, more irregular than the ones by the stream. One leaned as if tired of standing. Another had split from top to base. A third bore a hollow filled with small growing blossoms.
+
+Brunti walked slowly between them.
+
+The wind fell away.
+
+Grass moved around her ankles after the air had gone still. She heard a light sound from behind the leaning pillar, almost a laugh.
+
+She turned.
+
+Nothing appeared.
+
+“Did you hear it?” she asked.
+
+Eda nodded.
+
+“Who was there?”
+
+“That's the question.”
+
+“Have you ever found out?”
+
+“No.”
+
+Brunti rested a palm on the split pillar. Its two halves gave different responses beneath her fingers. One answered the deeper movement of the earth. The other carried a thin tremor from the wind passing over its broken lip.
+
+She listened again, expecting the laughter.
+
+It did not return.
+
+“Fae?” she asked.
+
+“That's what people call the sound. It doesn't mean they've seen the one who made it.”
+
+They stayed until the sunlight thinned, then returned to the cart. Brunti looked back once from the valley entrance. The pillars stood without moving.
+
+She added another page to her book.
+
+At its top she wrote: Three places. Three kinds of stone. She was about to draw a line connecting them when she heard Eda unhitching the pack animal.
+
+Brunti shut the book and went to help.
+
+***
+
+Over the next days the land changed its shape without losing its gentleness.
+
+At Mystic Grass, the hills rose around a solitary pillar set upon a summit. All the slopes below it bent beneath the wind in one broad direction, but the grass close to the stone crossed itself in smaller circles. Brunti stood there with a reed held upright in one hand, testing the air. The reed moved with the wind. The grass at her feet did not always agree.
+
+“It could be the slope,” she said.
+
+“It could,” Eda replied.
+
+“Or a current beneath it.”
+
+“Also could.”
+
+“Or a buried structure.”
+
+“That's three things.”
+
+Brunti lowered the reed. “You are not helping.”
+
+“I'm helping you count.”
+
+They climbed down without digging into the summit.
+
+Farther along, the Seraphic Plains opened beneath an immense sky. Great rough-hewn pillars stood apart in the green, their cracks deep and their foundations hidden in grass. The wind found a hollow tone between them, so low it seemed to emerge from the spaces rather than the stone. Brunti sat on a sun-warmed block and listened until her own mineral seams grew quiet enough to distinguish one sound from another.
+
+The note was not the same as the Skyland's damaged memorial.
+
+She knew that after a while.
+
+Knowing it did not disappoint her as much as she expected.
+
+When the caravans stopped near the Celestial Fields, she left the road long enough to watch a butterfly settle on a white flower. Its wings opened and closed in slow movements beneath the warm sun. Bees wandered among gold and violet blooms. A narrow patch of dark earth lay visible where tangled roots had not quite met.
+
+There were old stories about treasure buried beneath these fields. Eda knew several of them and considered none reliable enough to choose a digging place.
+
+Brunti watched the butterfly rise and drift away.
+
+“You didn't bring your notebook,” Eda observed.
+
+“I did.”
+
+“You haven't opened it.”
+
+“I can remember a butterfly.”
+
+“That sounds healthy.”
+
+That evening Brunti drew the white blossom from memory. The shape came out badly. She left it that way.
+
+Eda had traveled the Vale through more seasons than Brunti had seen from the same piece of ground. In autumn, she said, another region called the Tranquil Wilds turned gold, with groves dressed in yellow and ochre. Once, while crossing through the fallen leaves, she had watched a fox curled beneath a tree. A single leaf floated down onto its ear. The ear twitched, but the animal did not wake.
+
+Brunti asked whether there had been any marked stones nearby.
+
+“There was a whole hillside of stones. I was watching the fox.”
+
+The guide gave her a look over the evening fire.
+
+“It is possible,” she added, “to be in a place without measuring it.”
+
+Brunti stirred the mineral mixture warming in her small cup. She had no answer she trusted.
+
+A day later, the caravan route passed above a valley filled with pink blossoms. Huge pale boulders stood among them, holding shade beneath their leaning sides. Petals gathered in the soft air and moved in little spirals between two rocks that nearly touched. Beyond the narrow passage, more flowers glowed in the sheltered distance.
+
+Brunti squeezed through the gap after checking that her pack would not catch.
+
+The air changed at once. It was cooler, scented with crushed stems and the faint mineral warmth of the stones. She stood in the passage and listened to the petals brushing against the rock.
+
+She had expected another sound.
+
+Nothing called to her. Nothing answered her question.
+
+The valley remained exactly as beautiful as it had been from the ridge.
+
+She went back to the waiting cart with one small pink petal caught in the fastening of her satchel.
+
+***
+
+The first story about a singing stone came from a trader at a roadside meal.
+
+The man had traveled northeast, through the Enigmatic Prairies, where scattered trees shaded shallow hollows among the flowers. He described a place where the blossoms stood unnaturally still while the breeze moved around them. A single delicate note had rung from somewhere near a moss-covered stone beneath an old tree. Petals drifted toward it, and a fine pattern flashed briefly below the moss.
+
+“Was the stone glowing?” Brunti asked.
+
+“For a moment, yes.”
+
+“What was the pattern?”
+
+“Too quick to tell. Lines. Something delicate.”
+
+“How many notes did you hear?”
+
+“Two, I think. The second lower.”
+
+Brunti's hand stopped above her notebook.
+
+The memorial had sounded two notes as well, one lower than the other.
+
+“Did you touch the stone?”
+
+“No.”
+
+“Did you see whether it had been joined?”
+
+“No.”
+
+“Did the sound travel through the roots?”
+
+The trader looked at Eda for help.
+
+“I only told her what I saw,” he said.
+
+Eda was busy with a piece of bread. “She's collecting questions. Doesn't mean you have to collect answers.”
+
+Brunti wrote the account down as faithfully as she could. She put the trader's name beside it, and the place he had described, and the fact that his memory of the two notes was uncertain.
+
+Another traveler, hearing them speak of the northeast, mentioned the Arcane Meadows. He knew a story of treasure hidden in gentle flowering hills where long shadows moved between the slopes. There was a low branch above a shaded hollow that stirred after the others had settled. The traveler was certain the hidden thing was valuable, though he had never found it.
+
+“Could be the same stone,” Brunti said.
+
+“Could be,” the second traveler agreed, delighted to have contributed.
+
+He began telling them how an ancestor of his had almost uncovered the treasure, and how a fox had led the ancestor away from a dangerous hollow, and how a sudden rain had washed the treasure farther into the earth.
+
+By the time the story ended, the treasure had acquired a silver box, a golden clasp and a name the teller had plainly invented halfway through.
+
+Brunti looked at what she had written.
+
+She had drawn a line between the two reported places.
+
+At its end she had written: Possibly same resonance as home.
+
+She studied the words for a long time. The trader who had heard the note knew nothing about the Skyland's memorial. The man with the treasure story had heard no note at all. The resemblance belonged to Brunti, not to either witness.
+
+She crossed out the sentence, carefully enough that it remained legible beneath the mark.
+
+Then she drew a second line under the two accounts and wrote: Different tellers. No established connection.
+
+Eda watched her.
+
+“That's a longer way of saying you don't know.”
+
+“Yes,” Brunti replied.
+
+“Good. There are plenty of things worth not knowing correctly.”
+
+***
+
+They met the Earthsinger on a wide piece of ground beyond a bend in the caravan road.
+
+His weathered green cloak moved in the wind. A rough staff stood beside him, planted in the soil. From its base came a low sound, not loud enough to interrupt the conversation of the travelers passing nearby, but steady enough for Brunti to feel through the soles of her feet.
+
+She stopped.
+
+The pilgrim looked up and smiled.
+
+“An attentive traveler,” he said.
+
+“Your staff is sounding through the ground.”
+
+“It does that.”
+
+“Why?”
+
+“Perhaps because I ask it nicely.”
+
+Eda made a noise suspiciously close to a laugh and took the cart a little farther along the road.
+
+Brunti remained.
+
+The Earthsinger stepped aside, leaving an open space in the grass. The staff continued humming after his hand left it.
+
+“Would you offer something of your own?” he asked. “Artistry, movement, some small act of the spirit? A fair exchange deserves a gift from the world's depths.”
+
+Brunti looked down at her travel hammer.
+
+“I have a hammer.”
+
+“A fine beginning.”
+
+“I can shape a small stone.”
+
+“Also a beginning.”
+
+She considered reaching for the first pebble at her feet. It would be simple to show how swiftly she could split the stone along its natural grain, how neatly she could fit two pieces together. She had done such things before with half the village watching.
+
+She thought of the bent brace in her pocket.
+
+The Earthsinger waited without moving.
+
+“May I listen again?” she asked.
+
+He nodded.
+
+Brunti lowered herself to one knee and laid a hand against the earth. The humming reached her through soil and small stones, damped by grass roots and changed by the weight of her palm. It was not a solitary note. A gentler vibration followed beneath it, rising and falling with the pilgrim's slight movements.
+
+She took a pebble from the roadside.
+
+Instead of striking it, she set it on the ground beside the staff and touched it with the lightest edge of her hammer. It gave a small, clear click.
+
+The staff's hum continued.
+
+She tapped once more, then waited for its answer. On the third attempt her blow fell in the space between the two soft vibrations.
+
+The sound did not become grand. It was a little rhythm made by a pilgrim's staff and a warrior's ordinary hammer, with the wind crossing the grass around them.
+
+The Earthsinger listened.
+
+“Again?” he asked.
+
+Brunti repeated it, changing one interval. The staff did not follow her. She found herself following it instead, adjusting the weight of her hand until the sound settled into a shape neither had begun alone.
+
+When she finished, the pilgrim bowed his head.
+
+“A good exchange.”
+
+“You offered a reward.”
+
+He laughed softly.
+
+“I did.”
+
+From a small pouch he took a dark pebble shot through with a pale seam. He placed it in her palm.
+
+Brunti turned it over. It was an ordinary piece of mineral, though its balance was pleasing and the pale seam made a fine diagonal across one face.
+
+“What does it do?” she asked.
+
+“Most likely what stones do.”
+
+“Which is?”
+
+“Remain where they're put, unless someone gives them a reason to move.”
+
+Brunti looked at him.
+
+The pilgrim's smile widened, but he added nothing.
+
+She put the pebble in her satchel beside Nemi's requested keepsake. The child might approve of a stone that had once belonged to a conversation.
+
+When Brunti returned to the cart, Eda handed her a cup of water.
+
+“Well?” she asked.
+
+“I was challenged.”
+
+“I saw that.”
+
+“I think I passed.”
+
+“Did he say so?”
+
+“Not exactly.”
+
+Eda took back the cup. “Then you have learned how to tell the story properly.”
+
+***
+
+That night Brunti sat beside the caravan's small fire and opened her notebook.
+
+There were sketches of stones and pillars, narrow passages and flowering fields, and stories from people who had been to places she had not. A few pages were crowded with questions. Others held only a line or two. One contained the flower she had drawn badly.
+
+At the bottom of the first page she had written: Find the old repair. Restore the memorial.
+
+She read the words again.
+
+The task had not changed. Darrik was still preparing the safe wall. The council's patience would not last forever. Somewhere below the Skyland, perhaps in Aetherion, an old copy of a drawing might still exist.
+
+But she had crossed many pieces of land today and during the days before. Some had spoken through stone. Some through water, petals or the small movements of animals. Other things had sounded only in the mouths of travelers who could not return to show her what they meant.
+
+She made a new page.
+
+Under a heading she called Things I Heard, she wrote the staff's two quiet vibrations, the laugh among the old pillars, and the distant hollow note of the Seraphic Plains.
+
+Under Things I Was Told, she wrote the glowing stone in the northeast and the gold leaves falling around an autumn fox.
+
+Then she stopped.
+
+There was no heading for the silence of the pink valley.
+
+She thought about that, listening to the light crackle of the fire. At length she wrote it anyway.
+
+The wind turned. Grass brushed the wheels of the cart. Overhead, the stars stood farther apart than they had looked from the Skyland's terraces.
+
+Brunti closed the notebook.
+
+For once she did not draw a line from one thing to another.
