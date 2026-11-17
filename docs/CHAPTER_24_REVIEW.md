@@ -1,6 +1,6 @@
 # Chapter 24 — Paths Among the Dead: source and continuity review
 
-**Date:** 17 November 2026. **Status:** [Chapter 24](../manuscript/chapters/24-paths-among-the-dead.md) is **5,388 words including heading**, drafted as original novel prose by **ChatGPT GPT-6** under Babuni's delegated literary direction. Internal source, scene and continuity comparison **only**; no independent literary editorial acceptance, audiobook recording or publication. Novel-only history and acts are not new game/world canon.
+**Date:** 17 November 2026. **Status:** [Chapter 24](../manuscript/chapters/24-paths-among-the-dead.md) is **5,422 words including heading** after the Chapter 29 source refresh, drafted as original novel prose by **ChatGPT GPT-6** under Babuni's delegated literary direction. Internal source, scene and continuity comparison **only**; no independent literary editorial acceptance, audiobook recording or publication. Novel-only history and acts are not new game/world canon.
 
 ## Primary game source verification
 
@@ -55,3 +55,7 @@ A **203-record all-field** comparison between [`9cddb72157a5`](https://github.co
 **Verified with current sources:** 20 full encounter descriptions and direct staging, latest entire 203-ID all-field diff, two already-drafted revised texts, source follow fields, cited world pages, prior Chapter 23 manuscript ending, character departure and direct scene word count. **Unverified:** exact map/time elapsed in mutable Keldor, independent literary quality, any established cause of curse, soundtrack or audio, publication and rights.
 
 **Current manuscript:** **24/30 first-draft chapters; 111,305 words including headings; 193/203 encounter IDs adapted; 10 planned; 0 independently editorially approved**.
+
+## Chapter 29 source update — 18 November 2026
+
+The current game `8e4857737f9b` expands **20146 Eldritch Stronghold** with a water drop striking an old iron fitting in a **hollow metallic knock**, trickling into the deep rusted seam, and **pale fungi and tiny insects** continuing their undisturbed life over the heavy darksteel and ironwood cube. ChatGPT (**GPT-6**) included these within Chapter 24's already **Lived** scene beneath the dead tree; the large chest **remains sealed**, with no prize or relation to the Grimnir memorial inferred. **Chapter 24: 5,388→5,422 words (+34)**, same twenty source IDs/modes and follow data. See [source reconciliation](SOURCE_RECONCILIATION.md) and [Chapter 29 review](CHAPTER_29_REVIEW.md). This is an internal source-prose reconciliation, not independent editor approval.
