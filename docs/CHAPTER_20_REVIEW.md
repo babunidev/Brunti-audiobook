@@ -1,6 +1,6 @@
 # Chapter 20 — The Broken Frostweaver Record: source and continuity review
 
-**Date:** 17 November 2026. **Status:** [Chapter 20](../manuscript/chapters/20-the-broken-frostweaver-record.md) is **6,137 words including heading**, written as novel first-draft prose by **ChatGPT GPT-6** under Babuni's standing creative delegation. This is an **internal source and continuity review**, not independent human literary approval, a new game/world canon decision, narrated audio or publication.
+**Date:** 17 November 2026. **Status:** [Chapter 20](../manuscript/chapters/20-the-broken-frostweaver-record.md) is **6,187 words including heading** after the Chapter 24 source refresh (original draft: 6,137 words), written as novel first-draft prose by **ChatGPT GPT-6** under Babuni's standing creative delegation. This is an **internal source and continuity review**, not independent human literary approval, a new game/world canon decision, narrated audio or publication.
 
 ## Primary game verification
 
@@ -44,3 +44,7 @@ All IDs, names, follow links, type, expansion and other metadata unchanged; **th
 **Checked:** nine full current encounter descriptions and distinct prose integrations; 203-record field difference; relevant accessible world lore; cross-chapter character movements, source-mode and source-to-manuscript assignments; draft word counts. **Unverified:** exact regional map and travel chronology, full independent line edit and read-aloud quality, original art/audio rights, completed recorded narration, release and independent human approval.
 
 **Current manuscript:** **20 / 30 chapters**, **88,790 words including headings**, **151 / 203 encounters adapted**, **52 still planned**, **0 independently editorially approved**.
+
+## Chapter 24 source refresh — 17 November 2026
+
+The complete game source at `f949602a0a21` expands **20133 Kaldric of Nekalos** in `mEncounterText` only: elaborate, precise **incomplete hand patterns form in the snow**, then break apart under the concentrated wind; his voice clearly attempts *“The Nekalos Mechanism—”* before shattering, and he begins the same gesture again. ChatGPT (**GPT-6**) updated [Chapter 20](../manuscript/chapters/20-the-broken-frostweaver-record.md) as the **same direct Lived scene**, without claiming to solve the mechanism or link it to the Grimnir memorial. **Chapter 20: 6,137 → 6,187 words (+50)**. [Seventeenth game diff](SOURCE_RECONCILIATION.md), [Chapter 24 review](CHAPTER_24_REVIEW.md). This is internal source checking, not independent editorial acceptance.
