@@ -1,0 +1,847 @@
+# Chapter Twenty — The Broken Frostweaver Record
+
+The first cry came when the wind stopped.
+
+Brunti had grown used to Everwinter's weather speaking across the ridges. It whistled through narrow cuts, struck the ice with a dry hiss, and carried distant stones knocking against one another. The sound they heard on the morning after leaving the patrol shelter was none of these.
+
+It was a voice breaking under the weight of a single name.
+
+Enna stopped so abruptly that Velen nearly walked into her.
+
+The trail crossed a shallow white basin between dark shoulders of rock. Snow lay undisturbed across the center. From a little distance it looked like a place of perfect rest.
+
+Then a circle of powder rose from the ground.
+
+It turned slowly at first, gathering speed around a tall, translucent figure. The outline of old robes emerged within the spinning snow, their fabric moving without weight. Blue and white light passed through the figure and fell upon the drifts behind it.
+
+“Kaldric,” Enna said.
+
+The name reached Brunti through the next gust of icy wind.
+
+A hollow face turned toward the mountain. Light like cold fire moved in the eyes. The spectral figure lifted both hands, their edges trembling, and cried out again.
+
+This time Brunti heard the words.
+
+“Nekalos—”
+
+The rest dissolved into a sound too torn to be language.
+
+Velen was already reaching for their notebook.
+
+“Don't go closer,” Enna whispered.
+
+The circle widened. Loose ice skated over the surface of the snow. Outside the spinning ring, the drifts remained almost perfectly still.
+
+Brunti could see moon-pale daylight shining through the ghost's chest. Nothing about the figure resembled the memory stones at home. A preserved echo belonged to a material place, and its small rhythm repeated because the stone had held it. The being before her was moving, suffering, turning within a wind that had no right to be so narrow.
+
+The distinction mattered, though she could not have explained why.
+
+Kaldric's hands gathered into fists. His robe flickered with a pale blue radiance. He raised his head as if to cry out once more, then faltered. The outline of his jaw wavered. For a moment the wind held him nearly upright.
+
+The next cry came as a splintering sound.
+
+Velen stood perfectly still. Their pen remained poised above the page.
+
+“Is he asking for help?” Brunti asked.
+
+“I don't know,” Enna replied. “People have tried to answer him. The wind doesn't carry an answer back.”
+
+“Do you know what happened to him?”
+
+“The stories disagree.”
+
+Brunti watched the ghost turn, one slow movement against the swirling ice.
+
+He was known as Kaldric of Nekalos, a Frostweaver mage whose broken voice carried regret about a mechanism of that name. The valley preserved that much in stories. None of the stories Enna knew explained what he had done, what had been done to him, or whether the cry was a warning, an accusation or an unending memory of loss.
+
+The figure's hollow eyes swept across the snow.
+
+For a breath Brunti thought he might see them.
+
+Then the wind folded the pale robes inward. The circle of powder closed around Kaldric, and the three travelers could no longer distinguish the shape of his hands from the snow.
+
+Enna moved first. She led them along the firm outer rim of the basin until the voice grew faint behind them.
+
+Velen had written only the name.
+
+Brunti waited until they reached a sheltered ledge before speaking.
+
+“You didn't record what he said.”
+
+“He said Nekalos. The rest wasn't clear.”
+
+“You heard the rest of it.”
+
+“I heard sounds.”
+
+Velen closed their book.
+
+“If I write a sentence, I will be choosing which sentence I think he was trying to say.”
+
+Brunti looked back toward the basin, already hidden by the ridge.
+
+“Then leave the sentence broken.”
+
+The archivist nodded. They opened the book and placed a mark after the name, not a word.
+
+***
+
+The road to the next inhabited station took them around a chain of frozen pools. A low bridge had disappeared beneath old snow, so Enna crossed at a stone shelf farther west. They spent the night in a guide's room where the stove smoked and the window would not close properly.
+
+By morning the basin of Kaldric's cry was well behind them.
+
+Brunti knew the difference between a sound that followed a traveler and one that lived in the listener's own attention. Kaldric's broken call returned whenever she let the journey grow quiet. She could imagine a hundred things the mage might have wished to say.
+
+She refused to choose one.
+
+The next voice was altogether different.
+
+They were crossing a wide stretch of unmarked snow in the afternoon when a melody reached them from the lower drifts. It was so faint that Brunti at first mistook it for the thin resonance of ice under pressure.
+
+Velen stopped.
+
+“Did you hear that?”
+
+The tune descended by three small notes, hovered, then lifted again.
+
+Across the snow a pale figure was moving.
+
+Lyria of Nekalos walked between the drifts without leaving a footprint. Light traveled through the edges of her translucent body, outlining the place where her hair fell and the small turn of her shoulders. Beneath her nearly transparent skin, icy-blue veins shone softly.
+
+She did not seem to hurry. Her feet passed over the surface without pressing it down.
+
+The melody continued while she turned toward the wind.
+
+“Lyria,” Enna murmured.
+
+Velen moved a fraction closer, careful not to step off the path.
+
+“Is she searching for him?”
+
+“For whom?” Brunti asked, though she knew the answer Velen wanted.
+
+“Kaldric.”
+
+There was no reply. The figure crossed another line of untouched snow. A gust passed through her, lifting the surrounding powder and leaving the place where her body had been almost bare. Her outline dimmed, then brightened.
+
+The song fell to a single long note.
+
+Brunti listened closely. She recognized no language in it, no hidden rhythm like the memorial echoes at home. It was a melody, or the remainder of one, and its beauty made her wish that it had an ending she could know.
+
+Velen's expression changed.
+
+“Maybe the song is meant to answer his cry.”
+
+“Maybe,” Brunti said.
+
+They waited. Lyria's figure thinned as snow crossed before her. Soon the distant ridge showed through her shoulders, then through the curve of her head. One clear note remained after nearly all her light was gone.
+
+It lasted longer than Brunti expected.
+
+When it faded, the field of snow stretched away without a mark.
+
+Enna adjusted the strap of her pack.
+
+“Some tellers say they belonged to one another,” she said. “Others say both names survived because people wished two lonely figures were less alone.”
+
+Velen looked down at their notebook. Beneath Kaldric's name they had left space.
+
+Brunti wondered whether a story could be made more cruel by giving its people a love they had never had, just as easily as it could be made more cruel by denying them one.
+
+“We can write that the stories exist,” she said.
+
+Velen nodded.
+
+“Without making the stories their lives.”
+
+They stood a moment longer before the wind erased the last suggestion of Lyria's path—which had never been there to begin with.
+
+***
+
+The shrine stood beyond a slope of pale stone, sheltered between two walls of ice. Enna had known the turning from an old route tablet and warned them that the place might be unsafe. Its floor was sound when they arrived, but the air changed at the edge of the entrance. It carried a faint, unsettled hum.
+
+Fragments of blue-white light drifted above the central stones.
+
+At first Brunti saw no pattern. One pale shard passed her shoulder with a flicker like the corner of an eye. Another floated high above the shrine and revealed part of a woman's mouth. The pieces moved independently, joining neither into a whole face nor into the shape of a complete body.
+
+A whisper came from somewhere near the floor.
+
+“Turn—”
+
+The sound broke.
+
+Another shard answered from above.
+
+“—before the—”
+
+A third carried a breath that might have belonged at the beginning or the end of either phrase.
+
+Velen looked shaken.
+
+“The Seer of Snows.”
+
+Enna remained outside the inner ring of stones.
+
+“The guides say she once helped people find their way here,” she replied.
+
+“Can she still?”
+
+“No one agrees on what the fragments mean.”
+
+Brunti moved slowly around the outer edge. A piece of luminous face appeared beside a frost-coated pillar and dissolved before the rest could form. Near the center, a floating shard held the outline of a hand, fingers lifted as if beginning to guide someone along a road. The fingers faded. There was no arm to follow.
+
+Two fragments drifted close together.
+
+Their light steadied.
+
+For an instant the outline of a regal figure seemed to gather between them, so clear that Brunti almost called to her. Then the shards pulled apart again, scattering fragments of voice across the room.
+
+A single unfinished syllable lingered.
+
+Velen turned in place, trying to match one whisper to another.
+
+“Perhaps if we write them in the order they sound—”
+
+“They don't sound in order,” Brunti said.
+
+“Then by position. Or shape. One fragment might hold the beginning of a sentence, the next—”
+
+“Which next?”
+
+Velen looked around.
+
+Several lights moved overhead. One passed through the place where another had been only a moment before.
+
+The archivist lowered the notebook.
+
+“I don't know.”
+
+The fragments had belonged, the older stories said, to the Seer of Snows. Dark magic had divided her awareness. Their little traces of light retained gestures and words, but the cause of her shattering was not known. Brunti could see no way to arrange the broken voices without also arranging the woman for whom they stood.
+
+She thought of the memorial wall at home, two stones pressed under a single old casing. The danger she had brought into the resting chamber came from treating a sound she did not yet understand as one that needed to be forced into agreement.
+
+There was a quieter kind of damage in imagining that every broken thing awaited her hands.
+
+A shard floated close to her.
+
+A woman's eye appeared within it, bright and intent. The eye seemed to look toward the threshold. Then its light scattered, leaving a small pale trail that vanished in the air.
+
+Brunti did not follow.
+
+She bowed her head, not certain whether respect could reach a being so dispersed, then stepped away from the inner stones.
+
+Velen remained a moment longer.
+
+When they came out, there were more blank spaces in the notebook than words.
+
+“I used to think a good archivist could make any record whole with enough patience,” they said.
+
+“And now?”
+
+“I think patience also means knowing when to stop writing.”
+
+The shrine's faint murmurs continued behind them. Neither traveler tried to turn them into an instruction.
+
+***
+
+It took several more days to reach the ruined grounds where the Frostweaver inscription tables were known to stand.
+
+The route did not run directly between the valley's ancient places. Enna used staffed shelters when she could, crossed old frozen channels only after testing the ice, and made them retreat from one ridge when a wind-borne sheet of snow made the stones invisible.
+
+Brunti began to measure the journey differently. Earlier, every detour had felt like a delay in finding a missing answer. Now she recognized the care Enna took to keep the return paths known.
+
+At last broken walls rose from the snow.
+
+The Frostweaver palace ruins occupied a broad white terrace beneath the mountains. Columns lay in sections among frozen debris. Some surfaces were polished enough to reflect the pale sky, while others had weathered into shallow layers, the original workmanship hidden beneath rime and years.
+
+Enna led them to a stone table protected by the ruins of an arch.
+
+At its center stood a piece of icy-blue crystal.
+
+Sunlight entered from a gap above and passed through the stone, catching intricate glyphs at different depths. Some had been cut into the surface; others seemed held deep within the clear material. As the angle of the sun changed, the markings shone in succession.
+
+Velen approached with a reverence they usually reserved for a manuscript whose pages could no longer be replaced.
+
+“The Knowledge Seal of Nekalos,” they said.
+
+Brunti recognized the name from their route notes. She did not recognize the script.
+
+Light crossed the crystal and joined three signs in a narrow band. Brief impressions gathered between them: motion without an edge, the suggestion of a place opening, a depth that seemed farther away than the table should have allowed. As the sunlight shifted, the shapes vanished.
+
+Velen raised their hands, then stopped without touching.
+
+“Do you feel anything?”
+
+Brunti held her mineral fingers near the inscription.
+
+She felt an unusual coolness, distinct from the weather. For a moment it seemed to carry a direction, not quite an image: a series of steps across a bright interior and an abrupt loss of orientation. It was gone before she could be certain of what she had perceived.
+
+She stepped back.
+
+“I felt something,” she said.
+
+“What?”
+
+“Not enough to describe without making it larger than it was.”
+
+Velen considered that answer and wrote it down.
+
+The seal's first glyph brightened steadily while the others paled. A new sequence began, precise and ordered. The ruin around it remained broken, its walls casting fractured shadows across the snow.
+
+“Could this explain the Mechanism?” Velen asked.
+
+“It might preserve knowledge about it,” Enna said. “The people who come here bring lenses and old names. They usually go home with more questions.”
+
+Velen copied the visible signs and left a separate space for the impressions neither of them could reliably name. There was no indication that any single pattern of light promised a complete explanation.
+
+Brunti looked at the old table. Whoever had worked the crystal had cared enough to make several layers of writing legible through one another.
+
+She knew that kind of care.
+
+The knowledge it held was not hers merely because she admired its making.
+
+***
+
+Enna did not take them to Frostfall Cascade that evening. The waterfall stood beyond another branch of the valley, and the guide refused to cross two exposed shelves before the weather changed.
+
+They stayed instead at a winter station where an elderly keeper warmed flat stones near the stove for travelers whose joints had stiffened. Brunti placed one beneath her repaired wrist. The low warmth settled into the crystal there, easing the tightness of the old fissure.
+
+Velen spent much of the evening sorting their pages into three piles.
+
+“Seen,” they said of the first.
+
+“Heard from someone who saw,” they said of the second.
+
+“Guessed,” Brunti offered.
+
+“Suggested.”
+
+“Guessed politely.”
+
+Velen gave her a wounded look.
+
+Brunti waited.
+
+Then the archivist laughed and moved the third pile a little farther from the other two.
+
+The next morning they took the western route.
+
+Frostfall Cascade came into sight as a great fall of arrested water, its folds caught against a cliff in pale blue sheets. Sunlight passed through the upper ice and broke into scattered reflections across the snow below.
+
+Halfway up the frozen face, a glint appeared.
+
+Then it vanished.
+
+Velen pointed.
+
+“There.”
+
+Brunti saw a dark interruption within the ice, high above any place they could stand safely. A thin pale line ran upward from it, but air bubbles distorted the line and broke its course into separate pieces.
+
+“An object?” Velen asked.
+
+“Perhaps,” Enna said.
+
+Brunti followed the ridges of the waterfall with her eyes. Several offered brief footholds, but each ended against slick vertical ice. The glint returned as the sun passed through a clearer fold.
+
+“It could be a shard of stone,” she said.
+
+“Or a relic,” Velen answered.
+
+“Or something that will look entirely different from near enough to fall.”
+
+The guide gave her a sideways glance.
+
+“A welcome observation.”
+
+Old songs spoke of an unnamed thing trapped halfway up the cascade. Some travelers carried tools designed to reach it. None of the songs agreed on what the object was.
+
+They stayed below.
+
+Brunti sketched the position of the glint and the shape of the frozen folds, marking the sections that were concealed from their view. When the light shifted again, the dark interruption looked almost like a hand curled around a narrow shaft.
+
+She knew how easily a person could mistake a likeness for a message.
+
+On the page she wrote: *shape unresolved*.
+
+The cascade stood silent behind them when they left. It had shown them a glint and asked nothing more.
+
+***
+
+The Frostforged Vault lay on a different route again, behind an old shoulder of the valley where the wind was especially sharp. Enna arranged the necessary passage through a pair of known winter stations before bringing them to the site. It was not a diversion she recommended lightly.
+
+“People expect the name to mean there's a reward for coming this far,” she said.
+
+“And isn't there?” Velen asked.
+
+“An enormous door.”
+
+“That does sound like an archivist's reward,” Brunti said.
+
+They found it at dusk.
+
+The entrance rose out of dark rock, colossal and severe. Across its sealed surface ran intricate worked patterns filled with white frost. Moonlight caught the recesses, making the door look as though someone had drawn pale veins over it.
+
+Brunti stood at the threshold.
+
+There was no visible opening. The patterns continued across the upper panels without breaking for a hinge or handle. Whatever lay within was protected by more than weight alone.
+
+A gust crossed the surrounding stones.
+
+From somewhere beyond the entrance came a low, chant-like sound. It rose and faded before a word could be distinguished.
+
+Velen listened, then took out the book.
+
+“No,” Brunti said quietly.
+
+“I wasn't going to write the words.”
+
+“Good.”
+
+Another gust scattered crystals across the ground. They gathered against the lower seam of the door, where no light passed through.
+
+“Could you open it?” Enna asked Brunti.
+
+Brunti studied the joins.
+
+“With enough time, tools, and permission to damage something I don't understand? I might make an attempt.”
+
+“And without those?”
+
+“I can look.”
+
+Enna nodded.
+
+Velen traced the worked patterns in the air.
+
+“Frostweaver hands, surely.”
+
+“That's what the craft suggests,” Brunti said. “But the door doesn't tell us what was put behind it.”
+
+She looked back at the path they had followed. The valley kept many things behind ice and stone. The chest, the cave, the seal and this enormous door were different kinds of preservation, made by different hands and for different reasons.
+
+None was a piece of a single lock that waited for her.
+
+“Let's go,” she said.
+
+The wind carried the faint sound once more as they turned, a syllable that never became a sentence.
+
+***
+
+They saw Skyreach Peak from a rise several journeys later, as morning cloud opened above the highest ridges.
+
+For a few breaths the white summit stood clear above every other mountain in Frostwind. Below it, an ascending path crossed a rough slope, narrow where the rock dropped sharply toward Everwinter Valley. Gusts drove powder across the exposed ledges until the trail vanished into sudden whiteness.
+
+Velen shielded their eyes.
+
+“People have climbed that?”
+
+“Some,” Enna said.
+
+“Why?”
+
+“People are curious. They also like relics.”
+
+The guide pointed to a strip of clear sky above the next icy rise. For a moment Brunti could make out the thin line of the climbing path. It looked scarcely wider than the edge of her hand.
+
+Rumors placed Frostweaver treasures near the summit. Even from where they stood, the ascent showed what it would ask of a traveler: time, judgment, and a willingness to turn back before the mountain made that decision for them.
+
+Brunti felt an old familiar urge to stand where no one else could, to come down carrying the one thing that would settle every uncertainty.
+
+Then a small movement caught her eye below the ridge.
+
+In a secluded hollow, something white stood very still.
+
+At first she thought it was a piece of ice set upright among low trees. Then it lowered its head, and a crown of antlers answered the sunlight with tiny blue points.
+
+A stag.
+
+Its coat was alabaster pale, and frost crystals shone along its ethereal antlers. An azure arrow trembled in its flank. With each difficult breath, the shaft shifted and shed faint blue light across the fur.
+
+The stag held its head high. One foreleg quivered.
+
+Brunti forgot the summit.
+
+She began down the slope carefully, keeping far enough to avoid startling the animal. Velen followed, and Enna took the longer side of the hollow to see whether another creature or hunter might be nearby.
+
+The stag watched them approach.
+
+Its eyes were dark and steady. A cloud of breath gathered at its muzzle, then thinned into the still air. When it turned its head toward Brunti, the arrow moved and its foreleg trembled again.
+
+“Don't touch the shaft,” Enna said softly.
+
+“I wasn't going to.”
+
+Brunti had repaired enough broken mineral joints to know that an object lodged in living matter could be doing harm and still be dangerous to pull free. She had no knowledge of what the blue, half-translucent arrow was made of or what its removal would demand.
+
+“Can you help it?” Velen asked.
+
+“I can help with the wind.”
+
+The hollow was sheltered on one side but open toward the north. A line of flat stones lay beneath the snow, fallen from an older wall. Brunti lifted several and arranged them a short distance from the stag, making a low barrier against the gust that swept into the hollow. She tested each stone before setting the next, careful not to let the structure shift toward the animal.
+
+The stag watched.
+
+When the barrier was complete, the next wind struck the stones rather than its injured flank. It breathed a little more evenly, though the arrow remained and the trembling had not ceased.
+
+Enna returned with news of a winter caretaker's station lower along the ridge.
+
+“They tend animals in hard weather,” she said. “I can send someone with more knowledge than we have.”
+
+“Go,” Brunti replied.
+
+“Will you be safe here?”
+
+“We're below the worst of the wind. We can keep watch without approaching.”
+
+Enna left them with the route markers and a clear promise to return with help. Brunti sat on a stone beyond the stag's reach. Velen took a place on the other side of the hollow and kept their lantern shaded.
+
+The animal did not lie down immediately. It shifted one hoof, took a careful breath, and looked from the two travelers to the open slope.
+
+After a while it lowered its head.
+
+It chose its own resting place behind the barrier.
+
+The daylight faded slowly. Brunti watched the azure arrow answer each difficult breath with a little pulse of light. There were legends of blessings bestowed by the Spirit Stag, but no blessing came. No wound closed, no hidden path appeared beneath the snow.
+
+There was only a living being who had been hurt and the chance to keep the cold from reaching it quite so fiercely.
+
+Velen sat quietly for a long time.
+
+“We could have reached the higher ascent before dark,” they said at last.
+
+“Yes.”
+
+“Perhaps seen the summit itself.”
+
+“Yes.”
+
+“Do you regret it?”
+
+Brunti looked at the stag.
+
+“No.”
+
+After nightfall Enna returned with a caretaker who knew how to approach frightened mountain animals. The woman examined the arrow from a safe distance, studied the stag's breathing, and took her time before moving nearer. Brunti did not interrupt or offer a warrior's solution.
+
+The caretaker asked them to hold the lantern steady and to leave the animal room.
+
+They did.
+
+Whatever remedy the wound required would not be completed by midnight. The caretaker settled in to watch, and the stag remained alert but quieter in the shelter of the stones. Enna arranged for Brunti and Velen to rest at the nearby station and to receive word by morning.
+
+They left without claiming to have healed it.
+
+At dawn the caretaker reported that the stag had survived the night, was taking water, and was still under careful observation. The arrow remained an uncertain matter, and the local keepers would continue the work.
+
+Brunti thanked her.
+
+No one called it a miracle. It was enough that someone would stay.
+
+***
+
+The inquiry for Jorvald took longer than Velen had hoped.
+
+At the next winter station they found a record of an older scholar passing through several days earlier. Another messenger had seen him near the ruined grounds beyond the eastward ridge. The route was open but indirect, and Enna insisted on waiting for weather that would allow them to return.
+
+Velen grew impatient.
+
+“Every time we come near him, his name moves farther north.”
+
+“It's a name,” Brunti said. “He may be going somewhere.”
+
+“He could leave a schedule.”
+
+“He may not know you're coming.”
+
+“He might suspect.”
+
+“Do you often suspect strangers are following your research?”
+
+Velen did not answer.
+
+They reached the grounds after another careful journey through snow that had frozen into hard shallow ridges. Beyond a low broken wall stood a scatter of ancient stones and a row of weathered shelves protected by temporary cloth. The place had the appearance of someone making an archive out of ruins because the ruins had refused to become a room.
+
+Books lay open upon flat rocks.
+
+Scrolls were spread among them, held down with small weights. The edges of several pages had been repaired so neatly that Brunti recognized a patient hand at once.
+
+A figure stood over the writings in deep blue robes. Silver patterns spread across the fabric like branching frost.
+
+As they approached, one loose scroll stirred beside the scholar's feet.
+
+His hand rose.
+
+“Halt.”
+
+Velen stopped so suddenly that their pack swung forward.
+
+Jorvald's ice-blue eyes moved from the open books to the three visitors. He drew the loose scroll back with a careful foot and kept his raised hand steady.
+
+“What brings you to these grounds,” he asked, “knowledge, or something more?”
+
+Brunti glanced at Velen.
+
+“Both,” they said.
+
+The scholar looked unimpressed.
+
+“That's usually the answer.”
+
+Enna remained at the edge of the shelter, ready to keep watch on the route. Brunti and Velen stepped closer only when Jorvald lowered his hand.
+
+“We came from the southern post,” Velen said. “We have copies of markings from Everwinter Cave, and observations of the Knowledge Seal.”
+
+“Copies?”
+
+“Yes.”
+
+“Of what was visible?”
+
+Velen hesitated.
+
+“Of what was visible.”
+
+The scholar's gaze sharpened, and for the first time he seemed interested.
+
+“Show me.”
+
+They spread the pages on a dry stone. Jorvald examined the cave drawings carefully. He did not touch the margins or the shaded sections. His finger moved from one rune to another, pausing where the line vanished beneath the recorded clouding of the ice.
+
+“You've left a great deal blank,” he said.
+
+“It was blank to us,” Velen replied.
+
+“Good.”
+
+Velen's shoulders relaxed.
+
+Jorvald compared a narrow curved mark to a sign on one of his own scrolls.
+
+“This could be a damaged form of a written measure. Or a different sign with the same shape. I cannot tell without more of the sequence.”
+
+“Can you read any of it?” Brunti asked.
+
+“Not enough to promise a translation. Some marks resemble those used in the old palace tablets, but resemblance isn't identity.”
+
+He moved to the Knowledge Seal drawing.
+
+“These are better observed.”
+
+“Do you know what they mean?”
+
+“Some of their relations are known. The light passing through the crystal can carry sensation as well as visible form. To one visitor a sequence may seem like movement; to another it may seem like depth or a change in pressure. An impression is not a sentence simply because it feels deliberate.”
+
+Velen looked down at their notes about the cold direction Brunti had sensed.
+
+“Then how do you preserve it?”
+
+“You say who perceived it. You say when. You do not erase the uncertainty.”
+
+Jorvald moved aside to protect the open books from a gust. Brunti watched the action with respect. The scholar cared for old materials as a craftsperson cared for structures under strain, but he did not speak as though he could rebuild every loss.
+
+“And the Nekalos Mechanism?” she asked.
+
+Jorvald rested his hand on the nearest scroll.
+
+“What of it?”
+
+“Kaldric cried its name. We saw Lyria of Nekalos. The Shattered Seer still carries pieces of what she once spoke. Do these things belong to the same event?”
+
+“They belong to this valley's history,” Jorvald said. “Whether they were broken by one event, several, or stories told afterward is not something those appearances settle.”
+
+“The old accounts say the Mechanism was a mistake,” Velen replied.
+
+“Some accounts call it that.”
+
+“Do you agree?”
+
+“I agree that regret survives. It does not tell us exactly what happened.”
+
+For a moment Jorvald seemed older than the ruins around him.
+
+Brunti took out her letter from Darrik and the copy of the Aetherion restoration sketch.
+
+“This is the other reason we came.”
+
+She showed him the lines where two separate seats lay beneath a shared casing, then explained the old memorial wall, her metal brace, the two overlapping rhythms and the unsafe resonance that had reached a resting chamber.
+
+Jorvald listened without interrupting.
+
+When she had finished, he studied the drawing.
+
+“These are Grimnir marks?”
+
+“Yes.”
+
+“I know enough of their craft to recognize a structural join. Not enough to tell you whose memorials were placed beneath it.”
+
+“We believe there were two.”
+
+“You have evidence for two positions. That is not yet the same as knowing who occupied them.”
+
+“Could a Frostweaver method help us listen through the overlap?”
+
+“Perhaps a method exists that you could adapt,” he said. “But I have not seen evidence of one that would do this work safely.”
+
+Brunti waited.
+
+Jorvald looked directly at her.
+
+“I cannot give you a lost portion of your own history because this valley has lost portions of another.”
+
+The words were not unkind.
+
+They ended a hope she had carried through too many places.
+
+For a little while no one spoke. The wind moved the corner of a book, and Jorvald steadied it with one small weight.
+
+Velen broke the silence.
+
+“If we brought you every page we've copied, could you reconstruct the whole Frostweaver account?”
+
+“No.”
+
+“Even if the signs agreed?”
+
+“Agreement may come from several people copying the same error.”
+
+“And if a ghost repeated a name?”
+
+“A name is not a history.”
+
+Velen closed the last page.
+
+Brunti looked at Darrik's letter.
+
+The old steward had given her a deadline and a safe path home. The troubled wall was isolated; no one depended upon the damaged structure for sleep. At the next communal convergence the unsafe support would be replaced, and the memorial would be transferred intact to a protected archive. Her journey had begun because she feared the transfer would silence what the stones preserved.
+
+She had come so far to prove there was another way.
+
+Now she understood that the practical part of Darrik's answer had never been her enemy.
+
+“I can tell him to proceed,” she said.
+
+Velen looked at her.
+
+“With the transfer?”
+
+“With the safe transfer. Preserve both stones. Do not force them to sound together in the resting chamber.”
+
+“And the old identities?”
+
+“I'll bring the drawing. We can compare the toolmarks on the actual casing when we're home. If we find evidence, we give each stone its proper place in the record. If we don't, we mark what remains unknown.”
+
+Jorvald nodded once.
+
+“Then your journey has taught you something.”
+
+Brunti nearly smiled.
+
+“Mostly what not to claim.”
+
+“An expensive lesson,” Enna observed from the doorway.
+
+“Very,” Brunti said.
+
+She folded the letter, then opened it again.
+
+There was work to do before the ink could be sent home.
+
+***
+
+They remained at the scholar's shelter long enough for Velen to make a clean copy of the cave and seal observations. Jorvald corrected two superficial errors of spacing, identified one mark as too damaged to compare, and supplied the title of an archive catalogue they could consult at a larger station.
+
+He did not offer to accompany them. He did not ask for their approval of his restraint. The next visitor, he said, would bring a different question, and the documents deserved to be ready.
+
+Before leaving, Brunti asked one more thing.
+
+“Do you think the Seer can be restored?”
+
+Jorvald's eyes moved to the mountains beyond the ruined wall.
+
+“Some traditions say her fragments retain what is needed. That doesn't tell me how to put her together, or whether she would choose the form we imagined for her.”
+
+Brunti remembered the lifted hand that had never become an arm.
+
+“Then I hope someone learns to ask her.”
+
+The scholar said nothing. He returned to his books.
+
+At the southern relay station, Brunti wrote to Darrik.
+
+She told him what Aetherion's partial drawing showed. She described the paired seats and the missing inscription. She admitted that the Frostweaver records offered no verified repair and no reason to postpone a safe transfer. She asked the stewards to conserve the pieces separately identifiable if possible, to keep their origin evidence with them, and to leave room for later testimony without allowing any unproved interpretation into the active structure.
+
+She did not call the transfer a defeat.
+
+Velen read the letter once.
+
+“You sound like someone I know,” they said.
+
+“Darrik?”
+
+“Yourself. A little older.”
+
+Brunti sealed the page and gave it to the station courier, who carried messages south toward the trading routes. The courier could not promise delivery before the convergence, but the steward's existing plan required no further permission from her. Her note was a statement of support, not a last-minute attempt to direct work from a distant valley.
+
+The practical journey could end.
+
+They had enough provisions for the first stages home, a cautious route from Enna, and a packet of records that could be checked without trusting a ghost or a singing stone.
+
+That evening a different courier arrived from the western roads.
+
+He carried a small bundle of letters whose coverings had softened from repeated handling at relay stations. One bore Sira's mark.
+
+Brunti recognized it before the courier spoke.
+
+The message was old enough to have crossed several hands. Sira wrote from a caravan serving displaced families west of the valley. She had followed reports of children separated during the movements after the raids. Most had been accounted for in the shelters to which they had been sent.
+
+One had not.
+
+A young Verdani child, small enough to be overlooked among the traveling wagons, had last been seen carrying a walking stick made for an adult. A later report placed someone answering that description near the border of Keldor. Sira did not claim the reports proved the same child had reached the forest, or that the child was still there.
+
+She did ask for help finding out.
+
+The letter had passed through a western relief camp, then a trade station, then the winter relay network. Its delay was written in the dates of its stamps. It had not found Brunti by magic or chance alone; earlier, Velen had left their forwarding stations with Aksa's couriers so that news could catch up when it could.
+
+Brunti read the letter a second time.
+
+Velen watched her across the table.
+
+“We could go home,” they said.
+
+“Yes.”
+
+“We have what we came for, or enough to stop looking for what doesn't exist in our notes.”
+
+“Yes.”
+
+“Darrik can keep the resting chamber safe.”
+
+“He can.”
+
+The station stove clicked as its metal sides cooled. Outside, wind moved snow along the lower path, but the sky was clearing.
+
+Brunti turned the letter over. Sira had written no plea about old secrets or missing treasure. She had given names of caravan stations, witness gaps, and the little detail of a walking stick.
+
+It was almost nothing.
+
+It was enough to begin asking the right people.
+
+“First,” Brunti said, “we learn which of these reports is still current.”
+
+Velen considered.
+
+“And then?”
+
+“If there's a child who needs help, we go where the living witnesses are.”
+
+She folded Sira's letter and laid it beside the copy of her own message home.
+
+One journey had begun because a wall could not carry two old rhythms safely.
+
+Another might begin because a child had not reached the place where someone waited for them.
+
+They were not the same kind of unfinished story.
+
+Brunti kept the letters separate.
