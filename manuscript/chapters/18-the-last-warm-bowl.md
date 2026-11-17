@@ -248,11 +248,11 @@ Velen looked at the map, where the eastern line passed among several pale, open 
 
 She opened a page tucked into the ledger's cover. The account was written in a hurried hand and signed by a courier who had carried provisions from the valley.
 
-“The courier saw the creature rise out of a snowdrift. White fur, shoulders higher than the bank around it. Sapphire eyes. It stood still until he mistook it for an accumulation of snow, then lifted its head.”
+“The courier saw two blue eyes before he could make out anything else. Then the creature rose out of a snowdrift, snow sliding from its white shoulders. Its ears turned toward the far slopes, and its breath showed as a pale cloud. The courier had mistaken its body for an accumulation of snow until it moved.”
 
 Aksa spoke without trying to make the event more frightening than the writer had found it.
 
-“It turned toward his sled and gave a low howl. When the sound reached the far ridge, it bared its teeth. The courier was already withdrawing. He told me its paws were wide apart, planted as though it meant to hold that ground.”
+“It turned toward the open valley and gave a deep, commanding howl. The sound reached the far ridge and came back thin as an echo. Then it bared its long teeth. The courier was already withdrawing. He told me its paws sank deeper into the snow, planted as though it meant to hold that ground, while its blue eyes remained perfectly still.”
 
 “Was he attacked?” Brunti asked.
 
