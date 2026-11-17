@@ -526,7 +526,7 @@ The keeper looked at Velen.
 
 Ordo disappeared behind a stack of jars. Brunti looked along the shelves. A thin band of dark metal lay between a broken chime and a carved stone stopper. Along its edge ran two shallow seats, one beside the other, beneath a joined strip.
 
-For a moment she stopped breathing in the old, instinctive way people did when they saw something that mattered.
+For a moment she stood perfectly still, the way she did when a piece of craftwork demanded her whole attention.
 
 The old drawing from Aetherion showed two positions beneath a shared casing. So did this fitting.
 
