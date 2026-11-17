@@ -1,6 +1,6 @@
 # Story structure — working plan
 
-The earlier five-movement sketch has developed into a **proposed, unapproved 30-chapter architecture**. The definitive working references are [Outline v1](OUTLINE_V1.md), the [203-encounter placement matrix](PLACEMENT_MATRIX.md) and the [scene-level literary survey](LITERARY_SURVEY.md).
+The earlier five-movement sketch has developed into a **proposed, unapproved 30-chapter architecture**. The latest working narrative references are [Story spine](STORY_SPINE.md), [Character arcs](CHARACTER_ARCS.md) and [Causal chain](CAUSAL_CHAIN.md). The historical [Outline v1](OUTLINE_V1.md) still identifies all 30 chapter groups, and the [203-encounter placement matrix](PLACEMENT_MATRIX.md) remains the source-ID placement ledger. See also the [literary survey](LITERARY_SURVEY.md).
 
 | Movement | Chapters | Role |
 | --- | --- | --- |
@@ -10,4 +10,4 @@ The earlier five-movement sketch has developed into a **proposed, unapproved 30-
 | IV — The Blackwood Descent | 21–27 | Keldor's threatened inhabitants, descent, Silent Throne, healer's vigil |
 | V — The Returning Note | 28–30 | Mortality, an ethical return to community, earned personal growth |
 
-**Status:** 203 unique primary placements are **proposals**. No scene brief is approved, no manuscript chapter exists, and the source atlas intentionally still calls each original record Unplaced in the *approved/drafted* sense. Proposed geography and causal links have not undergone a full lore-by-lore continuity audit.
+**Status:** 203 unique primary placements are **proposals**. No scene brief is approved, no manuscript chapter exists, and the source atlas intentionally still calls each original record Unplaced in the *approved/drafted* sense. The new chapter causality is authored as a working plan, not fully audited against all geography, dates and lore; no manuscript chapters have been drafted.

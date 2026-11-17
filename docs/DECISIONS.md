@@ -24,3 +24,11 @@ An AI-generated proposal requires Babuni's creative approval; its presence in fi
 ## 17 November 2026 — proposed story architecture (not approved)
 
 ChatGPT (**GPT-6**) drafted [30 chapter briefs](../story/OUTLINE_V1.md) and [one primary placement](../story/PLACEMENT_MATRIX.md) for each of 203 encounter IDs. A broken Skyland memory-stone rhythm, the witness-gathering motive, the possible ending built around safeguarding contradictory stories and the division of the journey into five movements are **new AI-assisted fiction proposals**, not decisions or canonical facts. The human direction to include all encounters, permit reports from other travelers and work in stages is unchanged.
+
+## 17 November 2026 — delegated working-fiction direction
+
+In the subsequent conversation, Babuni explicitly told ChatGPT to make the next creative choices and proceed with the story. This delegates **literary drafting choices**, not amendments to the canonical MorkahjaWorld repository or a claim that each beat sheet has been independently reviewed. ChatGPT (**GPT-6**) selected the [current story spine](../story/STORY_SPINE.md), [cast and character arcs](../story/CHARACTER_ARCS.md) and [30-chapter causal chain](../story/CAUSAL_CHAIN.md).
+
+Working fiction choices: Brunti causes a local resonance safety problem while bracing a composite memorial panel. Darrik is a conscientious Grimnir building steward, Sira a novel-named extension of the source Bloomwalker, and Velen an original Aevis archivist. The locally recoverable memorial identities are Tavra and Dorrun, two original deceased Grimnir. The ending safely rehouses both memorials rather than forcing their old voices into a single rhythm. The Blackwood/Atranor/Ravage mysteries remain governed by established lore, and the plot cannot imply a new universal magical cause.
+
+**Approval distinction:** Creative drafting is authorized and the working direction is selected; this is **not** an independent human line edit, canonical ratification, finished chapter or release approval. The user's original creative brief and world authorship remain credited to Babuni.

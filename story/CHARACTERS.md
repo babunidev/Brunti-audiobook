@@ -23,6 +23,11 @@ Brunti might know how a flaw in forged metal feels under her fingertips and stil
 
 No named parents, childhood events, bonds, battle scars or personal memories are canonically established for this portrait entry. Any such details must be approved or clearly treated as literary fiction.
 
-## Supporting cast — not selected
+## Supporting cast — original foundation status, now superseded
 
-Characters encountered in source scenes and the [world people index](https://github.com/babunidev/MorkahjaWorld/blob/f56a7c3d2034652e1c5961f0ece9c3ef52b52b48/People/People_Index.md) can become witnesses, companions or storytellers after close reading. Do not fix a companion, antagonist, romantic interest or mentor before their narrative function and lore support have been examined.
+Characters encountered in source scenes and the [world people index](https://github.com/babunidev/MorkahjaWorld/blob/f56a7c3d2034652e1c5961f0ece9c3ef52b52b48/People/People_Index.md) can become witnesses, companions or storytellers after close reading. At the initial foundation stage, no companion, antagonist or romance was selected. With delegated authorship, the [working character arcs](CHARACTER_ARCS.md) now select Darrik, Sira and Velen for specified literary functions. These names and biographies remain novel inventions, **not** additions to MorkahjaWorld canon.
+
+
+## Current adaptation cast
+
+The [character arcs](CHARACTER_ARCS.md) define the selected original supporting company and its relationship dynamics. **Brunti's source identity in this file remains unchanged.**

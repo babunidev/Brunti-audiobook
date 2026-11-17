@@ -23,3 +23,12 @@ No manuscript chapters, audio files, source game content, established lore or de
 - Compared the initial encounter snapshot with the newer game main: 19 `mEncounterText` changes, no other changes, 203 encounter IDs retained.
 - Added a reconciliation record and updated literary proposal references, including the Enigmatic Prairies narrative cue.
 - Left original atlas history and game-world repositories untouched.
+
+## 2026-11-17 — Select working story spine
+
+- Created `story/STORY_SPINE.md` to establish Brunti's outward task, inward arc, local memorial mystery, concrete stakes, Blackwood relapse and final repair.
+- Created `story/CHARACTER_ARCS.md` for Darrik, Sira, Velen, Brunti and the distinct deceased memorial identities.
+- Created `story/CAUSAL_CHAIN.md` to connect 30 existing chapter groups through specific decisions and consequences.
+- Updated README, roadmap, story pointers and documentation to separate delegated audiobook fiction from canonical Morkahja lore or completed prose.
+
+No game source, world-lore repository, manuscript chapter, recording or production artifact changed.

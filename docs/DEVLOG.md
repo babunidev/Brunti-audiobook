@@ -21,3 +21,11 @@ This is **planning**, not human approval, completed close prose editing, manuscr
 ### Later game-source reconciliation, same day
 
 The game `main` had advanced beyond the content revision originally pinned for the atlas. ChatGPT (**GPT-6**) compared both full encounter JSON objects by encounter ID and per-field values: **203 IDs remained; 19 descriptions had changed; no other fields changed**. The changed Enigmatic Prairies prose specifically moved away from a vague prairie treasure rumor to a musical stone image, so the novel's proposed hook was corrected. The [source comparison record](SOURCE_RECONCILIATION.md) names the commits, blob IDs and affected records. This is source-review verification, not an editorial acceptance test of final book prose.
+
+## 17 November 2026 — choosing the novel's Story Spine
+
+After the 203-encounter placement work, the next challenge in my audiobook project was to give the journey a credible source of pressure and a personal ending. Creative drafting choices were explicitly delegated to ChatGPT at this stage, without changing who owns the underlying world and its established lore.
+
+ChatGPT (**GPT-6**) reviewed the Grimnir source culture, Skyland architecture, memory stones, Evergrove, Keldor, Blackwood, the Ravage and Divine Laws, along with the first 30-chapter structure. The AI authored [Story Spine](../story/STORY_SPINE.md), [Character Arcs](../story/CHARACTER_ARCS.md) and [Causal Chain](../story/CAUSAL_CHAIN.md). The selected novel premise gives the opening resonance anomaly an accountable **local** craft explanation (two deceased people's memorial stones under an old shared casing) and separate, legitimate safety and preservation duties. Sira extends the source Bloomwalker as a fictional recurring character; Darrik and Velen are original.
+
+The resulting ending keeps the identities of two separate memorials without compromising the safety of living Grimnir. The Blackwood descent remains a grave, unreliable encounter, not a universal explanation for Morkahja's mysteries. These files are **documented creative drafting**, not reviewed manuscript prose, game lore changes, source-edit verification or audiobook output. Additional per-scene and travel-continuity checks remain outstanding.

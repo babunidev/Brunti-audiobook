@@ -1,6 +1,6 @@
 # Brunti — thirty-chapter plot architecture, proposal v1
 
-**Status:** Proposed and unapproved, not a manuscript. The chapter count, story premise, supporting characters, chronology and ending are all open to creative revision. The narrative must never contradict established [MorkahjaWorld](../docs/SOURCES.md) lore.
+**Status:** Original source-placement outline **v1**, kept for historical traceability. Its working plot is superseded and refined by the [story spine](STORY_SPINE.md), [character arcs](CHARACTER_ARCS.md) and [30-chapter causal chain](CAUSAL_CHAIN.md). This remains a chapter inventory, not manuscript prose. The chapter count, story premise, supporting characters, chronology and ending are all open to creative revision. The narrative must never contradict established [MorkahjaWorld](../docs/SOURCES.md) lore.
 
 ## Premise
 
@@ -235,7 +235,7 @@ A quiet coda reveals growth through action instead of a literal level-up, and le
 
 ## Dramatic relationships and limits
 
-Brunti begins with confidence in craft and martial defense. The journey confronts her with lives that require food, listening, protection of a sanctuary, and the right to leave a mystery unresolved. **An elder, companion, antagonist or romantic plot has not yet been selected.** Source figures—Frostbite Fergus, Jorvald, Kaldric, Lyria, Grimnir rebels, Verdani healers and travelers—retain their source roles; additional biographies or changed actions are fictional proposals only.
+Brunti begins with confidence in craft and martial defense. The journey confronts her with lives that require food, listening, protection of a sanctuary, and the right to leave a mystery unresolved. **Historical v1 note:** At the time of this outline no companions had been chosen; the [current cast](CHARACTER_ARCS.md) now selects a working company for the audiobook. Source figures—Frostbite Fergus, Jorvald, Kaldric, Lyria, Grimnir rebels, Verdani healers and travelers—retain their source roles; additional biographies or changed actions are fictional proposals only.
 
 The notional route is Skylands → Vale/Eldertree → Aetherion and Evergrove → accounts from elsewhere → Ohgar/Karrhu → Frostwind/Everwinter → Keldor → Blackwood → return. **No travel times, fixed roads or teleports are asserted.** Testimony and archives deliberately carry geographically remote events without forcing Brunti to visit every source location.
 

@@ -8,7 +8,7 @@
 - [x] Index the **203 distinct encounter IDs** and preliminary metadata categories.
 - [x] Perform a first scene-level literary survey of the 203 encounters and review key lore constraints.
 - [ ] Complete a detailed paragraph-by-paragraph check of encounter prose and relevant canonical entries for each planned scene.
-- [ ] Approve the book's central premise.
+- [x] Select a concrete working central premise and resolution for literary drafting under delegated creative authority (17 November 2026); not new Morkahja canon.
 
 ## Stage 2 — plot and chapter architecture (proposal committed)
 
@@ -16,8 +16,10 @@
 - [x] Keep Blackwood, Everwinter, Hearth, Nereval follow chains and the seven engraved letters intact in the proposed outline.
 - [x] Produce a provisional five-movement, 30-chapter architecture with a high-level geographic itinerary.
 - [x] Reconcile the newer game prose snapshot: 19 text-only changes; no changed encounter IDs.
-- [ ] Validate detailed geography, chronology, supporting cast, scene consequences and causality against all relevant lore.
-- [ ] Obtain creative approval of central conflict, ending, movements and chapter briefs; current plot is an AI proposal.
+- [x] Draft the character arcs, non-villain opposing pressures, local craft mystery and a 30-chapter [causal chain](story/CAUSAL_CHAIN.md).
+- [ ] Validate full geography, chronology, supporting cast, scene consequences and causality against all relevant lore.
+- [x] Select a **working** central conflict and ending under Babuni's explicit delegation to ChatGPT; documented as authored novel fiction, not game canon.
+- [ ] Complete human editorial ratification of the chapter-by-chapter beat sheets, source fidelity and setting continuity before final manuscript status.
 
 ## Stage 3 — novel manuscript (not started)
 

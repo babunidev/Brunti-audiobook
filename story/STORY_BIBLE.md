@@ -1,6 +1,6 @@
 # Brunti — working story bible
 
-**Status: unapproved literary proposal.** The source roots below are canonical; the plot direction is not.
+**Status: historical working story bible.** Its original possibilities are preserved for traceability; the **current selected drafting direction** is the [story spine](STORY_SPINE.md), [character arcs](CHARACTER_ARCS.md), and [causal chain](CAUSAL_CHAIN.md). None alters world canon.
 
 ## Narrative promise
 
@@ -24,10 +24,14 @@ A memory-stone in Brunti's Skyland begins to sound a broken rhythm no craftspers
 
 Brunti is competent with her hands and direct in a fight, but less certain when testimony disagrees or an enemy is also a person in need. The adventure may challenge the idea that every danger must be defeated and every mystery exposed. Resonance, memory, movement, listening, hospitality and thresholds can connect otherwise distant encounters.
 
-## Unresolved
+## Unresolved at the initial foundation (historical status)
 
-The protagonist's family, exact age, defining relationships, companion characters, antagonist, chronology, actual inciting incident, climax, ending and final title remain undecided. The five movements in [STRUCTURE](STRUCTURE.md) are a scaffold, not a committed outline.
+At the original foundation stage, the protagonist's family, exact age, defining relationships, companion characters, antagonist, chronology, actual inciting incident, climax, ending and final title had not been selected. Some now have **working fiction choices** in the [story spine](STORY_SPINE.md) and [character arcs](CHARACTER_ARCS.md). Final title, precise age, complete chronology and novel-to-canon status remain open. The five movements in [STRUCTURE](STRUCTURE.md) are a scaffold, not a committed outline.
 
 ## 17 November 2026 — story architecture proposal
 
 The [30-chapter outline](OUTLINE_V1.md) tests the provisional broken-memory-stone idea against the Vale, Aetherion's speaking archive, the Ravage's consequences, Everwinter's layered testimony and the canonical Blackwood chain. The protagonist's potential return would preserve incompatible accounts rather than manufacture a universal explanation. This is **unapproved original fiction**, not an established history of the Skylands, an explanation of Keldor's curse or a decision about the Pantheon. See the [203-source placement proposal](PLACEMENT_MATRIX.md) and [literary survey](LITERARY_SURVEY.md).
+
+## 17 November 2026 — selected writing direction under delegation
+
+The [story spine](STORY_SPINE.md) specifies a **local** composite-memorial craft problem rather than a universal magical signal. Darrik is the home craft-steward, Sira a novel-named adaptation of the Verdani Bloomwalker (20186), and Velen an original Aevis archivist. Brunti's final repair will preserve the separately identified echoes of the fictional deceased Grimnir Tavra and Dorrun in an accessible archive while keeping the resting chambers safe. Keldor remains unexplained, and Brunti's entry into the abyss is a serious choice with consequences, not a reward for quest completion. This is selected novel fiction and remains outside the world's canonical record.
