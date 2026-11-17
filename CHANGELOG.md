@@ -162,3 +162,12 @@ Current state: **9 first-draft chapters, 31,741 words, 72 encounter IDs adapted,
 - Added [Chapter 16 review](docs/CHAPTER_16_REVIEW.md), source-diff addendum, and updated manuscript index, 203-ID matrix, scene continuity, roadmap, decisions, creative journal and change log.
 
 **Current:** **16 literary first-draft chapters / 68,125 words including headings / 119 source IDs adapted / 84 planned / 0 independently editorial-verified**. No audio release or Morkahja game/world canon edits.
+
+## 2026-11-17 — Draft Chapter 17 and reconcile the latest game prose
+
+- Added [Chapter 17 — The Mountain Has a Voice](manuscript/chapters/17-the-mountain-has-a-voice.md) as **4,639-word first-draft novel prose**, adapting its **11 assigned encounter IDs** as distinct direct scenes.
+- Added [Chapter 17 source and continuity review](docs/CHAPTER_17_REVIEW.md); documented the unresolved Sarga route, preserved Sira's departure, and kept the mountain's apparent voices, monuments and objects free of invented canonical answers.
+- Compared all 203 game records at `92cd8dc140c5` to `525d26bc8b4d`. Exactly four `mEncounterText` fields changed (20104–20107), with 20105 and 20106 integrated into Chapter 17 and 20104/20107 reserved for future chapters.
+- Updated source ledger, reconciliation, encounter matrix, manuscript index, roadmap and development records. Project totals: **17 draft chapters / 72,764 words including headings / 130 drafted encounters / 73 planned**.
+
+All chapter prose remains AI-assisted first draft under Babuni's creative direction. No game or world lore was altered, no independent literary approval occurred, and no audio has been produced.
