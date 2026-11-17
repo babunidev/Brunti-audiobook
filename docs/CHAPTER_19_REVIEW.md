@@ -1,6 +1,6 @@
 # Chapter 19 — Ice That Remembers: source and continuity review
 
-**Date:** 17 November 2026. **Status:** [Chapter 19](../manuscript/chapters/19-ice-that-remembers.md) is **4,533 words including heading**, written as first-draft novel prose by **ChatGPT GPT-6** under Babuni's existing creative delegation. This review is internal source/continuity checking, **not independent human literary approval, game/world canon, narrated audio or publication**.
+**Date:** 17 November 2026. **Status:** [Chapter 19](../manuscript/chapters/19-ice-that-remembers.md) is **4,643 words including heading** after the Chapter 23 source refresh (original draft 4,533 words), written as first-draft novel prose by **ChatGPT GPT-6** under Babuni's existing creative delegation. This review is internal source/continuity checking, **not independent human literary approval, game/world canon, narrated audio or publication**.
 
 ## Primary encounter verification
 
@@ -38,3 +38,7 @@ A complete **203-record, all-field comparison** between game `e8fbfc67cbb4` (blo
 ## Verification and limits
 
 **Checked:** seven full current source entries; seven distinct narrative integrations in planned modes; immediate Guardian → Cave order; relevant accessible world articles; eight later source text changes and their disposition; source metadata equality; chapter lengths and coverage ledger. **Unverified:** perfect source fidelity by independent editor, full travel map and chronology, language of inscriptions, audio read-aloud quality, production rights and publication.
+
+## Chapter 23 source refresh — 17 November 2026
+
+New game `9cddb72157a5` revises **20129 Everwinter Treasurechest** and **20130 Everwinter Guardian** only in encounter prose. ChatGPT (**GPT-6**) updated the [Chapter 19](../manuscript/chapters/19-ice-that-remembers.md) lived scenes with floral scent rising from the otherwise icy warm chest, its fastened iron lock and unmelted hanging icicle, snow briefly covering then revealing radiant blue runes, and the little Guardian's opening puff of frost, independently turned oversized ears, wrinkled nose, shaggy ice-blue silhouette and brief surprise at its own squall. The **chest remains closed**; the Guardian does not need to be fought, and the **20130 → 20131 Everwinter Cave** source follow remains enacted in its original order. **Chapter 19: 4,533 → 4,643 words (+110)** with all seven source IDs unchanged. [Sixteenth source diff](SOURCE_RECONCILIATION.md), [Chapter 23 review](CHAPTER_23_REVIEW.md). The Everwinter game and world repositories were not modified; this is not an independent editorial approval.
