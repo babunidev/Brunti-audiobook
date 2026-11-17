@@ -190,13 +190,13 @@ He took a spoonful of food.
 
 For some time they listened to the people around the stove.
 
-The traveler was called Orven. He had been carrying a small casket of household keepsakes toward the family of a woman who had died on a long journey. She had been his sister.
+The traveler was called Tarnel. He had been carrying a small casket of household keepsakes toward the family of a woman who had died on a long journey. She had been his sister.
 
 He mentioned her only when someone came to ask whether a late wagon had brought another parcel from the lower stations.
 
 “Not yet,” the proprietor told him. “I'll keep a place for it.”
 
-Orven thanked him and returned to the bench.
+Tarnel thanked him and returned to the bench.
 
 The wooden case remained beneath his hand.
 
@@ -264,13 +264,13 @@ After a moment Velen said, “That would be a different kind of record.”
 
 ***
 
-Orven came inside as the rain strengthened.
+Tarnel came inside as the rain strengthened.
 
 He shook water from the hem of his cloak, set the wooden case beneath the table, and asked for warm tea. Sira returned from the covered yard, carrying a packet of names she had just received.
 
 All four found themselves at the same table.
 
-Orven noticed Velen's open notebook.
+Tarnel noticed Velen's open notebook.
 
 “Are you writing a history?”
 
@@ -286,7 +286,7 @@ Velen did not look apologetic.
 
 “That's accurate too,” they said.
 
-Orven studied her without staring.
+Tarnel studied her without staring.
 
 “My sister used to tell stories about that forest. Not because she had been inside it. She liked a place that could keep a mystery.”
 
@@ -306,7 +306,7 @@ Velen's expression changed.
 
 “Atranor?”
 
-Orven nodded.
+Tarnel nodded.
 
 “That's what she called it.”
 
@@ -318,13 +318,13 @@ Sira set down her messages.
 
 “Then it's a story with a long road behind it,” Sira said.
 
-Orven smiled faintly.
+Tarnel smiled faintly.
 
 “Yes. Perhaps longer than the one we're walking.”
 
 ***
 
-Orven's story began with a plain of black stone.
+Tarnel's story began with a plain of black stone.
 
 Not black earth or a field darkened by fire, but a polished surface without visible edge, smooth as obsidian under thin rainlight. It reflected a silver sky though no sun or moon shone above it.
 
@@ -336,7 +336,7 @@ Brunti listened.
 
 She did not picture herself standing on the stone.
 
-Orven had told them from the beginning that he was repeating a story, not opening a window.
+Tarnel had told them from the beginning that he was repeating a story, not opening a window.
 
 “In my sister's telling,” he said, “there was no wind. Yet clothes and hair moved as though the whole realm breathed very slowly.”
 
@@ -346,7 +346,7 @@ He lifted a hand to show the movement.
 
 The rain tapped steadily on the roof.
 
-Orven paused to warm his hands around his cup.
+Tarnel paused to warm his hands around his cup.
 
 “In the distance stood pillars larger than mountains. Above them floated pieces of impossible country. A forest hung upside down with its roots open to the heavens. Waterfalls rose instead of falling. Islands drifted wrapped in fire and loose stone. And among all that were dragons.”
 
@@ -356,7 +356,7 @@ Velen leaned forward.
 
 “That's how the story names them. Not flying, not descending in judgment. Resting.”
 
-Orven looked toward the rain.
+Tarnel looked toward the rain.
 
 “One lay along a ruined stairway. Another seemed almost part of a temple built so long ago that no one remembered its makers. Others watched from cliffs, their scales carrying different colors, like living fire, crystal, shadow and starlight.”
 
@@ -368,7 +368,7 @@ She stopped the thought before it became a statement.
 
 Two stories could share an image without sharing an origin.
 
-Orven went on.
+Tarnel went on.
 
 “The soul walked, though there was nowhere it needed to reach. Then the stone itself remembered a path. The path led toward a round platform, and above it sat the great assembly.”
 
@@ -384,7 +384,7 @@ Brunti knew that teaching.
 
 The last sustaining fragment of divine essence returned to its deity when a mortal life ended. The soul passed on as itself, carrying memory and choice. Which deity had given the last fragment differed from person to person.
 
-Orven told the next part slowly.
+Tarnel told the next part slowly.
 
 “Every kindness, every injury, every moment of cowardice and courage was there. Nothing could be hidden. The judges didn't need to accuse the soul. Its own life stood before it.”
 
@@ -392,7 +392,7 @@ Velen looked down at their notebook.
 
 “That part is often described as the realm revealing memory,” they said.
 
-Orven shrugged.
+Tarnel shrugged.
 
 “Perhaps. The way my sister said it, the plain didn't ask a question. It showed the answer to questions a person might never have known how to ask.”
 
@@ -406,7 +406,7 @@ He did not say.
 
 The story ended at the circular platform.
 
-Orven paused there.
+Tarnel paused there.
 
 “And what happened next?” Sira asked.
 
@@ -414,7 +414,7 @@ Orven paused there.
 
 Velen's pencil was already poised.
 
-Orven saw it and laughed softly.
+Tarnel saw it and laughed softly.
 
 “You should have met my sister. She would have been delighted to argue with an archivist.”
 
@@ -430,7 +430,7 @@ Orven saw it and laughed softly.
 
 “No. She corrected me on that distinction more than once.”
 
-Orven turned the wooden case beneath the table until its latch faced him.
+Tarnel turned the wooden case beneath the table until its latch faced him.
 
 “In the old teaching, if a soul isn't returned to its former life, it enters the inner realm of the god whose final essence sustained it. It remains itself there, though it joins that god's element. The soul can stay as long as it wishes.”
 
@@ -438,7 +438,7 @@ Orven turned the wooden case beneath the table until its latch faced him.
 
 “Choose another life. The gods do not keep it there against its will.”
 
-Orven spoke the next words with unusual firmness.
+Tarnel spoke the next words with unusual firmness.
 
 “Every soul has that right.”
 
@@ -450,7 +450,7 @@ Brunti looked at the little case.
 
 “Your sister believed she'd remember everything when she arrived?”
 
-Orven shook his head.
+Tarnel shook his head.
 
 “She believed a soul brought its life with it to Atranor. What it remembers in the gods' inner realms, and what any of us might know of those places, was another matter. She did not pretend to have returned with a report.”
 
@@ -468,7 +468,7 @@ Brunti could hear drops falling from the eaves one by one.
 
 “And you?”
 
-Orven looked out at the road.
+Tarnel looked out at the road.
 
 “Sometimes.”
 
@@ -476,7 +476,7 @@ Orven looked out at the road.
 
 Later the proprietor came to clear the cups.
 
-Orven helped gather them, placing the empty ones together so they would not strike one another on the tray. His movements were practiced. Brunti suspected he had kept a kitchen of his own for many years.
+Tarnel helped gather them, placing the empty ones together so they would not strike one another on the tray. His movements were practiced. Brunti suspected he had kept a kitchen of his own for many years.
 
 When the proprietor had gone, he opened the wooden case.
 
@@ -492,7 +492,7 @@ A flat stone with an uneven rim.
 
 Nothing looked like an artifact that could persuade a god.
 
-Orven lifted the thimble.
+Tarnel lifted the thimble.
 
 “My sister used to wear this when she mended a coat. She had a habit of turning it so the dent faced her palm. Said it caught the needle better.”
 
@@ -510,7 +510,7 @@ It had been made by repeated pressure, perhaps by someone pushing too hard with 
 
 Brunti smiled.
 
-Orven put the thimble back.
+Tarnel put the thimble back.
 
 “That's how I remember her most clearly. Not from the story of Atranor. From all the little things she corrected.”
 
@@ -534,7 +534,7 @@ The distinction mattered.
 
 She had once treated an old cadence as a voice trying to tell her something new. She had fitted a brace to make the two rhythms agree and nearly made the resting chamber unsafe.
 
-Orven had kept a thimble because he knew the shape of his sister's hand around it.
+Tarnel had kept a thimble because he knew the shape of his sister's hand around it.
 
 The thimble did not have to contain her.
 
@@ -542,7 +542,7 @@ The thimble did not have to contain her.
 
 When the rain stopped, the travelers left the house in separate groups.
 
-Orven joined the same northbound caravan as Brunti, Sira and Velen. He rode on the wagon ahead, his case secured in a canvas bundle beneath the seat.
+Tarnel joined the same northbound caravan as Brunti, Sira and Velen. He rode on the wagon ahead, his case secured in a canvas bundle beneath the seat.
 
 The road gradually left the edge of Keldor.
 
@@ -704,7 +704,7 @@ It was waiting in a structure they had deliberately kept safe.
 
 ***
 
-That evening Orven found Brunti beneath the shelter eaves.
+That evening Tarnel found Brunti beneath the shelter eaves.
 
 The caravan had stopped early to avoid a road damaged by recent rain. A team of workers was filling a washout with compacted stone while the drivers prepared a temporary crossing farther uphill.
 
@@ -714,7 +714,7 @@ Her left wrist rested in its brace. A few days earlier she would have stepped in
 
 Now she sat where she could see the work clearly.
 
-Orven sat beside her.
+Tarnel sat beside her.
 
 “Your companions say you have news from home.”
 
@@ -758,7 +758,7 @@ Another was chosen.
 
 The wagon crossing would hold because someone was willing to stop making the wrong stone fit.
 
-Orven followed Brunti's gaze.
+Tarnel followed Brunti's gaze.
 
 “Do you think the gods know all that will happen to us?” he asked.
 
@@ -776,7 +776,7 @@ Brunti remembered the divine laws Velen had copied in Aetherion.
 
 “If the teachings are true, especially then.”
 
-Orven was quiet.
+Tarnel was quiet.
 
 “Good,” he said.
 
