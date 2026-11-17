@@ -68,3 +68,7 @@
 - **Not performed:** Independent editorial line review, complete chapter 1–30 seasonal geography, read-aloud performance, final canonical approval, production or publication.
 
 **Current book-wide record after Chapters 5–6:** **6 prose chapters / 21,197 words including headings / 51 encounter IDs adapted into draft / 152 still planned / 0 independently editorial-verified.** See [manuscript index](../manuscript/chapters/README.md) and [progress matrix](../story/PLACEMENT_MATRIX.md). 
+
+## Later Nagar wording — 17 November 2026
+
+Game [`e826fa46d3ff`](https://github.com/babunidev/Morkahja/blob/e826fa46d3ff3f27628eec54ebfd193b597f731a/server/game/encountersdata.json) revises **20091 Nagar Berserk, 20092 Nagar Boar and 20093 Bonecrusher**, all in `mEncounterText` only. Full revised descriptions were reread. [Chapter 5](../manuscript/chapters/05-the-lives-of-the-vale.md) now lets **Mara's separate descriptive accounts** carry the Berserk's hot-vapor charge and tusks, the Nagar Boar's nostrils/hoof pressure/ready shoulders, and Bonecrusher's worn horn edges and splintered branch. No creature identity, actual visited setting or narrative mode changes. **Chapter 5 now 3,900 words** including heading, up from 3,825. Earlier numbers in the historical sections above remain snapshots rather than current book totals. See [reconciliation](SOURCE_RECONCILIATION.md).

@@ -1,6 +1,6 @@
 # Movement III — Land and Loss: scene briefs v1
 
-**Status:** working audiobook-fiction scene design; **Chapter 13 is now actual first-draft manuscript prose**; Chapters 14–20 remain planned. No canon changes. **Source baseline:** game encounter text `ad34afb686ef` (203 source IDs), following first atlas and [reconciliation](../../docs/SOURCE_RECONCILIATION.md). [Story spine](../STORY_SPINE.md) · [Matrix](../PLACEMENT_MATRIX.md) · [Continuity register](../../docs/SCENE_CONTINUITY.md).
+**Status:** working audiobook-fiction scene design; **Chapters 13–14 are now actual first-draft manuscript prose**; Chapters 15–20 remain planned. No canon changes. **Source baseline:** game encounter text `e826fa46d3ff` (203 source IDs), following first atlas and [reconciliation](../../docs/SOURCE_RECONCILIATION.md). [Story spine](../STORY_SPINE.md) · [Matrix](../PLACEMENT_MATRIX.md) · [Continuity register](../../docs/SCENE_CONTINUITY.md).
 
 The geography is intentionally **not** squeezed into one continuous afternoon. Evergrove is a Verdani desert/oasis heartland; Ohgar, Karrhu, Sarga and Frostwind are distinct lands whose exact routes and travel intervals require map checking. Corruption accounts are archive pieces, not twelve simultaneous fights.
 
@@ -56,13 +56,13 @@ Sira hears that an **earlier displaced group** traveled by ordinary oasis carava
 
 ## Chapter 14 — Words in the Sand
 
-**Opening:** After an unmeasured span of ordinary travel, Ohgar's heat asks for care before interpretation.
+**Opening:** **Brunti and Velen first return from the nearest Oasis Heart to the raided Evergrove village** with correctly measured pipe, reunite with Sira, and reopen the fourth feeder under Alen/Renn's supervision. Only after several ordinary caravan legs and mapped wells do they reach Ohgar, where heat asks for care before interpretation.
 
 **Present / source voices:** Brunti; Velen; Sira; desert guides and a young Grimnir traveler.
 
 #### 14.1 — The sound of sand
 
-A groaning granite monolith and a dangerous Skorpo mark different kinds of warning. Guides supply a grounded path through the desert.
+**Sael**, an original desert guide, holds the caravan back from groaning granite monoliths where sand enters an unknown cleft, and later leads a detour around a dangerous **dark-brown armored Skorpo**. Pincers click and the venomous tail rises; no obligatory combat or treasure chamber is invented.
 
 **Turn:** Brunti pays attention to thirst and shelter instead of treating every sound as code.
 
@@ -72,7 +72,7 @@ A groaning granite monolith and a dangerous Skorpo mark different kinds of warni
 
 #### 14.2 — The young Grimnir
 
-A young woman of mineral body falters in the open heat. Help comes first: shade, water carrying minerals and a safe resting place, not an interrogation about the memorial.
+**Nera**, a novel-only young Grimnir woman, is found following shallow dragging footprints in open dunes, her exposed mineral surface dried and cracked. Brunti, Sira, Velen and Sael provide shade, gradual mineral-rich water and a supported transfer to a station for longer recovery, not an instantaneous cure.
 
 **Turn:** Brunti's first instinct to solve can finally give way to an ordinary rescue.
 
@@ -81,14 +81,14 @@ A young woman of mineral body falters in the open heat. Help comes first: shade,
 
 #### 14.3 — The great disc
 
-At a ruined Ohgar temple the stone disc's deliberate runes remain partly unreadable. Velen documents what survives and refuses to invent the missing strokes.
+The ruined temple's great upright disc, broken columns, sheltered runes and **two matching symbols flanking an erased section** remain partly unreadable. Velen and Brunti record the surviving strokes without filling gaps or claiming a link to Vale letters or Skyland. Brunti **sends Darrik an uncertain archive update**, with no guaranteed delivery and no request to delay the safe memorial transfer.
 
 **Turn:** Brunti accepts that an inscription can be valuable even if it says nothing about her home.
 
 **Source encounters:** 
   - **20063 — Ancient Inscription** (*Lived*): weathered temple disc.
 
-**Chapter handoff:** The group's next leg crosses different terrain by established guide and caravan networks; no instantaneous jump from desert to swamp.
+**Chapter handoff:** **All three companions** take mapped caravan/bridge routes toward Karrhu's wetland approaches, with weather and crossing conditions ahead. No instantaneous jump from Ohgar's desert to Karrhu's swamp; Nera remains resting at the Ohgar station and no post-rescue fate is falsely confirmed.
 
 ## Chapter 15 — Beneath the Reeds
 

@@ -1,10 +1,10 @@
 # Encounter placements — source-to-manuscript progress matrix
 
-**Status:** **203 distinct encounters assigned, 0 omitted; 97 adapted into first-draft prose across chapters 2–13, 106 remain planned, and none is independently editorial-verified.** The game data and world archive remain authoritative for source detail. The mode is an editorial possibility: **Lived** is staged before Brunti, **Testimony** comes from another speaker, **Archive** is something Brunti learns from a record, and **Metaphor** translates a game-system label without staging that label as fiction.
+**Status:** **203 distinct encounters assigned, 0 omitted; 101 adapted into first-draft prose across chapters 2–14, 102 remain planned, and none is independently editorial-verified.** The game data and world archive remain authoritative for source detail. The mode is an editorial possibility: **Lived** is staged before Brunti, **Testimony** comes from another speaker, **Archive** is something Brunti learns from a record, and **Metaphor** translates a game-system label without staging that label as fiction.
 
-**Reviewed prose baseline:** [Morkahja encounters at ad34afb686ef](https://github.com/babunidev/Morkahja/blob/ad34afb686efa017cd43ffeccc554afb43d79b22/server/game/encountersdata.json). The first atlas was indexed from an earlier revision; [19, then 5, then 1, then 2, then 1, then 1 text-only changes were reconciled](../docs/SOURCE_RECONCILIATION.md).
+**Reviewed prose baseline:** [Morkahja encounters at e826fa46d3ff](https://github.com/babunidev/Morkahja/blob/e826fa46d3ff3f27628eec54ebfd193b597f731a/server/game/encountersdata.json). The first atlas was indexed from an earlier revision; [19, then 5, then 1, then 2, then 1, then 1, then 8 text-only changes were reconciled](../docs/SOURCE_RECONCILIATION.md).
 
-A primary placement alone is **not a claim that the scene is already in the book**. The final column identifies which encounter IDs have actually been translated into draft prose, not which have passed editorial review. See the [Chapters 1–2 review](../docs/MANUSCRIPT_REVIEW.md) and [Chapters 3–4 review](../docs/CHAPTERS_03_04_REVIEW.md), and [Chapters 5–6 review](../docs/CHAPTERS_05_06_REVIEW.md), and [Chapters 7–8 review](../docs/CHAPTERS_07_08_REVIEW.md), and [Chapter 9 review](../docs/CHAPTER_09_REVIEW.md), and [Chapter 10 review](../docs/CHAPTER_10_REVIEW.md), and [Chapter 11 review](../docs/CHAPTER_11_REVIEW.md), and [Chapter 12 review](../docs/CHAPTER_12_REVIEW.md), and [Chapter 13 review](../docs/CHAPTER_13_REVIEW.md). A location-specific encounter included as testimony does not mean Brunti traveled there. Refer to [outline](OUTLINE_V1.md), [source atlas](ENCOUNTER_ATLAS.md), and [literary survey](LITERARY_SURVEY.md).
+A primary placement alone is **not a claim that the scene is already in the book**. The final column identifies which encounter IDs have actually been translated into draft prose, not which have passed editorial review. See the [Chapters 1–2 review](../docs/MANUSCRIPT_REVIEW.md) and [Chapters 3–4 review](../docs/CHAPTERS_03_04_REVIEW.md), and [Chapters 5–6 review](../docs/CHAPTERS_05_06_REVIEW.md), and [Chapters 7–8 review](../docs/CHAPTERS_07_08_REVIEW.md), and [Chapter 9 review](../docs/CHAPTER_09_REVIEW.md), and [Chapter 10 review](../docs/CHAPTER_10_REVIEW.md), and [Chapter 11 review](../docs/CHAPTER_11_REVIEW.md), and [Chapter 12 review](../docs/CHAPTER_12_REVIEW.md), and [Chapter 13 review](../docs/CHAPTER_13_REVIEW.md), and [Chapter 14 review](../docs/CHAPTER_14_REVIEW.md). A location-specific encounter included as testimony does not mean Brunti traveled there. Refer to [outline](OUTLINE_V1.md), [source atlas](ENCOUNTER_ATLAS.md), and [literary survey](LITERARY_SURVEY.md).
 
 | ID | Encounter | Chapter | Form | Particular literary use | Manuscript status |
 | ---: | --- | --- | --- | --- | --- |
@@ -53,7 +53,7 @@ A primary placement alone is **not a claim that the scene is already in the book
 | 20032 | Rare Treasurechest | [5](OUTLINE_V1.md) | Testimony | bronze treasure in plains | **Draft v1, ch. 5** |
 | 20033 | Wild Bloodfang | [5](OUTLINE_V1.md) | Lived | boar charges beneath trees | **Draft v1, ch. 5** |
 | 20034 | Menacing Goldhorn | [5](OUTLINE_V1.md) | Testimony | Goldhorn's horns in a ranger's account | **Draft v1, ch. 5** |
-| 20035 | Ohgar Skorpo | [14](OUTLINE_V1.md) | Lived | desert scorpion's clicking pincers | Planned |
+| 20035 | Ohgar Skorpo | [14](OUTLINE_V1.md) | Lived | desert scorpion's clicking pincers | **Draft v1, ch. 14** |
 | 20036 | Liani Shadowwolf | [8](OUTLINE_V1.md) | Lived | quiet Liani Shadowwolf | **Draft v1, ch. 8** |
 | 20037 | Flytrap Grotto | [15](OUTLINE_V1.md) | Lived | flytrap grotto's terrible buzzing | Planned |
 | 20038 | Inferno Duck | [15](OUTLINE_V1.md) | Lived | small inferno duck | Planned |
@@ -81,10 +81,10 @@ A primary placement alone is **not a claim that the scene is already in the book
 | 20060 | Verdani Treasury | [9](OUTLINE_V1.md) | Lived | Verdani binds pages and shares tea | **Draft v1, ch. 9** |
 | 20061 | Frostwind Junkyard | [17](OUTLINE_V1.md) | Lived | Frostwind junkdealer's oddments | Planned |
 | 20062 | Market of Aetherion | [11](OUTLINE_V1.md) | Lived | Aetherion market bustle | **Draft v1, ch. 11** |
-| 20063 | Ancient Inscription | [14](OUTLINE_V1.md) | Lived | weathered temple disc | Planned |
+| 20063 | Ancient Inscription | [14](OUTLINE_V1.md) | Lived | weathered temple disc | **Draft v1, ch. 14** |
 | 20064 | Altar of Umbrael | [12](OUTLINE_V1.md) | Testimony | Umbrael altar's quiet invitation | **Draft v1, ch. 12** |
 | 20065 | Zeelai Feline | [5](OUTLINE_V1.md) | Testimony | Zeelai's unstable feline form | **Draft v1, ch. 5** |
-| 20066 | Thirsty Grimnir | [14](OUTLINE_V1.md) | Lived | thirsty Grimnir in open sun | Planned |
+| 20066 | Thirsty Grimnir | [14](OUTLINE_V1.md) | Lived | thirsty Grimnir in open sun | **Draft v1, ch. 14** |
 | 20067 | Ferocious Silvermane | [5](OUTLINE_V1.md) | Lived | Silvermane in moonlight | **Draft v1, ch. 5** |
 | 20068 | Fey Greens | [7](OUTLINE_V1.md) | Testimony | faun sanctuary and rumors | **Draft v1, ch. 7** |
 | 20069 | Celestial Fields | [3](OUTLINE_V1.md) | Lived | wildflowers and a butterfly | **Draft v1, ch. 3** |
@@ -119,7 +119,7 @@ A primary placement alone is **not a claim that the scene is already in the book
 | 20098 | Common Chest | [7](OUTLINE_V1.md) | Lived | plain chest beneath tree | **Draft v1, ch. 7** |
 | 20099 | Cliffs of Sarga | [17](OUTLINE_V1.md) | Lived | singing Cliffs of Sarga | Planned |
 | 20100 | Mountain Pass | [17](OUTLINE_V1.md) | Lived | snowy narrow mountain pass | Planned |
-| 20101 | Rocks of Ohgar | [14](OUTLINE_V1.md) | Lived | granite monoliths groan | Planned |
+| 20101 | Rocks of Ohgar | [14](OUTLINE_V1.md) | Lived | granite monoliths groan | **Draft v1, ch. 14** |
 | 20102 | Frostwind Slopes | [17](OUTLINE_V1.md) | Lived | Frostwind recess beneath snow | Planned |
 | 20103 | Strange Boulder | [17](OUTLINE_V1.md) | Lived | perfume under precarious boulder | Planned |
 | 20104 | Sudden Rockslide | [18](OUTLINE_V1.md) | Lived | rockslide cuts off track | Planned |
