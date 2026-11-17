@@ -24,3 +24,7 @@ The Chapter 14 handoff is a **gradual guided trip from Ohgar's dry roads through
 **Verification completed:** current book and game HEAD checked, source full 203-ID/field diff, six current encounter texts and canonical lore read, physical versus testimonial staging cross-checked, word count measured, revised old prose for 20094–20098, 203-row progress ledger updated. **Outstanding:** human narrative review, complete geographic route/time and season verification, audiobook read-aloud pacing, final canon/legal/audio review and production. No game/world source file has been changed.
 
 **Current project state:** **15 literary first-draft chapters, 63,149 words including headings, 107 encounters integrated into draft prose, 96 still planned, none independently editorial-verified**.
+
+## Later source reconciliation — 17 November 2026 (Chapter 19 work)
+
+The game `fe29096e90ad` revised **20116 Aradia's Perch**, expanding its dark iridescent body, four wings, metallic buzz, nearby water disturbance and curved venomous sting with a droplet. ChatGPT (**GPT-6**) amended the [Chapter 15](../manuscript/chapters/15-beneath-the-reeds.md) direct sighting with these cues, keeping Calen's safe detour and leaving the Aradia unharmed. **Chapter 15: 4,914 → 4,935 words (+21)**. Scene ID, type and outcome mode are unchanged. See [twelfth source reconciliation](SOURCE_RECONCILIATION.md); internal source check only, no independent editorial approval.
