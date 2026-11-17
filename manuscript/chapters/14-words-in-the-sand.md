@@ -198,7 +198,7 @@ The caravan stopped.
 
 The monoliths stood in rows that no careful builder would have chosen. Their faces had been worn by heat and sand, and long shadows lay beneath overhanging ledges. Some crevices were no wider than a hand. Others opened into dark passages whose ends were hidden.
 
-A second groan came from the nearest rock.
+A second groan came from the nearest rock. Beneath one particularly immense formation, the inward stream of sand never stopped, its grains falling silently into darkness despite the wind crossing the open ground.
 
 Brunti stepped off the road.
 
