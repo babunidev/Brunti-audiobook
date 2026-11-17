@@ -1,10 +1,10 @@
 # Encounter placements — source-to-manuscript progress matrix
 
-**Status:** **203 distinct encounters assigned, 0 omitted; 161 adapted into first-draft prose across chapters 2–22, 42 remain planned, and none is independently editorial-verified.** The game data and world archive remain authoritative for source detail. The mode is an editorial possibility: **Lived** is staged before Brunti, **Testimony** comes from another speaker, **Archive** is something Brunti learns from a record, and **Metaphor** translates a game-system label without staging that label as fiction.
+**Status:** **203 distinct encounters assigned, 0 omitted; 173 adapted into first-draft prose across chapters 2–23, 30 remain planned, and none is independently editorial-verified.** The game data and world archive remain authoritative for source detail. The mode is an editorial possibility: **Lived** is staged before Brunti, **Testimony** comes from another speaker, **Archive** is something Brunti learns from a record, and **Metaphor** translates a game-system label without staging that label as fiction.
 
-**Reviewed prose baseline:** [Morkahja encounters at c227753b59d0](https://github.com/babunidev/Morkahja/blob/c227753b59d037c6fef66c4b96d181487713e41f/server/game/encountersdata.json). The first atlas was indexed from an earlier revision; [19, then 5, then 1, then 2, then 1, then 1, then 8, then 5, then 5, then 4, then 2, then 8, then 2, then 4, then 2 text-only changes were reviewed](../docs/SOURCE_RECONCILIATION.md).
+**Reviewed prose baseline:** [Morkahja encounters at 9cddb72157a5](https://github.com/babunidev/Morkahja/blob/9cddb72157a5d68563e4023af4ed3dcf25b00c5f/server/game/encountersdata.json). The first atlas was indexed from an earlier revision; [19, then 5, then 1, then 2, then 1, then 1, then 8, then 5, then 5, then 4, then 2, then 8, then 2, then 4, then 2, then 5 text-only changes were reviewed](../docs/SOURCE_RECONCILIATION.md).
 
-A primary placement alone is **not a claim that the scene is already in the book**. The final column identifies which encounter IDs have actually been translated into draft prose, not which have passed editorial review. See the [Chapters 1–2 review](../docs/MANUSCRIPT_REVIEW.md) and [Chapters 3–4 review](../docs/CHAPTERS_03_04_REVIEW.md), and [Chapters 5–6 review](../docs/CHAPTERS_05_06_REVIEW.md), and [Chapters 7–8 review](../docs/CHAPTERS_07_08_REVIEW.md), and [Chapter 9 review](../docs/CHAPTER_09_REVIEW.md), and [Chapter 10 review](../docs/CHAPTER_10_REVIEW.md), and [Chapter 11 review](../docs/CHAPTER_11_REVIEW.md), and [Chapter 12 review](../docs/CHAPTER_12_REVIEW.md), and [Chapter 13 review](../docs/CHAPTER_13_REVIEW.md), and [Chapter 14 review](../docs/CHAPTER_14_REVIEW.md), and [Chapter 15 review](../docs/CHAPTER_15_REVIEW.md), and [Chapter 16 review](../docs/CHAPTER_16_REVIEW.md) and [Chapter 17 review](../docs/CHAPTER_17_REVIEW.md) and [Chapter 18 review](../docs/CHAPTER_18_REVIEW.md) and [Chapter 19 review](../docs/CHAPTER_19_REVIEW.md) and [Chapter 20 review](../docs/CHAPTER_20_REVIEW.md) and [Chapter 21 review](../docs/CHAPTER_21_REVIEW.md) and [Chapter 22 review](../docs/CHAPTER_22_REVIEW.md). A location-specific encounter included as testimony does not mean Brunti traveled there. Refer to [outline](OUTLINE_V1.md), [source atlas](ENCOUNTER_ATLAS.md), and [literary survey](LITERARY_SURVEY.md).
+A primary placement alone is **not a claim that the scene is already in the book**. The final column identifies which encounter IDs have actually been translated into draft prose, not which have passed editorial review. See the [Chapters 1–2 review](../docs/MANUSCRIPT_REVIEW.md) and [Chapters 3–4 review](../docs/CHAPTERS_03_04_REVIEW.md), and [Chapters 5–6 review](../docs/CHAPTERS_05_06_REVIEW.md), and [Chapters 7–8 review](../docs/CHAPTERS_07_08_REVIEW.md), and [Chapter 9 review](../docs/CHAPTER_09_REVIEW.md), and [Chapter 10 review](../docs/CHAPTER_10_REVIEW.md), and [Chapter 11 review](../docs/CHAPTER_11_REVIEW.md), and [Chapter 12 review](../docs/CHAPTER_12_REVIEW.md), and [Chapter 13 review](../docs/CHAPTER_13_REVIEW.md), and [Chapter 14 review](../docs/CHAPTER_14_REVIEW.md), and [Chapter 15 review](../docs/CHAPTER_15_REVIEW.md), and [Chapter 16 review](../docs/CHAPTER_16_REVIEW.md) and [Chapter 17 review](../docs/CHAPTER_17_REVIEW.md) and [Chapter 18 review](../docs/CHAPTER_18_REVIEW.md) and [Chapter 19 review](../docs/CHAPTER_19_REVIEW.md) and [Chapter 20 review](../docs/CHAPTER_20_REVIEW.md) and [Chapter 21 review](../docs/CHAPTER_21_REVIEW.md) and [Chapter 22 review](../docs/CHAPTER_22_REVIEW.md) and [Chapter 23 review](../docs/CHAPTER_23_REVIEW.md). A location-specific encounter included as testimony does not mean Brunti traveled there. Refer to [outline](OUTLINE_V1.md), [source atlas](ENCOUNTER_ATLAS.md), and [literary survey](LITERARY_SURVEY.md).
 
 | ID | Encounter | Chapter | Form | Particular literary use | Manuscript status |
 | ---: | --- | --- | --- | --- | --- |
@@ -166,7 +166,7 @@ A primary placement alone is **not a claim that the scene is already in the book
 | 20145 | Spirit Stag | [20](OUTLINE_V1.md) | Lived | Spirit Stag wounded by azure arrow | **Draft v1, ch. 20** |
 | 20146 | Eldritch Stronghold | [24](OUTLINE_V1.md) | Lived | stronghold chest under dead tree | Planned |
 | 20147 | Ironclad Reliquary | [24](OUTLINE_V1.md) | Lived | reliquary pulse in wood | Planned |
-| 20148 | Luminous Enclave | [23](OUTLINE_V1.md) | Lived | hag's bright hut and comedy | Planned |
+| 20148 | Luminous Enclave | [23](OUTLINE_V1.md) | Lived | hag's bright hut and comedy | **Draft v1, ch. 23** |
 | 20149 | Tempest Fury | [24](OUTLINE_V1.md) | Lived | storm-panther's charged tentacles | Planned |
 | 20150 | Timberclaw Wretch | [24](OUTLINE_V1.md) | Lived | Timberclaw's creaking steps | Planned |
 | 20151 | Auraglow Mireling | [24](OUTLINE_V1.md) | Lived | Mireling gathers gold light | Planned |
@@ -179,22 +179,22 @@ A primary placement alone is **not a claim that the scene is already in the book
 | 20159 | Gloomroot Expanse | [24](OUTLINE_V1.md) | Lived | stinking Gloomroot vapor | Planned |
 | 20160 | Wraithbone Pathway | [24](OUTLINE_V1.md) | Lived | old warrior bones along trail | Planned |
 | 20161 | Skullstone Pass | [24](OUTLINE_V1.md) | Lived | skull-shaped rock pass | Planned |
-| 20162 | Sageglow Clearing | [23](OUTLINE_V1.md) | Lived | Sageglow reader under fireflies | Planned |
+| 20162 | Sageglow Clearing | [23](OUTLINE_V1.md) | Lived | Sageglow reader under fireflies | **Draft v1, ch. 23** |
 | 20163 | Emberlost Wraith | [24](OUTLINE_V1.md) | Lived | Wraith burns rotting wood | Planned |
 | 20164 | Flamecrazed Wanderer | [24](OUTLINE_V1.md) | Lived | Wanderer's broken flame song | Planned |
 | 20165 | Gloomthorn Sentinel | [24](OUTLINE_V1.md) | Lived | Sentinel kills green growth | Planned |
 | 20166 | Stormshriek Harbinger | [24](OUTLINE_V1.md) | Lived | storm-wrapped altered Aevis | Planned |
-| 20167 | Skyshard Guardian | [23](OUTLINE_V1.md) | Lived | Skyshard guardian resisting tendrils | Planned |
-| 20168 | Skyheart Drifter | [23](OUTLINE_V1.md) | Lived | Skyheart drifter's weakened shield | Planned |
-| 20169 | Meadowheart Lostling | [23](OUTLINE_V1.md) | Lived | lost Verdani child's song | Planned |
-| 20170 | Forestwander Sproutling | [23](OUTLINE_V1.md) | Lived | Sproutling grips walking stick | Planned |
-| 20171 | Fringebound Escapee | [23](OUTLINE_V1.md) | Lived | escapee's ankle and Ogru report | Planned |
-| 20172 | Skylore Scholar | [23](OUTLINE_V1.md) | Lived | Skylore scholar studies wildlife | Planned |
-| 20173 | Verdantweave Envoy | [23](OUTLINE_V1.md) | Lived | envoy tends corrupted growth | Planned |
-| 20174 | Flameheart Purifier | [23](OUTLINE_V1.md) | Lived | Rokur purifies without burning all | Planned |
-| 20175 | Cinderheart Vanguard | [23](OUTLINE_V1.md) | Lived | spent Cinderheart Vanguard | Planned |
+| 20167 | Skyshard Guardian | [23](OUTLINE_V1.md) | Lived | Skyshard guardian resisting tendrils | **Draft v1, ch. 23** |
+| 20168 | Skyheart Drifter | [23](OUTLINE_V1.md) | Lived | Skyheart drifter's weakened shield | **Draft v1, ch. 23** |
+| 20169 | Meadowheart Lostling | [23](OUTLINE_V1.md) | Lived | lost Verdani child's song | **Draft v1, ch. 23** |
+| 20170 | Forestwander Sproutling | [23](OUTLINE_V1.md) | Lived | Sproutling grips walking stick | **Draft v1, ch. 23** |
+| 20171 | Fringebound Escapee | [23](OUTLINE_V1.md) | Lived | escapee's ankle and Ogru report | **Draft v1, ch. 23** |
+| 20172 | Skylore Scholar | [23](OUTLINE_V1.md) | Lived | Skylore scholar studies wildlife | **Draft v1, ch. 23** |
+| 20173 | Verdantweave Envoy | [23](OUTLINE_V1.md) | Lived | envoy tends corrupted growth | **Draft v1, ch. 23** |
+| 20174 | Flameheart Purifier | [23](OUTLINE_V1.md) | Lived | Rokur purifies without burning all | **Draft v1, ch. 23** |
+| 20175 | Cinderheart Vanguard | [23](OUTLINE_V1.md) | Lived | spent Cinderheart Vanguard | **Draft v1, ch. 23** |
 | 20176 | Frostclaw Behemoth | [18](OUTLINE_V1.md) | Lived | Frostclaw Behemoth rises above ice | **Draft v1, ch. 18** |
-| 20177 | Shadowmarket Mystic | [23](OUTLINE_V1.md) | Lived | shadowmarket mystic's price | Planned |
+| 20177 | Shadowmarket Mystic | [23](OUTLINE_V1.md) | Lived | shadowmarket mystic's price | **Draft v1, ch. 23** |
 | 20178 | Sylvan Rune Gateway | [24](OUTLINE_V1.md) | Lived | root-bound rune gateway | Planned |
 | 20179 | Roarback Mauler | [24](OUTLINE_V1.md) | Lived | Roarback strips bark | Planned |
 | 20180 | Gloomweaver Colossus | [24](OUTLINE_V1.md) | Lived | Colossus rises from root tangles | Planned |
