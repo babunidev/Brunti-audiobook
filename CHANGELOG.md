@@ -201,3 +201,13 @@ All prose remains AI-assisted novel draft under Babuni's creative direction, not
 - Updated encounter matrix, manuscript index, source ledger, reconciliation history, roadmap and continuity journal. **20 chapters / 88,790 words including headings / 151 adapted IDs / 52 planned**.
 
 All prose remains AI-authored first draft under Babuni's creative direction, without independent literary approval, audio narration or publication. No game/world repository change.
+
+## 2026-11-17 — Chapter 21 first draft and fourteenth game-text refresh
+
+- Added [Chapter 21 — Before the Cursed Trees](manuscript/chapters/21-before-the-cursed-trees.md) as **4,567-word first-draft prose**, adapting **five** distinct assigned encounters. Brunti and Velen travel south via ordinary routes, reunite with Sira at an ongoing relief post, and begin a bounded search for a possible missing Verdani child without asserting a confirmed location.
+- Preserved **20107 Silver Wolf** and **20108 Shena Alpha** as different lived sightings, **20044 Darkwood Thicket** as an atmospheric visited location with uncertain fae rumor, **20112 Cursed Silvermane** as a directly seen afflicted wolf, and **20113 Cursed Liani** as Sira's attributed *Testimony*, with no compulsory fight, cure or source-unsupported identity conflation.
+- Added [Chapter 21 source and continuity review](docs/CHAPTER_21_REVIEW.md), including revisited world-lore boundaries, the nonmagical Sira reunion, and incomplete witness evidence.
+- Compared all 203 game records at `2b4afe761c8b` against `4c7fcc7901f8`: **four `mEncounterText`-only changes (20120–20123)**. Reconciled three in Chapter 17 (**4,683 → 4,819 words**) and one in Chapter 18 (**5,110 → 5,155 words**); no game/source metadata or chapter assignments changed.
+- Updated manuscript index, 203-ID matrix, roadmap, source ledger, reconciliation history, Chapter 17/18 source review addenda, continuity and development documentation. **21 first-draft chapters / 93,538 words including headings / 156 adapted IDs / 47 planned**.
+
+All novel text remains AI-authored first draft under Babuni's creative direction, not independent editorial approval, recorded narration, release or a change to Morkahja game/world canon.
