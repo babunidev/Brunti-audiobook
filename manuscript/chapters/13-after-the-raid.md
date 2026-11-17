@@ -26,6 +26,8 @@ A Verdani woman with soot-darkened hands raised her head as they approached. She
 
 “We have brought water, food and tools,” the guide told her. “These three asked to come.”
 
+“It's the eastern wall we lost first,” the woman said. “Ogrus broke it. Gobbls came through behind them. The lower houses never had a chance to close their doors.”
+
 The woman looked at the cart and then at Sira.
 
 “Sira?”
