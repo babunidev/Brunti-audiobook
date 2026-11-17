@@ -1,10 +1,10 @@
 # Encounter placements — source-to-manuscript progress matrix
 
-**Status:** **203 distinct encounters assigned, 0 omitted; 101 adapted into first-draft prose across chapters 2–14, 102 remain planned, and none is independently editorial-verified.** The game data and world archive remain authoritative for source detail. The mode is an editorial possibility: **Lived** is staged before Brunti, **Testimony** comes from another speaker, **Archive** is something Brunti learns from a record, and **Metaphor** translates a game-system label without staging that label as fiction.
+**Status:** **203 distinct encounters assigned, 0 omitted; 107 adapted into first-draft prose across chapters 2–15, 96 remain planned, and none is independently editorial-verified.** The game data and world archive remain authoritative for source detail. The mode is an editorial possibility: **Lived** is staged before Brunti, **Testimony** comes from another speaker, **Archive** is something Brunti learns from a record, and **Metaphor** translates a game-system label without staging that label as fiction.
 
-**Reviewed prose baseline:** [Morkahja encounters at e826fa46d3ff](https://github.com/babunidev/Morkahja/blob/e826fa46d3ff3f27628eec54ebfd193b597f731a/server/game/encountersdata.json). The first atlas was indexed from an earlier revision; [19, then 5, then 1, then 2, then 1, then 1, then 8 text-only changes were reconciled](../docs/SOURCE_RECONCILIATION.md).
+**Reviewed prose baseline:** [Morkahja encounters at 92b97aef8706](https://github.com/babunidev/Morkahja/blob/92b97aef8706dabfcd8d8d80c0477a70e3336097/server/game/encountersdata.json). The first atlas was indexed from an earlier revision; [19, then 5, then 1, then 2, then 1, then 1, then 8, then 5 text-only changes were reconciled](../docs/SOURCE_RECONCILIATION.md).
 
-A primary placement alone is **not a claim that the scene is already in the book**. The final column identifies which encounter IDs have actually been translated into draft prose, not which have passed editorial review. See the [Chapters 1–2 review](../docs/MANUSCRIPT_REVIEW.md) and [Chapters 3–4 review](../docs/CHAPTERS_03_04_REVIEW.md), and [Chapters 5–6 review](../docs/CHAPTERS_05_06_REVIEW.md), and [Chapters 7–8 review](../docs/CHAPTERS_07_08_REVIEW.md), and [Chapter 9 review](../docs/CHAPTER_09_REVIEW.md), and [Chapter 10 review](../docs/CHAPTER_10_REVIEW.md), and [Chapter 11 review](../docs/CHAPTER_11_REVIEW.md), and [Chapter 12 review](../docs/CHAPTER_12_REVIEW.md), and [Chapter 13 review](../docs/CHAPTER_13_REVIEW.md), and [Chapter 14 review](../docs/CHAPTER_14_REVIEW.md). A location-specific encounter included as testimony does not mean Brunti traveled there. Refer to [outline](OUTLINE_V1.md), [source atlas](ENCOUNTER_ATLAS.md), and [literary survey](LITERARY_SURVEY.md).
+A primary placement alone is **not a claim that the scene is already in the book**. The final column identifies which encounter IDs have actually been translated into draft prose, not which have passed editorial review. See the [Chapters 1–2 review](../docs/MANUSCRIPT_REVIEW.md) and [Chapters 3–4 review](../docs/CHAPTERS_03_04_REVIEW.md), and [Chapters 5–6 review](../docs/CHAPTERS_05_06_REVIEW.md), and [Chapters 7–8 review](../docs/CHAPTERS_07_08_REVIEW.md), and [Chapter 9 review](../docs/CHAPTER_09_REVIEW.md), and [Chapter 10 review](../docs/CHAPTER_10_REVIEW.md), and [Chapter 11 review](../docs/CHAPTER_11_REVIEW.md), and [Chapter 12 review](../docs/CHAPTER_12_REVIEW.md), and [Chapter 13 review](../docs/CHAPTER_13_REVIEW.md), and [Chapter 14 review](../docs/CHAPTER_14_REVIEW.md), and [Chapter 15 review](../docs/CHAPTER_15_REVIEW.md). A location-specific encounter included as testimony does not mean Brunti traveled there. Refer to [outline](OUTLINE_V1.md), [source atlas](ENCOUNTER_ATLAS.md), and [literary survey](LITERARY_SURVEY.md).
 
 | ID | Encounter | Chapter | Form | Particular literary use | Manuscript status |
 | ---: | --- | --- | --- | --- | --- |
@@ -55,8 +55,8 @@ A primary placement alone is **not a claim that the scene is already in the book
 | 20034 | Menacing Goldhorn | [5](OUTLINE_V1.md) | Testimony | Goldhorn's horns in a ranger's account | **Draft v1, ch. 5** |
 | 20035 | Ohgar Skorpo | [14](OUTLINE_V1.md) | Lived | desert scorpion's clicking pincers | **Draft v1, ch. 14** |
 | 20036 | Liani Shadowwolf | [8](OUTLINE_V1.md) | Lived | quiet Liani Shadowwolf | **Draft v1, ch. 8** |
-| 20037 | Flytrap Grotto | [15](OUTLINE_V1.md) | Lived | flytrap grotto's terrible buzzing | Planned |
-| 20038 | Inferno Duck | [15](OUTLINE_V1.md) | Lived | small inferno duck | Planned |
+| 20037 | Flytrap Grotto | [15](OUTLINE_V1.md) | Lived | flytrap grotto's terrible buzzing | **Draft v1, ch. 15** |
+| 20038 | Inferno Duck | [15](OUTLINE_V1.md) | Lived | small inferno duck | **Draft v1, ch. 15** |
 | 20039 | Eldertree Grove | [6](OUTLINE_V1.md) | Lived | vibration within Eldertree | **Draft v1, ch. 6** |
 | 20040 | Shadowed Hollow | [6](OUTLINE_V1.md) | Lived | crystal-veined hollow | **Draft v1, ch. 6** |
 | 20041 | Sunlit Dell | [6](OUTLINE_V1.md) | Lived | sunlit resting place | **Draft v1, ch. 6** |
@@ -75,7 +75,7 @@ A primary placement alone is **not a claim that the scene is already in the book
 | 20054 | Drained Aevis | [13](OUTLINE_V1.md) | Testimony | drained Aevis in woodland | **Draft v1, ch. 13** |
 | 20055 | Wounded Grimnir | [2](OUTLINE_V1.md) | Testimony | Grimnir injured by Crumblegheist | **Draft v1, ch. 2** |
 | 20056 | Venerable Grimnir | [2](OUTLINE_V1.md) | Testimony | hungry elder after Ravage | **Draft v1, ch. 2** |
-| 20057 | Verdani Child | [15](OUTLINE_V1.md) | Lived | hungry child forms mud cakes | Planned |
+| 20057 | Verdani Child | [15](OUTLINE_V1.md) | Lived | hungry child forms mud cakes | **Draft v1, ch. 15** |
 | 20058 | Aevis Lady | [13](OUTLINE_V1.md) | Lived | older Aevis with unfinished song | **Draft v1, ch. 13** |
 | 20059 | Rokur Blacksmith | [9](OUTLINE_V1.md) | Testimony | Rokur smith too weary to work | **Draft v1, ch. 9** |
 | 20060 | Verdani Treasury | [9](OUTLINE_V1.md) | Lived | Verdani binds pages and shares tea | **Draft v1, ch. 9** |
@@ -95,12 +95,12 @@ A primary placement alone is **not a claim that the scene is already in the book
 | 20074 | Mysterious Cube | [4](OUTLINE_V1.md) | Archive | etched cube's pulses | **Draft v1, ch. 4** |
 | 20075 | Grumpy Fence | [22](OUTLINE_V1.md) | Lived | grumpy fence's tangled story | Planned |
 | 20076 | Aevis Merchant | [9](OUTLINE_V1.md) | Testimony | Aevis merchant tells of Celesterra | **Draft v1, ch. 9** |
-| 20077 | Quicksilver Quagmire | [15](OUTLINE_V1.md) | Lived | silver quagmire's uncertain reflection | Planned |
+| 20077 | Quicksilver Quagmire | [15](OUTLINE_V1.md) | Lived | silver quagmire's uncertain reflection | **Draft v1, ch. 15** |
 | 20078 | Unhinged Gobbl | [22](OUTLINE_V1.md) | Lived | distorted Gobbl crouches | Planned |
 | 20079 | Fearfeaster Gobbl | [22](OUTLINE_V1.md) | Testimony | Fearfeaster warning | Planned |
 | 20080 | Dreamy Valley | [3](OUTLINE_V1.md) | Lived | pink blossoms conceal a sheltered passage | **Draft v1, ch. 3** |
 | 20081 | Arcadian Hills | [4](OUTLINE_V1.md) | Lived | marked borderstone A | **Draft v1, ch. 4** |
-| 20082 | Alluring Fens | [15](OUTLINE_V1.md) | Testimony | night song across fens | Planned |
+| 20082 | Alluring Fens | [15](OUTLINE_V1.md) | Testimony | night song across fens | **Draft v1, ch. 15** |
 | 20083 | Enchanted Gardens | [4](OUTLINE_V1.md) | Lived | garden engraving H | **Draft v1, ch. 4** |
 | 20084 | Mystical Vale | [4](OUTLINE_V1.md) | Lived | vale boulder K | **Draft v1, ch. 4** |
 | 20085 | Bucolic Dale | [4](OUTLINE_V1.md) | Lived | dale stone J | **Draft v1, ch. 4** |
@@ -134,7 +134,7 @@ A primary placement alone is **not a claim that the scene is already in the book
 | 20113 | Cursed Liani | [21](OUTLINE_V1.md) | Testimony | Liani whose counsel has fallen silent | Planned |
 | 20114 | Liani Guardian | [8](OUTLINE_V1.md) | Lived | guardian holds boundary | **Draft v1, ch. 8** |
 | 20115 | Liani Predator | [8](OUTLINE_V1.md) | Testimony | Liani Predator recalled by hunter | **Draft v1, ch. 8** |
-| 20116 | Aradia's Perch | [15](OUTLINE_V1.md) | Lived | Aradia dragonfly and poisoned sting | Planned |
+| 20116 | Aradia's Perch | [15](OUTLINE_V1.md) | Lived | Aradia dragonfly and poisoned sting | **Draft v1, ch. 15** |
 | 20117 | Thunderfly Matriarch | [8](OUTLINE_V1.md) | Lived | Thunderfly Matriarch's charged wings | **Draft v1, ch. 8** |
 | 20118 | Firecrest Bloodbeak | [22](OUTLINE_V1.md) | Lived | firecrest rooster as alarm | Planned |
 | 20119 | Simple Treasure | [7](OUTLINE_V1.md) | Lived | carved meadow chest | **Draft v1, ch. 7** |

@@ -1,6 +1,6 @@
 # Movement III — Land and Loss: scene briefs v1
 
-**Status:** working audiobook-fiction scene design; **Chapters 13–14 are now actual first-draft manuscript prose**; Chapters 15–20 remain planned. No canon changes. **Source baseline:** game encounter text `e826fa46d3ff` (203 source IDs), following first atlas and [reconciliation](../../docs/SOURCE_RECONCILIATION.md). [Story spine](../STORY_SPINE.md) · [Matrix](../PLACEMENT_MATRIX.md) · [Continuity register](../../docs/SCENE_CONTINUITY.md).
+**Status:** working audiobook-fiction scene design; **Chapters 13–15 are now actual first-draft manuscript prose**; Chapters 16–20 remain planned. No canon changes. **Source baseline:** game encounter text `92b97aef8706` (203 source IDs), following first atlas and [reconciliation](../../docs/SOURCE_RECONCILIATION.md). [Story spine](../STORY_SPINE.md) · [Matrix](../PLACEMENT_MATRIX.md) · [Continuity register](../../docs/SCENE_CONTINUITY.md).
 
 The geography is intentionally **not** squeezed into one continuous afternoon. Evergrove is a Verdani desert/oasis heartland; Ohgar, Karrhu, Sarga and Frostwind are distinct lands whose exact routes and travel intervals require map checking. Corruption accounts are archive pieces, not twelve simultaneous fights.
 
@@ -92,13 +92,13 @@ The ruined temple's great upright disc, broken columns, sheltered runes and **tw
 
 ## Chapter 15 — Beneath the Reeds
 
-**Opening:** In Karrhu the swamp answers every step with a sound that may belong to water or something alive beneath it.
+**Opening:** The trio enters Karrhu **by ferry and linked safe causeways after a multi-day gradual change from Ohgar's desert**, guided by novel-only local ferrykeeper **Calen**. Swamp water answers each step with sounds that may belong to roots, rain, wildlife or an unseen creature; Brunti's boot becomes briefly trapped in the mud.
 
 **Present / source voices:** Brunti; Sira; Velen; a child living by swamp routes.
 
 #### 15.1 — Beauty before teeth
 
-The Inferno Duck's sudden heat is almost ridiculous; Aradia's silver wings remain dangerous. Allow humor to make caution feel lived rather than announced.
+The Inferno Duck spits fire from its steaming beak and scorches Brunti's scarf; Sira extinguishes the ember and leads a retreat. Separately the Aradia's silver wings, vibrating reflections and visible venom drop force a careful detour around its perch on an unstable boardwalk.
 
 **Turn:** Sira takes the lead in deciding when they should withdraw.
 
@@ -108,7 +108,7 @@ The Inferno Duck's sudden heat is almost ridiculous; Aradia's silver wings remai
 
 #### 15.2 — The hungry child
 
-A Verdani child forms mud cakes in the roots. Brunti asks what she needs and shares suitable food without promising to solve the entire region's suffering.
+A young Verdani girl **Leta** makes crumbling mud loaves beside tree roots while a flooded boardwalk separates her from her aunt. Brunti and Sira share real bread and clean water; the team carries Leta carefully over a tested stone crossing to **Olri**'s reed station. An on-page family reunion confirms this child's immediate safety, **without equating her with the displaced child carrying a walking stick**.
 
 **Turn:** This action matters more to Sira than an elaborate magical theory.
 
@@ -117,7 +117,7 @@ A Verdani child forms mud cakes in the roots. Brunti asks what she needs and sha
 
 #### 15.3 — The grotto and its hunger
 
-The Flytrap Grotto's buzzing presence raises a concrete hazard for locals. The company marks its approach for future travelers rather than staging an obligatory monster kill.
+In the Flytrap Grotto, the huge bristled, torn-winged fly with wet red eyes and uncurling proboscis intensifies its rasping hum. The company retreats without a fight and, **with Olri's approval**, helps put warning boards at the correct route junction.
 
 **Turn:** The group's care has an outward practical effect.
 
@@ -126,7 +126,7 @@ The Flytrap Grotto's buzzing presence raises a concrete hazard for locals. The c
 
 #### 15.4 — An unreliable mirror
 
-At the Quicksilver Quagmire Brunti sees unfamiliar stars under silver water. She does not declare herself chosen or read a fixed future in their arrangement.
+At the moonlit Quicksilver Quagmire, strange stars and fleeting patterns appear under a perfectly circular silver surface. Brunti recognizes a shape she **wants** to relate to the memorial but cannot prove; the unstable bank subsides beneath her boot, and the group withdraws without touching the pool, taking any relic or making a fixed prophecy.
 
 **Turn:** She leaves the pool without using a child as an excuse to obtain an artifact.
 
@@ -135,14 +135,14 @@ At the Quicksilver Quagmire Brunti sees unfamiliar stars under silver water. She
 
 #### 15.5 — The song in the fens
 
-Sira relates another traveller's hearing of notes across misty Alluring Fens; this is a **reported** episode rather than a forced claim that the Vale and Karrhu's swamp are one locality.
+An **herb-basket traveler** from central-land routes tells Sira and the others of **Alluring Fens**: moss-hung trees, fireflies, dark water and sweet music shifting beyond misty reeds. She speaks **at Karrhu's ferry house about another place**, and her song remains **testimony**, not a locally witnessed Karrhu event. New courier packets arrive for Velen and Sira; Sira considers a **future independent relay route**, but all three remain at the same ferry house at Chapter 15's end.
 
 **Turn:** The chapter ends on different sounds that need not come from one source.
 
 **Source encounters:** 
   - **20082 — Alluring Fens** (*Testimony*): night song across fens.
 
-**Chapter handoff:** Sira remains with the group through Karrhu; her later work for the displaced communities will send her along a different ordinary route.
+**Chapter handoff:** **Sira remains with Brunti and Velen through Karrhu.** Chapter 16 may establish her physically separate message task, but cannot imply she has already departed or that the child with the walking stick has been confirmed missing.
 
 ## Chapter 16 — Witnesses of Corruption
 

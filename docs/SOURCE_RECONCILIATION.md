@@ -84,3 +84,17 @@ Game `main` advanced from [`ad34afb686ef`](https://github.com/babunidev/Morkahja
 **Manuscript reconciliation word counts:** Chapter 4 **3,776 → 3,895**, Chapter 5 **3,825 → 3,900** including headings. The seven inscribed letters retain **A H K J O M A**; their established positions and undetermined meaning remain unchanged. Combined **+194** words. This source update was **not** a revision to the other 195 records, and the literature remains a novel adaptation, not a change to Morkahja's game or world canon.
 
 Successive game prose change counts: **19 + 5 + 1 + 2 + 1 + 1 + 8**; latest reviewed baseline `e826fa46d3ff3f27628eec54ebfd193b597f731a`. Chapter 14's four Ohgar encounters have no changes relative to the preceding source but were reread from the latest game snapshot.
+
+## Eighth source update — 17 November 2026
+
+Game `main` advanced from [`e826fa46d3ff`](https://github.com/babunidev/Morkahja/blob/e826fa46d3ff3f27628eec54ebfd193b597f731a/server/game/encountersdata.json) (blob `759c149c73e14cab98d941b44ca879a78f8b32ea`) to [`92b97aef8706`](https://github.com/babunidev/Morkahja/blob/92b97aef8706dabfcd8d8d80c0477a70e3336097/server/game/encountersdata.json) (blob `a4c32c0cdba89bb6e6cd80e635ba5f8a7ec82744`). A full per-record/per-field comparison of all 203 IDs found **exactly five changed fields**, each `mEncounterText` for encounter **20094, 20095, 20096, 20097, 20098**. All other encounter fields, IDs and follow links were unchanged.
+
+- **20094 — Nagar Humpback:** enormous rounded hump, tusk catches low branch between trees, impatient head twist frees it and showers leaves over hide, heavy uneven hooves shifting stones. Mara's **attributed testimony in Chapter 5** now includes this specific branch incident.
+- **20095 — Nagar Razorback:** jagged horn ridge, swift turn around a **fallen trunk** with hind feet digging into earth and dust thrown backward. Chapter 5's **attributed testimony** now includes that movement without claiming an on-page fight.
+- **20096 — Thunderhoof:** windless pebbles tremble ahead of slow, deliberate hoofbeats; twig snaps; animal turns and holds one hoof suspended before its fall makes the bank shed grit. Chapter 5's testimony now depicts the distinctive restrained force.
+- **20097 — Yowler:** mottled grey-brown wolf stands on narrow outcrop, gives two ragged cries and receives broken echoes; ears turn in different directions, pale eyes search the valley and a low growl follows. Chapter 5's **direct scene** now shows those actions without merging Yowler and Silvermane.
+- **20098 — Common Chest:** small **acorn** taps scratched dark polished lid beneath an old tree; smooth-worn tarnished brass lock, fine **spiderweb**, narrow keyhole and unopened interior. [Chapter 7](../manuscript/chapters/07-things-that-are-kept.md) now includes these new details and leaves the chest locked/unclaimed.
+
+**Count effect:** [Chapter 5](../manuscript/chapters/05-the-lives-of-the-vale.md) **3,900 → 4,044** words including heading; Chapter 7 **3,504 → 3,554**. Combined +**194** words. The six Chapter 15 sources are **unchanged** compared with the prior game baseline, but all were reread from current game text. Previous seven-letter sequence **A H K J O M A**, encounter delivery modes, provenance and existing canon remain unchanged.
+
+**Cumulative later game prose differences (successive revisions): 19 + 5 + 1 + 2 + 1 + 1 + 8 + 5**. Current reviewed baseline `92b97aef8706dabfcd8d8d80c0477a70e3336097`. No game or world files were changed in the novel repo.

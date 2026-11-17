@@ -45,3 +45,7 @@
 **Remaining tests:** Full geographical distance verification; the consistent life spans and travel duration of original fiction supporting witnesses; read-aloud pacing and dialogue refinement; final human editorial review; acoustic production. Neither new chapter is final or officially world-canon.
 
 **Structural result:** Chapters **7 and 8** add **16** source IDs. The novel currently comprises **8 draft chapters**, **27,832 words including headings**, **67 draft-integrated encounter IDs**, **136 planned**, **0 independently editorial-verified**.
+
+## Common Chest source refresh — 17 November 2026
+
+The [game `92b97aef8706`](https://github.com/babunidev/Morkahja/blob/92b97aef8706dabfcd8d8d80c0477a70e3336097/server/game/encountersdata.json) revises **20098 Common Chest** only in `mEncounterText`: an **acorn** knocks across scratched polished wood, the chest sits among ancient tree roots, a delicate **spiderweb** touches the bark, and the brass lock shows worn edges and a dark narrow keyhole. [Chapter 7](../manuscript/chapters/07-things-that-are-kept.md) now dramatizes the acorn and web with the unchanged **unopened chest** outcome. **Current Chapter 7 length: 3,554 words**, previously 3,504. No source identity, ownership or reward was invented. [Full eighth diff](SOURCE_RECONCILIATION.md).
