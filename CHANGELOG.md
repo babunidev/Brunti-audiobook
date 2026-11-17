@@ -231,3 +231,13 @@ All prose remains AI-authored first draft under Babuni's creative direction, not
 - Updated the manuscript index, 203-ID matrix, roadmap, primary-source ledger, sixteenth reconciliation, review addenda and continuity/development records. **23 first drafts / 105,799 words including headings / 173 adapted IDs / 30 planned**.
 
 All prose remains AI-authored first draft under Babuni's creative direction; no independent editorial approval, final audiobook narration, release or new Morkahja game/world canon.
+
+## 2026-11-17 — Chapter 24 first draft and seventeenth game-text reconciliation
+
+- Added [Chapter 24 — Paths Among the Dead](manuscript/chapters/24-paths-among-the-dead.md), **5,388 words of first-draft novel prose**, staging all **twenty** assigned direct encounter IDs: 20146, 20147, 20149–20153, 20156–20161, 20163–20166, 20178–20180. None of the twenty source descriptions had changed against the previous game snapshot.
+- Preserved Sira and Velen's explicit refusal to join the deeper Keldor venture, no established connection to the Grimnir memorial, and the difference between the Sylvan Rune Gateway and unopened, still unseen **Blackwood wooden cliff-door portal**. Brunti's lost route is a consequence of a freely chosen return after the practical rescue.
+- Added [Chapter 24 source/continuity review](docs/CHAPTER_24_REVIEW.md) with a twenty-row fidelity matrix, source attribution and constraints on the Chapter 25 handoff.
+- Rechecked all 203 game records at `f949602a0a21` against `9cddb72157a5`: **two `mEncounterText`-only changes**. Reconciled **20132 Frostbite Fergus** in Chapter 18 (**5,193 → 5,261, +68 words**) and **20133 Kaldric of Nekalos** in Chapter 20 (**6,137 → 6,187, +50**), with no altered game source metadata or encounter modes.
+- Updated the 203-ID matrix, manuscript index, roadmap, source ledger, seventeenth reconciliation record, two historical review addenda, content/continuity and development documentation. **24 draft chapters / 111,305 words including headings / 193 drafted encounter IDs / 10 planned**.
+
+All manuscript text remains ChatGPT GPT-6 first-draft work under Babuni's creative direction, without independent editorial approval, produced narration, release or change to Morkahja game/world canon.
