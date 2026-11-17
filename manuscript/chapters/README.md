@@ -1,6 +1,6 @@
 # Brunti — working novel manuscript
 
-**Status as of 17 November 2026:** **twenty first-draft chapters**, not editorially approved or prepared for narrated publication. The story structure remains a 30-chapter working direction authored under delegated literary authority. Chapter headings are part of clean prose files; editorial notes and source-ID assignments are kept separately.
+**Status as of 17 November 2026:** **twenty-one first-draft chapters**, not editorially approved or prepared for narrated publication. The story structure remains a 30-chapter working direction authored under delegated literary authority. Chapter headings are part of clean prose files; editorial notes and source-ID assignments are kept separately.
 
 | Chapter | Title | Source encounter IDs | Status |
 | ---: | --- | --- | --- |
@@ -20,14 +20,15 @@
 | 14 | [Words in the Sand](14-words-in-the-sand.md) | 20035, 20063, 20066, 20101 | **Draft v1** — 4,853 words |
 | 15 | [Beneath the Reeds](15-beneath-the-reeds.md) | 20037, 20038, 20057, 20077, 20082, 20116 | **Draft v1** — 4,935 words |
 | 16 | [Witnesses of Corruption](16-witnesses-of-corruption.md) | 20019–20030 | **Draft v1** — 4,951 words |
-| 17 | [The Mountain Has a Voice](17-the-mountain-has-a-voice.md) | 20061, 20099, 20100, 20102, 20103, 20105, 20106, 20109, 20120–20122 | **Draft v1** — 4,683 words |
-| 18 | [The Last Warm Bowl](18-the-last-warm-bowl.md) | 20104, 20123, 20124, 20132, 20176 | **Draft v1** — 5,110 words |
+| 17 | [The Mountain Has a Voice](17-the-mountain-has-a-voice.md) | 20061, 20099, 20100, 20102, 20103, 20105, 20106, 20109, 20120–20122 | **Draft v1** — 4,819 words |
+| 18 | [The Last Warm Bowl](18-the-last-warm-bowl.md) | 20104, 20123, 20124, 20132, 20176 | **Draft v1** — 5,155 words |
 | 19 | [Ice That Remembers](19-ice-that-remembers.md) | 20129–20131, 20135, 20136, 20140, 20141 | **Draft v1** — 4,533 words |
 | 20 | [The Broken Frostweaver Record](20-the-broken-frostweaver-record.md) | 20133, 20134, 20137–20139, 20142–20145 | **Draft v1** — 6,137 words |
-| 21–30 | [Remaining planned chapters](../../story/scenes/README.md) | 52 planned encounter placements | **Not drafted** |
+| 21 | [Before the Cursed Trees](21-before-the-cursed-trees.md) | 20044, 20107, 20108, 20112, 20113 | **Draft v1** — 4,567 words |
+| 22–30 | [Remaining planned chapters](../../story/scenes/README.md) | 47 planned encounter placements | **Not drafted** |
 
-**Total current manuscript:** **88,790 words including chapter headings** (approximately **88,673 prose words** excluding headings). This is narrative prose, not a compilation of unadapted source descriptions.
+**Total current manuscript:** **93,538 words including chapter headings** (approximately **93,415 prose words** excluding headings). This is narrative prose, not a compilation of unadapted source descriptions.
 
-The chapter text is clean for reading and eventual narration export. Editorial notes stay in the [opening review](../../docs/MANUSCRIPT_REVIEW.md), [Chapters 3–4 review](../../docs/CHAPTERS_03_04_REVIEW.md) and [Chapters 5–6 review](../../docs/CHAPTERS_05_06_REVIEW.md) and [Chapters 7–8 review](../../docs/CHAPTERS_07_08_REVIEW.md) and [Chapter 9 review](../../docs/CHAPTER_09_REVIEW.md) and [Chapter 10 review](../../docs/CHAPTER_10_REVIEW.md) and [Chapter 11 review](../../docs/CHAPTER_11_REVIEW.md) and [Chapter 12 review](../../docs/CHAPTER_12_REVIEW.md) and [Chapter 13 review](../../docs/CHAPTER_13_REVIEW.md) and [Chapter 14 review](../../docs/CHAPTER_14_REVIEW.md) and [Chapter 15 review](../../docs/CHAPTER_15_REVIEW.md) and [Chapter 16 review](../../docs/CHAPTER_16_REVIEW.md) and [Chapter 17 review](../../docs/CHAPTER_17_REVIEW.md) and [Chapter 18 review](../../docs/CHAPTER_18_REVIEW.md) and [Chapter 19 review](../../docs/CHAPTER_19_REVIEW.md) and [Chapter 20 review](../../docs/CHAPTER_20_REVIEW.md). The [source-to-manuscript matrix](../../story/PLACEMENT_MATRIX.md) tracks every game ID separately from the historical [source atlas](../../story/ENCOUNTER_ATLAS.md).
+The chapter text is clean for reading and eventual narration export. Editorial notes stay in the [opening review](../../docs/MANUSCRIPT_REVIEW.md), [Chapters 3–4 review](../../docs/CHAPTERS_03_04_REVIEW.md) and [Chapters 5–6 review](../../docs/CHAPTERS_05_06_REVIEW.md) and [Chapters 7–8 review](../../docs/CHAPTERS_07_08_REVIEW.md) and [Chapter 9 review](../../docs/CHAPTER_09_REVIEW.md) and [Chapter 10 review](../../docs/CHAPTER_10_REVIEW.md) and [Chapter 11 review](../../docs/CHAPTER_11_REVIEW.md) and [Chapter 12 review](../../docs/CHAPTER_12_REVIEW.md) and [Chapter 13 review](../../docs/CHAPTER_13_REVIEW.md) and [Chapter 14 review](../../docs/CHAPTER_14_REVIEW.md) and [Chapter 15 review](../../docs/CHAPTER_15_REVIEW.md) and [Chapter 16 review](../../docs/CHAPTER_16_REVIEW.md) and [Chapter 17 review](../../docs/CHAPTER_17_REVIEW.md) and [Chapter 18 review](../../docs/CHAPTER_18_REVIEW.md) and [Chapter 19 review](../../docs/CHAPTER_19_REVIEW.md) and [Chapter 20 review](../../docs/CHAPTER_20_REVIEW.md) and [Chapter 21 review](../../docs/CHAPTER_21_REVIEW.md). The [source-to-manuscript matrix](../../story/PLACEMENT_MATRIX.md) tracks every game ID separately from the historical [source atlas](../../story/ENCOUNTER_ATLAS.md).
 
-**Coverage:** **151 source encounters adapted into first-draft prose**, **52 still planned**, **0 independently editorially verified**. First draft does not mean author-approved final text, complete source coverage, audiobook narration script or recorded audio. No game or canonical-world source was modified.
+**Coverage:** **156 source encounters adapted into first-draft prose**, **47 still planned**, **0 independently editorially verified**. First draft does not mean author-approved final text, complete source coverage, audiobook narration script or recorded audio. No game or canonical-world source was modified.
