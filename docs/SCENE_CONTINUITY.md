@@ -72,3 +72,13 @@
 A verified chronological tension between source scenes **20069** (warm summer butterflies) and **20072** (autumn, fox under falling ochre leaves) is solved by delivery-mode adjustment, not by claiming geography shifts the season: 20072 is **Eda's past-tense testimony** in Chapter 3, while Brunti travels through summer meadows. This is an explicit departure from the original “Lived” proposal and has been changed in the matrix and scene plan.
 
 The Skyland-to-Vale descent uses documented trade-descent practice, but its precise landing location is original literary connective fiction. The seven distinct marked stones have no verified canonical route or decoded message. Chapter 4 keeps them separate over multiple travel days, with their sequence and uncertainty intact.
+
+## Drafted wildlife and Eldertree scenes — 17 November 2026
+
+**Current manuscript:** [six first drafts](../manuscript/chapters/README.md) with **51** planned source IDs integrated into prose; **152** remain planned. Chapters 5 and 6 have [dedicated source-fidelity notes](CHAPTERS_05_06_REVIEW.md); none has received independent human line editing.
+
+**Species/identity cautions:** The source distinguishes Bloodfang, Goldhorn, Nagar Charger, Elder, Berserk, Boar, Bonecrusher, Humpback, Razorback, Thunderhoof, Zeelai, Silvermane, Yowler, Mother Wolf and Redeye. The chapter's field tracker is original novel fiction. Mother Wolf **20110** is **not proven** to be mother of the Redeye **20111**; the draft keeps the pup a separate sighting. The other Nagar are not turned into one hostile army or a chain of obligatory fights.
+
+**Unresolved Aevis crest:** Game `20007` calls the crest royal; world Aevis governance centers Resonance Councils. Chapter 6 keeps the engraved crest but reports the royal association as uncertain merchant language—no new Aevis crown is canonized. Game `20040` describes “dworv tools,” while established world notes older terminology as unresolved; the draft depicts toolmarks without asserting an otherwise invented dworv civilization. The rumored Enchanted Hollow remains separate from the visited Sylvan Sanctuary.
+
+**New game revision:** `096c99bdf5ac` changed only the prose of 20082 and 20083. Chapter 4's letter **H** and newly added fading note were reconciled; 20082 remains pending in Chapter 15. [Reconciliation](SOURCE_RECONCILIATION.md) records exact old/new revision IDs.

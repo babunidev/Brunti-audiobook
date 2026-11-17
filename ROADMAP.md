@@ -15,7 +15,7 @@
 - [x] Propose a primary chapter, delivery mode and unique narrative hook for all 203 encounter IDs ([placement matrix](story/PLACEMENT_MATRIX.md)); **not approved or written**.
 - [x] Keep Blackwood, Everwinter, Hearth, Nereval follow chains and the seven engraved letters intact in the proposed outline.
 - [x] Produce a provisional five-movement, 30-chapter architecture with a high-level geographic itinerary.
-- [x] Reconcile three newer game prose snapshots: 19 + 5 + 1 text-only changes; no changed encounter IDs or follow links.
+- [x] Reconcile four newer game prose snapshots: 19 + 5 + 1 + 2 text-only changes; no changed encounter IDs or follow links.
 - [x] Draft the character arcs, non-villain opposing pressures, local craft mystery and a 30-chapter [causal chain](story/CAUSAL_CHAIN.md).
 - [x] Draft [109 scene briefs](story/scenes/README.md) across 30 chapters; place all 203 source encounters exactly once in a planned scene, preserving source modes.
 - [x] Create a [scene continuity register](docs/SCENE_CONTINUITY.md) documenting checked canon constraints, source sequences, travel/character fixes and unresolved issues.
@@ -25,9 +25,9 @@
 
 ## Stage 3 — novel manuscript (underway; first-draft, not editorially approved)
 
-- [x] Draft numbered [Chapters 1–4](manuscript/chapters/README.md) as clean novel prose under delegated drafting authority; 13,468 words including chapter headings; **27 source encounter adaptations** in Chapters 2–4.
-- [x] Reread the five complete Chapter 2 encounter descriptions and 22 complete Chapter 3–4 descriptions; record lore/physical/seasonal discrepancies and attribution in the [opening review](docs/MANUSCRIPT_REVIEW.md) and [Vale review](docs/CHAPTERS_03_04_REVIEW.md).
-- [ ] Draft and independently review Chapters 5–30 and remaining **176** planned encounter adaptations.
+- [x] Draft numbered [Chapters 1–6](manuscript/chapters/README.md) as clean novel prose under delegated drafting authority; **21,197 words** including headings; **51 source encounter adaptations** in Chapters 2–6.
+- [x] Reread the five complete Chapter 2, 22 Chapter 3–4 and 24 Chapter 5–6 game encounter descriptions, with relevant world articles; document source/lore tensions in the [opening review](docs/MANUSCRIPT_REVIEW.md), [Vale review](docs/CHAPTERS_03_04_REVIEW.md), and [forest review](docs/CHAPTERS_05_06_REVIEW.md).
+- [ ] Draft and independently review Chapters 7–30 and remaining **152** planned encounter adaptations.
 - [ ] Revise all chapters into a complete, coherent literary narrative; independent human editorial approval outstanding.
 - [ ] Verify all **203** encounter integrations, full continuity, canonical constraints and prose quality in the finished manuscript.
 

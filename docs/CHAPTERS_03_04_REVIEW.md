@@ -62,3 +62,7 @@
 **Source-text comparison performed for:** all 22 game records listed above and the selected world entries. This is a *draft fidelity check*, **not an independent editorial sign-off** or full word-by-word assurance of final manuscript adaptation quality. Entire novel still requires a location-by-location route map, consistency pass, reader/audio pacing review, human creative acceptance and chapter-by-chapter revision.
 
 **Current totals for the book:** **4 draft chapters**, **27 encounter IDs integrated into prose** (**5 previously in chapter 2 + 22 here**), **176 planned**, **0 independently editorial-verified**. No audio produced and no canonical world changes.
+
+## Later source addendum — 17 November 2026
+
+The game source advanced to [`096c99bdf5ac`](https://github.com/babunidev/Morkahja/blob/096c99bdf5ac8af5174b26a337914f573263ab72/server/game/encountersdata.json), revising **20083 Enchanted Gardens** without changing the engraved **H**. The revised source ends the garden's earlier chorus and magical flicker with a **solitary note**. [Chapter 4](../manuscript/chapters/04-letters-without-a-word.md) now includes that note before Brunti copies the letter. The corrected Chapter 4 count is **3,714 words including heading**. The other new change, **20082 Alluring Fens**, is not assigned to Chapters 3–4. Previous source-review and book-wide totals above are preserved as historical values **at the time of that review**; the [current index](../manuscript/chapters/README.md) is authoritative for present draft coverage.

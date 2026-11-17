@@ -64,3 +64,13 @@ These are AI-authored first drafts under delegated creative direction, not autho
 - Added detailed Chapter 3–4 source review and updated manuscript index, source-status matrix, roadmap and development journal.
 
 No audio, world-canon changes or independent editorial approval are claimed.
+
+## 2026-11-17 — Draft Chapters 5–6 and reconcile the next source revision
+
+- Wrote first-draft prose for **The Lives of the Vale** (3,825 words) and **Under Eldertree** (3,871 words).
+- Integrated **24 additional game encounter IDs**, including differentiated Nagar reports, a real encounter with Mother Wolf, Aevis craft objects and two distinct forest refuges.
+- Added [Chapters 5–6 fidelity review](docs/CHAPTERS_05_06_REVIEW.md), noting the Aevis crest / governing culture tension and unresolved “dworv” reference.
+- Compared game source `096c99bdf5ac` against the previous reviewed source: **two prose-only edits**, IDs **20082** and **20083**. Revised Chapter 4 to include 20083's final garden note without changing the **H** clue.
+- Updated manuscript, scene briefs, encounter coverage matrix and project records: **six chapters**, **21,197 words**, **51 draft-adapted IDs**, **152 planned**.
+
+No game/world canon files, recorded audiobook, author-approved final manuscript, or audio-production output changed.

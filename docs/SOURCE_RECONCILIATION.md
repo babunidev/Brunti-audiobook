@@ -42,3 +42,12 @@ The subsequent [game `main` at `13a5d134c8e6`](https://github.com/babunidev/Mork
 Both sources contain exactly **203 encounters**. No record ID, title, follow link or gameplay metadata changed. The five encounters in the **Chapter 2 manuscript draft** (20015, 20018, 20055, 20056, 20128) were unchanged. The literary working source baseline is now `13a5d134c8e63855894436e4f1b09910c5c50b95`.
 
 **Original atlas remains pinned to its historical source snapshot.** This update is source comparison, not a full literary re-edit of all 203 descriptions. The game repository has not been modified.
+
+## Fourth source update — 17 November 2026
+
+A per-ID per-field comparison between [game `13a5d134c8e6`](https://github.com/babunidev/Morkahja/blob/13a5d134c8e63855894436e4f1b09910c5c50b95/server/game/encountersdata.json) (blob `71f490d7ef70f916c896e6f3f78fe247ccfd8a34`) and [game `096c99bdf5ac`](https://github.com/babunidev/Morkahja/blob/096c99bdf5ac8af5174b26a337914f573263ab72/server/game/encountersdata.json) (blob `04403ba5be5a3e00501d8c3078edde0b5edc9557`) found exactly **two additional `mEncounterText` changes**, with **203 unchanged IDs, titles and other fields**.
+
+- **20082 — Alluring Fens:** revised and expanded the delicate singing across mist, black water, mossy trees and distant shifting melody. This remains planned for Chapter 15; use the updated description there.
+- **20083 — Enchanted Gardens:** expanded flower and twilight atmosphere; the deliberate **H** remains unchanged, but a **solitary note** now follows the garden's brief silence after the magical flicker. The drafted [Chapter 4](../manuscript/chapters/04-letters-without-a-word.md) was amended accordingly, without changing letter order or explanation.
+
+The cumulative literary source-review differences from the atlas are **19 + 5 + 1 + 2**, all prose-only at their respective updates. Current reviewed source baseline: `096c99bdf5ac8af5174b26a337914f573263ab72`. The 24 encounter descriptions drafted in Chapters 5 and 6 were read from this same revision. Neither the original game nor the established world repository was changed by audiobook development.
