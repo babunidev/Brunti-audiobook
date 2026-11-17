@@ -170,11 +170,13 @@ Her expression changed. The light beneath her skin drew inward, becoming steadie
 
 “Come inside. Tell me after you've warmed.”
 
-The smell of stew met them at the threshold.
+The comforting smell of stew met them at the threshold, mingled with wood smoke and a faint sweetness of dried herbs.
 
-A great pot hung over a hearth whose coals glowed beneath iron bars. The room held shelves of rations, old lanterns, knitted mittens and bundles of preserved food. Fur-lined cloaks lined the far wall. Several travelers were seated near the fire, their boots steaming in the warmth. On a long counter lay a ledger, a folded road map and a single clean bowl.
+A great pot hung over a hearth where wood crackled above glowing coals beneath iron bars. The room held shelves of rations, old lanterns, knitted mittens and bundles of preserved food. Fur-lined cloaks lined the far wall. Several travelers were seated near the fire, their boots steaming in the warmth. On a long counter lay a ledger, a folded road map and a single clean bowl.
 
-The keeper lifted the pot's lid. Steam briefly concealed her glowing eyes.
+The keeper lifted the pot's heavy lid. Steam briefly concealed her glowing eyes. She gave the contents a gentle stir.
+
+“Ah, nearly ready,” she murmured.
 
 “I'm Aksa,” she said when it cleared. “Don't put your wet gloves on the dry papers.”
 
@@ -184,7 +186,7 @@ Velen had been reaching for the counter. They withdrew their hand.
 
 “Your fingers were.”
 
-Aksa wiped a place clean and motioned for them to sit.
+Aksa set a clean wooden bowl beside the hearth, where firelight danced over its polished rim. Then she wiped a place clean and motioned for them to sit.
 
 The stew contained roots, pale beans, winter herbs and pieces of something Brunti could not identify by scent. She had known Grimnir cooks who could make stone minerals taste faintly of pears, but no one at home had cooked with the restrained heat that a Rokur carried so naturally into a room. Aksa tended the stove carefully, neither feeding it too much nor allowing its warmth to drop.
 
