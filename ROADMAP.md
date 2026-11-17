@@ -25,9 +25,9 @@
 
 ## Stage 3 — novel manuscript (underway; first-draft, not editorially approved)
 
-- [x] Draft numbered [Chapters 1–10](manuscript/chapters/README.md) as clean novel prose under delegated drafting authority; **36,849 words** including headings; **78 source encounter adaptations** in Chapters 2–10.
-- [x] Reread the five complete Chapter 2, 22 Chapter 3–4 and 24 Chapter 5–6 game encounter descriptions, with relevant world articles; document source/lore tensions in the [opening review](docs/MANUSCRIPT_REVIEW.md), [Vale review](docs/CHAPTERS_03_04_REVIEW.md), and [forest review](docs/CHAPTERS_05_06_REVIEW.md), and [Liani/belonging review](docs/CHAPTERS_07_08_REVIEW.md). The 16 full source descriptions assigned to Chapters 7–8, **5** assigned to Chapter 9 and **6** assigned to Chapter 10 were reread and compared with prose. See [Chapter 9](docs/CHAPTER_09_REVIEW.md) and [Chapter 10](docs/CHAPTER_10_REVIEW.md) reviews for geographic/lore/follow-link constraints.
-- [ ] Draft and independently review Chapters 11–30 and remaining **125** planned encounter adaptations.
+- [x] Draft numbered [Chapters 1–11](manuscript/chapters/README.md) as clean novel prose under delegated drafting authority; **42,044 words** including headings; **83 source encounter adaptations** in Chapters 2–11.
+- [x] Reread the five complete Chapter 2, 22 Chapter 3–4 and 24 Chapter 5–6 game encounter descriptions, with relevant world articles; document source/lore tensions in the [opening review](docs/MANUSCRIPT_REVIEW.md), [Vale review](docs/CHAPTERS_03_04_REVIEW.md), and [forest review](docs/CHAPTERS_05_06_REVIEW.md), and [Liani/belonging review](docs/CHAPTERS_07_08_REVIEW.md). The 16 full source descriptions assigned to Chapters 7–8, **5** assigned to Chapter 9 and **6** assigned to Chapter 10, plus **5** assigned to Chapter 11, were reread and compared with prose. See the [Chapter 9](docs/CHAPTER_09_REVIEW.md), [Chapter 10](docs/CHAPTER_10_REVIEW.md), and [Chapter 11](docs/CHAPTER_11_REVIEW.md) reviews for geographic, lore, and drafting limits.
+- [ ] Draft and independently review Chapters 12–30 and remaining **120** planned encounter adaptations.
 - [ ] Revise all chapters into a complete, coherent literary narrative; independent human editorial approval outstanding.
 - [ ] Verify all **203** encounter integrations, full continuity, canonical constraints and prose quality in the finished manuscript.
 

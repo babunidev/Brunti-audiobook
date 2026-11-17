@@ -1,6 +1,6 @@
 # Movement II — scene briefs v1
 
-**Status:** working novel-scene design under delegated literary authorship. **Chapters 5–10 have been written as [first-draft manuscript prose](../../manuscript/chapters/README.md)**; Chapters 11–12 remain planned. The scene briefs are not themselves manuscript prose or a verified canon update. **Encounter source:** game prose reviewed at `5b0d73e550ca` and later `mEncounterText` revisions at `e0bc99c51c74`, `13a5d134c8e6`, `096c99bdf5ac`, `734f439b1699` and `ad34afb686ef` (see [source reconciliation](../../docs/SOURCE_RECONCILIATION.md)). Scene routes, new dialogue and consequences are novel fiction. [Story spine](../STORY_SPINE.md) · [Placement matrix](../PLACEMENT_MATRIX.md) · [Continuity register](../../docs/SCENE_CONTINUITY.md).
+**Status:** working novel-scene design under delegated literary authorship. **Chapters 5–11 have been written as [first-draft manuscript prose](../../manuscript/chapters/README.md)**; Chapter 12 remains planned. The scene briefs are not themselves manuscript prose or a verified canon update. **Encounter source:** game prose reviewed at `5b0d73e550ca` and later `mEncounterText` revisions at `e0bc99c51c74`, `13a5d134c8e6`, `096c99bdf5ac`, `734f439b1699` and `ad34afb686ef` (see [source reconciliation](../../docs/SOURCE_RECONCILIATION.md)). Scene routes, new dialogue and consequences are novel fiction. [Story spine](../STORY_SPINE.md) · [Placement matrix](../PLACEMENT_MATRIX.md) · [Continuity register](../../docs/SCENE_CONTINUITY.md).
 
 **How to use:** Each scene has an actionable turn and listed source IDs. “Lived,” “Testimony,” “Archive,” and “Metaphor” come from the still-provisional matrix. Individual encounter hooks must be dramatized when writing; a catalog mention alone is never finished adaptation. The mini-cues below preserve the distinct source identity of each assigned record.
 
@@ -288,7 +288,7 @@ Markets, food and patient bargaining ground Aetherion before any grand revelatio
 
 #### 11.2 — Books that remember voices
 
-In the Archive of Echoes the dead authors' words survive in books, not as free-speaking omniscient spirits. Velen locates a torn drawing of a casing built for **two** memorial stones.
+In the Archive of Echoes the dead authors' words survive in books, not as free-speaking omniscient spirits. Velen locates a **torn drawing of two intended stone positions beneath a shared casing**, with a partial transport-sign fragment. It supports a two-component hypothesis but does **not** yet identify Brunti's specific stones, the maker, or a repair method.
 
 **Turn:** Brunti now has evidence for the local composite join, but no maker's name or safe repair formula.
 
@@ -309,7 +309,7 @@ A Rokur forge's hammers and a harmonic concert give two different ideas of colla
 
 The Garden of Elements misses a beat. Brunti wants to connect it to the Skyland wall; Velen identifies the resemblance as analogy, not proof.
 
-**Turn:** Brunti chooses to take the incomplete drawing north to verify method, not to assert a world-spanning signal.
+**Turn:** Brunti carries a **measured copy** of the incomplete drawing and source citations (the fragile original remains at the archive); Velen requests research leave but has **not yet been granted it**. The garden's anomaly remains separate from the memorial.
 
 **Source encounters:** 
   - **20184 — Garden of Elements** (*Lived*): elemental garden misses its rhythm.

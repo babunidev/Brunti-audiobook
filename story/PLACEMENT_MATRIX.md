@@ -1,10 +1,10 @@
 # Encounter placements — source-to-manuscript progress matrix
 
-**Status:** **203 distinct encounters assigned, 0 omitted; 78 adapted into first-draft prose across chapters 2–10, 125 remain planned, and none is independently editorial-verified.** The game data and world archive remain authoritative for source detail. The mode is an editorial possibility: **Lived** is staged before Brunti, **Testimony** comes from another speaker, **Archive** is something Brunti learns from a record, and **Metaphor** translates a game-system label without staging that label as fiction.
+**Status:** **203 distinct encounters assigned, 0 omitted; 83 adapted into first-draft prose across chapters 2–11, 120 remain planned, and none is independently editorial-verified.** The game data and world archive remain authoritative for source detail. The mode is an editorial possibility: **Lived** is staged before Brunti, **Testimony** comes from another speaker, **Archive** is something Brunti learns from a record, and **Metaphor** translates a game-system label without staging that label as fiction.
 
 **Reviewed prose baseline:** [Morkahja encounters at ad34afb686ef](https://github.com/babunidev/Morkahja/blob/ad34afb686efa017cd43ffeccc554afb43d79b22/server/game/encountersdata.json). The first atlas was indexed from an earlier revision; [19, then 5, then 1, then 2, then 1, then 1 text-only changes were reconciled](../docs/SOURCE_RECONCILIATION.md).
 
-A primary placement alone is **not a claim that the scene is already in the book**. The final column identifies which encounter IDs have actually been translated into draft prose, not which have passed editorial review. See the [Chapters 1–2 review](../docs/MANUSCRIPT_REVIEW.md) and [Chapters 3–4 review](../docs/CHAPTERS_03_04_REVIEW.md), and [Chapters 5–6 review](../docs/CHAPTERS_05_06_REVIEW.md), and [Chapters 7–8 review](../docs/CHAPTERS_07_08_REVIEW.md), and [Chapter 9 review](../docs/CHAPTER_09_REVIEW.md), and [Chapter 10 review](../docs/CHAPTER_10_REVIEW.md). A location-specific encounter included as testimony does not mean Brunti traveled there. Refer to [outline](OUTLINE_V1.md), [source atlas](ENCOUNTER_ATLAS.md), and [literary survey](LITERARY_SURVEY.md).
+A primary placement alone is **not a claim that the scene is already in the book**. The final column identifies which encounter IDs have actually been translated into draft prose, not which have passed editorial review. See the [Chapters 1–2 review](../docs/MANUSCRIPT_REVIEW.md) and [Chapters 3–4 review](../docs/CHAPTERS_03_04_REVIEW.md), and [Chapters 5–6 review](../docs/CHAPTERS_05_06_REVIEW.md), and [Chapters 7–8 review](../docs/CHAPTERS_07_08_REVIEW.md), and [Chapter 9 review](../docs/CHAPTER_09_REVIEW.md), and [Chapter 10 review](../docs/CHAPTER_10_REVIEW.md), and [Chapter 11 review](../docs/CHAPTER_11_REVIEW.md). A location-specific encounter included as testimony does not mean Brunti traveled there. Refer to [outline](OUTLINE_V1.md), [source atlas](ENCOUNTER_ATLAS.md), and [literary survey](LITERARY_SURVEY.md).
 
 | ID | Encounter | Chapter | Form | Particular literary use | Manuscript status |
 | ---: | --- | --- | --- | --- | --- |
@@ -80,7 +80,7 @@ A primary placement alone is **not a claim that the scene is already in the book
 | 20059 | Rokur Blacksmith | [9](OUTLINE_V1.md) | Testimony | Rokur smith too weary to work | **Draft v1, ch. 9** |
 | 20060 | Verdani Treasury | [9](OUTLINE_V1.md) | Lived | Verdani binds pages and shares tea | **Draft v1, ch. 9** |
 | 20061 | Frostwind Junkyard | [17](OUTLINE_V1.md) | Lived | Frostwind junkdealer's oddments | Planned |
-| 20062 | Market of Aetherion | [11](OUTLINE_V1.md) | Lived | Aetherion market bustle | Planned |
+| 20062 | Market of Aetherion | [11](OUTLINE_V1.md) | Lived | Aetherion market bustle | **Draft v1, ch. 11** |
 | 20063 | Ancient Inscription | [14](OUTLINE_V1.md) | Lived | weathered temple disc | Planned |
 | 20064 | Altar of Umbrael | [12](OUTLINE_V1.md) | Testimony | Umbrael altar's quiet invitation | Planned |
 | 20065 | Zeelai Feline | [5](OUTLINE_V1.md) | Testimony | Zeelai's unstable feline form | **Draft v1, ch. 5** |
@@ -198,10 +198,10 @@ A primary placement alone is **not a claim that the scene is already in the book
 | 20178 | Sylvan Rune Gateway | [24](OUTLINE_V1.md) | Lived | root-bound rune gateway | Planned |
 | 20179 | Roarback Mauler | [24](OUTLINE_V1.md) | Lived | Roarback strips bark | Planned |
 | 20180 | Gloomweaver Colossus | [24](OUTLINE_V1.md) | Lived | Colossus rises from root tangles | Planned |
-| 20181 | The Archive of Echoes | [11](OUTLINE_V1.md) | Lived | books speak with authorial voices | Planned |
-| 20182 | Aetherion Forge | [11](OUTLINE_V1.md) | Lived | Rokur forges in elemental city | Planned |
-| 20183 | Harmonic Concert | [11](OUTLINE_V1.md) | Lived | concert gathers harmonies | Planned |
-| 20184 | Garden of Elements | [11](OUTLINE_V1.md) | Lived | elemental garden misses its rhythm | Planned |
+| 20181 | The Archive of Echoes | [11](OUTLINE_V1.md) | Lived | books speak with authorial voices | **Draft v1, ch. 11** |
+| 20182 | Aetherion Forge | [11](OUTLINE_V1.md) | Lived | Rokur forges in elemental city | **Draft v1, ch. 11** |
+| 20183 | Harmonic Concert | [11](OUTLINE_V1.md) | Lived | concert gathers harmonies | **Draft v1, ch. 11** |
+| 20184 | Garden of Elements | [11](OUTLINE_V1.md) | Lived | elemental garden misses its rhythm | **Draft v1, ch. 11** |
 | 20185 | Earthsinger's Challenge | [3](OUTLINE_V1.md) | Lived | Earthsinger offers challenge | **Draft v1, ch. 3** |
 | 20186 | Melody's Bloomwalker | [4](OUTLINE_V1.md) | Lived | Bloomwalker sings along path | **Draft v1, ch. 4** |
 | 20187 | Ember's Journeykindler | [10](OUTLINE_V1.md) | Lived | fire-born pilgrim coughs smoke | **Draft v1, ch. 10** |

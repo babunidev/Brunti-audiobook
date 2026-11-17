@@ -860,7 +860,7 @@ That evening they stood beneath the high windows of the archive while the city l
 
 Aetherion sounded different after dark. The markets softened into conversation. From the Ember Wards came the distant ring of tools being put away, though some forges continued working. Wind passed through the towers of Skyspire Heights, carrying a faint chime. Along the Crystal Canals, water moved beneath bridges and returned in cool echoes.
 
-Velen had gone inside to finish their request. Sira waited beside Brunti with her messages safely tied in their bag.
+Velen had gone inside to finish their request. Sira waited beside Brunti with her messages safely tied in her bag.
 
 “Will they come?” Brunti asked.
 

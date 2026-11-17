@@ -102,3 +102,11 @@ ChatGPT (**GPT-6**) wrote [The Shelter Beyond the Veil](../manuscript/chapters/1
 The latest game source changed only **20085 Bucolic Dale** prose, adding a small animal climbing the **J** stone and jumping away through scattered petals; Chapter 4 was updated to follow that detail. The original letter **J** and overall **A H K J O M A** clue remain intact.
 
 **Current source-to-prose status:** **203 unique source IDs, 78 drafted, 125 planned, none editorially independently verified**. **10 full first-draft chapters, 36,849 words including headings**. No audio or game/world-canon files were changed.
+
+## Chapter 11 — civic collaboration and an incomplete archival lead (17 November 2026)
+
+ChatGPT (**GPT-6**) wrote [The City of Listening](../manuscript/chapters/11-the-city-of-listening.md) as **5,195 words** of clean first-draft novel prose. The five complete source encounter descriptions **20062, 20181–20184** were read from the same unchanged game snapshot (`ad34afb686ef`) and integrated as separate **direct visits** to Aetherion's Market, Archive, Forge, Concert and Garden. [Chapter 11 source review](CHAPTER_11_REVIEW.md) documents each source feature, world boundaries and invented fiction.
+
+Original literary development: **Velen**, the Aevis cataloguer, finds a damaged, source-compatible **two-compartment restoration drawing** and prepares a measured copy with attribution; a Rokur forge illustrates acoustic coupling but proves no specific memorial solution; a concert holds distinct voices together; the Garden's faltering rhythm is **not declared** to share the Skyland wall's cause. Velen's travel leave is only **requested**, not yet approved. No game record, world-canon article or narrator track was changed.
+
+**Coverage now:** **203 unique source encounters; 83 in first-draft prose; 120 planned; 0 independently editorial-verified. Manuscript: 11 chapters / 42,044 words including headings.**

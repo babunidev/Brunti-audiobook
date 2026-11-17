@@ -104,3 +104,12 @@ Current state: **9 first-draft chapters, 31,741 words, 72 encounter IDs adapted,
 - Updated [Chapter 10 source review](docs/CHAPTER_10_REVIEW.md), source log, 203-row progress matrix, manuscript index, scene brief, continuity record, roadmap and creative development journal.
 
 **Recorded status:** **10 first-draft chapters, 36,849 words including headings, 78 encounters integrated into prose, 125 still planned, zero independently editorial-verified**. No published/audio/canonical game or world changes.
+
+## 2026-11-17 — Draft Chapter 11: Aetherion and the incomplete memorial diagram
+
+- Wrote **The City of Listening**, **5,195 words** including heading, integrating Aetherion's Market (**20062**), Archive (**20181**), Forge (**20182**), Harmonic Concert (**20183**) and Garden (**20184**) as five distinct direct scenes.
+- Introduced novel-only archivist **Velen**, a torn two-position memorial-restoration diagram and documented copy/citation process; the diagram **does not prove** the panel's identity, name its makers or provide a complete repair.
+- Preserved the Garden's **unresolved, separate** elemental anomaly and the concert's prophecy theme as a tradition, not asserted future truth.
+- Added [Chapter 11 source and continuity review](docs/CHAPTER_11_REVIEW.md), updated the 203-ID draft matrix, chapter index, roadmap, scene state and all development/decision records.
+
+**Current working status: 11 prose-first-draft chapters, 42,044 words, 83 encountered IDs adapted, 120 planned, none independently editorial-verified.** No audio production or game/world canon edit.
