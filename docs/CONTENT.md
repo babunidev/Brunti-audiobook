@@ -136,3 +136,13 @@ The previous chapter's party split is resolved by Brunti and Velen **rejoining S
 A full source diff between game `ad34afb686ef` and `e826fa46d3ff` found **eight `mEncounterText`-only edits** (20086–20093) and unchanged 203 IDs/metadata/follow links. Five Chapter 4 source passages and three Chapter 5 Nagar reports were rephrased to reflect the descriptions. Their updated counts are **3,895 and 3,900 words**; seven carved letters remain **A H K J O M A**. [Diff record](SOURCE_RECONCILIATION.md).
 
 **Current draft coverage:** **203 unique encounter IDs**, **101 adapted**, **102 still planned**, **0 independently editorial-verified**. Novel manuscript **14 first-draft chapters / 58,041 words including headings / 57,958 prose-only**. No audio publication or game/world changes.
+
+## Chapter 15 — five lived Karrhu scenes, one attributed central-land song (17 November 2026)
+
+ChatGPT (**GPT-6**) authored [Beneath the Reeds](../manuscript/chapters/15-beneath-the-reeds.md) as **4,914 words of actual first-draft novel prose** under Babuni's delegated literary direction. The game source [`92b97aef8706`](https://github.com/babunidev/Morkahja/blob/92b97aef8706dabfcd8d8d80c0477a70e3336097/server/game/encountersdata.json) was read for **all six assigned encounters** (20037, 20038, 20057, 20077, 20082, 20116). Five are **Lived**; the Alluring Fens are **Testimony** from a person passing through **central lands**, rather than relocated into Karrhu. [Source scene review](CHAPTER_15_REVIEW.md).
+
+Direct action includes the Inferno Duck's fire, Aradia's still dangerous venom, **Leta's** hunger and reunion with her aunt by a supported crossing, a living red-eyed huge fly inside Flytrap Grotto and a locally approved hazard notice, and the unclaimed mystery of the Quicksilver pool. The company uses actual causeways and ferry stages. At chapter end a courier delivers **separate** packets to Velen and Sira, but **Sira remains physically with the trio**. Novel-only ferryman/keeper/guide and the child's family are not game-canon additions.
+
+The game source moved from `e826fa46d3ff` to `92b97aef8706` with **exactly five `mEncounterText` updates (20094–20098)**, all reconciled in old first-draft Chapters 5 and 7 without new source IDs or follow-link changes. Their new lengths: Chapter 5 **4,044 words**, Chapter 7 **3,554**. [Source reconciliation](SOURCE_RECONCILIATION.md).
+
+**Current project:** **203 distinct assigned encounter IDs, 107 adapted as first-draft prose, 96 planned, 0 independently editorial-verified**, manuscript **15 chapters / 63,149 words including headings / 63,061 prose-only**. No audio, releases or changes to the game or world source files.

@@ -142,3 +142,13 @@ Current state: **9 first-draft chapters, 31,741 words, 72 encounter IDs adapted,
 - Added [Chapter 14 review](docs/CHAPTER_14_REVIEW.md) and source reconciliation; updated literary index, 203-ID coverage matrix, scene status, roadmap, decisions, continuity and development record.
 
 **Working status:** **14 first-draft chapters, 58,041 words including headings, 101 source encounter adaptations, 102 planned, none independently editorial-verified.** No narrated audio, release or canonical game/world change.
+
+## 2026-11-17 — Chapter 15, Karrhu, and five more source corrections
+
+- Wrote [**Beneath the Reeds**](manuscript/chapters/15-beneath-the-reeds.md), **4,914 first-draft words**, incorporating **five directly lived** Karrhu encounters **20037, 20038, 20057, 20077, 20116** and **one testified** central-land encounter **20082 Alluring Fens**.
+- Staged the Inferno Duck's real fire, Aradia's venom, hungry Verdani girl **Leta's** rescue and reunion, the still-dangerous Flytrap Grotto with community-approved warning signage, and the unverified Quicksilver reflections. Alluring Fens remains a **distinct central-land place**, not a Karrhu site.
+- Preserved ordinary overland/ferry geography, continued independent Velen/Sira letter routes, and left Sira **with** the other two at the Karrhu ferry house when Chapter 15 ends.
+- Compared current game `92b97aef8706` to previous `e826fa46d3ff`: only **five `mEncounterText` changes, 20094–20098**, unchanged 203 IDs and metadata. Reconciled **Chapter 5 to 4,044 words** (three Nagar, Yowler) and **Chapter 7 to 3,554** (Common Chest); no altered game/canon files.
+- Updated [Chapter 15 source review](docs/CHAPTER_15_REVIEW.md), [source diff](docs/SOURCE_RECONCILIATION.md), 203-ID placement matrix, scene plan, chapter index, roadmap, creative journal, decisions and continuity.
+
+**Current record:** **15 first-draft chapters / 63,149 words including headings / 107 integrated encounter IDs / 96 planned / 0 independently editorial-verified**. No recorded audio, rights approval or publication.
