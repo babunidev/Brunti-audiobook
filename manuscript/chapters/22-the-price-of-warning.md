@@ -392,6 +392,112 @@ They followed the water.
 
 ***
 
+The creek was shallow for most of its length, but where it passed beneath an uprooted tree the channel widened into a dark pool. The banks were soft with mud, and half the stones on the near side were slick beneath their covering of moss.
+
+Varun took one look at the crossing.
+
+“This is new.”
+
+“How new?” Velen asked.
+
+“The stream used to pass to the left of that trunk.”
+
+“Recently new, then.”
+
+“I would say so.”
+
+The tree had fallen across the old channel, forcing the water through a gap between its exposed roots and a shelf of stone. The water ran faster there, undermining the ground where travelers would normally have crossed.
+
+Brunti examined the fallen trunk. Its bark had split in the fall, leaving a pale wound along one side. A few branches still held living leaves.
+
+“Could we walk across it?” Sira asked.
+
+“Not with the supplies,” Varun said. “It rocks at the far end.”
+
+Brunti tested the shelf with her heel. Gravel slid into the water. The stream was not deep, but the narrow dark run beneath the roots carried bits of leaf litter out of sight. Anyone stepping there might lose their footing, and a pack would make the fall worse.
+
+She unfastened the small hammer from her belt.
+
+Velen looked at her.
+
+“Are you going to mend a river?”
+
+“No. Just one crossing.”
+
+She found two flat stones on the higher bank, each heavy enough to remain stable beneath a traveler. One had a broad face and a rough underside. The other was wedge-shaped, suitable for bracing against the first. She carried them down to the narrowest part of the pool and set the broad stone beside the exposed shelf.
+
+The water rose along its edge.
+
+Brunti waited for the current to settle before placing the wedge. Its point met a solid part of the old rock, not the loose gravel beneath the tree.
+
+She stepped back.
+
+“Try it without your pack,” she told Varun.
+
+The guide put one foot onto the stone, shifted his weight and listened. The stone did not move. He crossed to the far side, then returned to test the other direction.
+
+“It's sound enough,” he said. “For careful feet.”
+
+Sira approached the water and studied its dark surface. In her home, she could often read a change in flow before anyone else noticed it. Here the stream carried a dull greenish tinge. Something beneath her watery skin tightened.
+
+“I wouldn't put a hand in that,” she said.
+
+Brunti looked at her.
+
+“Because of the mud?”
+
+“Because I don't know what else is in it.”
+
+They crossed without touching the current. Varun went first and took the lighter bundle. Velen passed their papers to him and came next, moving slowly along the narrow stones. Sira followed, lifting her robe clear of the wet bank. Brunti crossed last with the heavy supplies and checked that the stones remained where she had set them.
+
+On the far side, she looked back at the uprooted tree.
+
+Its roots lay bare, but the new crossing did not press against them. The stream could continue around the obstruction until someone came with proper tools to restore the old channel.
+
+Velen sat on a dry rock to make a quick sketch.
+
+“Are you marking our route?”
+
+“Yes. And the crossing.”
+
+“For the relief station?”
+
+“For anyone who comes after us.”
+
+Brunti regarded the drawing.
+
+“You'll have to say it's temporary.”
+
+“I have written temporary.”
+
+“And that the water looks wrong.”
+
+“I have written that too.”
+
+Sira leaned over the page.
+
+“Did you write that the little stone almost slid before Brunti found the solid shelf?”
+
+Velen looked up.
+
+“Why?”
+
+“Because someone who comes here with fewer tools might try the gravel and think the whole crossing is safe.”
+
+Velen added the warning.
+
+Varun watched them in silence for a moment, then tore a narrow strip from an old piece of cloth. He tied it to a low branch beside the path.
+
+“One mark for a passable ford,” he said. “Not a promise. The water can change by morning.”
+
+As they resumed the trail, Brunti thought of the merchant's button and his loudly announced ancient charm. A person could charge a good price for a warning, and a warning could still be worth very little. Here they had made a crossing, recorded its limits, and left a marker that someone else could choose to trust or question.
+
+No one had asked for payment.
+
+The creek slipped away beneath the roots behind them.
+
+***
+
 By late afternoon the forest had changed its sound again.
 
 The creek ran shallow beneath a greenish canopy. Its water smelled of wet stone and decaying leaves. Farther on, the channel narrowed into a culvert built under an old supply path. Velen checked the position against Ivera's directions, and Varun tested the footing.
