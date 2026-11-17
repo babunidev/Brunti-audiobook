@@ -460,7 +460,7 @@ A stag.
 
 Its coat was alabaster pale, and frost crystals shone along its ethereal antlers. An azure arrow trembled in its flank. With each difficult breath, the shaft shifted and shed faint blue light across the fur.
 
-The stag held its head high. One foreleg quivered.
+The stag lowered its head as the wounded leg began to buckle. For a moment its weight dipped toward the snow; then it steadied itself without falling. The translucent arrow pulsed cold blue in its flank, scattering faint reflections across the drift beside it. Frost crystals trembled along its great antlers.
 
 Brunti forgot the summit.
 
@@ -468,7 +468,7 @@ She began down the slope carefully, keeping far enough to avoid startling the an
 
 The stag watched them approach.
 
-Its eyes were dark and steady. A cloud of breath gathered at its muzzle, then thinned into the still air. When it turned its head toward Brunti, the arrow moved and its foreleg trembled again.
+Its eyes were dark and steady, with a faint radiance gathering near their edges. A cloud of breath gathered at its muzzle, then thinned into the still air. When it turned its head toward Brunti, the arrow moved and its foreleg trembled again.
 
 “Don't touch the shaft,” Enna said softly.
 
