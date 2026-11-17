@@ -1,0 +1,509 @@
+# Chapter Seven — Things That Are Kept
+
+The fastening was still holding.
+
+Brunti discovered this before she had properly woken, when she reached into her satchel for the little bent brace and felt the new knot on her tool roll instead. It was the same kind of knot she had used on the keeper’s wooden marker the evening before, made with enough give to let the cord move without slipping.
+
+She lay quietly in the green light of the Sylvan Sanctuary.
+
+The moss along the cave wall had not changed. Outside, water ran somewhere among the trees. Sira had already risen and was sitting at the entrance, sorting the messages in her traveling bag.
+
+“You have counted those three times,” Brunti said.
+
+“Four. I dropped one yesterday, and I would rather not do it again.”
+
+“Did you find it?”
+
+“Under your tools.”
+
+Brunti looked at the folded letters, the bindings, the little parcels that carried words entrusted to another person. She had never considered a message a possession in the same way she considered her hammer a possession. A hammer was hers because she had made it. A letter could belong to someone who had not yet seen it.
+
+“Would you open one if you thought it would help you deliver it?” she asked.
+
+Sira’s hand became still on the cloth.
+
+“What kind of help?”
+
+“Knowing what was inside.”
+
+“I already know enough to carry it where it must go.”
+
+“But if you wanted to know more?”
+
+“Then I would ask the sender.”
+
+Brunti considered that.
+
+“Sometimes the sender is gone.”
+
+“Yes,” Sira said. “That is when the question becomes difficult.”
+
+They left the sanctuary as the last of the morning mist lifted from the trees. Brunti fastened her pack, checked the route sketch the keeper had given them, and followed Sira toward a wooded track that would eventually bring them near the public roads.
+
+They had been walking for less than an hour when they found the casket.
+
+It lay beneath young trees near a place where ferns crowded the path. At first it resembled a dark piece of fallen bark. Then a little light caught the carved surface, and the shape emerged from the forest floor.
+
+Brunti knelt.
+
+The casket was made of dark timber. Delicate leaves, small creatures and winding stems followed its sides so closely that the carving seemed to grow with the grain. Wildflowers opened beside it. At the front, a keyhole was hidden among the wooden shapes, small enough that Brunti nearly missed it.
+
+“Verdani work,” Sira said.
+
+“Good work.”
+
+Brunti leaned closer. The keyhole had been cut for a shaped wooden key, not a metal one. Whoever had made the mechanism had known how to keep a fastening delicate without leaving it weak.
+
+“Could you open that?” Sira asked.
+
+“Possibly.”
+
+“You've said that about every closed object we’ve found.”
+
+“I have been correct every time.”
+
+“You haven't opened any of them.”
+
+“Exactly.”
+
+Sira laughed, then grew quiet.
+
+The little casket seemed to have been laid among the ferns rather than discarded. Nothing was broken. The wood had weathered, but its edges were sound, and the flowers growing around it had not been crushed by recent movement.
+
+“Perhaps someone left it here to remember a person,” Sira said.
+
+“Perhaps it holds something they wished to hide.”
+
+“Both could be true.”
+
+Brunti took out her notebook. She drew the casket, the leaves and the concealed keyhole. Where a maker's mark should have been, she found only the grain of the timber.
+
+She could feel how little the drawing would tell anyone who had not seen the thing. Its workmanship belonged to the Verdani, but that did not make the casket Sira's any more than the Grimnir crest on a distant object would make it Brunti's.
+
+They continued along the path without touching the lid.
+
+***
+
+At a sheltered crossing they found a traveler studying a map with the grave expression of someone who had misplaced an entire road.
+
+He was Grimnir, older than Brunti, with pale mineral seams at his wrists and a shoulder plate that had been repaired in three different metals. Two weatherproof cases were strapped to his pack. In one hand he held a rolled sheet of stiff cloth.
+
+“Are you lost?” Sira asked.
+
+“Only where the path used to be,” he said.
+
+Brunti studied the map. Its lines were carefully drawn but old.
+
+“The upper turn has shifted,” she said. “We came from there.”
+
+The traveler looked relieved enough to sit down.
+
+“My name is Teren. I carry drawings between repair workshops. The forest has been taking liberties with my sense of direction all morning.”
+
+He spread out the cloth on a low stone. Most of its markings were routes for traders, but along one edge were sketches of old structures from places farther north. Brunti recognized the severe lines of Grimnir construction and asked about them.
+
+Teren turned the cloth.
+
+“This one came from an icy cavern in the Frostwind Mountains, near the valleys of Deepstone Hollow.”
+
+The drawing showed a broad trunk against rough cave rock. It was made from stone and dark metal, fitted with such precision that the joints seemed to disappear. Frost lay in the carved runes along its edges, and the central lock hid behind a set of interlocking plates.
+
+“Did you see it?” Brunti asked.
+
+“No. A northern surveyor copied it for a workshop that was interested in restoring old fastening patterns. I am carrying the copy to Aetherion.”
+
+Brunti looked at the lock.
+
+“Do you know the key shape?”
+
+“Only that it would have to match the plates. The surveyor had no key and left the trunk shut.”
+
+He showed her another drawing.
+
+This was not a trunk at all. It was an immense vault door worked into the mouth of a northern cave, its face so closely fitted to the stone that its outline almost vanished. Icicles hung above the entrance. Moss and frost clung to the metal bands. At the center was a single opening shaped not for an ordinary key but for a carved keystone made to answer the surrounding design.
+
+“The same place?” Brunti asked.
+
+“Another cave, farther into Deepstone Hollow. Everwinter lies beyond those northern approaches. The surveyor wrote that the cold made the metal difficult to examine.”
+
+Brunti leaned closer. The curves of the vault's central opening were entirely different from the trunk's lock. One object was made to travel, perhaps; the other had been built to remain.
+
+“Who made them?”
+
+“The surveyor believed they were Grimnir work. The proportions make that plausible.”
+
+“Was there a maker’s name?”
+
+“Not on the surviving copy.”
+
+Brunti felt the familiar urge to draw the two objects beside her memorial wall, to compare every fastening and hope that one line might answer the question she carried from home.
+
+She resisted it long enough to ask Teren whether the sketches had any relation to memorial repairs.
+
+“Not that anyone told me,” he said.
+
+Brunti copied the two drawings. She noted the northern locations, the unknown makers, and the fact that Teren himself had not stood before either object.
+
+“They are excellent locks,” she said.
+
+“Excellent for keeping a curious person outside.”
+
+“That is one function of a lock.”
+
+“Another,” Teren replied, “is to let the right person come back.”
+
+The words stayed with Brunti.
+
+They ate together before setting off. Teren had dried roots and a small cake of mineral salt, and Sira shared a little of her remaining fruit. In exchange the old traveler showed them which trail led toward the public road and which led back beneath the oldest growth.
+
+When they parted, Brunti had two northern records and no new claim of ownership.
+
+It was more useful than a chest full of things she could not name.
+
+***
+
+The next chest was plain.
+
+It stood beneath a great tree in a clearing where the light moved slowly over dark polished wood. Its sides were solid and undecorated. The brass lock had dulled with age, and its keyhole was narrow against the broad lid.
+
+Brunti walked around it once.
+
+“No feathers,” Sira said.
+
+“No leaves,” Brunti replied. “No maker's marks either.”
+
+“Does that make it less interesting?”
+
+“Much more difficult to talk about.”
+
+A fallen leaf slid from the curved edge and came to rest beside the chest. Brunti could see no gap beneath the lid and no sign that the fastening had been forced.
+
+She considered the object for a while, then wrote a few lines in her notebook.
+
+Plain wood. Brass lock. Contents unknown.
+
+“That is all?” Sira asked.
+
+“That is all I can say.”
+
+They passed it by.
+
+Later, where the forest opened onto a small meadow, sunlight touched another wooden chest among tall grass. This one was light brown and carved across the lid with little scenes from older days. Some lines showed figures beneath trees. Others had worn so softly that Brunti could no longer tell whether they represented a gathering, a journey or merely a pattern of leaves.
+
+Its brass lock shone more brightly than the surrounding wood.
+
+Brunti crouched to examine the carvings.
+
+“Someone wanted this to be looked at,” she said.
+
+“Perhaps,” Sira replied. “Or perhaps they wanted the person who owned it to remember what was inside.”
+
+Brunti studied a small figure near the edge of the lid.
+
+The carving was scarcely more than a handful of cuts, yet it suggested a traveler standing beside another figure with a pack. She imagined a long road and a meeting at its end.
+
+“Who tells the story?” Sira asked.
+
+“The carving.”
+
+“And who can correct it?”
+
+Brunti looked up.
+
+Sira sat in the grass opposite her.
+
+“The people who were there, if any remain,” Brunti said.
+
+“And if they do not?”
+
+“Then whoever finds the chest must admit that the story is incomplete.”
+
+Sira nodded.
+
+Brunti traced the air above the worn figure without touching it.
+
+She thought of the memorial stones at home. The echoes they kept were not whole lives. The old memory-keeper had never told the young apprentices that they were. She had asked them to listen, then offered names and stories that other people still carried.
+
+Perhaps the wall could be moved safely.
+
+The thought came quietly, without defeating her.
+
+She wrote down the little carved figures and the place where the chest lay. Then she stood, leaving the brass lock untroubled.
+
+***
+
+The Tranquil Glade arrived like a small clearing of breath within the trees.
+
+A stream moved between moss-covered stones, its clear water scattering sunlight into tiny bright fragments. Pines rose around the shelter, and soft grass lay beneath them, threaded with fallen needles. Bees wandered among the flowers near the bank.
+
+Sira took off her pack and sat beside the water.
+
+Brunti knelt to fill a small bowl.
+
+“You have been very quiet,” Sira said.
+
+“I am thinking.”
+
+“I had noticed.”
+
+Brunti looked at the flowing water.
+
+“On the Skyland,” she said, “we have rooms that preserve the tools of people who are gone. They are catalogued, repaired if they begin to fail, and sometimes used for teaching.”
+
+“That sounds useful.”
+
+“It is. But I used to prefer the memorial passage. I could hear the old echoes without asking permission to enter a storage room.”
+
+Sira lifted a little water in her palm and let it fall back into the stream.
+
+“Perhaps the difference is not where the stones are kept,” she said, “but whether people are invited to meet them.”
+
+Brunti considered that.
+
+The thought had been close enough to her own that she almost resented hearing it aloud.
+
+“Darrik thinks the stones should be protected,” she said.
+
+“He is right.”
+
+“I know.”
+
+“And you want them to remain part of daily life.”
+
+“Yes.”
+
+“Then you are both asking how to care for something. You disagree about the place.”
+
+Brunti looked down at her hands.
+
+The seams of crystal along her fingers caught the sunlight. She could still remember the terrible knocking that had traveled through the resting chamber when she forced her brace into the memorial wall. Darrik had made the structure safe while she searched for an explanation.
+
+She had treated his proposed transfer as a threat because she feared losing the sound. But she had not asked him what kind of archive he meant.
+
+“I should have listened longer,” she said.
+
+Sira looked surprised.
+
+“That is a sentence I may preserve.”
+
+“Don't.”
+
+“Only in memory.”
+
+Brunti gave her a look. Sira smiled and began humming a little tune that followed the water for several notes before drifting elsewhere.
+
+They rested until the sun had moved beyond the high pines.
+
+***
+
+The Feral Hollow lay behind a curtain of leaves.
+
+Sira found the opening while seeking shelter from a sudden wind. Within, roots and weathered stone formed a small natural chamber. Soft moss covered the floor, and fallen pine needles had gathered beneath a low arch. The air smelled warm and woody, protected from the stronger breeze outside.
+
+Brunti stepped toward the inner recess.
+
+A few pale hairs clung to a root at shoulder height.
+
+She stopped.
+
+“What is it?” Sira whispered.
+
+“Something rests here.”
+
+“Now?”
+
+“I don't know.”
+
+Brunti examined the floor. It was cushioned with dry needles, and the moss had been pressed in more than one place. There were no fresh tracks she could read with certainty. She could not tell whether the hollow was empty or merely quiet.
+
+They withdrew without laying out their supplies.
+
+Outside, the wind passed through the branches and softened.
+
+Sira looked back at the opening.
+
+“A good place to rest,” she said.
+
+“For someone.”
+
+“Just not necessarily us.”
+
+They went on.
+
+The next shelter belonged to the night.
+
+The forest floor dipped toward a pond whose still water held the moon in a pale, unbroken circle. Mist drifted over the surface. Small lights wandered above the reeds, some warm like fireflies, others cool and faintly luminous. Ferns and flowers caught the glow, and along the sheltered bank a family of ducks slept with their feathers tucked close.
+
+Sira lowered her voice.
+
+“An oasis,” she said.
+
+“In the forest?”
+
+“That is what people call it.”
+
+Brunti watched a light pass over the water and disappear into the mist.
+
+“Not one of Evergrove's garden oases.”
+
+“No,” Sira said. “Names travel as freely as people do.”
+
+They sat well back from the sleeping ducks. The pond did not need them to come nearer. An owl called from deeper among the trees. Leaves stirred above the water, then became still.
+
+For once Brunti did not reach for her notebook.
+
+She watched the small lights drift until the moon had moved above the highest branches.
+
+Later they found a narrow brook where clear water slipped over pale pebbles. Fireflies hovered among ferns and overhanging roots, their reflections trembling in the current. Crickets hummed beneath the leaves. A distant wolf called once, then fell silent.
+
+The water seemed to carry whispering sounds, too faint to separate from its murmur.
+
+Sira listened with her head slightly tilted.
+
+“Spirits?” Brunti asked.
+
+“Some say the streams are watched.”
+
+“Have you seen one?”
+
+“No.”
+
+Brunti listened again.
+
+The brook was beautiful enough without an unseen guardian. She did not ask Sira to make the sound into words.
+
+They slept nearby, leaving the water to its slow passage through the dark.
+
+***
+
+In the morning Brunti found steps beneath an old tree.
+
+They were shallow and nearly concealed by moss. Grass grew between the edges, and tiny ferns had rooted in the seams. The stairway curved uphill around a boulder, each step cut directly into natural stone with proportions that seemed almost familiar to Brunti's feet.
+
+She climbed three steps and stopped.
+
+“Grimnir work?” Sira asked.
+
+“Possibly. The rise is comfortable for my stride.”
+
+“Was it made for you?”
+
+Brunti looked at her.
+
+“No. Not for me.”
+
+Old tales spoke of Grimnir who had lived beneath the earth and made hidden ways to reach the surface. Brunti knew the stories, though the Skylands were the homes of her people now, constructed over generations of craft and movement. These small steps might have belonged to an earlier passage. They might have been made by other hands.
+
+She followed them to a bend where sunlight reached the stone.
+
+There she found a small metal clasp lying among the leaves. It was plain, bent at one side and old enough to have lost its polish.
+
+Brunti picked it up.
+
+Its curve was not unlike the fastening she had repaired on the keeper's wooden marker.
+
+She turned it over in her palm. There was no mark to say who had dropped it or when.
+
+Sira was already a few steps ahead.
+
+Brunti looked at the clasp, then at the path.
+
+She could have kept it. It was only a small piece of metal. No one was standing nearby to claim it.
+
+Instead she laid it on a dry stone beside the steps, clear of the walking surface where someone returning might notice it.
+
+“Why there?” Sira asked.
+
+“Because I found it here.”
+
+“That isn't a very grand reason.”
+
+“It doesn't need to be.”
+
+They continued uphill.
+
+At the next resting place, an elderly traveler told them a story of the Fey Greens, a tranquil meadow where deer and a magnificent stag wandered near a huge standing rock. Within the rock, a sanctuary had been shaped along the natural curves of stone, its entrance edged with delicate carvings.
+
+The traveler called the work faun craft.
+
+Sira asked whether the traveler had seen the people who made it.
+
+“No,” he said. “That is what my grandmother called it.”
+
+In another account, the sanctuary was associated with Verdani care of the land. There were rumors of treasure within the rock and faint glimmers beyond the threshold.
+
+Brunti recorded both tellings.
+
+She did not decide which was older.
+
+The traveler pointed them toward a stream crossing where a stone guardian stood above a cairn. He had seen people rest there before taking the public road.
+
+They found the crossing later that day.
+
+Water murmured around a series of smooth stone platforms rising just above the current. Shallow hollows in their surfaces held still pools that reflected scraps of blue sky between the branches. Beyond the crossing stood a weathered guardian carved from stone. Rain had softened its features but not erased its watchful expression.
+
+Brunti stepped from one platform to the next.
+
+The water changed its rhythm around each stone. Between the little ripples were pauses so small she would have missed them if she had hurried.
+
+At the guardian's feet she sat and took out her notebook.
+
+She drew the crossed stream, the cairn and the figure overlooking them. Beneath the sketch she added the place where she had left the metal clasp.
+
+No one had asked her to leave it. No reward would follow.
+
+She felt lighter for having done so.
+
+***
+
+The keeper from the forest crossing found them before evening.
+
+They had come by the older path to check the marker Brunti had repaired and carried a small bundle of fresh cords beneath one arm. When they saw her beside the cairn, they stopped.
+
+“The fastening is still holding,” they said.
+
+“Good.”
+
+“You asked about old craft records.”
+
+“Yes.”
+
+The keeper set down the bundle.
+
+“There is a trader on the public road who buys worn tools and old ledgers. They know which books were copied and which were only sold with a story attached. I told them two travelers might come asking.”
+
+Brunti looked up.
+
+“You told them?”
+
+“I did. You asked about my marker before you mended it. That suggested you might be able to ask about a book before deciding what it said.”
+
+Sira smiled.
+
+Brunti wondered whether she should be offended. She found that she was mostly grateful.
+
+“Where will we find this trader?” she asked.
+
+“Beyond the forest roads. There is also a Verdani bookbinder whose shop is known to travelers, though I cannot promise which of them will have what you need.”
+
+A direction, not a certainty.
+
+Brunti copied the keeper's instructions. The road to Aetherion still lay ahead. The old memorial waited at home, held safely while Darrik prepared for the convergence. She had learned many things in the forest and none of them could yet repair the wall.
+
+But she had begun to understand a different craft.
+
+A thing could be found without being taken. It could be kept without being hidden. It could be remembered without claiming that the memory was complete.
+
+The keeper wished them a safe road and turned back into the trees.
+
+Sira rose from the cairn and adjusted her bag.
+
+“Shall we go?” she asked.
+
+Brunti looked once more at the stone guardian.
+
+Its face had been worn by many seasons of rain. It watched the flowing water without offering any answer, and the stream passed around the old platforms as it had long before Brunti came to hear it.
+
+“Yes,” she said.
+
+They crossed to the far bank and followed the road toward the evening light.
