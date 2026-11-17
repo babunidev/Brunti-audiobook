@@ -58,7 +58,7 @@ At first Velen trusts written records over living testimonies because people can
 
 ### Tavra — deceased Grimnir Skykeeper
 
-**Entirely original personal identity and past.** A traveling bearer of accounts whose memory stone became part of the communal wall. Her echo contains a distinct rhythmic contour, not usable fresh testimony or instructions to Brunti. An old archive diagram associates her name with one stone.
+**Entirely original personal identity and past.** A traveling bearer of accounts whose memory stone became part of the communal wall. Her echo contains a distinct rhythmic contour, not usable fresh testimony or instructions to Brunti. The Aetherion archive diagram suggests two beds without naming either; direct inspection of the old Skyland panel later identifies Tavra's stone.
 
 ### Korrum — deceased Grimnir builder
 
