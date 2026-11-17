@@ -1,6 +1,6 @@
 # Chapter 17 — The Mountain Has a Voice: source and continuity review
 
-**Date:** 17 November 2026. **Status:** [Chapter 17](../manuscript/chapters/17-the-mountain-has-a-voice.md) is **4,683 words including heading** after the Chapter 18 source refresh (original first draft: 4,639 words), written as first-draft novel prose by **ChatGPT GPT-6** under Babuni's standing creative delegation. This is an internal source and continuity check, **not independent human editorial approval, game/world canon, completed narration or audio**.
+**Date:** 17 November 2026. **Status:** [Chapter 17](../manuscript/chapters/17-the-mountain-has-a-voice.md) is **4,819 words including heading** after the Chapter 21 source refresh (original first draft: 4,639 words; intermediate Chapter 18 revision: 4,683 words), written as first-draft novel prose by **ChatGPT GPT-6** under Babuni's standing creative delegation. This is an internal source and continuity check, **not independent human editorial approval, game/world canon, completed narration or audio**.
 
 ## Source verification
 
@@ -41,3 +41,7 @@ A comparison of all **203 records and fields** between game `525d26bc8b4d` (blob
 ## Chapter 18 source reconciliation addendum — 17 November 2026
 
 The newer game `e8fbfc67cbb4` expands **20109 Embersnout** without changing identity or metadata. This chapter's direct scene was revised to show claws faintly scraping the exposed ice, an abrupt pause with one forepaw lifted, independently turning ears, more precise watchful movement, needle-like teeth and a pale breath cloud lingering in the air. Original retreat, lack of fight, and all eleven Chapter 17 encounter placements remain. Revised chapter word count: **4,683** (+44); overall book status after Chapter 18: **18 first drafts, 77,918 words including headings, 135 adaptations, 68 planned, no independent editorial approval**. See [eleventh game diff](SOURCE_RECONCILIATION.md) and [Chapter 18 review](CHAPTER_18_REVIEW.md).
+
+## Chapter 21 source reconciliation addendum — 17 November 2026
+
+The latest game file at `2b4afe761c8b` expands **20120 Bronze Vault**, **20121 Frost Strider**, and **20122 Rocky Tundra** without changing their identity or follow metadata. ChatGPT (**GPT-6**) amended the three already drafted Chapter 17 scenes to include the bronze's metallic ice-strike, concealed precise keyhole and returning sunlight, the Strider's imposing shadow/raised limb/falling ice and summitward form, and the sheltered tundra hollow's retained warmth, pebbles and twitching animal nose. The Bronze Vault remains unopened; Frost Strider remains a possible stone formation rather than a verified golem; no creature species or reward was invented. **Chapter 17: 4,683 → 4,819 words (+136)**, eleven source integrations unchanged. See [fourteenth game diff](SOURCE_RECONCILIATION.md) and [Chapter 21 review](CHAPTER_21_REVIEW.md). The current manuscript has **21 first drafts / 93,538 words including headings / 156 IDs adapted / 47 planned**. This check is internal source fidelity, not editorial acceptance.
