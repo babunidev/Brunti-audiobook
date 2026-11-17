@@ -8,7 +8,7 @@ Brunti stepped down from the cart.
 
 The village stood among trees that had been coaxed into shade over generations. Their roots followed channels cut through pale stone and reddish earth. Sand rose in dry folds beyond the garden walls, and farther off the wind moved along the edges of the dunes. Here, where the water should have divided among orchards and homes, the smell of wet dust mingled with old smoke.
 
-Two Verdani were dragging splintered timber away from a passage between houses. A charred beam gave way in their hands with a sharp crack. They stopped until the loose fragments had settled, then began lifting the smaller pieces out of the path.
+Two Verdani were dragging splintered timber away from a passage between houses. Near them, another knelt beside a collapsed dwelling and carefully freed a small wooden keepsake from the broken beams. Charred fragments crumbled beneath soot-darkened fingers. A weakened beam gave way with a sharp crack. The workers stopped until the loose pieces had settled, then began lifting the smaller fragments out of the path.
 
 At the center of the settlement an ancient tree spread a wide crown of living leaves.
 
@@ -138,7 +138,7 @@ She and Sira made a support from a sturdy door plank. Renn protested until he di
 
 The shade was full of salvaged things.
 
-Clay bowls, instruments, bundles of cloth, a child's painted cup, a box of dried seeds. Someone had arranged them in careful rows on low stones. They were not prizes taken from the ruins. They were possessions waiting for their owners to return.
+Clay bowls, instruments, bundles of cloth, a child's painted cup, a box of dried seeds. The Verdani from the collapsed dwelling arrived with the small wooden keepsake in both hands and placed it beside them. Someone had arranged the belongings in careful rows on low stones. They were not prizes taken from the ruins. They were possessions waiting for their owners to return.
 
 Renn settled on the plank. The light along his arms had steadied a little by the time Sira returned with a second vessel of water.
 
