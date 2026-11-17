@@ -102,7 +102,7 @@ Velen stopped.
 
 “Did you hear that?”
 
-The tune descended by three small notes, hovered, then lifted again.
+The tune descended by three small notes, hovered, then lifted again, with the soft, familiar rise and fall of a lullaby whose words had long been forgotten.
 
 Across the snow a pale figure was moving.
 
@@ -110,7 +110,7 @@ Lyria of Nekalos walked between the drifts without leaving a footprint. Light tr
 
 She did not seem to hurry. Her feet passed over the surface without pressing it down.
 
-The melody continued while she turned toward the wind.
+The melody followed as she turned toward the wind. Lyria raised one translucent hand; nearby frost crystals trembled on the undisturbed snow, though her feet still left no print.
 
 “Lyria,” Enna murmured.
 
@@ -328,6 +328,8 @@ The next morning they took the western route.
 
 Frostfall Cascade came into sight as a great fall of arrested water, its folds caught against a cliff in pale blue sheets. Sunlight passed through the upper ice and broke into scattered reflections across the snow below.
 
+The cascade hung in a thousand arrested streams, every twisting fold of its former descent preserved in silent ice. Narrow polished shelves climbed its face, each too treacherous to approach without proper climbing gear.
+
 Halfway up the frozen face, a glint appeared.
 
 Then it vanished.
@@ -380,7 +382,7 @@ The Frostforged Vault lay on a different route again, behind an old shoulder of 
 
 They found it at dusk.
 
-The entrance rose out of dark rock, colossal and severe. Across its sealed surface ran intricate worked patterns filled with white frost. Moonlight caught the recesses, making the door look as though someone had drawn pale veins over it.
+The entrance rose out of dark rock, colossal and severe. Across its ancient metal surface ran intricate worked patterns filled with white frost, their ceremonial delicacy extending up to a towering arch. Moonlight caught the recesses, making the door look as though someone had drawn pale veins over it. A loose crystal scraped over the threshold while the last trace of a humanlike chant faded into the mountain wind.
 
 Brunti stood at the threshold.
 
@@ -562,15 +564,15 @@ Velen did not answer.
 
 They reached the grounds after another careful journey through snow that had frozen into hard shallow ridges. Beyond a low broken wall stood a scatter of ancient stones and a row of weathered shelves protected by temporary cloth. The place had the appearance of someone making an archive out of ruins because the ruins had refused to become a room.
 
-Books lay open upon flat rocks.
+Books lay open upon flat rocks, intricate diagrams sharing their pages with close-set writing and narrow parchment markers.
 
 Scrolls were spread among them, held down with small weights. The edges of several pages had been repaired so neatly that Brunti recognized a patient hand at once.
 
 A figure stood over the writings in deep blue robes. Silver patterns spread across the fabric like branching frost.
 
-As they approached, one loose scroll stirred beside the scholar's feet.
+As they approached, one loose parchment skittered over the snow; Jorvald stopped it beneath his boot. Another gust tugged at his frost-patterned robe. He gathered the fabric with one hand while the trapped scroll curled against his boot.
 
-His hand rose.
+His free hand rose.
 
 “Halt.”
 
