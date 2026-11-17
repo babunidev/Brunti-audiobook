@@ -94,3 +94,13 @@ These remain AI-authored first drafts under delegated direction, not final revie
 - Updated the [Chapter 9 review](docs/CHAPTER_09_REVIEW.md), source revision ledger, progress matrix, manuscript index, story-scene status, roadmap and documentation.
 
 Current state: **9 first-draft chapters, 31,741 words, 72 encounter IDs adapted, 131 planned**. No human literary sign-off, audio, or canonical game/world changes.
+
+## 2026-11-17 — Chapter 10 draft and Hearthguard follow-sequence verification
+
+- Wrote **The Shelter Beyond the Veil** (5,073 words including heading), adapting six encounters across a road rescue, Veilwalker report, slumbering Ogru, Mystic Hearth seal and the sanctuary within.
+- Verified and preserved game `mEncounterFollow` **20188 → 19444**, with no shortcut to the interior before the barrier.
+- Explicitly marked the passage mechanism, named travelers Aru and Tessan, and encounter outcomes as **original audiobook fiction**, not canonized world mechanics.
+- Compared game source `ad34afb686ef` with `734f439b1699`: only 20085 `mEncounterText` changed. Updated Chapter 4's **J** stone scene to include the little creature's jump and scattered petals; the seven carved letters remain unchanged.
+- Updated [Chapter 10 source review](docs/CHAPTER_10_REVIEW.md), source log, 203-row progress matrix, manuscript index, scene brief, continuity record, roadmap and creative development journal.
+
+**Recorded status:** **10 first-draft chapters, 36,849 words including headings, 78 encounters integrated into prose, 125 still planned, zero independently editorial-verified**. No published/audio/canonical game or world changes.

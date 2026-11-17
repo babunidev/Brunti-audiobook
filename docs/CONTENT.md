@@ -94,3 +94,11 @@ Progress is now **8 draft chapters, 27,832 words including headings, 67 draft-in
 [Chapter 9, Where Stories Are Sold](../manuscript/chapters/09-where-stories-are-sold.md), is a **3,882-word** full prose draft incorporating game IDs **20012, 20031, 20059, 20060, 20076**. All five full descriptions were read from the latest game source; the [source-fidelity register](CHAPTER_09_REVIEW.md) documents which details are directly witnessed and which belong to trade and pilgrim testimony. Pel, Orena and Thalen are novel-only named characters. An ordinary craft-reference from Thalen advances the inquiry without inventing a clue resolution. The latest game diff added one prose revision to 20084 Mystical Vale, reconciled into Chapter 4's carved **K** scene.
 
 **Current coverage:** **9 drafted chapters, 31,741 words including headings, 72 drafted IDs, 131 planned, 0 independently editorial-verified**.
+
+## Chapter 10 — refuge and protected passage, 17 November 2026
+
+ChatGPT (**GPT-6**) wrote [The Shelter Beyond the Veil](../manuscript/chapters/10-the-shelter-beyond-the-veil.md) (**5,073 words, first-draft prose**) under the existing delegated novel-writing direction. The chapter integrates six full game source descriptions: **20187, 20189, 20190, 20191, 20188 and 19444**, preserving the **20188 → 19444** linked threshold-to-chamber order. Aru the Rokur pilgrim and Tessan the Aevis courier are invented novel identities, and the local fitting used to open the barrier is a **fictional chapter-specific solution**, not a universal magic law. [Source fidelity and unresolved limitations](CHAPTER_10_REVIEW.md) are documented separately.
+
+The latest game source changed only **20085 Bucolic Dale** prose, adding a small animal climbing the **J** stone and jumping away through scattered petals; Chapter 4 was updated to follow that detail. The original letter **J** and overall **A H K J O M A** clue remain intact.
+
+**Current source-to-prose status:** **203 unique source IDs, 78 drafted, 125 planned, none editorially independently verified**. **10 full first-draft chapters, 36,849 words including headings**. No audio or game/world-canon files were changed.
