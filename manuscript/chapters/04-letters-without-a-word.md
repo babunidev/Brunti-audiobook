@@ -126,6 +126,8 @@ K.
 
 Its grooves were deep enough to hold shadow while the surrounding rock brightened. Wildflowers gathered at its base. A fresh scent of grass rose after the earlier coolness, and birds called from the trees beyond the hill.
 
+The boulder cast a long shadow across the grass. Another cloud passed above it; the meadow grew green and quiet again, but the deep-cut letter remained distinct.
+
 Brunti drew the K while the light remained.
 
 Then she stood back.
