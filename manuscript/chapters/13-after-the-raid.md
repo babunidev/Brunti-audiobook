@@ -528,11 +528,11 @@ He shook his head.
 
 The listeners settled.
 
-The Rokur told them of a soldier standing among ruins far to the north, where volcanic-dark material had gathered frost and ice crystal along old scars. The fire in his eyes burned low. He began a familiar warrior cadence, the kind that should have been answered by a Battledance.
+The Rokur told them of a soldier standing among ruins far to the north, where dark volcanic stone and pale ice crystal bore old battle scars. The fire in his eyes burned low. He began a familiar warrior cadence, measured words of an old saga that should have been answered by the movements of a Battledance.
 
 No one answered.
 
-The soldier's voice faltered. He lowered his gaze to the broken stones. One hand lifted as though marking the next movement of the dance, then remained suspended there while light traveled faintly across the crystal at his wrist.
+He tried another fragment. His voice faltered before the line was finished, and he lowered his gaze to the shattered stones. Wind moved dust through the ruined walls. One great hand rose slowly; the fingers formed the beginning gesture of the ancient dance. A faint light passed across the crystal at his wrist, but the movement stopped halfway. The hand remained suspended, the verse unfinished.
 
 “Did he die?” a child asked.
 
@@ -562,17 +562,17 @@ There was another tale that night, told by a woman who had traveled through a fo
 
 She spoke in a low voice, not to frighten the children but because the memory seemed to demand quiet.
 
-“In that place the leaves shone without sunlight,” she said. “The sky stayed full of cold stars. I heard one spirit crying among the trees, then another, and another, until the voices overlapped so thickly that no single lament could be followed.”
+“In that place the spectral leaves shone without sunlight or moonlight,” she said. “The sky stayed full of motionless cold stars. I heard one spirit crying among the trees, then another, and another, until their voices overlapped so thickly that no single lament could be followed.”
 
 A child moved closer to Alen.
 
 The teller continued.
 
-“Some of the spirits had no faces. One drifted through a trunk like mist, then gathered on its far side. The wind carried their cries close to the ground. For a moment they nearly held one note together.”
+“Some of the spirits had no faces. One passed through a trunk and scattered into a thousand faint wisps before taking shape on its far side. A cold breeze carried their cries close to the ground. For a moment they gathered into one fragile melody, beautiful and sad.”
 
 “Did they?” Velen asked.
 
-“Not for long. They broke into separate voices again.”
+“Not for long. One voice faltered, and the harmony broke into separate laments again.”
 
 “What happened after?”
 
