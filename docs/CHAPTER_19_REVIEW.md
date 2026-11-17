@@ -1,0 +1,40 @@
+# Chapter 19 — Ice That Remembers: source and continuity review
+
+**Date:** 17 November 2026. **Status:** [Chapter 19](../manuscript/chapters/19-ice-that-remembers.md) is **4,533 words including heading**, written as first-draft novel prose by **ChatGPT GPT-6** under Babuni's existing creative delegation. This review is internal source/continuity checking, **not independent human literary approval, game/world canon, narrated audio or publication**.
+
+## Primary encounter verification
+
+All **seven** assigned complete `mEncounterText` entries were reread from [Morkahja `fe29096e90ad`](https://github.com/babunidev/Morkahja/blob/fe29096e90ad2f524271a91ceb9cff318ac6b8b0/server/game/encountersdata.json), encounter-data blob `199d00e37ca66d9311f8c053b5e8cee3da57bd56`. Their IDs, titles, metadata and `mEncounterFollow` values match the previous baseline. The explicit **20130 Everwinter Guardian → 20131 Everwinter Cave** sequence is preserved without inserting an unrelated encounter between them.
+
+| ID | Novel integration | Boundary against invented canon |
+| ---: | --- | --- |
+| **20129 Everwinter Treasurechest** (*Lived*) | Old floral-carved ice-crusted timber chest, iron corners and icicles, warmth that does not melt ice, faintly blue pulsing runes; left closed | No treasure claim, guessed magical explanation or relation to Brunti's memorial |
+| **20130 Everwinter Guardian** (*Lived*) | Small, broad-eared shaggy ice troll at cave entrance, glacial-blue blending, frost exhalation and independent ear movement; its shift to the side makes passage possible | Guardian never states a ritual, gives a universal key or speaks an explanation; a novel-only waiting scene does not prove intention |
+| **20131 Everwinter Cave** (*Lived*) | Faintly glowing unknown script, massive stalactites, natural ice sculptures, distinct fossils at different depths with fine preserved structures, partially obscured writing | No invented translation, prehistoric species identification, Frostweaver authorship of all marks or complete story from partial fossils |
+| **20136 Lost Souls of Everwinter** (*Lived*) | Cloaked travelers with frozen hems, lost markers, blizzard-hidden route, failing speech and huddled attempts to find direction; rescued through ordinary safe-route marking | These are physically living lost travelers, not confirmed ghosts or an account of Frostlace's victims |
+| **20135 Frostlace** (*Testimony*) | Other travelers' cautionary description of silver-white hair, pale shoulders, blue eyes and retreating beckon toward apparent warmth in a colder passage | No direct first-hand Frostlace appearance for Brunti; the group's uncertain voice in the storm is not proven to be hers |
+| **20140 Misthowl** (*Testimony*) | Enna reports fog-translucent she-wolf with luminous eyes and mournful howl taken as storm/avalanche warning | No verified ability to cause weather or guarantee prophetic warning; mist disturbance is not labelled Misthowl |
+| **20141 Winterwisp Warden** (*Lived*) | Snow vortex, still blue eyes and circulating crystals, quiet passage and new frost barring a narrow upper path to the Icebound Nymph Queen's region | Warden is not defeated; the queen is not encountered, identified as Frostlace, or granted new motives |
+
+## Story continuity and established-world verification
+
+**After Chapter 18:** Hesk guides Brunti and **Velen** only as far as a patrol meeting with new local Aevis guide **Enna**, an original fictional identity; Hesk returns south. Aksa's packet of route notes remains part of the company's available knowledge. **Sira** stays away on her established western journey and sends no conveniently timed magical message. The lost travelers are moved to an ordinary patrol shelter by rope, guide knowledge, warmth and time, not by a new power. The winter route is novel connecting fiction; precise distance, elevation and season chronology still need external cartographic check.
+
+Established [Everwinter Cave](https://github.com/babunidev/MorkahjaWorld/blob/f56a7c3d2034652e1c5961f0ece9c3ef52b52b48/Places/Everwinter_Cave.md) confirms troll-guarded entrance, prehistoric fossils and unknown script; [Everwinter Figures](https://github.com/babunidev/MorkahjaWorld/blob/f56a7c3d2034652e1c5961f0ece9c3ef52b52b48/People/Everwinter_Figures.md) confirms the Guardian's ice-blue character and large ears, Frostlace's danger, and **Jorvald** as a guarded scholar of old knowledge. [Everwinter Beings](https://github.com/babunidev/MorkahjaWorld/blob/f56a7c3d2034652e1c5961f0ece9c3ef52b52b48/Creatures/Everwinter_Beings.md) distinguishes spectral Misthowl from the snow-vortex Warden and names the latter as the Queen's champion. [Everwinter Valley](https://github.com/babunidev/MorkahjaWorld/blob/f56a7c3d2034652e1c5961f0ece9c3ef52b52b48/Places/Everwinter_Valley.md) establishes the frozen geography and enigmatic Frostweaver remains. The specific world `World_History/Frostweaver_Lore.md` path linked by those pages was not directly available in the live fetch; this review does not claim its full contents have been read.
+
+**Novel-only elements:** Guide Enna, her blue cord and patrol shelter, exact path arrangements, rescue methods and distressed travelers' dialogue, the chest conversation, Guardian's unexplained step aside, Velen's blank-mark drawing process, and the traveler who tells them how to inquire after Jorvald. These are original connective narrative choices. The chapter advances Velen's arc by separating **visible copy**, **partial preservation** and **conjecture** without making Velen's own attempted restoration a historical fact. Chapter 20 is set up as a scholar inquiry, **not a guarantee of a reconstructed Nekalos Mechanism or a Grimnir repair key**.
+
+## Twelfth game-source reconciliation
+
+A complete **203-record, all-field comparison** between game `e8fbfc67cbb4` (blob `6be97e1141f00c3c7b1c86577937ba09c0d9b291`) and game `fe29096e90ad` (blob `199d00e37ca66d9311f8c053b5e8cee3da57bd56`) found **eight `mEncounterText`-only changes**, IDs **20110–20117**. No ID, title, type, element, expansion, follow link, or other metadata changed.
+
+- **20110 Mother Wolf** and **20111 Young Redeye** (Chapter 5) were reconciled with new cub blocking/whimper and Redeye butterfly/sneeze detail. **Chapter 5: 4,044 → 4,117 words**.
+- **20114 Liani Guardian**, **20115 Liani Predator**, **20117 Thunderfly Matriarch** (Chapter 8) were reconciled with measured paw placement, camouflage and stronger charged-antenna/downward gust cues. **Chapter 8: 3,131 → 3,192 words**. 20115 remains **Halven's attributed testimony**.
+- **20116 Aradia's Perch** (Chapter 15) now includes iridescent body, four wings, metallic buzz, disturbed water and venomous sting. **Chapter 15: 4,914 → 4,935 words**.
+- **20112 Cursed Silvermane** (*Lived*, Chapter 21 planned) and **20113 Cursed Liani** (*Testimony*, Chapter 21 planned) remain unwritten. Their expanded descriptions must be checked during Chapter 21; do not mark them integrated.
+
+**Reconciliation added 155 words** to existing Chapters 5, 8 and 15. The current manuscript totals **19 chapters / 82,606 words including headings / 142 adapted encounter IDs / 61 planned / zero independently editorially verified**. No game or canonical-world repository modification occurred.
+
+## Verification and limits
+
+**Checked:** seven full current source entries; seven distinct narrative integrations in planned modes; immediate Guardian → Cave order; relevant accessible world articles; eight later source text changes and their disposition; source metadata equality; chapter lengths and coverage ledger. **Unverified:** perfect source fidelity by independent editor, full travel map and chronology, language of inscriptions, audio read-aloud quality, production rights and publication.
