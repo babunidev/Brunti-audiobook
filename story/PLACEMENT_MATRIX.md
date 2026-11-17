@@ -1,10 +1,10 @@
 # Encounter placements — source-to-manuscript progress matrix
 
-**Status:** **203 distinct encounters assigned, 0 omitted; 107 adapted into first-draft prose across chapters 2–15, 96 remain planned, and none is independently editorial-verified.** The game data and world archive remain authoritative for source detail. The mode is an editorial possibility: **Lived** is staged before Brunti, **Testimony** comes from another speaker, **Archive** is something Brunti learns from a record, and **Metaphor** translates a game-system label without staging that label as fiction.
+**Status:** **203 distinct encounters assigned, 0 omitted; 119 adapted into first-draft prose across chapters 2–16, 84 remain planned, and none is independently editorial-verified.** The game data and world archive remain authoritative for source detail. The mode is an editorial possibility: **Lived** is staged before Brunti, **Testimony** comes from another speaker, **Archive** is something Brunti learns from a record, and **Metaphor** translates a game-system label without staging that label as fiction.
 
-**Reviewed prose baseline:** [Morkahja encounters at 92b97aef8706](https://github.com/babunidev/Morkahja/blob/92b97aef8706dabfcd8d8d80c0477a70e3336097/server/game/encountersdata.json). The first atlas was indexed from an earlier revision; [19, then 5, then 1, then 2, then 1, then 1, then 8, then 5 text-only changes were reconciled](../docs/SOURCE_RECONCILIATION.md).
+**Reviewed prose baseline:** [Morkahja encounters at 525d26bc8b4d](https://github.com/babunidev/Morkahja/blob/525d26bc8b4d745ca0e4e7c2b3c86c20d9829df6/server/game/encountersdata.json). The first atlas was indexed from an earlier revision; [19, then 5, then 1, then 2, then 1, then 1, then 8, then 5, then 5 text-only changes were reviewed](../docs/SOURCE_RECONCILIATION.md).
 
-A primary placement alone is **not a claim that the scene is already in the book**. The final column identifies which encounter IDs have actually been translated into draft prose, not which have passed editorial review. See the [Chapters 1–2 review](../docs/MANUSCRIPT_REVIEW.md) and [Chapters 3–4 review](../docs/CHAPTERS_03_04_REVIEW.md), and [Chapters 5–6 review](../docs/CHAPTERS_05_06_REVIEW.md), and [Chapters 7–8 review](../docs/CHAPTERS_07_08_REVIEW.md), and [Chapter 9 review](../docs/CHAPTER_09_REVIEW.md), and [Chapter 10 review](../docs/CHAPTER_10_REVIEW.md), and [Chapter 11 review](../docs/CHAPTER_11_REVIEW.md), and [Chapter 12 review](../docs/CHAPTER_12_REVIEW.md), and [Chapter 13 review](../docs/CHAPTER_13_REVIEW.md), and [Chapter 14 review](../docs/CHAPTER_14_REVIEW.md), and [Chapter 15 review](../docs/CHAPTER_15_REVIEW.md). A location-specific encounter included as testimony does not mean Brunti traveled there. Refer to [outline](OUTLINE_V1.md), [source atlas](ENCOUNTER_ATLAS.md), and [literary survey](LITERARY_SURVEY.md).
+A primary placement alone is **not a claim that the scene is already in the book**. The final column identifies which encounter IDs have actually been translated into draft prose, not which have passed editorial review. See the [Chapters 1–2 review](../docs/MANUSCRIPT_REVIEW.md) and [Chapters 3–4 review](../docs/CHAPTERS_03_04_REVIEW.md), and [Chapters 5–6 review](../docs/CHAPTERS_05_06_REVIEW.md), and [Chapters 7–8 review](../docs/CHAPTERS_07_08_REVIEW.md), and [Chapter 9 review](../docs/CHAPTER_09_REVIEW.md), and [Chapter 10 review](../docs/CHAPTER_10_REVIEW.md), and [Chapter 11 review](../docs/CHAPTER_11_REVIEW.md), and [Chapter 12 review](../docs/CHAPTER_12_REVIEW.md), and [Chapter 13 review](../docs/CHAPTER_13_REVIEW.md), and [Chapter 14 review](../docs/CHAPTER_14_REVIEW.md), and [Chapter 15 review](../docs/CHAPTER_15_REVIEW.md), and [Chapter 16 review](../docs/CHAPTER_16_REVIEW.md). A location-specific encounter included as testimony does not mean Brunti traveled there. Refer to [outline](OUTLINE_V1.md), [source atlas](ENCOUNTER_ATLAS.md), and [literary survey](LITERARY_SURVEY.md).
 
 | ID | Encounter | Chapter | Form | Particular literary use | Manuscript status |
 | ---: | --- | --- | --- | --- | --- |
@@ -37,18 +37,18 @@ A primary placement alone is **not a claim that the scene is already in the book
 | 20016 | Ailing Verdani | [13](OUTLINE_V1.md) | Testimony | ailing Verdani in clearing | **Draft v1, ch. 13** |
 | 20017 | Flameveil Emberheart | [13](OUTLINE_V1.md) | Testimony | Flameveil amid ruined home | **Draft v1, ch. 13** |
 | 20018 | Stonefist Ironwill | [2](OUTLINE_V1.md) | Testimony | Stonefist resting in temple ruins | **Draft v1, ch. 2** |
-| 20019 | Ashen Revenant Witch | [16](OUTLINE_V1.md) | Archive | Ashen Witch and poison vapor | Planned |
-| 20020 | Ashen Revenant Seer | [16](OUTLINE_V1.md) | Archive | Ashen Seer with inner fire | Planned |
-| 20021 | Blightwraith Huntress | [16](OUTLINE_V1.md) | Archive | Blightwraith Huntress kills growth | Planned |
-| 20022 | Crumblegheist Mage | [16](OUTLINE_V1.md) | Archive | Crumblegheist Mage guards cavern | Planned |
-| 20023 | Tempestwailer Wildheart | [16](OUTLINE_V1.md) | Archive | Wildheart coils lightning | Planned |
-| 20024 | Blightwraith Rootrot | [16](OUTLINE_V1.md) | Archive | Rootrot spreads decay | Planned |
-| 20025 | Crumblegheist Roughian | [16](OUTLINE_V1.md) | Archive | Roughian breaks rocky ground | Planned |
-| 20026 | Crumblegheist Barbarian | [16](OUTLINE_V1.md) | Archive | Barbarian's armor and fissures | Planned |
-| 20027 | Tempestwailer Stormcaller | [16](OUTLINE_V1.md) | Archive | Stormcaller below canopy | Planned |
-| 20028 | Tempestwailer Seductress | [16](OUTLINE_V1.md) | Archive | Seductress offers deceptive beauty | Planned |
-| 20029 | Blightwraith Occultist | [16](OUTLINE_V1.md) | Archive | Occultist withers sapling | Planned |
-| 20030 | Ashen Revenant Warlock | [16](OUTLINE_V1.md) | Archive | Warlock raises smoke symbols | Planned |
+| 20019 | Ashen Revenant Witch | [16](OUTLINE_V1.md) | Archive | Ashen Witch and poison vapor | **Draft v1, ch. 16** |
+| 20020 | Ashen Revenant Seer | [16](OUTLINE_V1.md) | Archive | Ashen Seer with inner fire | **Draft v1, ch. 16** |
+| 20021 | Blightwraith Huntress | [16](OUTLINE_V1.md) | Archive | Blightwraith Huntress kills growth | **Draft v1, ch. 16** |
+| 20022 | Crumblegheist Mage | [16](OUTLINE_V1.md) | Archive | Crumblegheist Mage guards cavern | **Draft v1, ch. 16** |
+| 20023 | Tempestwailer Wildheart | [16](OUTLINE_V1.md) | Archive | Wildheart coils lightning | **Draft v1, ch. 16** |
+| 20024 | Blightwraith Rootrot | [16](OUTLINE_V1.md) | Archive | Rootrot spreads decay | **Draft v1, ch. 16** |
+| 20025 | Crumblegheist Roughian | [16](OUTLINE_V1.md) | Archive | Roughian breaks rocky ground | **Draft v1, ch. 16** |
+| 20026 | Crumblegheist Barbarian | [16](OUTLINE_V1.md) | Archive | Barbarian's armor and fissures | **Draft v1, ch. 16** |
+| 20027 | Tempestwailer Stormcaller | [16](OUTLINE_V1.md) | Archive | Stormcaller below canopy | **Draft v1, ch. 16** |
+| 20028 | Tempestwailer Seductress | [16](OUTLINE_V1.md) | Archive | Seductress offers deceptive beauty | **Draft v1, ch. 16** |
+| 20029 | Blightwraith Occultist | [16](OUTLINE_V1.md) | Archive | Occultist withers sapling | **Draft v1, ch. 16** |
+| 20030 | Ashen Revenant Warlock | [16](OUTLINE_V1.md) | Archive | Warlock raises smoke symbols | **Draft v1, ch. 16** |
 | 20031 | Pantheon Temple | [9](OUTLINE_V1.md) | Lived | Pantheon Temple's plural worship | **Draft v1, ch. 9** |
 | 20032 | Rare Treasurechest | [5](OUTLINE_V1.md) | Testimony | bronze treasure in plains | **Draft v1, ch. 5** |
 | 20033 | Wild Bloodfang | [5](OUTLINE_V1.md) | Lived | boar charges beneath trees | **Draft v1, ch. 5** |

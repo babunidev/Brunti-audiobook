@@ -1,6 +1,6 @@
 # Movement III — Land and Loss: scene briefs v1
 
-**Status:** working audiobook-fiction scene design; **Chapters 13–15 are now actual first-draft manuscript prose**; Chapters 16–20 remain planned. No canon changes. **Source baseline:** game encounter text `92b97aef8706` (203 source IDs), following first atlas and [reconciliation](../../docs/SOURCE_RECONCILIATION.md). [Story spine](../STORY_SPINE.md) · [Matrix](../PLACEMENT_MATRIX.md) · [Continuity register](../../docs/SCENE_CONTINUITY.md).
+**Status:** working audiobook-fiction scene design; **Chapters 13–16 are now actual first-draft manuscript prose**; Chapters 17–20 remain planned. No canon changes. **Source baseline:** game encounter text `525d26bc8b4d` (203 source IDs), following first atlas and [reconciliation](../../docs/SOURCE_RECONCILIATION.md). [Story spine](../STORY_SPINE.md) · [Matrix](../PLACEMENT_MATRIX.md) · [Continuity register](../../docs/SCENE_CONTINUITY.md).
 
 The geography is intentionally **not** squeezed into one continuous afternoon. Evergrove is a Verdani desert/oasis heartland; Ohgar, Karrhu, Sarga and Frostwind are distinct lands whose exact routes and travel intervals require map checking. Corruption accounts are archive pieces, not twelve simultaneous fights.
 
@@ -146,13 +146,13 @@ An **herb-basket traveler** from central-land routes tells Sira and the others o
 
 ## Chapter 16 — Witnesses of Corruption
 
-**Opening:** Velen spreads a collection of dated and undated accounts gathered in Aetherion and along the road, each attributed imperfectly.
+**Opening:** At a **raised Karrhu ferry house** following Chapter 15, rain damages the date on a copied folio. Velen spreads twelve **individually sourced but incompletely attributed** public archive descriptions from Aetherion across dry tables; Brunti and Sira compare them while mail boats wait for safe water.
 
 **Present / source voices:** Brunti; Velen; Sira before their separation; recorded witnesses.
 
 #### 16.1 — Ash that changes shape
 
-The Witch's poisonous drift, Seer's hidden inner fire and Warlock's moving sigils are kept as three separate **archival descriptions**, each tied to its own scene of destruction.
+The Witch's poisonous green miasma and charred queenlike outline, the Seer's brittle shell with internal orange fire, and the Warlock's molten/oily fissures and flickering symbols are **three separate Archive descriptions**. A damaged date and later sensational headings make their original times uncertain.
 
 **Turn:** Brunti wants a shared cause; Velen marks the reports' distinct origins.
 
@@ -163,7 +163,7 @@ The Witch's poisonous drift, Seer's hidden inner fire and Warlock's moving sigil
 
 #### 16.2 — Rot and hunger
 
-The Huntress's dead trail, Rootrot's swollen body and the Occultist's sapling-draining rite form a brief, uneasy documentary sequence, not a single battle in one forest.
+The Huntress's silent trail of dying moss, Rootrot's twisted swelling body and cracking roots, and the horned Occultist's chanting rite draining a sapling are **three written witness episodes**. Sira notes that protection from danger and uncertainty about a corrupted being's remaining identity can coexist.
 
 **Turn:** Sira reminds the others that not every altered being chose its state.
 
@@ -174,7 +174,7 @@ The Huntress's dead trail, Rootrot's swollen body and the Occultist's sapling-dr
 
 #### 16.3 — Broken stone
 
-Records describe a Crumblegheist guarding a cavern and two differently built beings breaking rocky ground. Give their movement and pressures individual sound signatures.
+The Mage in the Shattered Peaks wears patterned leather and a wide **green hat** while guarding an **unknown cave**; the iron-clad **Roughian** sends fissures through stone and the red-haired armored **Barbarian** produces her own tremors. Velen preserves game `Roughian` despite world lore's related `Berserk` wording, recording the identity uncertainty.
 
 **Turn:** Velen refuses to identify a single creator from repeated cracks in stone.
 
@@ -185,7 +185,7 @@ Records describe a Crumblegheist guarding a cavern and two differently built bei
 
 #### 16.4 — The storm reports
 
-Wildheart's certainty, Stormcaller's localized weather and Seductress's deceptive fragrance remain distinct witnesses' descriptions.
+Wildheart's crimson hair, storm spiral and **inferred certainty**; the blue-and-brown-robed Stormcaller's woodland lightning; and the green-and-gold Seductress's sweet disorienting vapor are **three distinct descriptions**. The party develops a *Seen / Inferred / Unknown* hazard register rather than inventing a single command.
 
 **Turn:** The party can recognize recurring danger without inventing a common command.
 
@@ -196,13 +196,13 @@ Wildheart's certainty, Stormcaller's localized weather and Seductress's deceptiv
 
 #### 16.5 — The separation
 
-Sira receives a legitimate message task for the displaced and takes a long overland route to seek contacts; Brunti and Velen continue north toward the Frostweaver records. The separation requires elapsed travel time, not instantaneous messenger magic.
+A **western-channel courier Rava** names the **specific relay keeper** who retained arrival lists for displaced families; Sira decides to take a scheduled mail route rather than claim the walking-stick child is missing. The trio **travels together for three more days by ferries, roads and wayhouses**, then parts at an ordinary junction: **Sira rides west** with couriers and **Brunti/Velen proceed north** by a mapped inland road toward Sarga and, much later, Frostwind. They exchange forwarding contacts; **no reunion is yet verified or magically instant**.
 
 **Turn:** Brunti now has fewer people to interrupt her certainty, and feels the absence.
 
 **Source encounters:** Original connecting fiction; no direct encounter ID.
 
-**Chapter handoff:** No universal corruption answer appears in the folios. The company now moves toward Everwinter to learn the limits of damaged historical records.
+**Chapter handoff:** No single source of corruption, no Ravage equivalence and no evidence about the Skyland memorial is established. **Only Brunti and Velen remain together** on the northern road; Chapter 17 must not place Sira with them. A later Everwinter inquiry concerns damaged evidence, not a promise of magical correction.
 
 ## Chapter 17 — The Mountain Has a Voice
 

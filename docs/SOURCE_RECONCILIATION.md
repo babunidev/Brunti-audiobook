@@ -98,3 +98,17 @@ Game `main` advanced from [`e826fa46d3ff`](https://github.com/babunidev/Morkahja
 **Count effect:** [Chapter 5](../manuscript/chapters/05-the-lives-of-the-vale.md) **3,900 → 4,044** words including heading; Chapter 7 **3,504 → 3,554**. Combined +**194** words. The six Chapter 15 sources are **unchanged** compared with the prior game baseline, but all were reread from current game text. Previous seven-letter sequence **A H K J O M A**, encounter delivery modes, provenance and existing canon remain unchanged.
 
 **Cumulative later game prose differences (successive revisions): 19 + 5 + 1 + 2 + 1 + 1 + 8 + 5**. Current reviewed baseline `92b97aef8706dabfcd8d8d80c0477a70e3336097`. No game or world files were changed in the novel repo.
+
+## Ninth source update — 17 November 2026
+
+Game `main` advanced from [`92b97aef8706`](https://github.com/babunidev/Morkahja/blob/92b97aef8706dabfcd8d8d80c0477a70e3336097/server/game/encountersdata.json) (blob `a4c32c0cdba89bb6e6cd80e635ba5f8a7ec82744`) to [`525d26bc8b4d`](https://github.com/babunidev/Morkahja/blob/525d26bc8b4d745ca0e4e7c2b3c86c20d9829df6/server/game/encountersdata.json) (blob `1ae39adad0dc6ef0c09a84b8a9c9cd0868fe766b`). Full comparison of **203 JSON records, every known field** found exactly **five `mEncounterText`-only changes**: **20099, 20100, 20101, 20102, 20103**. Record IDs, titles, descriptions of the other 198, follow links, metadata and expansion associations were unchanged.
+
+- **20099 Cliffs of Sarga:** more explicitly harmonious two-note cliff chorus, falling stones echoing down a fissure, wind stopping then sounding again. **Chapter 17 still planned**; use the revised description during drafting.
+- **20100 Mountain Pass:** high sea of clouds below jagged icy passage, snow-blown dark fissure at a sheltered bend and old hoard tale. **Chapter 17 still planned**; read this current description before authoring.
+- **20101 Rocks of Ohgar:** specifically deep ground-traveling groan, immense weathered monoliths, continuously inward-moving sand beneath an enormous formation, dark cleft and old treasure rumors. [Chapter 14](../manuscript/chapters/14-words-in-the-sand.md) already contained nearly all these details; its monolith scene was **updated with a continuing inward fall of sand beneath the immense stone**. Length **4,828 → 4,853** words including heading.
+- **20102 Frostwind Slopes:** frozen river in a sunlit valley, narrow ledge grotto exposed by gust and **faint crystalline ticking** within. **Chapter 17 planned**.
+- **20103 Strange Boulder:** moss on precariously balanced boulder, strange **warm floral fragrance** drawn from concealed opening under immense weight, green valley far below. **Chapter 17 planned**.
+
+**All twelve Chapter 16 source encounters `20019–20030` were unchanged** and fully reread at latest `525d26bc8b4d`; each is authored as separately identifiable **Archive** content. No game or world repo edit was performed.
+
+**Historical cumulative game prose change counts: 19 + 5 + 1 + 2 + 1 + 1 + 8 + 5 + 5**. The four future Chapter 17 sources were *reviewed for changes*, **not yet placed in manuscript prose**; do not mark them drafted. Seven carved letters remain **A H K J O M A**.

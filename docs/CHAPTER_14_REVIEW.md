@@ -26,3 +26,7 @@
 **Verification performed:** game HEAD checked; full 203-ID field diff; four Chapter 14 texts and eight changed Vale/Nagar descriptions read; relevant world entries reviewed; word counts recalculated; four unique ID progress statuses updated. **Outstanding:** human literary review, read-aloud pacing, exact multi-region travel calendar and route verification, source/editorial final audit, recording and publication.
 
 **Working totals:** **14 first-draft chapters, 58,041 words including headings, 101 game encounters integrated into prose, 102 still planned, none independently editorial-verified**.
+
+## Later Ohgar monolith source refresh — 17 November 2026
+
+Current game [`525d26bc8b4d`](https://github.com/babunidev/Morkahja/blob/525d26bc8b4d745ca0e4e7c2b3c86c20d9829df6/server/game/encountersdata.json) revises **20101 Rocks of Ohgar** only in `mEncounterText`. The full new description was read and compared with [Chapter 14](../manuscript/chapters/14-words-in-the-sand.md), which already staged its resonant granite, harsh heat, shadowed fissures, treasure rumor, sand slipping inward against wind and Brunti's refusal to enter. The manuscript adds an explicit continuing descent of sand from beneath the largest monolith. **Chapter 14 current count: 4,853 words**, previously 4,828. Four other revised game texts **20099/20100/20102/20103** belong to *unwritten Chapter 17*, not this review. [Ninth source reconciliation](SOURCE_RECONCILIATION.md). Prior totals in this file are historical.
