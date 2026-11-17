@@ -8,7 +8,7 @@
 | 2 | [The Weight of Other Stones](02-the-weight-of-other-stones.md) | 20015, 20018, 20055, 20056, 20128 | **Draft v1** — 3,313 words |
 | 3–30 | [Remaining planned chapters](../../story/scenes/README.md) | 198 planned encounter placements | **Not drafted** |
 
-**Total current manuscript:** **6,562 words**, excluding Markdown headings. This is narrative prose, not a compilation of unadapted source descriptions.
+**Total current manuscript:** **6,562 words including chapter headings** (**6,551 prose words excluding headings**). This is narrative prose, not a compilation of unadapted source descriptions.
 
 The chapter text is intentionally clean for reading and later narration export. It contains no commentary headers, tracking tables, production cues, role markup or source references. The [draft-review register](../../docs/MANUSCRIPT_REVIEW.md) records its exact source adaptations and unresolved issues. The [source-to-manuscript progress matrix](../../story/PLACEMENT_MATRIX.md) tracks all 203 encounter IDs, independently of their historical original [atlas](../../story/ENCOUNTER_ATLAS.md).
 
