@@ -13,7 +13,7 @@
 | 1 | [Skyland Morning](../manuscript/chapters/01-skyland-morning.md) | [01.1–01.3](../story/scenes/MOVEMENT_I.md) | No game encounter; original Skyland opening | **Draft v1**, 3,249 words | Not independently reviewed |
 | 2 | [The Weight of Other Stones](../manuscript/chapters/02-the-weight-of-other-stones.md) | [02.1–02.3](../story/scenes/MOVEMENT_I.md) | **5 distinct game encounters**, all mediated as testimony | **Draft v1**, 3,313 words | Not independently reviewed |
 
-**Historical stage totals when this initial review was written:** two chapters; six opening scenes as prose; five source encounter IDs drafted; 198 game encounter IDs then still planned. The latest totals now also include [Chapters 5–6](CHAPTERS_05_06_REVIEW.md): **thirteen chapters, 97 source integrations drafted and 106 planned**. This opening review records the earlier stage as well. **Zero manuscript encounters independently editorial-verified**.
+**Historical stage totals when this initial review was written:** two chapters; six opening scenes as prose; five source encounter IDs drafted; 198 game encounter IDs then still planned. The latest totals now also include [Chapters 5–6](CHAPTERS_05_06_REVIEW.md): **fourteen chapters, 101 source integrations drafted and 102 planned**. This opening review records the earlier stage as well. **Zero manuscript encounters independently editorial-verified**.
 
 ## Chapter 1 — what is actually in the manuscript
 
@@ -66,4 +66,10 @@ Several early encounter descriptions depict injured Grimnir as ordinary humanoid
 6. **Geographic next scene:** Chapter 3 needs explicit ordinary transfer from Skyland to the Vale when trade descent is possible; no instantaneous drop or geographically invented road.
 7. **Original text voice:** The novel is in close third-person past tense, with distinct testimony; the game's encounter standard remains third-person present and stops before player action. These are separate media conventions.
 
-**Pending completion criteria:** human editorial review of these chapters, full continuity check of subsequent chapters, remaining **106** encounter adaptations in actual prose, independent source coverage verification, and a narrator-friendly approved edition. Do not convert a Draft v1 marker to “verified” based solely on this document.
+**Pending completion criteria:** human editorial review of these chapters, full continuity check of subsequent chapters, remaining **102** encounter adaptations in actual prose, independent source coverage verification, and a narrator-friendly approved edition. Do not convert a Draft v1 marker to “verified” based solely on this document.
+
+## Chapter 14 — current internal review addendum (17 November 2026)
+
+The earlier sections in this file record their own historic drafting stages. The live coverage source is the [manuscript index](../manuscript/chapters/README.md). [Chapter 14 — Words in the Sand](../manuscript/chapters/14-words-in-the-sand.md) adds **4 directly witnessed Ohgar encounters** (**20101, 20035, 20066, 20063**) as literary **Draft v1** rather than a completed editorial review. Its **4,828 words** follow Sira's on-page reunion with Brunti and Velen, gradual rescue of a young Grimnir with desert-dried living mineral surfaces, and an undecoded temple inscription. [Source-specific review](CHAPTER_14_REVIEW.md).
+
+The same current game source updated **20086–20093**, requiring five Chapter 4 Vale-landscape passages and three Chapter 5 Nagar reports to be revised for their newly precise movement and sensory features. Their current lengths are **3,895** and **3,900** words including headings, and **A H K J O M A** remains intact. [Full comparison](SOURCE_RECONCILIATION.md). No human line edit, rights/audio clearance or independent source-to-prose completion review has occurred. **Total now: 14 draft chapters, 58,041 words, 101 game IDs adapted, 102 planned, none independently editorial-verified.**
