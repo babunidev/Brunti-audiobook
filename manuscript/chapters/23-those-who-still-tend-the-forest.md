@@ -128,9 +128,9 @@ Varun raised a hand.
 
 Brunti had expected a guarded outpost, perhaps a healer's room or another storehouse. Instead the little house was crowded with painted boards, hanging herbs and shelves that seemed to occupy more space than the walls could reasonably hold.
 
-A hag stood behind a counter among magical oddities.
+An elderly hag stood behind a cluttered counter among crooked vessels, tarnished ornaments, odd glasswork and magical curiosities whose uses were not immediately apparent. A little light caught on a patch of bright green moss outside the doorway.
 
-She was moving a precarious tower of curiosities from one end of a shelf to the other. The uppermost piece wobbled. She caught it, steadied the whole arrangement with a practiced fingertip, and looked at the visitors as though they had arrived precisely in time to admire her achievement.
+She was moving a precarious tower of curiosities from one end of a shelf to the other. The uppermost piece wobbled and began to fall. She caught it between two quick fingers, gave it a stern, suspicious look, steadied the whole arrangement with a practiced touch, and looked at the visitors as though they had arrived precisely in time to admire her achievement.
 
 “Well,” she said, “that's saved us all from a very small catastrophe.”
 
