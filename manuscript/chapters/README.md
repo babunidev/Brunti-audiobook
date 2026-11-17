@@ -24,7 +24,7 @@
 | 18 | [The Last Warm Bowl](18-the-last-warm-bowl.md) | 20104, 20123, 20124, 20132, 20176 | **Draft v1** — 5,110 words |
 | 19–30 | [Remaining planned chapters](../../story/scenes/README.md) | 68 planned encounter placements | **Not drafted** |
 
-**Total current manuscript:** **77,918 words including chapter headings** (approximately **77,811 prose words** excluding headings). This is narrative prose, not a compilation of unadapted source descriptions.
+**Total current manuscript:** **77,918 words including chapter headings** (approximately **77,812 prose words** excluding headings). This is narrative prose, not a compilation of unadapted source descriptions.
 
 The chapter text is clean for reading and eventual narration export. Editorial notes stay in the [opening review](../../docs/MANUSCRIPT_REVIEW.md), [Chapters 3–4 review](../../docs/CHAPTERS_03_04_REVIEW.md) and [Chapters 5–6 review](../../docs/CHAPTERS_05_06_REVIEW.md) and [Chapters 7–8 review](../../docs/CHAPTERS_07_08_REVIEW.md) and [Chapter 9 review](../../docs/CHAPTER_09_REVIEW.md) and [Chapter 10 review](../../docs/CHAPTER_10_REVIEW.md) and [Chapter 11 review](../../docs/CHAPTER_11_REVIEW.md) and [Chapter 12 review](../../docs/CHAPTER_12_REVIEW.md) and [Chapter 13 review](../../docs/CHAPTER_13_REVIEW.md) and [Chapter 14 review](../../docs/CHAPTER_14_REVIEW.md) and [Chapter 15 review](../../docs/CHAPTER_15_REVIEW.md) and [Chapter 16 review](../../docs/CHAPTER_16_REVIEW.md) and [Chapter 17 review](../../docs/CHAPTER_17_REVIEW.md) and [Chapter 18 review](../../docs/CHAPTER_18_REVIEW.md). The [source-to-manuscript matrix](../../story/PLACEMENT_MATRIX.md) tracks every game ID separately from the historical [source atlas](../../story/ENCOUNTER_ATLAS.md).
 
