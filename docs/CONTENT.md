@@ -58,3 +58,9 @@ The current game main at `5b0d73e550ca123adcb095b45febeba4330a9fdf` has a differ
 ## Working narrative spine — 17 November 2026
 
 The [story spine](../story/STORY_SPINE.md), [character arcs](../story/CHARACTER_ARCS.md) and [causal chain](../story/CAUSAL_CHAIN.md) now specify the narrative motives linking the existing 30 chapter groups. These are **authored novel-fiction directions**, not world-canon modifications or manuscript coverage proof. The [placement matrix](../story/PLACEMENT_MATRIX.md) retains all 203 proposed primary source placements; no IDs or source encounters were changed by the spine work.
+
+## Scene-level planning audit — 17 November 2026
+
+The [30-chapter scene index](../story/scenes/README.md) now links five movement files with **109 individually labeled scenes** and **203 uniquely assigned source-ID annotations**. A structural comparison with the [placement matrix](../story/PLACEMENT_MATRIX.md) produced **0 missing, 0 extra, 0 duplicate and 0 chapter-mismatched IDs**. Story action, scene turns and human-scale consequences were drafted; this is **not** completed literary integration in prose, a human review, or a comprehensive source-to-canon audit. The [scene continuity register](SCENE_CONTINUITY.md) explicitly records remaining location, timing and provenance questions.
+
+The game prose baseline was refreshed again at `e0bc99c51c74`; **five** further descriptions changed after the earlier nineteen, but no encounter ID or follow-link changed. Both comparisons are in [source reconciliation](SOURCE_RECONCILIATION.md).

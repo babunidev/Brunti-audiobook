@@ -2,7 +2,7 @@
 
 **Working title:** *Brunti*  
 **Creative:** Babuni  
-**Stage:** 2 — working story spine, cast and chapter causality drafted (17 November 2026)  
+**Stage:** 2 — complete 109-scene working architecture across 30 chapters (17 November 2026)  
 **Format:** Planned fantasy novel and narrated audiobook; no chapters or recordings have been produced.
 
 Through this project, I am adapting the encounters of [Morkahja](https://github.com/babunidev/Morkahja) into one continuous fantasy journey, led by a young Grimnir warrior named Brunti. The story can draw on an encounter directly, pass it through a traveler's memory, or preserve it as a song, testimony or archived account. Game mechanics need not become the novel's plot.
@@ -18,6 +18,8 @@ The existing world lore belongs to [MorkahjaWorld](https://github.com/babunidev/
 | [Story spine](story/STORY_SPINE.md) | Current working premise, concrete conflict and planned resolution |
 | [Character arcs](story/CHARACTER_ARCS.md) | Brunti, Darrik, Sira, Velen, relationships and growth |
 | [Causal chain](story/CAUSAL_CHAIN.md) | Why each of the 30 chapters leads to the next |
+| [Scene plan](story/scenes/README.md) | **109 concrete scene briefs** covering all 203 encounters across the 30 proposed chapters |
+| [Continuity register](docs/SCENE_CONTINUITY.md) | Source-confirmed constraints, scene-level safeguards and unresolved travel/lore checks |
 | [Encounter atlas](story/ENCOUNTER_ATLAS.md) | All 203 source encounters, IDs, source groups, narrative categories and tracking |
 | [Character dossier](story/CHARACTERS.md) | Brunti's game-data identity and proposed fiction |
 | [Structural overview](story/STRUCTURE.md) · [30-chapter outline](story/OUTLINE_V1.md) | Five movements with proposed chapter briefs, not approved prose |
@@ -34,6 +36,6 @@ The [documentation guide](docs/DOCUMENTATION.md), [project rules](AGENTS.md), [d
 
 ## Source boundaries
 
-The encounter atlas was indexed from `Morkahja/server/game/encountersdata.json` at commit `58576f063627752f77cdf99514baad875d509114`; a newer game source at `5b0d73e550ca123adcb095b45febeba4330a9fdf` changed 19 descriptions and was [reconciled](docs/SOURCE_RECONCILIATION.md) for the literary placement proposal. It remains the source coverage ledger; the new placement matrix proposes literary uses for all 203 records but does not establish approved or drafted manuscript scenes. World facts are checked against `MorkahjaWorld`; proposals in this repository never override that archive.
+The encounter atlas was indexed from `Morkahja/server/game/encountersdata.json` at commit `58576f063627752f77cdf99514baad875d509114`; later game sources changed **19**, then **5** additional encounter descriptions and were [reconciled](docs/SOURCE_RECONCILIATION.md). The current reviewed literary baseline is `e0bc99c51c74bb088f27a8252082b41c61629cf7`. It remains the source coverage ledger. The [scene plan](story/scenes/README.md) assigns all 203 records to actual scene briefs but does not establish completed or reviewed manuscript prose. World facts are checked against `MorkahjaWorld`; proposals in this repository never override that archive.
 
 **Current limits:** A 30-chapter working story direction and cast now exist under delegated creative drafting, but they remain **novel-only fiction**, not additions to Morkahja canon or a completed manuscript. The title is provisional, the existing poster has not been imported, and there is no finished prose, audio, media-rights clearance or publication.

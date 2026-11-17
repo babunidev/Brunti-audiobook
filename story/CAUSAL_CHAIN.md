@@ -1,6 +1,6 @@
 # Causal chain — thirty chapters
 
-**Status:** Working **chapter causality design**, not a finalized 30-chapter manuscript and not approval of every scene assignment. This connects the first 30-chapter [outline](OUTLINE_V1.md) to the [story spine](STORY_SPINE.md) and [203-encounter matrix](PLACEMENT_MATRIX.md). The scene groups and game IDs from v1 are retained. These are intended dramatic links, not canon facts.
+**Status:** Working **chapter causality design**, complemented by [109 scene briefs](scenes/README.md). This is not a finalized 30-chapter manuscript or independent editorial approval of every scene assignment. This connects the first 30-chapter [outline](OUTLINE_V1.md) to the [story spine](STORY_SPINE.md) and [203-encounter matrix](PLACEMENT_MATRIX.md). The scene groups and game IDs from v1 are retained. These are intended dramatic links, not canon facts.
 
 A strong chapter should change what the next chapter can happen *because of*, even if some time is allowed for beauty, rest and a voice heard in passing. Do not manufacture a clue in every encounter.
 
@@ -80,4 +80,4 @@ A strong chapter should change what the next chapter can happen *because of*, ev
 
 **Ch. 28 — Atranor:** The realm is canonically real, but a mortal report's provenance is uncertain. Do not invent a certain future, automatic resurrection or return from reincarnation with memory intact.
 
-**Next check:** perform granular scene-by-scene continuity checks against source game text and location/culture articles before treating these as ready-to-write chapter beat sheets.
+**Next check:** [scene-planning continuity audit](../docs/SCENE_CONTINUITY.md) now records some confirmed guardrails and remaining issues. Complete the paragraph-by-paragraph source comparison, detailed geography and timeline validation, and independent beat-sheet editing before declaring these ready-to-write final chapter briefs.

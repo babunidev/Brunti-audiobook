@@ -34,3 +34,13 @@ No manuscript chapters, audio files, source game content, established lore or de
 No game source, world-lore repository, manuscript chapter, recording or production artifact changed.
 
 - Finalized distinct spoken names for the novel's primary cast and memorial figures, choosing **Korrum** for the builder to keep the name aurally distinct from Darrik.
+
+## 2026-11-17 — Complete scene-brief planning pass
+
+- Added five movement-level scene documents and a 30-chapter index covering **109 scene briefs**.
+- Mapped all **203** source encounters to individual scene briefs and verified absence of missing, extra, duplicate or wrong-chapter IDs.
+- Added a scene continuity register with verified lore constraints, ordered follow chains, character timeline concerns and unresolved route checks.
+- Reconciled five more encounter-text revisions and refreshed the pinned game prose baseline.
+- Updated roadmap, source ledger, story navigation, decisions, content record and development journal without treating scene briefs as a finished manuscript.
+
+No canonical-world files, source-game records, narrated scripts, recordings or release artifacts were changed.
