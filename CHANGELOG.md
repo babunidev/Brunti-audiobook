@@ -191,3 +191,13 @@ The manuscripts remain AI-assisted first drafts under Babuni's creative directio
 - Updated source revisions, fidelity addenda, 203-row encounter matrix, manuscript ledger, roadmap and project documents. **19 first drafts / 82,606 words including headings / 142 adapted / 61 planned**.
 
 All prose remains AI-assisted novel draft under Babuni's creative direction, not independent human-approved manuscript, Morkahja canon, audio recording or publication.
+
+## 2026-11-17 — Chapter 20 draft, 203-record source refresh, manuscript reconciliation
+
+- Added [Chapter 20 — The Broken Frostweaver Record](manuscript/chapters/20-the-broken-frostweaver-record.md), **6,137 words**, adapting **nine** specified game encounters in clean first-draft novel prose.
+- Added [Chapter 20 source/continuity review](docs/CHAPTER_20_REVIEW.md), preserving Jorvald's limits, three distinct Frostweaver figures, the unopened Frostforged Vault, an unclaimed Frostfall object, unscaled Skyreach, and the wounded stag without an asserted miraculous cure.
+- Kept Sira apart until an **ordinary delayed letter** gives a possible missing-child lead near Keldor; Brunti's support for Darrik's safe intact memorial transfer is novel-fiction character development, not new world canon.
+- Compared all 203 game records from `fe29096e90ad` to `4c7fcc7901f8`: **exactly two `mEncounterText` changes (20118, 20119)**. Reconciled 20119 in Chapter 7 (**3,554 → 3,601 words**, +47); 20118 remains planned for Chapter 22. No metadata or follow links changed.
+- Updated encounter matrix, manuscript index, source ledger, reconciliation history, roadmap and continuity journal. **20 chapters / 88,790 words including headings / 151 adapted IDs / 52 planned**.
+
+All prose remains AI-authored first draft under Babuni's creative direction, without independent literary approval, audio narration or publication. No game/world repository change.
