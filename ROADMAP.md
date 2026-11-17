@@ -6,15 +6,17 @@
 - [x] Confirm female Grimnir warrior **Brunti, portrait 104**, and Grimnir-specific frame **75**.
 - [x] Establish repository rules, source references, planning files and empty manuscript/production areas.
 - [x] Index the **203 distinct encounter IDs** and preliminary metadata categories.
-- [ ] Complete a close literary reading of all encounter prose and compare to canonical lore.
+- [x] Perform a first scene-level literary survey of the 203 encounters and review key lore constraints.
+- [ ] Complete a detailed paragraph-by-paragraph check of encounter prose and relevant canonical entries for each planned scene.
 - [ ] Approve the book's central premise.
 
-## Stage 2 — plot and chapter architecture (not started)
+## Stage 2 — plot and chapter architecture (proposal committed)
 
-- [ ] Assign each encounter a specific manuscript placement and delivery mode (lived, witnessed, reported, read, sung, remembered or other).
-- [ ] Protect the linked Blackwood, Everwinter, Hearth and Nereval sequences and the engraved-letter motifs.
-- [ ] Build time, geography, character, conflict and causality maps.
-- [ ] Agree on central conflict, ending, major movements and individual chapter briefs.
+- [x] Propose a primary chapter, delivery mode and unique narrative hook for all 203 encounter IDs ([placement matrix](story/PLACEMENT_MATRIX.md)); **not approved or written**.
+- [x] Keep Blackwood, Everwinter, Hearth, Nereval follow chains and the seven engraved letters intact in the proposed outline.
+- [x] Produce a provisional five-movement, 30-chapter architecture with a high-level geographic itinerary.
+- [ ] Validate detailed geography, chronology, supporting cast, scene consequences and causality against all relevant lore.
+- [ ] Obtain creative approval of central conflict, ending, movements and chapter briefs; current plot is an AI proposal.
 
 ## Stage 3 — novel manuscript (not started)
 

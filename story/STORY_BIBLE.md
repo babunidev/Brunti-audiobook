@@ -27,3 +27,7 @@ Brunti is competent with her hands and direct in a fight, but less certain when 
 ## Unresolved
 
 The protagonist's family, exact age, defining relationships, companion characters, antagonist, chronology, actual inciting incident, climax, ending and final title remain undecided. The five movements in [STRUCTURE](STRUCTURE.md) are a scaffold, not a committed outline.
+
+## 17 November 2026 — story architecture proposal
+
+The [30-chapter outline](OUTLINE_V1.md) tests the provisional broken-memory-stone idea against the Vale, Aetherion's speaking archive, the Ravage's consequences, Everwinter's layered testimony and the canonical Blackwood chain. The protagonist's potential return would preserve incompatible accounts rather than manufacture a universal explanation. This is **unapproved original fiction**, not an established history of the Skylands, an explanation of Keldor's curse or a decision about the Pantheon. See the [203-source placement proposal](PLACEMENT_MATRIX.md) and [literary survey](LITERARY_SURVEY.md).

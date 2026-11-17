@@ -9,3 +9,11 @@
 - Distinguished source canon, human direction, AI proposals, draft status and publishing/rights prerequisites.
 
 No novel chapters, narrated audio, source-game changes or publication were produced.
+
+## 2026-11-17 — Story architecture planning pass
+
+- Added a proposed 30-chapter, five-movement outline, a scene-level literary survey and a complete 203-ID encounter placement matrix with narrative modes and individual hooks.
+- Preserved explicit source follow chains and engraved-letter clues within the planned structure.
+- Updated roadmap, story navigation, decision record, content documentation and development history to distinguish proposed structure from approved or drafted prose.
+
+No manuscript chapters, audio files, source game content, established lore or deployment were changed.

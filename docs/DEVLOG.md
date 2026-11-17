@@ -9,3 +9,11 @@ ChatGPT (**GPT-6**) reviewed GitHub sources, drafted the initial planning and do
 The audiobook repository was empty before this initialization. The files created here are a source-backed **foundation**, not proof of completed close prose reading, a plot approval, a written chapter, edited audio or publication. No source game or world lore was changed.
 
 **Pinned sources:** Morkahja `58576f063627752f77cdf99514baad875d509114`, MorkahjaWorld `f56a7c3d2034652e1c5961f0ece9c3ef52b52b48`. The game and lore were inspected through the connected GitHub service; no audio or manuscript quality tests were performed.
+
+## 17 November 2026 — from inventory to story architecture
+
+My direction for the book remains one connected adventure that gives all the game encounters a literary place, even when the protagonist hears of a distant event through other lives. The survey revealed why a battle-by-battle transcription would weaken the source: the work contains everyday kindness, curious animals, regional culture, silent landscapes, dangerous thresholds and linked mythic passages.
+
+ChatGPT (**GPT-6**) reviewed the source scenes at a first literary-survey level and consulted the relevant MorkahjaWorld entries. The AI drafted a provisional [30-chapter outline](../story/OUTLINE_V1.md), [203-entry placement matrix](../story/PLACEMENT_MATRIX.md), and [survey](../story/LITERARY_SURVEY.md). Its programmatic check compared every proposed ID against the exact pinned game JSON, initially caught a duplicated use of one source encounter, and verified the corrected mapping has **203 unique IDs, zero missing and zero extra**. The explicit Blackwood sequence and the three smaller follow pairs are preserved in order.
+
+This is **planning**, not human approval, completed close prose editing, manuscript drafting, audiobook generation or a canon update. All invented premises and outcomes remain reviewable proposals. No production or game source changes are claimed.

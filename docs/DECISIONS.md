@@ -20,3 +20,7 @@
 - Relationships, chronology, antagonism, ending, audio treatment and final title.
 
 An AI-generated proposal requires Babuni's creative approval; its presence in files is not an approval record. Any old game descriptions that conflict with the current Skylands lore remain flagged, not silently harmonized.
+
+## 17 November 2026 — proposed story architecture (not approved)
+
+ChatGPT (**GPT-6**) drafted [30 chapter briefs](../story/OUTLINE_V1.md) and [one primary placement](../story/PLACEMENT_MATRIX.md) for each of 203 encounter IDs. A broken Skyland memory-stone rhythm, the witness-gathering motive, the possible ending built around safeguarding contradictory stories and the division of the journey into five movements are **new AI-assisted fiction proposals**, not decisions or canonical facts. The human direction to include all encounters, permit reports from other travelers and work in stages is unchanged.

@@ -2,7 +2,7 @@
 
 **Working title:** *Brunti*  
 **Creative:** Babuni  
-**Stage:** 1 — source inventory and story foundation (17 November 2026)  
+**Stage:** 2 — proposed story structure and encounter placements (17 November 2026)  
 **Format:** Planned fantasy novel and narrated audiobook; no chapters or recordings have been produced.
 
 Through this project, I am adapting the encounters of [Morkahja](https://github.com/babunidev/Morkahja) into one continuous fantasy journey, led by a young Grimnir warrior named Brunti. The story can draw on an encounter directly, pass it through a traveler's memory, or preserve it as a song, testimony or archived account. Game mechanics need not become the novel's plot.
@@ -17,7 +17,9 @@ The existing world lore belongs to [MorkahjaWorld](https://github.com/babunidev/
 | [Story bible](story/STORY_BIBLE.md) | Working protagonist, dramatic premise, motifs and tentative arc |
 | [Encounter atlas](story/ENCOUNTER_ATLAS.md) | All 203 source encounters, IDs, source groups, narrative categories and tracking |
 | [Character dossier](story/CHARACTERS.md) | Brunti's game-data identity and proposed fiction |
-| [Structural sketch](story/STRUCTURE.md) | A provisional book-scale journey, **not** approved chapters |
+| [Structural overview](story/STRUCTURE.md) · [30-chapter outline](story/OUTLINE_V1.md) | Five movements with proposed chapter briefs, not approved prose |
+| [Encounter placements](story/PLACEMENT_MATRIX.md) | One proposed chapter, mode and literary function for each of the 203 encounters |
+| [Literary survey](story/LITERARY_SURVEY.md) | Scene functions, atmosphere, and outstanding canon checks |
 | [Sources](docs/SOURCES.md) | Specific game and world references, revision identifiers, and artwork paths |
 | [Content method](docs/CONTENT.md) | Encounter mapping rules, coverage evidence and explicit follow sequences |
 | [Roadmap](ROADMAP.md) | Steps and what is complete versus deferred |
@@ -28,6 +30,6 @@ The [documentation guide](docs/DOCUMENTATION.md), [project rules](AGENTS.md), [d
 
 ## Source boundaries
 
-The encounter atlas is indexed from `Morkahja/server/game/encountersdata.json` at source commit `58576f063627752f77cdf99514baad875d509114`. It is a coverage ledger, not evidence that all 203 encounters have received a finished literary interpretation. World facts are checked against `MorkahjaWorld`; proposals in this repository never override that archive.
+The encounter atlas is indexed from `Morkahja/server/game/encountersdata.json` at source commit `58576f063627752f77cdf99514baad875d509114`. It remains the source coverage ledger; the new placement matrix proposes literary uses for all 203 records but does not establish approved or drafted manuscript scenes. World facts are checked against `MorkahjaWorld`; proposals in this repository never override that archive.
 
-**Current limits:** The title is provisional; the existing title poster has not been imported; no approved chapter list, manuscript, audiobook audio, audiobook rights clearance or publication is claimed.
+**Current limits:** The title is provisional; the existing title poster has not been imported; no approved chapter list (the 30-chapter version is only a proposal), manuscript, audiobook audio, audiobook rights clearance or publication is claimed.
