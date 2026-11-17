@@ -120,7 +120,7 @@ The current game `main` at `e826fa46d3ff` changes exactly **eight `mEncounterTex
 
 ## 17 November 2026 — beneath Karrhu's reeds
 
-My audiobook novel has now reached the swamp, where danger appears in small, almost comic forms as well as in dark hollows and liquid reflections. The useful thread is not a great feat of combat; it is a child's need for bread, the certainty of a route that has failed, and the work of making a warning visible to the next traveler.
+Within my audiobook novel, the journey has now reached the swamp, where danger appears in small, almost comic forms as well as in dark hollows and liquid reflections. The useful thread is not a great feat of combat; it is a child's need for bread, the certainty of a route that has failed, and the work of making a warning visible to the next traveler.
 
 ChatGPT (**GPT-6**) wrote [Chapter 15 — Beneath the Reeds](../manuscript/chapters/15-beneath-the-reeds.md), **4,914 first-draft novel words**, against the six full game source descriptions and relevant Karrhu/Verdani/central Vale lore. The party arrives by ordinary wetland routes. A little Inferno Duck scorches Brunti's scarf and an Aradia forces Sira to lead a longer detour. **Leta**, a hungry Verdani girl forming mud cakes in the roots, receives food and clean water, then is reunited with her aunt at the reed station after a precarious crossing. At the Flytrap Grotto, the huge red-eyed fly remains alive while locals authorize a clearer route warning. The Quicksilver Quagmire's strange stars do not become Brunti's prophecy. A traveler brings the **Alluring Fens song as testimony from a distinct central-land location**, not Karrhu itself. The trio receives new, separate packets as Sira's further duties approach.
 
