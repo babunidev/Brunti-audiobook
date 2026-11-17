@@ -113,3 +113,13 @@ Current state: **9 first-draft chapters, 31,741 words, 72 encounter IDs adapted,
 - Added [Chapter 11 source and continuity review](docs/CHAPTER_11_REVIEW.md), updated the 203-ID draft matrix, chapter index, roadmap, scene state and all development/decision records.
 
 **Current working status: 11 prose-first-draft chapters, 42,044 words, 83 encountered IDs adapted, 120 planned, none independently editorial-verified.** No audio production or game/world canon edit.
+
+## 2026-11-17 — Chapter 12 draft, Nereval follow-link and Evergrove road
+
+- Wrote **Where Water Is Guarded**, **5,493 words including heading**, adapting **20064** (Umbrael shrine, Sira's testimony), **20192** (Nereval guardian), **19001** (sealed healing sanctuary after guardian), and **20193** (Joyful Riverkeeper).
+- Verified **20192 → 19001** game `mEncounterFollow`; preserved the gatekeeper and the visible delayed mark-of-restoration before a **novel-only** act of local watercourse care opens the sanctuary.
+- Preserved Evergrove's **desert/oasis** heartland and documented the game-versus-world geographic uncertainty about the sanctuary's Vale position.
+- Approved Velen's previously requested **in-story** archive field assignment; had Sira choose to pursue an incomplete report of village destruction, rather than submit her story to Brunti's memorial mystery.
+- Added [Chapter 12 source and continuity review](docs/CHAPTER_12_REVIEW.md), updated manuscript index, 203-row coverage matrix, scene state and project documentation.
+
+**State:** 12 literary first-draft chapters / **47,537 words** / **87 game IDs in prose** / **116 planned**, **0 independent editorial sign-offs**; no published/recorded audio or canonical game/world changes.

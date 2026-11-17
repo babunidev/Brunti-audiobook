@@ -110,3 +110,11 @@ ChatGPT (**GPT-6**) wrote [The City of Listening](../manuscript/chapters/11-the-
 Original literary development: **Velen**, the Aevis cataloguer, finds a damaged, source-compatible **two-compartment restoration drawing** and prepares a measured copy with attribution; a Rokur forge illustrates acoustic coupling but proves no specific memorial solution; a concert holds distinct voices together; the Garden's faltering rhythm is **not declared** to share the Skyland wall's cause. Velen's travel leave is only **requested**, not yet approved. No game record, world-canon article or narrator track was changed.
 
 **Coverage now:** **203 unique source encounters; 83 in first-draft prose; 120 planned; 0 independently editorial-verified. Manuscript: 11 chapters / 42,044 words including headings.**
+
+## Chapter 12 — Nereval's guarded waters and Sira's choice, 17 November 2026
+
+ChatGPT (**GPT-6**) authored [Where Water Is Guarded](../manuscript/chapters/12-where-water-is-guarded.md), a **5,493-word** completed literary **first draft** under Babuni's delegated creative direction. The four source encounters **20064, 20192, 19001, 20193** were read in full from unchanged game source `ad34afb686ef`, including **20192 → 19001** follow-sequence verification. The [Chapter 12 source review](CHAPTER_12_REVIEW.md) separates Sira's attributed account of Umbrael's Evergrove altar from the actually witnessed Nereval gateway, restored small water channel, opened seal and riverkeeper's humor.
+
+Velen receives the **previously pending temporary archive travel leave** in the chapter's opening, as novel-only administration. The group's route moves from Aetherion through the southeastern Vale to the mapped oasis roads of **desert Evergrove**. Novel-only Riverkeeper **Iren** passes on a messenger's incomplete report of a raided oasis-village, which prompts Sira to lead the next leg toward survivors. The recovered **memorial drawing remains incomplete**; no source magic rule or world canon was changed.
+
+**Current:** 203 unique source IDs; **87 drafted**, **116 planned**, none independently editorial-verified. Manuscript: **12 first-draft chapters / 47,537 words including headings**. No audio produced.
