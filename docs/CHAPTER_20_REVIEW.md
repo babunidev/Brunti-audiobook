@@ -1,6 +1,6 @@
 # Chapter 20 — The Broken Frostweaver Record: source and continuity review
 
-**Date:** 17 November 2026. **Status:** [Chapter 20](../manuscript/chapters/20-the-broken-frostweaver-record.md) is **6,187 words including heading** after the Chapter 24 source refresh (original draft: 6,137 words), written as novel first-draft prose by **ChatGPT GPT-6** under Babuni's standing creative delegation. This is an **internal source and continuity review**, not independent human literary approval, a new game/world canon decision, narrated audio or publication.
+**Date:** 17 November 2026. **Status:** [Chapter 20](../manuscript/chapters/20-the-broken-frostweaver-record.md) is **6,239 words including heading** after the Chapter 26 source refresh (original draft 6,137 words; Chapter 24 interim 6,187 words), written as novel first-draft prose by **ChatGPT GPT-6** under Babuni's standing creative delegation. This is an **internal source and continuity review**, not independent human literary approval, a new game/world canon decision, narrated audio or publication.
 
 ## Primary game verification
 
@@ -48,3 +48,7 @@ All IDs, names, follow links, type, expansion and other metadata unchanged; **th
 ## Chapter 24 source refresh — 17 November 2026
 
 The complete game source at `f949602a0a21` expands **20133 Kaldric of Nekalos** in `mEncounterText` only: elaborate, precise **incomplete hand patterns form in the snow**, then break apart under the concentrated wind; his voice clearly attempts *“The Nekalos Mechanism—”* before shattering, and he begins the same gesture again. ChatGPT (**GPT-6**) updated [Chapter 20](../manuscript/chapters/20-the-broken-frostweaver-record.md) as the **same direct Lived scene**, without claiming to solve the mechanism or link it to the Grimnir memorial. **Chapter 20: 6,137 → 6,187 words (+50)**. [Seventeenth game diff](SOURCE_RECONCILIATION.md), [Chapter 24 review](CHAPTER_24_REVIEW.md). This is internal source checking, not independent editorial acceptance.
+
+## Chapter 26 game source refresh — 17 November 2026
+
+The current game `3c14072c05be` expands **20134 Seal of Nekalos**: winter sunlight splits into fine blue lines through multiple crystal layers, an illuminated base symbol lights distant glyphs in sequence, momentary unfamiliar shapes appear and vanish, while the first glyph remains lit and a second sequence begins independently. ChatGPT (**GPT-6**) updated the **existing direct Lived** Chapter 20 scene, preserving the Frostweaver inscription table, unfinished knowledge and Brunti/Velen's uncertainty. No mechanism is decoded, no Blackwood/memorial connection is asserted. **Chapter 20: 6,187 → 6,239 (+52 words)**, all nine encounter IDs unchanged. See [eighteenth source reconciliation](SOURCE_RECONCILIATION.md), [Chapter 26 review](CHAPTER_26_REVIEW.md). No independent editorial approval.
