@@ -44,3 +44,13 @@ No game source, world-lore repository, manuscript chapter, recording or producti
 - Updated roadmap, source ledger, story navigation, decisions, content record and development journal without treating scene briefs as a finished manuscript.
 
 No canonical-world files, source-game records, narrated scripts, recordings or release artifacts were changed.
+
+## 2026-11-17 — Begin the actual novel manuscript
+
+- Wrote full first-draft prose for Chapter 1 **Skyland Morning** and Chapter 2 **The Weight of Other Stones** (6,562 total words).
+- Adapted source encounters **20015, 20018, 20055, 20056 and 20128** as distinct attributed testimonies; other 198 encounters remain planned, not drafted.
+- Added a manuscript index and a source-to-prose review register, explicitly recording physical and pronoun tensions between game prose and world lore.
+- Added per-encounter manuscript status to the 203-row placement matrix and updated public project status/documentation.
+- Reconciled one additional game `mEncounterText` change for **20081**, without changing source records.
+
+These are AI-authored first drafts under delegated creative direction, not author-approved final text, narration recordings or world-canon changes.

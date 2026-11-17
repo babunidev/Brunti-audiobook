@@ -32,3 +32,13 @@ A subsequent comparison of [game commit `5b0d73e550ca`](https://github.com/babun
 | 20080 | Dreamy Valley | More detailed hidden passage among pink blossoms and great rocks; chapter 3 scenic cue was updated |
 
 **Current literary scene-input baseline:** `e0bc99c51c74bb088f27a8252082b41c61629cf7`. The original atlas remains historically pinned, and no game files were modified. If game `main` advances again, the working edition requires another explicit comparison, not silent rewriting.
+
+## Third source update — 17 November 2026
+
+The subsequent [game `main` at `13a5d134c8e6`](https://github.com/babunidev/Morkahja/blob/13a5d134c8e63855894436e4f1b09910c5c50b95/server/game/encountersdata.json) had encounter JSON blob `71f490d7ef70f916c896e6f3f78fe247ccfd8a34`. A full per-ID, per-field comparison against `e0bc99c51c74` (blob `d447c5e73729b05d04f15f17a5eabe958cb00a04`) found **one more prose-only change**:
+
+- **20081 — Arcadian Hills:** expanded the wildflowers concealing the engraved **A**, the roots following its lines, the buried border marker and old treasure tales. No letter value changed, and Chapter 4's plan still respects the clue.
+
+Both sources contain exactly **203 encounters**. No record ID, title, follow link or gameplay metadata changed. The five encounters in the **Chapter 2 manuscript draft** (20015, 20018, 20055, 20056, 20128) were unchanged. The literary working source baseline is now `13a5d134c8e63855894436e4f1b09910c5c50b95`.
+
+**Original atlas remains pinned to its historical source snapshot.** This update is source comparison, not a full literary re-edit of all 203 descriptions. The game repository has not been modified.

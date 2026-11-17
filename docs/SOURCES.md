@@ -3,13 +3,14 @@
 | Authority | Repository | Pinned source |
 | --- | --- | --- |
 | Established world lore | [MorkahjaWorld](https://github.com/babunidev/MorkahjaWorld) | [f56a7c3d2034](https://github.com/babunidev/MorkahjaWorld/tree/f56a7c3d2034652e1c5961f0ece9c3ef52b52b48) |
-| Game encounter prose (current reviewed revision) | [Morkahja](https://github.com/babunidev/Morkahja) | [e0bc99c51c74](https://github.com/babunidev/Morkahja/tree/e0bc99c51c74bb088f27a8252082b41c61629cf7) |
+| Game encounter prose (current reviewed revision) | [Morkahja](https://github.com/babunidev/Morkahja) | [13a5d134c8e6](https://github.com/babunidev/Morkahja/tree/13a5d134c8e63855894436e4f1b09910c5c50b95) |
+| Intermediate source revision (five earlier text changes) | [Morkahja](https://github.com/babunidev/Morkahja) | [e0bc99c51c74](https://github.com/babunidev/Morkahja/tree/e0bc99c51c74bb088f27a8252082b41c61629cf7) |
 | Intermediate source revision (initial text refresh) | [Morkahja](https://github.com/babunidev/Morkahja) | [5b0d73e550ca](https://github.com/babunidev/Morkahja/tree/5b0d73e550ca123adcb095b45febeba4330a9fdf) |
 | Original encounter atlas / avatar and expansion source snapshot | [Morkahja](https://github.com/babunidev/Morkahja) | [58576f063627](https://github.com/babunidev/Morkahja/tree/58576f063627752f77cdf99514baad875d509114) |
 
 ## Game records
 
-The [encounter JSON](https://github.com/babunidev/Morkahja/blob/58576f063627752f77cdf99514baad875d509114/server/game/encountersdata.json) was parsed into the [complete source atlas](../story/ENCOUNTER_ATLAS.md). Its 203 records contain encounter IDs, names, descriptions, types, expansion associations and follow links. The full encounter prose is **not** copied into the atlas. Two later game snapshots changed **19 and then 5 additional `mEncounterText` strings**, with all 203 IDs, titles and gameplay metadata retained. See [source reconciliation](SOURCE_RECONCILIATION.md). The scene plan and placement matrix use the latest reviewed prose baseline. The [continuity audit](SCENE_CONTINUITY.md) identifies remaining detailed source verification needs.
+The [encounter JSON](https://github.com/babunidev/Morkahja/blob/58576f063627752f77cdf99514baad875d509114/server/game/encountersdata.json) was parsed into the [complete source atlas](../story/ENCOUNTER_ATLAS.md). Its 203 records contain encounter IDs, names, descriptions, types, expansion associations and follow links. The full encounter prose is **not** copied into the atlas. Three later game snapshots changed **19, then 5, then 1 additional `mEncounterText` strings**, with all 203 IDs, titles and gameplay metadata retained. See [source reconciliation](SOURCE_RECONCILIATION.md). The scene plan and placement matrix remain structurally complete; the five drafted Chapter 2 encounter texts are unchanged at the latest reviewed prose baseline. See [manuscript review](MANUSCRIPT_REVIEW.md) for exact draft fidelity. The [continuity audit](SCENE_CONTINUITY.md) identifies remaining detailed source verification needs.
 
 In the [portrait JSON](https://github.com/babunidev/Morkahja/blob/58576f063627752f77cdf99514baad875d509114/server/game/portraits.json), **Brunti** appears twice:
 
