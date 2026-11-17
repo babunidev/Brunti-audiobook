@@ -1,6 +1,6 @@
 # Movement II — scene briefs v1
 
-**Status:** working novel-scene design under delegated literary authorship. **Chapters 5–11 have been written as [first-draft manuscript prose](../../manuscript/chapters/README.md)**; Chapter 12 remains planned. The scene briefs are not themselves manuscript prose or a verified canon update. **Encounter source:** game prose reviewed at `5b0d73e550ca` and later `mEncounterText` revisions at `e0bc99c51c74`, `13a5d134c8e6`, `096c99bdf5ac`, `734f439b1699` and `ad34afb686ef` (see [source reconciliation](../../docs/SOURCE_RECONCILIATION.md)). Scene routes, new dialogue and consequences are novel fiction. [Story spine](../STORY_SPINE.md) · [Placement matrix](../PLACEMENT_MATRIX.md) · [Continuity register](../../docs/SCENE_CONTINUITY.md).
+**Status:** working novel-scene design under delegated literary authorship. **Chapters 5–12 have been written as [first-draft manuscript prose](../../manuscript/chapters/README.md)**; Chapters 13 onward remain planned. The scene briefs are not themselves manuscript prose or a verified canon update. **Encounter source:** game prose reviewed at `5b0d73e550ca` and later `mEncounterText` revisions at `e0bc99c51c74`, `13a5d134c8e6`, `096c99bdf5ac`, `734f439b1699` and `ad34afb686ef` (see [source reconciliation](../../docs/SOURCE_RECONCILIATION.md)). Scene routes, new dialogue and consequences are novel fiction. [Story spine](../STORY_SPINE.md) · [Placement matrix](../PLACEMENT_MATRIX.md) · [Continuity register](../../docs/SCENE_CONTINUITY.md).
 
 **How to use:** Each scene has an actionable turn and listed source IDs. “Lived,” “Testimony,” “Archive,” and “Metaphor” come from the still-provisional matrix. Individual encounter hooks must be dramatized when writing; a catalog mention alone is never finished adaptation. The mini-cues below preserve the distinct source identity of each assigned record.
 
@@ -324,7 +324,7 @@ The Garden of Elements misses a beat. Brunti wants to connect it to the Skyland 
 
 #### 12.1 — A quiet cave beyond the people's homeland
 
-Sira recounts Umbrael's modest altar **in Evergrove's oasis country**: reverence for darkness can be still and generous rather than ominous. This is testimony, not a sudden separate trip.
+Sira recounts Umbrael's modest altar **in Evergrove's cultivated oasis country**, with candles under old trees: reverence for darkness can be still and generous rather than ominous. **This is her testimony, not a physical detour to the shrine.** This is testimony, not a sudden separate trip.
 
 **Turn:** The company tolerates rituals that do not serve its research.
 
@@ -333,7 +333,7 @@ Sira recounts Umbrael's modest altar **in Evergrove's oasis country**: reverence
 
 #### 12.2 — Healing before entry
 
-The Nereval Elite guardian asks for the river's sign. The guardian's place in 20192 must precede the sanctuary's revealed runes and healing mark in 19001. The novel may invent a practical act of care as a gesture but not establish a universal required key.
+The Nereval Elite guardian asks for the river's sign. **20192 happens before 19001**: Brunti, Sira and Velen help restore water through a small damaged bank, the guardian steps aside and the runes reveal the dark restoration mark. Further careful support lets the water reach a struggling plant, and the local seal responds. **This novel-specific care does not define a universal opening formula.**
 
 **Turn:** Brunti waits for the guardian rather than forcing a sacred door.
 
@@ -343,7 +343,7 @@ The Nereval Elite guardian asks for the river's sign. The guardian's place in 20
 
 #### 12.3 — The river keeps laughing
 
-The elderly Riverkeeper shares food stories and stories of loss without turning grief into a test. Sira receives word of a damaged oasis-village; the others agree to visit as guests, not investigators.
+The elderly Riverkeeper shares food stories and stories of loss without turning grief into a test. **Iren**, a novel-only elderly Riverkeeper, laughs and tells a fish story before giving Sira names from a messenger's report of a raided oasis-village. The party follows the guided Evergrove road as prospective helpers and guests, not as investigators extracting witness testimony.
 
 **Turn:** The next journey begins with living obligations.
 

@@ -1,6 +1,6 @@
 # Chapter Twelve — Where Water Is Guarded
 
-The first person to tell Brunti that Velen had been granted leave was a woman selling onions.
+The first sign that Velen had been granted leave came from a woman selling onions.
 
 She stood beside a cart in Aetherion's morning market, polishing a stone weight with her sleeve. Brunti was trying to find the proper price for a bag of mineral grain when the woman glanced toward the corner of the square.
 

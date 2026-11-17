@@ -1,6 +1,6 @@
 # Brunti — working novel manuscript
 
-**Status as of 17 November 2026:** **eleven first-draft chapters**, not editorially approved or prepared for narrated publication. The story structure remains a 30-chapter working direction authored under delegated literary authority. Chapter headings are part of clean prose files; editorial notes and source-ID assignments are kept separately.
+**Status as of 17 November 2026:** **twelve first-draft chapters**, not editorially approved or prepared for narrated publication. The story structure remains a 30-chapter working direction authored under delegated literary authority. Chapter headings are part of clean prose files; editorial notes and source-ID assignments are kept separately.
 
 | Chapter | Title | Source encounter IDs | Status |
 | ---: | --- | --- | --- |
@@ -15,10 +15,11 @@
 | 9 | [Where Stories Are Sold](09-where-stories-are-sold.md) | 20012, 20031, 20059, 20060, 20076 | **Draft v1** — 3,882 words |
 | 10 | [The Shelter Beyond the Veil](10-the-shelter-beyond-the-veil.md) | 19444, 20187–20191 | **Draft v1** — 5,073 words |
 | 11 | [The City of Listening](11-the-city-of-listening.md) | 20062, 20181–20184 | **Draft v1** — 5,195 words |
-| 12–30 | [Remaining planned chapters](../../story/scenes/README.md) | 120 planned encounter placements | **Not drafted** |
+| 12 | [Where Water Is Guarded](12-where-water-is-guarded.md) | 19001, 20064, 20192, 20193 | **Draft v1** — 5,493 words |
+| 13–30 | [Remaining planned chapters](../../story/scenes/README.md) | 116 planned encounter placements | **Not drafted** |
 
-**Total current manuscript:** **42,044 words including chapter headings** (approximately **41,978 prose words** excluding headings). This is narrative prose, not a compilation of unadapted source descriptions.
+**Total current manuscript:** **47,537 words including chapter headings** (approximately **47,465 prose words** excluding headings). This is narrative prose, not a compilation of unadapted source descriptions.
 
-The chapter text is clean for reading and eventual narration export. Editorial notes stay in the [opening review](../../docs/MANUSCRIPT_REVIEW.md), [Chapters 3–4 review](../../docs/CHAPTERS_03_04_REVIEW.md) and [Chapters 5–6 review](../../docs/CHAPTERS_05_06_REVIEW.md) and [Chapters 7–8 review](../../docs/CHAPTERS_07_08_REVIEW.md) and [Chapter 9 review](../../docs/CHAPTER_09_REVIEW.md) and [Chapter 10 review](../../docs/CHAPTER_10_REVIEW.md) and [Chapter 11 review](../../docs/CHAPTER_11_REVIEW.md). The [source-to-manuscript matrix](../../story/PLACEMENT_MATRIX.md) tracks every game ID separately from the historical [source atlas](../../story/ENCOUNTER_ATLAS.md).
+The chapter text is clean for reading and eventual narration export. Editorial notes stay in the [opening review](../../docs/MANUSCRIPT_REVIEW.md), [Chapters 3–4 review](../../docs/CHAPTERS_03_04_REVIEW.md) and [Chapters 5–6 review](../../docs/CHAPTERS_05_06_REVIEW.md) and [Chapters 7–8 review](../../docs/CHAPTERS_07_08_REVIEW.md) and [Chapter 9 review](../../docs/CHAPTER_09_REVIEW.md) and [Chapter 10 review](../../docs/CHAPTER_10_REVIEW.md) and [Chapter 11 review](../../docs/CHAPTER_11_REVIEW.md) and [Chapter 12 review](../../docs/CHAPTER_12_REVIEW.md). The [source-to-manuscript matrix](../../story/PLACEMENT_MATRIX.md) tracks every game ID separately from the historical [source atlas](../../story/ENCOUNTER_ATLAS.md).
 
-**Coverage:** **83 source encounters adapted into first-draft prose**, **120 still planned**, **0 independently editorially verified**. First draft does not mean author-approved final text, complete source coverage, audiobook narration script or recorded audio. No game or canonical-world source was modified.
+**Coverage:** **87 source encounters adapted into first-draft prose**, **116 still planned**, **0 independently editorially verified**. First draft does not mean author-approved final text, complete source coverage, audiobook narration script or recorded audio. No game or canonical-world source was modified.
