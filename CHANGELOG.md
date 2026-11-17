@@ -171,3 +171,13 @@ Current state: **9 first-draft chapters, 31,741 words, 72 encounter IDs adapted,
 - Updated source ledger, reconciliation, encounter matrix, manuscript index, roadmap and development records. Project totals: **17 draft chapters / 72,764 words including headings / 130 drafted encounters / 73 planned**.
 
 All chapter prose remains AI-assisted first draft under Babuni's creative direction. No game or world lore was altered, no independent literary approval occurred, and no audio has been produced.
+
+## 2026-11-17 — Draft Chapter 18 and reconcile new game prose
+
+- Added [Chapter 18 — The Last Warm Bowl](manuscript/chapters/18-the-last-warm-bowl.md), **5,110 words** of first-draft novel prose, adapting **5** distinct source encounters.
+- Preserved mode distinction: **Frostfang Alpha** is attributed local testimony, while the rockslide, Everwinter trading post, Frostbite Fergus and Frostclaw Behemoth are lived in novel scenes; no new canon outcome is asserted.
+- Added [Chapter 18 source and continuity review](docs/CHAPTER_18_REVIEW.md), including Rokur and Grimnir physiological checks and the planned Guardian → Cave handoff.
+- Compared all 203 game records at `e8fbfc67cbb4` against `92cd8dc140c5`: **two `mEncounterText`-only changes** (20108, 20109), with 20109 reconciled in Chapter 17 (+44 words to 4,683) and 20108 held for future Chapter 21.
+- Updated source provenance, documentation, 203-row encounter ledger, manuscript index, roadmap and project entry point. **18 first drafts / 77,918 words including headings / 135 adapted encounter IDs / 68 planned**.
+
+The manuscripts remain AI-assisted first drafts under Babuni's creative direction, without independent human editorial approval, recorded audio, publication or changes to Morkahja game/world source.
