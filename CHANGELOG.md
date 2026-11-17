@@ -211,3 +211,13 @@ All prose remains AI-authored first draft under Babuni's creative direction, wit
 - Updated manuscript index, 203-ID matrix, roadmap, source ledger, reconciliation history, Chapter 17/18 source review addenda, continuity and development documentation. **21 first-draft chapters / 93,538 words including headings / 156 adapted IDs / 47 planned**.
 
 All novel text remains AI-authored first draft under Babuni's creative direction, not independent editorial approval, recorded narration, release or a change to Morkahja game/world canon.
+
+## 2026-11-17 — Chapter 22 first draft and fifteenth source update
+
+- Added [Chapter 22 — The Price of Warning](manuscript/chapters/22-the-price-of-warning.md), **4,830 words** of first-draft fantasy prose, adapting exactly **five** source encounters: **20075 Grumpy Fence** (Lived), **20078 Unhinged Gobbl** (Lived), **20079 Fearfeaster Gobbl** (Testimony), **20118 Firecrest Bloodbeak** (Lived), and **20155 Blightwatcher Raven** (Lived).
+- Preserved distinct afflicted Gobbl stories and bird alarms, the bandit rooster's existing warning function, the Fearfeaster only as attributed testimony, and the unknown location of the missing Verdani child. The party reaches an occupied aid clearing, not a premature Chapter 23 rescue.
+- Added [Chapter 22 fidelity and continuity review](docs/CHAPTER_22_REVIEW.md), describing source details, novel-only merchant/route and provisional geography, narrative mode, and unresolved lore.
+- Compared all **203** game records at `c227753b59d0` against `2b4afe761c8b`: exactly **two `mEncounterText` changes (20124 Frostfang Alpha, 20125 Raided Verdani Village)**. Reconciled the first in Chapter 18 as Aksa's courier testimony (**5,155 → 5,193 words**, +38) and the second in Chapter 13 as a lived survivor recovery (**5,482 → 5,526 words**, +44). No game IDs, follow links or other metadata changed.
+- Updated the 203-ID matrix, manuscript index, roadmap, source ledger, source reconciliation history, Chapter 13/18 review addenda, content/continuity records and development journal. **22 chapters / 98,450 words including headings / 161 adapted / 42 planned**.
+
+All prose remains AI-authored first draft under Babuni's creative direction, not independently approved final text, recorded narration, publication or changed Morkahja world/game canon.
