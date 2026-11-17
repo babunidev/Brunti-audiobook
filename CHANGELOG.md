@@ -251,3 +251,13 @@ All manuscript text remains ChatGPT GPT-6 first-draft work under Babuni's creati
 - Updated manuscript index, 203-ID placement matrix, roadmap, source ledger, no-change reconciliation, continuity/content documentation and development journal. **25/30 drafted chapters, 116,752 words including headings, 196 adapted / seven planned, zero independently editorially approved**.
 
 The chapter remains first-draft ChatGPT GPT-6 work under Babuni's creative direction; no audio, publication, human editorial acceptance or game/world canon changes.
+
+## 2026-11-17 — Chapter 26 first draft and eighteenth source-text refresh
+
+- Added [Chapter 26 — The Voices Beneath](manuscript/chapters/26-the-voices-beneath.md), **5,351 words** of first-draft literary prose, integrating exactly three game follow-linked encounters **19668 The Hollow Choir → 19669 The Weeping Mire → 19670 Forgotten Procession** in direct Lived mode.
+- Staged the upside-down singing trees and watchful bark faces, black pools with moving mismatched reflections and crying beneath stone, and a silent hooded procession with extinguished lanterns and an unreachable Brunti-like marcher. Subjective similarities to the Grimnir memorial are not asserted as canon evidence; the Silent Throne's interior and Verdani's Vigil remain in Chapter 27's plan.
+- Added [Chapter 26 source/continuity review](docs/CHAPTER_26_REVIEW.md). All three new source texts are unchanged at the latest game revision.
+- Compared all 203 game source records and all fields between `f949602a0a21` and `3c14072c05be`, finding exactly **two `mEncounterText`-only revisions**. Reconciled **20134 Seal of Nekalos** in Chapter 20 (**6,187 → 6,239, +52 words**, direct) and **20135 Frostlace** in Chapter 19 (**4,643 → 4,704, +61 words**, secondary testimony), with no encounter follow or status change.
+- Updated source ledger, eighteenth reconciliation log, reviewed chapters, manuscript index, 203-ID placement matrix, roadmap, content/continuity and development records. **26 first-draft chapters / 122,216 words including headings / 199 distinct IDs adapted / four planned**.
+
+All manuscript prose remains ChatGPT GPT-6 first draft under Babuni's creative direction; no independent editorial approval, released audiobook or changes to game/world canon.
