@@ -241,3 +241,13 @@ All prose remains AI-authored first draft under Babuni's creative direction; no 
 - Updated the 203-ID matrix, manuscript index, roadmap, source ledger, seventeenth reconciliation record, two historical review addenda, content/continuity and development documentation. **24 draft chapters / 111,305 words including headings / 193 drafted encounter IDs / 10 planned**.
 
 All manuscript text remains ChatGPT GPT-6 first-draft work under Babuni's creative direction, without independent editorial approval, produced narration, release or change to Morkahja game/world canon.
+
+## 2026-11-17 — Chapter 25 Blackwood entry first draft
+
+- Added [Chapter 25 — The Door in the Cliff](manuscript/chapters/25-the-door-in-the-cliff.md), **5,447 words** of original first-draft novel prose integrating **three** distinct source encounters in exact follow sequence: **20050 Blackwood Portal → 19666 Tangled Depths → 19667 Blackwood Guardian**. The final image foreshadows the not-yet-drafted **19668 Hollow Choir**.
+- Recorded two explicit unreliable memory intervals rather than an invented portal-opening or Guardian-pass mechanism. The Guardian game account's specific password/significant-item condition remains distinguishable from the world archive's finding that no consistent condition is confirmed. No Blackwood artifacts, proof of connection to the Grimnir memorial, or joined companions are introduced.
+- Added [Chapter 25 source/continuity review](docs/CHAPTER_25_REVIEW.md), including cross-references for the full **20050 → 19666 → 19667 → 19668 → 19669 → 19670 → 19671 → 19672** chain and relevant canon limitations.
+- Rechecked all 203 game records at unchanged baseline `f949602a0a21`: **zero changes** from the previous reviewed encounter file; no new game prose or prior manuscript source corrections were necessary.
+- Updated manuscript index, 203-ID placement matrix, roadmap, source ledger, no-change reconciliation, continuity/content documentation and development journal. **25/30 drafted chapters, 116,752 words including headings, 196 adapted / seven planned, zero independently editorially approved**.
+
+The chapter remains first-draft ChatGPT GPT-6 work under Babuni's creative direction; no audio, publication, human editorial acceptance or game/world canon changes.
