@@ -32,3 +32,5 @@ No manuscript chapters, audio files, source game content, established lore or de
 - Updated README, roadmap, story pointers and documentation to separate delegated audiobook fiction from canonical Morkahja lore or completed prose.
 
 No game source, world-lore repository, manuscript chapter, recording or production artifact changed.
+
+- Finalized distinct spoken names for the novel's primary cast and memorial figures, choosing **Korrum** for the builder to keep the name aurally distinct from Darrik.

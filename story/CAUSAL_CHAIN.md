@@ -56,7 +56,7 @@ A strong chapter should change what the next chapter can happen *because of*, ev
 | Chapter | Turn of action and character | Consequence that carries forward |
 | --- | --- | --- |
 | 28. A Story About the End | A traveler relates an uncertain account of Atranor. The laws of death and reincarnation are not replaced by hearsay. Brunti distinguishes what she witnessed from what she cannot know. | She is ready to speak honestly before the Skyland council, including about her own choice at Blackwood. |
-| 29. The Work of Bringing Back | Brunti and Darrik test toolmarks, study the Aetherion sketch, and identify the two memorial stones as Tavra and Dorrun. Brunti admits that an earlier brace and later reckless descent were hers. | They restore a safe inhabited structure and design a reachable place for the two distinct memory echoes. Neither safety nor identity is sacrificed. |
+| 29. The Work of Bringing Back | Brunti and Darrik test toolmarks, study the Aetherion sketch, and identify the two memorial stones as Tavra and Korrum. Brunti admits that an earlier brace and later reckless descent were hers. | They restore a safe inhabited structure and design a reachable place for the two distinct memory echoes. Neither safety nor identity is sacrificed. |
 | 30. The Note That Remains | A young listener hears two rhythms and asks about Brunti's journeys. She preserves what she knows, marks what she cannot verify, and leaves the question open to another witness. | Her change is shown by conduct, **not** by a literal Level up! screen, reward, or exposition. |
 
 ## Chronology and character presence

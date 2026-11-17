@@ -60,9 +60,9 @@ At first Velen trusts written records over living testimonies because people can
 
 **Entirely original personal identity and past.** A traveling bearer of accounts whose memory stone became part of the communal wall. Her echo contains a distinct rhythmic contour, not usable fresh testimony or instructions to Brunti. An old archive diagram associates her name with one stone.
 
-### Dorrun — deceased Grimnir builder
+### Korrum — deceased Grimnir builder
 
-**Entirely original personal identity and past.** An architect of inhabited Skyland spaces whose memorial lies beside Tavra's under a shared casing. The second inscription was obscured during an old repair. Dorrun's echo differs from Tavra's; neither is inferior or false simply because their rhythms overlap.
+**Entirely original personal identity and past.** An architect of inhabited Skyland spaces whose memorial lies beside Tavra's under a shared casing. The second inscription was obscured during an old repair. Korrum's echo differs from Tavra's; neither is inferior or false simply because their rhythms overlap.
 
 The two are **not revealed as divine emissaries, parents of Brunti, ancient creators of Keldor, or the speakers of all encountered stories**. Their names make the resolution intimate, not cosmological.
 

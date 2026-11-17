@@ -30,7 +30,7 @@ The council permits a bounded inquiry. Brunti must bring back an independently c
 
 ## The craft mystery — a local answer with foreshadowing
 
-The wall holds a composite memorial panel built from **two deceased Grimnir's separate memory stones**. Their novel-only names are **Tavra** (a traveling Skykeeper who carried other people's accounts) and **Dorrun** (a builder who tended the old Skyland's inhabited spaces). The stones were placed under a shared casing during an earlier repair. The inscription identifying the second stone was lost from the accessible wall surface; the underlying record was not deliberately erased. Later settling and a worn support allowed two established memory echoes to overlap acoustically. Brunti's well-intended metal brace made the overlap audible in a new, harmful place.
+The wall holds a composite memorial panel built from **two deceased Grimnir's separate memory stones**. Their novel-only names are **Tavra** (a traveling Skykeeper who carried other people's accounts) and **Korrum** (a builder who tended the old Skyland's inhabited spaces). The stones were placed under a shared casing during an earlier repair. The inscription identifying the second stone was lost from the accessible wall surface; the underlying record was not deliberately erased. Later settling and a worn support allowed two established memory echoes to overlap acoustically. Brunti's well-intended metal brace made the overlap audible in a new, harmful place.
 
 Memory-stone echoes are **preserved traces, not living souls speaking new sentences or foretelling the future**. The repair was material, local and historically contingent; it is unrelated to the cause of the Ravage, Keldor, the Blackwood Abyss, the Aetherion Garden's irregularity or Everwinter's catastrophe. Similar sounds elsewhere are motifs and possible analogies, never proof of a shared origin.
 
@@ -41,7 +41,7 @@ Memory-stone echoes are **preserved traces, not living souls speaking new senten
 3. **Chapter 11:** In Aetherion's archives, **Velen** finds an old restoration sketch with evidence that the panel once consisted of two memorial components. The surviving diagram is incomplete; it does **not** reveal a magic solution.
 4. **Chapters 17–20:** Fragmented Frostweaver records and Jorvald's guarded scholarship make Brunti abandon the idea that a missing account may simply be reconstructed from plausible fragments. They do not supply a Grimnir repair spell or an answer to the first mystery.
 5. **Chapters 25–27:** The Blackwood experiences offer tempting patterns of voice, memory and resemblance. Brunti nearly mistakes the abyss for confirmation of her private theory and pays for the risk.
-6. **Chapters 29–30:** The old drawing, toolmarks visible in the isolated panel and physical comparison identify two stones and two original inscriptions, **Tavra and Dorrun**. Darrik and Brunti agree on an honest restoration: the unsafe support is replaced, both memorial stones are conserved within a new accessible archive setting, and the two histories are identified as separate. No stored personality is edited, cut apart or made to speak from beyond its original echo.
+6. **Chapters 29–30:** The old drawing, toolmarks visible in the isolated panel and physical comparison identify two stones and two original inscriptions, **Tavra and Korrum**. Darrik and Brunti agree on an honest restoration: the unsafe support is replaced, both memorial stones are conserved within a new accessible archive setting, and the two histories are identified as separate. No stored personality is edited, cut apart or made to speak from beyond its original echo.
 
 This resolution deliberately gives Brunti something more demanding than winning an argument: she admits that **Darrik was right about moving the unsafe structure**, and Darrik admits that a quiet archive can be designed to remain heard and used by the living.
 
@@ -91,7 +91,7 @@ Brunti's last act is small. A young listener asks what the Blackwood voices mean
 
 - Brunti is source portrait **104**, a female Grimnir warrior. She has a living mineral/metal/crystal body and must never read as an ordinary flesh-and-blood human in armor.
 - Skylands are moving, engineered Grimnir homelands; memory stones retain echoes of those who died and underwent the rite. They are not omniscient recording devices.
-- The home Skyland, Tavra, Dorrun, Darrik, Sira and Velen and their invented histories are **novel-only** until separately established elsewhere.
+- The home Skyland, Tavra, Korrum, Darrik, Sira and Velen and their invented histories are **novel-only** until separately established elsewhere.
 - Aetherion, Evergrove, Ohgar, Karrhu, Everwinter and Keldor retain independent identity; shared musical imagery does not collapse their separate causes.
 - The **seven letters A H K J O M A** are not deciphered into a forced answer.
 - The Blackwood sequence **20050 → 19666 → 19667 → 19668 → 19669 → 19670 → 19671 → 19672** remains ordered, ending in Verdani's Vigil and genuine ambiguity about what was perceived.
