@@ -1,0 +1,705 @@
+# Chapter Fourteen — Words in the Sand
+
+The fourth water channel began flowing while Brunti was still arguing with a pipe.
+
+The piece she had brought from the next Oasis Heart lay across two trestles, its clay lining smooth and properly fired. It was the correct length, exactly as Renn had measured. It was also wider at one end than the fitting waiting beneath the village wall.
+
+“The measurements are right,” Velen said.
+
+“The measurements of the pipe are right,” Brunti answered. “The socket is wrong.”
+
+“Renn drew that socket.”
+
+“Renn drew it before the wall shifted.”
+
+They had returned to the raided village with the supply wagon at dawn. Sira met them beside the surviving elder tree, her robe marked by a long day's work among the water beds. She had brought a message from Alen: the wall had settled again during the night, and a worker had found the old clay socket cracked beneath the bank.
+
+Brunti knelt beside the pieces.
+
+She could remove the damaged socket and replace the whole section. It would take time the village could scarcely spare. Or she could fit the new pipe into a collar made from the good pieces of the old one, giving the joint enough room to move as the bank settled.
+
+Renn sat nearby on his resting plank, watching her hands.
+
+“Don't make it rigid,” he said.
+
+“I wasn't going to.”
+
+“I know you weren't.”
+
+“Then why say it?”
+
+He smiled faintly. “Because I used to be the sort of person who made it rigid.”
+
+Sira laughed.
+
+Brunti looked at the cracked socket, then at the copied restoration sketch tucked safely in her pack. Two beds under one cover. A joint that needed to carry weight without forcing every part to move together.
+
+She might have called the resemblance an answer to her own problem.
+
+Instead she asked Alen which parts of the bank would be inspected after the next rain.
+
+“Those two corners,” Alen said, pointing. “And the upper clay shelf. We need the joint to show us when it begins to move.”
+
+Brunti set the collar so a narrow reference mark remained visible. If the line shifted, the workers would know the bank had changed. Renn checked her work, then had another worker check it without being told what Brunti had intended.
+
+Only after both agreed did Sira guide water into the fourth feeder.
+
+The stream hesitated at the new fitting.
+
+Then it crossed.
+
+A thin line of water traveled along the channel and reached the little orchard with the crooked tree. The child who had asked after it on the first day ran beside the flow, shouting its arrival before it reached the first roots.
+
+Alen did not cheer.
+
+She stood with her hands on her hips, watching the joint.
+
+“Keep the lower gate half closed until evening,” she told the workers. “We'll see if it holds.”
+
+Brunti straightened.
+
+For once she was pleased that someone else had the final word.
+
+***
+
+They remained another two days.
+
+The joint held through its first controlled flow, though the upper wall still required rebuilding. Alen arranged for the village's own workers to inspect it after every change in the water schedule. Brunti left her measurements with Renn, along with a drawing of the collar that showed its weaknesses as clearly as its strength.
+
+Sira stayed busy among the families who had returned to their homes, or to the ruins where their homes had stood. She carried three messages to the caravan station, received two replies, and helped Alen make a new list of people whose destinations were still unknown.
+
+The child with the carved walking stick remained among them.
+
+There had been no report of danger. There had been no confirmation of arrival, either. The caravan had divided at a blocked station, and the later routes were not yet fully traced.
+
+Velen asked whether to mark the child as missing.
+
+“No,” Sira said. “Not yet.”
+
+“What heading would you use?”
+
+“Last known route.”
+
+Velen wrote it down.
+
+Brunti noticed that Sira did not ask to travel after the caravan immediately. She sent careful questions to the stations and left names of people who could receive their answers. Then she returned to helping Alen arrange the next load of supplies.
+
+On the morning they were ready to leave, the village gathered beneath the elder tree for a meal.
+
+The old Aevis woman who had hummed in the glade was there. She sang only a few notes, then smiled when Sira answered with a different ending. Renn sat beside the rebuilt channel and said the water sounded too loud.
+
+“That's because it's working,” Alen replied.
+
+“Then it could work more quietly.”
+
+“Give it a week.”
+
+Brunti ate a little grain mixed with mineral salt. It had been prepared by someone who knew the tastes of Grimnir visitors, and it was much better than the dry cakes she had made for herself in the Vale.
+
+Sira sat beside her.
+
+“Do you still need to go north?” she asked.
+
+“Yes.”
+
+“Then we should stop borrowing your time.”
+
+Brunti looked at the repaired channel.
+
+“You weren't borrowing it.”
+
+Sira turned toward her.
+
+“We needed you here.”
+
+“I needed to be here too.”
+
+The words surprised Brunti when she heard them.
+
+She had not come for a lesson. She had come because Sira knew people who were hurting and because water was spilling into the sand. Yet the work had given her something useful: not a new answer to the memorial, but a better understanding of how repairs belonged to the people who would live with them.
+
+Alen came to say goodbye before Brunti could speak again.
+
+“Renn says your drawing is clear,” she told her.
+
+“Then he is being kind.”
+
+“He also says the new collar will need replacing after the next long dry season.”
+
+“Then he is being accurate.”
+
+Alen smiled.
+
+“Come back when the houses have roofs. We may have fewer things for you to fix.”
+
+“I would like that,” Brunti said.
+
+She meant it.
+
+***
+
+The road to Ohgar did not begin at the village gate.
+
+First came the oasis stations, then the salt flats, then a chain of caravan wells where the Verdani water channels thinned into local cisterns and prepared stores. The three companions traveled with merchants who knew the road. They bought provisions at each reliable stop and waited when a guide judged the next stretch unsafe for the day's heat.
+
+At the last larger station before the open desert they met a woman named Sael.
+
+Her hair was bound beneath a sand-colored scarf, and the skin of her hands was marked by many years of sun and wind. She studied their packs without asking what wonders they hoped to discover.
+
+“Who knows how much water they need?” she asked.
+
+Sira raised her hand.
+
+“Who knows how much their companions need?”
+
+Sira glanced toward Brunti and Velen.
+
+“Less certainly.”
+
+“Good. That's the question that keeps everyone talking.”
+
+Sael inspected their vessels, added a mineral preparation suitable for Brunti's living stone, and checked the protective covering Velen had made for their field notes. She declined to take them by the shortest line across the dunes.
+
+“There are rocks on that road,” Brunti said, pointing to the map.
+
+“There are rocks on every road,” Sael replied. “Some stand beside water. Some stand beside the bones of travelers who thought they had found water.”
+
+Brunti looked at the map again.
+
+“Which do these stand beside?”
+
+Sael folded it.
+
+“That depends how far the wind has moved the sand since the last guide passed.”
+
+They joined a caravan of six carts carrying cloth, metalwork and dried food between desert stations. A guide traveled ahead of the first cart, and another followed the last with a narrow horn for signaling. Days lengthened under the clear sky. They rested through the fiercest heat and moved when the sun was lower.
+
+The land offered little shade.
+
+Even Brunti felt the cost of it. The mineral seams of her arms grew dry beneath the relentless air, and the small movements that kept her body coherent demanded more attention than they did in the green Vale. She drank water prepared with salts, sheltered her hands beneath cloth, and spent the hottest hours on a resting slab within a covered cart.
+
+She had once imagined the desert as empty.
+
+It was not.
+
+The wind carried fine grains along the ground in long pale ribbons. Little creatures crossed the sand before dawn. Thorns held to patches of hard earth where the water had gone deep below. At night the stars stood sharp above the caravan, and the wheels cooled with quiet clicks that Brunti could feel through the ground.
+
+Every place contained something that had learned how to remain there.
+
+***
+
+The granite began speaking in the afternoon.
+
+They were approaching a field of towering monoliths when the first groan passed through the ground. Brunti felt it in the heels of her feet before it reached her ears. A low sound moved between the rocks, thinned into the hot wind and disappeared.
+
+Sael raised her hand.
+
+The caravan stopped.
+
+The monoliths stood in rows that no careful builder would have chosen. Their faces had been worn by heat and sand, and long shadows lay beneath overhanging ledges. Some crevices were no wider than a hand. Others opened into dark passages whose ends were hidden.
+
+A second groan came from the nearest rock.
+
+Brunti stepped off the road.
+
+“Is that the stone moving?”
+
+“Perhaps a little,” Sael said. “Heat will make old cracks speak. Wind can find a narrow mouth and turn it into an instrument.”
+
+“Do people go inside?”
+
+“Some do.”
+
+“Do they come back?”
+
+“Enough to tell stories. Not enough to make me recommend it.”
+
+The rocks of Ohgar had a reputation for hidden chambers and buried treasure. A merchant in the caravan told of a caravan-master who had found a metal cup under one of the great stones. Another claimed to know a man who had heard coins rattling within a crevice after a sandstorm.
+
+Velen listened without writing.
+
+Brunti watched a thin thread of sand flow toward the mouth of a cleft. It moved inward even while the open ground carried sand in the opposite direction.
+
+A draught.
+
+Perhaps there was a space beyond the crack. Perhaps the sound came from another opening beneath the rock.
+
+She took a step closer.
+
+“Brunti,” Sael said.
+
+“I can hear something.”
+
+“So can I.”
+
+“It might be a hollow chamber.”
+
+“It might.”
+
+Brunti looked back.
+
+Sael was standing beside the first cart, her scarf pulled high against the wind. She did not seem angry.
+
+“Your weight is enough to matter on a lip of loose stone,” the guide said. “The sand there runs inward because the air is moving. That does not tell you what is holding the roof.”
+
+Brunti studied the shadowed entrance.
+
+Her training could have helped her examine the outer face, perhaps even judge whether the stone had settled. But she had no support tools for a chamber she could not see, and the caravan depended on her continuing with it.
+
+She returned to the road.
+
+A small boy riding in the last cart looked disappointed.
+
+“Didn't you want to find the treasure?” he asked.
+
+“Yes,” Brunti said.
+
+“Then why not go?”
+
+“Because I don't know if there's a floor.”
+
+The boy considered.
+
+“That would be important.”
+
+“It often is.”
+
+When the caravan moved again, the granite gave another long groan behind them. Brunti listened until it vanished into the wind.
+
+She wrote down the observation later, not because she believed the sound had anything to do with her memorial, but because she wanted to remember the direction of the sand and the shape of the crevice.
+
+Then she closed her notebook and helped the driver tie down a loose bundle of cloth.
+
+***
+
+They met the Skorpo where the road crossed a low stretch of thorny scrub.
+
+The creature appeared first as a scratching sound beneath the wind.
+
+Sael heard it and stopped the caravan with a sharp gesture. The nearest driver pulled his animals back. From the sand between two shrubs a large dark-brown scorpion emerged, its armored body gleaming beneath the sun.
+
+Its many legs carried it swiftly across the loose ground, leaving fine parallel tracks behind its heavy segmented form. Two powerful pincers opened and closed with hollow clicks. Above its back a long tail curved, each section shifting with precise, terrible ease. At the tip, a dark stinger caught the light.
+
+The Skorpo paused beside a low thorn bush.
+
+Its small black eyes faced the road.
+
+“Keep the carts still,” Sael said.
+
+The boy in the last wagon began to move toward the edge of his seat.
+
+Brunti caught his sleeve.
+
+“Stay where you are.”
+
+“I only wanted to see.”
+
+“You can see from there.”
+
+The creature lifted its pincers.
+
+Click.
+
+The sound was sharp enough to carry over the whisper of sand. It moved toward the nearest cart, then stopped when the driver pulled on a loose harness strap. One of the animals shifted its hooves, and the Skorpo's tail swung toward the movement.
+
+Brunti took her hammer from its loop.
+
+Sael looked at her.
+
+“Only if it comes to us.”
+
+“It already is.”
+
+“Then give it less reason.”
+
+Brunti could have advanced and tried to strike the creature before it reached the wheels. Its armor looked heavy, and the stinger was poised beyond the reach of a short swing. A missed blow might turn a passage across the road into a fight beside frightened animals.
+
+She lowered the hammer.
+
+“What do you need?” she asked Sael.
+
+“Help that driver back the first cart. Slowly. The others must not crowd it.”
+
+Brunti moved to the wheel.
+
+Velen took the rear harness strap, holding it steady so it would not drag across the sand. Sira went to the second cart and spoke quietly to its driver. The animals shifted backward by careful steps. Brunti kept the wheel from dropping into a rut while Sael watched the scorpion.
+
+The Skorpo clicked its pincers again.
+
+Its tail swayed above the sand.
+
+For a moment it seemed certain to follow the moving cart. Then the first wheel cleared the thorn patch, and the scorpion turned toward the shrub, its legs carrying it swiftly along the warmer side of the road.
+
+Sael waited until it had crossed into the scrub.
+
+“Now,” she said. “We go around.”
+
+They took a long curve over stony ground, losing an hour of travel and part of the cool evening they had hoped to reach.
+
+The boy complained until his mother pointed out that he was still able to complain.
+
+“Is it poisonous?” he asked Brunti later.
+
+“Venomous,” Velen answered before Brunti could speak. “The danger lies in its sting.”
+
+Brunti glanced at them.
+
+“Thank you for that important distinction.”
+
+“It may become important if you insist on striking one.”
+
+“I did not strike it.”
+
+“Then the distinction remains theoretical.”
+
+Sira laughed.
+
+For the first time since leaving the village, Brunti laughed with her.
+
+***
+
+They found the young Grimnir by following the footprints.
+
+Sael was riding ahead of the caravan when she noticed a line crossing the dune to their left. The marks began deep and close together, then grew uneven, as though the traveler had been dragging one foot through the sand.
+
+They became shallower farther on.
+
+At the last visible print, the wind was already filling the heel.
+
+Sael dismounted.
+
+“Someone left the marked road.”
+
+Brunti looked toward the empty slope.
+
+“There.”
+
+A figure moved near the crest of a dune. One hand rose against the glare, then fell. The traveler attempted another step and stopped, her clothing loose and stiff with dust.
+
+She was Grimnir.
+
+Even at that distance Brunti could recognize the mineral planes of her body and the dim shine in the crystal seams of her arms. Her surface had dried and cracked beneath the sun. She wore a faded wrap that left the edges of her hands exposed. No pack was visible beside her.
+
+The young woman raised her head at the movement on the road.
+
+Her lips parted.
+
+The call barely reached them.
+
+Brunti started forward.
+
+Sael caught her arm.
+
+“Take shade.”
+
+“She is standing in the open sun.”
+
+“Then take enough shade for two.”
+
+Brunti stopped.
+
+Together they lifted a folded canvas from the nearest cart and carried it toward the dune. Sira brought a vessel of mineral water. Velen gathered a second cloth and the field kit without waiting to be told.
+
+The young Grimnir saw them coming and tried to move.
+
+“Stay there,” Brunti called. “We are coming to you.”
+
+The traveler took another step anyway. Her foot dragged through the sand, and she sank to one knee.
+
+Brunti reached her in time to steady her shoulders.
+
+The stone beneath the girl's travel wrap was hot, much hotter than Brunti expected from the surrounding air. Thin cracks crossed the surface of her forearm, and the glow along her mineral seams seemed to flicker without finding a steady path.
+
+“Can you hear me?” Brunti asked.
+
+“Yes.”
+
+“What is your name?”
+
+“Nera.”
+
+“Are you injured?”
+
+“Dry.”
+
+The word was a whisper.
+
+Sael and Velen raised the canvas between two poles, making a small patch of shade. Brunti helped Nera beneath it, taking care not to force her stiffened limbs into a position they could not hold. Sira opened the water vessel and offered a little at a time.
+
+Nera drank too quickly at first.
+
+“Slowly,” Brunti said. “The minerals need time to move through you.”
+
+The young woman's hand trembled around the cup.
+
+“Thought there was a shorter way,” she murmured.
+
+“From where?”
+
+“The wells. I saw rocks beyond the dunes. I thought they were the next station.”
+
+“They're not,” Sael said.
+
+Nera closed her eyes.
+
+“I know now.”
+
+They waited with her in the shade.
+
+Brunti checked the visible cracks on her arms. Nothing appeared broken beyond the dry surface, but her material needed moisture and rest before anyone could judge how much strength she had lost. She asked Nera whether touch would help or hurt. The young woman held out her hand.
+
+Brunti placed her palm against it and let a quiet, steady vibration pass through the mineral contact.
+
+It was a small familiar gesture, the sort parents and companions used when someone needed their own rhythm steadied. It did not replace the water or mend the cracks at once. It merely gave the tired stone a calmer pattern against which to settle.
+
+Sira watched Nera's face.
+
+“Would you like to lie down?” she asked.
+
+“Yes.”
+
+They arranged the resting cloth beneath her.
+
+For a while the desert wind passed around the canvas, lifting its edges and letting them fall. The caravan waited farther down the dune, its animals in the shade of the carts. No one asked Nera why she had made a foolish choice. She was too exhausted to answer it properly.
+
+When the sun lowered, she was able to sit.
+
+“I meant to save a day,” she said.
+
+Brunti looked at the lengthening shadows.
+
+“How long have you been walking?”
+
+“Longer than I thought.”
+
+Sael handed her a second cup, this one carrying the mineral balance Brunti had approved.
+
+“You will rest at the next station,” the guide said. “The shortest road is no longer your concern.”
+
+Nera managed a faint smile.
+
+“Will you send word?”
+
+“To whom?” Sael asked.
+
+“My sister. She's at the eastern wells. She will think I kept going.”
+
+Sira took out a clean strip of paper.
+
+“Tell me what to write.”
+
+Nera dictated a short message. Velen added the station address and checked that the girl's name was spelled as she intended. No one wrote a cause for her exhaustion beyond what she herself had said.
+
+Brunti sat beside her until the last heat faded from the sand.
+
+She had left home hoping to save an old memorial before the next convergence. Nera had left the marked road hoping to save a day.
+
+The resemblance was simple enough to notice.
+
+It did not make Nera's experience a lesson Brunti had earned the right to keep.
+
+Instead Brunti asked whether the young woman needed another drink.
+
+Nera nodded.
+
+***
+
+They reached the station after dark.
+
+Sael arranged a resting place for Nera where the air was cooler and mineral water could be brought without delay. A local caretaker examined her surface and said the worst cracks might close with time if she remained properly nourished. There would be no more walking for her until she could stand without dizziness.
+
+Nera did not argue.
+
+The caravan remained at the station the following day. One of the animals had strained a leg during the long detour around the Skorpo, and the drivers needed to redistribute the loads.
+
+Brunti helped with the harnesses.
+
+Velen sat beneath the awning, copying the route notes they had gathered and separating their own observations from the guide's reports. Sira carried Nera's letter to the outbound courier.
+
+Near midday, Sael approached Brunti with a folded road chart.
+
+“There's an old temple on the next safe route,” she said. “People stop there to rest. Your archivist has been asking about its stone disc.”
+
+Brunti glanced toward Velen.
+
+“Of course they have.”
+
+“The ruins are not far off the main line,” Sael continued. “But the path is exposed. We go only if the weather stays clear.”
+
+“Do we have the time?”
+
+Sael raised an eyebrow.
+
+“Do you?”
+
+Brunti looked down at the harness in her hands.
+
+The Skyland's convergence was drawing nearer. She had never expected the old drawing to take her to so many places where someone needed help, or where a route could not be shortened without risk. Darrik might be preparing the transfer already.
+
+“I don't know,” she said.
+
+“Then decide with the others.”
+
+Brunti finished the harness and went to find them.
+
+Sira wanted to visit the temple if it lay along the safe route. Velen wanted to document the inscription but refused to guess at its meaning. Sael said they could stop only while the caravan had shade and water to spare.
+
+The decision belonged to more than one person.
+
+They made it together.
+
+***
+
+The temple stood among broken steps and fallen columns.
+
+Fine sand slipped down the stone stairway in quiet streams, gathering in cracks where the old blocks had shifted. The walls had fallen long ago, leaving a few high fragments that held the desert light upon their upper edges.
+
+At the center of the ruin a massive stone disc stood upright upon a weathered pedestal.
+
+Its face was covered in runes.
+
+Brunti approached slowly.
+
+The wind wandered through the ruined columns, carrying thin veils of dust across the floor, but the disc itself seemed strangely sheltered. Its carved surface bore countless markings arranged in circles and lines. Some had faded almost entirely. Others remained deep and precise, their grooves filled with narrow shadows.
+
+The symbols repeated, altered, repeated again.
+
+Velen placed their case upon a flat stone and unfolded a clean sheet of paper.
+
+“Do you recognize the order?” they asked.
+
+“No.”
+
+“Do you recognize the hand?”
+
+“Not well enough to say.”
+
+Brunti studied the center of the disc.
+
+A faint shimmer clung to the old cuts, scarcely visible beneath the warm light. Near the lower edge one section had been worn almost smooth. On either side of it the same delicate symbol remained clear, carved with such care that its fine lines had survived where the surrounding strokes had disappeared.
+
+Brunti touched the air just above the stone, stopping short of the surface.
+
+“Those two are alike.”
+
+“Yes,” Velen said.
+
+“And the space between them might have held another.”
+
+“It did hold something. We can see the beginnings of a line.”
+
+“Could the missing sign have repeated?”
+
+“Perhaps.”
+
+“Could it have changed the meaning?”
+
+“Certainly.”
+
+They began copying the surviving patterns.
+
+The work took patience. Brunti measured the spacing between groups while Velen drew the signs exactly as they appeared, leaving gaps where the stone no longer gave an answer. Sira watched the light shift across the pedestal and called out when a shadow made a faint stroke easier to see.
+
+They found no key to the seven letters Brunti had copied in the Vale. No sign matched the damaged transport notation from the Skyland ledger closely enough to establish a connection. The runes appeared to belong to a different tradition, one whose arrangement might once have conveyed an old philosophy.
+
+The meaning remained beyond them.
+
+Brunti thought of the archive drawing in Aetherion, its missing half left blank by Velen. The temptation here was the same: to imagine an elegant completion and begin treating it as a recovered fact.
+
+She drew the two surviving symbols on either side of the worn patch.
+
+Between them she left paper unmarked.
+
+A breeze lifted the edge of Velen's sheet.
+
+Sira caught it before it blew away.
+
+“Did you find what you came for?” she asked.
+
+Velen examined the drawing.
+
+“We found what remains.”
+
+Brunti nodded.
+
+“And it was worth seeing.”
+
+She sat on a fallen step while the others finished their notes. From the ruins came the small sounds of sand falling through cracks and wind moving between columns.
+
+Nothing spoke her name.
+
+The disc did not offer a prophecy. It did not tell her how to repair the memorial, or where a lost child had traveled, or why spirits cried beneath a star-filled grove.
+
+It was an old work of stone, made by hands she did not know, still holding a pattern that mattered enough to have been carved with extraordinary care.
+
+That was not a small thing.
+
+***
+
+They returned to the caravan before the afternoon heat grew dangerous.
+
+At the station beyond the temple, Brunti found a courier willing to carry a sealed letter toward the northern trade roads. She wrote to Darrik on a narrow sheet and enclosed a small copied outline of the Aetherion drawing.
+
+She did not tell him she had found the memorial's true history.
+
+Instead she described what the archive had preserved: two intended stone positions beneath one shared casing, an incomplete transport mark, and no certain identification. She asked that the resting chamber remain protected and that the council's safe transfer not be delayed merely because she wished to return with a better answer.
+
+Her hand paused over the last line.
+
+If the convergence came before her, the memorial could be moved.
+
+She could picture Darrik standing in the old passage, telling the workers where to place their hands and how much weight to lift. She could picture Nemi arriving with the little repaired hammer, listening to the quiet place where the two notes had been.
+
+Brunti added one more sentence.
+
+*Please keep a record of every joint you open, and of any inscription hidden beneath the cover. I will bring my measured copy when I return.*
+
+She folded the letter and sealed it.
+
+Velen checked the address and the route.
+
+“Will it reach him?” Brunti asked.
+
+“If the relays hold, it may. There is no way to promise when.”
+
+“That is enough.”
+
+It did not feel like enough.
+
+Still, she handed the letter to the courier and watched it disappear into the proper pouch.
+
+***
+
+When they left Ohgar, they did so by the marked roads.
+
+Sael traveled with them as far as the next junction, where a caravan from the western routes would carry goods toward greener and wetter country. She introduced them to its guides and warned them that the crossings ahead were different from the dry desert roads.
+
+“Water can take your footing as easily as sand,” she said.
+
+“We know,” Sira replied.
+
+Sael looked at Brunti.
+
+“Does she?”
+
+“Not as well as she thinks,” Brunti said.
+
+The guide smiled.
+
+“That is a good beginning.”
+
+They parted at the junction under a sky veiled with high cloud. Nera remained behind at the station, resting and waiting for a reply from her sister. The village in Evergrove was receiving water through all four channels, though its houses and walls still needed patient rebuilding. Sira's messages about the earlier displaced caravan were traveling through their own routes, no faster than the people carrying them.
+
+Brunti kept the temple sketch beside the archive drawing, each wrapped separately.
+
+One was a trace of an old craft technique that might someday help her understand the Skyland memorial. The other was a record of an unfamiliar philosophy whose missing lines had nothing to do with her.
+
+The distinction mattered.
+
+By the time the desert lay behind them, rain had begun falling somewhere ahead. It appeared first as a grey veil at the horizon, then as a darker edge beneath the clouds. The next caravan master checked the bridge reports and chose a longer, safer approach toward the wetlands beyond.
+
+Brunti listened to the wheels as they turned along the road.
+
+The sound was ordinary: wood, iron, shifting loads.
+
+She was glad of it.
