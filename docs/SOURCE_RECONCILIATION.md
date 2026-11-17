@@ -123,3 +123,14 @@ The game `main` at [`92cd8dc140c5`](https://github.com/babunidev/Morkahja/blob/9
 - **20107 Silver Wolf:** expanded silver-furred she-wolf at northern Vale / southeastern Keldor wooded boundary, still belonging to **Chapter 21**; not drafted here.
 
 All eleven Chapter 17 encounters were reread at this baseline and integrated as distinct Lived scenes. The game/world sources were not edited. **Current reviewed source baseline: `92cd8dc140c5a73fce11f8ad3b5d87a488b3fd7b`**. Across successive reconciliations: **19 + 5 + 1 + 2 + 1 + 1 + 8 + 5 + 5 + 4** prose-only revisions. See [Chapter 17 source and continuity review](CHAPTER_17_REVIEW.md).
+
+## Eleventh source update — 17 November 2026
+
+At [Morkahja `e8fbfc67cbb4`](https://github.com/babunidev/Morkahja/blob/e8fbfc67cbb487df4652b055f21afbc086676ff0/server/game/encountersdata.json) the 203-record encounter file has blob `6be97e1141f00c3c7b1c86577937ba09c0d9b291`. Comparing all 203 IDs and every record field with the previous pinned [`92cd8dc140c5`](https://github.com/babunidev/Morkahja/blob/92cd8dc140c5a73fce11f8ad3b5d87a488b3fd7b/server/game/encountersdata.json) (blob `ec27f8ef04095906ab811f3a21aa2378dfe48d46`) found **exactly two `mEncounterText`-only differences**:
+
+- **20108 — Shena Alpha:** expanded moonlit mossy hillock scene and wolf posture where Ethera's Vale meets Keldor; remains assigned to unwritten **Chapter 21**, not retroactively included.
+- **20109 — Embersnout:** expanded Frostwind wolf movement on exposed ice: audible claw scrape, one forepaw raised on hearing a noise, ears and head turning, watchful eyes, needle-like teeth and lingering pale breath. [Chapter 17](../manuscript/chapters/17-the-mountain-has-a-voice.md) was amended accordingly from **4,639 to 4,683 words** with its existing **eleven encounter IDs unchanged**.
+
+No record IDs, encounter names, expansions, `mEncounterFollow` values or other gameplay fields changed. All **five Chapter 18** assigned descriptions were reread from this current game source and were unchanged relative to the prior baseline. Source-to-novel modes remain **Lived** for 20104, 20123, 20132 and 20176; **Testimony** for 20124. See [Chapter 18 source and continuity review](CHAPTER_18_REVIEW.md). The game and world repositories were not edited by this literary work.
+
+**Cumulative successive text changes:** 19 + 5 + 1 + 2 + 1 + 1 + 8 + 5 + 5 + 4 + 2. **Current reviewed baseline:** `e8fbfc67cbb487df4652b055f21afbc086676ff0`. **Current draft coverage:** 135 adapted / 68 planned of 203.
