@@ -1,6 +1,6 @@
 # Chapter 17 — The Mountain Has a Voice: source and continuity review
 
-**Date:** 17 November 2026. **Status:** [Chapter 17](../manuscript/chapters/17-the-mountain-has-a-voice.md) is **4,639 words including heading**, written as first-draft novel prose by **ChatGPT GPT-6** under Babuni's standing creative delegation. This is an internal source and continuity check, **not independent human editorial approval, game/world canon, completed narration or audio**.
+**Date:** 17 November 2026. **Status:** [Chapter 17](../manuscript/chapters/17-the-mountain-has-a-voice.md) is **4,683 words including heading** after the Chapter 18 source refresh (original first draft: 4,639 words), written as first-draft novel prose by **ChatGPT GPT-6** under Babuni's standing creative delegation. This is an internal source and continuity check, **not independent human editorial approval, game/world canon, completed narration or audio**.
 
 ## Source verification
 
@@ -36,4 +36,8 @@ A comparison of all **203 records and fields** between game `525d26bc8b4d` (blob
 
 **Checked:** full eleven current source descriptions; eleven identifiable prose integrations; source mode and chapter assignments; Sira/Velen continuity; relevant world lore; manuscript word count; current 203-record game delta; relative file references in this new review. **Not independently checked:** final line editing and literary pacing, exact map/geography/chronology, eventual manuscript-wide count semantics, pronunciation and read-aloud performance, narrator master, rights clearance, published recording.
 
-**Current ledger after this draft:** **17 / 30 chapters**, **72,764 words including headings**, **130 / 203 encounter integrations drafted**, **73 planned**, **0 independently editorially approved**.
+**Historical ledger immediately after original Chapter 17:** **17 / 30 chapters**, **72,764 words including headings**, **130 / 203 encounter integrations drafted**, **73 planned**, **0 independently editorially approved**. This historical stage count precedes the 44-word Embersnout revision and Chapter 18.
+
+## Chapter 18 source reconciliation addendum — 17 November 2026
+
+The newer game `e8fbfc67cbb4` expands **20109 Embersnout** without changing identity or metadata. This chapter's direct scene was revised to show claws faintly scraping the exposed ice, an abrupt pause with one forepaw lifted, independently turning ears, more precise watchful movement, needle-like teeth and a pale breath cloud lingering in the air. Original retreat, lack of fight, and all eleven Chapter 17 encounter placements remain. Revised chapter word count: **4,683** (+44); overall book status after Chapter 18: **18 first drafts, 77,918 words including headings, 135 adaptations, 68 planned, no independent editorial approval**. See [eleventh game diff](SOURCE_RECONCILIATION.md) and [Chapter 18 review](CHAPTER_18_REVIEW.md).
