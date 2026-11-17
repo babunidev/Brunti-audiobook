@@ -1,6 +1,6 @@
 # Chapter 18 — The Last Warm Bowl: source and continuity review
 
-**Date:** 17 November 2026. **Status:** [Chapter 18](../manuscript/chapters/18-the-last-warm-bowl.md) is **5,110 words including heading**, written as first-draft novel prose by **ChatGPT GPT-6** under Babuni's standing creative delegation. Internally compared with the current game encounter texts and relevant canonical lore; **not independent human editorial approval, final narration, game/world canon, recorded audio or publication**.
+**Date:** 17 November 2026. **Status:** [Chapter 18](../manuscript/chapters/18-the-last-warm-bowl.md) is **5,155 words including heading** after the Chapter 21 source refresh (original first draft: 5,110 words), written as first-draft novel prose by **ChatGPT GPT-6** under Babuni's standing creative delegation. Internally compared with the current game encounter texts and relevant canonical lore; **not independent human editorial approval, final narration, game/world canon, recorded audio or publication**.
 
 ## Game baseline and encounter fidelity
 
@@ -33,3 +33,7 @@ The current game encounters blob `6be97e1141f00c3c7b1c86577937ba09c0d9b291` at `
 **Checked:** five full current game texts, five distinct source-to-scene integrations with correct delivery modes; game per-field difference (203 records); relevant world physiology and Everwinter location lore; continuity from Chapter 17; separate Frostfang/Frostclaw identities; completed manuscript word count. **Outstanding:** independent literary and read-aloud review; exact map, seasonal chronology and local travel durations; full manuscript-wide line edit; audio production, rights clearance or publication.
 
 **Current manuscript after this stage:** **18 / 30 draft chapters; 77,918 words including headings; 135 / 203 encounter IDs drafted; 68 planned; 0 independently editorial-verified**.
+
+## Chapter 21 source reconciliation addendum — 17 November 2026
+
+The newer game `2b4afe761c8b` changes only `mEncounterText` for **20123 Everwinter Trading Post**, not identity or follow metadata. ChatGPT (**GPT-6**) amended the [Chapter 18](../manuscript/chapters/18-the-last-warm-bowl.md) lived scene to include a fuller stew aroma of wood smoke and dried herbs, the wood fire, Aksa stirring her pot while murmuring *“Ah, nearly ready”*, and a clean wooden bowl in firelight. **Chapter 18: 5,110 → 5,155 words (+45)**; all five encounter IDs and their staged modes remain. Aksa's name remains **novel-only**. See [fourteenth game diff](SOURCE_RECONCILIATION.md) and [Chapter 21 review](CHAPTER_21_REVIEW.md). No independent editorial approval or audiobook narration.
