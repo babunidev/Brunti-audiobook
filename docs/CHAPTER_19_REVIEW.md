@@ -1,6 +1,6 @@
 # Chapter 19 — Ice That Remembers: source and continuity review
 
-**Date:** 17 November 2026. **Status:** [Chapter 19](../manuscript/chapters/19-ice-that-remembers.md) is **4,704 words including heading** after the Chapter 26 source refresh (original draft 4,533 words; Chapter 23 interim 4,643 words), written as first-draft novel prose by **ChatGPT GPT-6** under Babuni's existing creative delegation. This review is internal source/continuity checking, **not independent human literary approval, game/world canon, narrated audio or publication**.
+**Date:** 17 November 2026. **Status:** [Chapter 19](../manuscript/chapters/19-ice-that-remembers.md) is **4,754 words including heading** after the Chapter 27 source refresh (original draft 4,533 words; Chapter 23 interim 4,643; Chapter 26 interim 4,704 words), written as first-draft novel prose by **ChatGPT GPT-6** under Babuni's existing creative delegation. This review is internal source/continuity checking, **not independent human literary approval, game/world canon, narrated audio or publication**.
 
 ## Primary encounter verification
 
@@ -46,3 +46,7 @@ New game `9cddb72157a5` revises **20129 Everwinter Treasurechest** and **20130 E
 ## Chapter 26 game source refresh — 17 November 2026
 
 The new game revision `3c14072c05be` expands **20135 Frostlace**, with deceptively warm distant-hearth scent despite no fire, crystal-bright silver-white hair, blue eyes, hardening snow and creeping stone frost, and a hand extended before an unlit narrow passage, with frost accumulating on her fingers. ChatGPT (**GPT-6**) reconciled these details in the **attributed traveler testimony**, not a witnessed direct encounter: the speaking woman explicitly says she herself never saw Frostlace. **Chapter 19: 4,643 → 4,704 (+61 words)**; unchanged seven encounter IDs and source modes. See [eighteenth source reconciliation](SOURCE_RECONCILIATION.md) and [Chapter 26 review](CHAPTER_26_REVIEW.md). Internal source comparison only, not independent editorial approval.
+
+## Chapter 27 source refresh — 17 November 2026
+
+Current game `507cd0d738d5` expands **20136 Lost Souls of Everwinter**: an exhausted foremost traveler drags a frozen cloak hem; the lost company is pressed against the mountainside by a snow-blinded narrow pass; an **elderly traveler's broken whisper**, a companion's **steadying hand on a shoulder**, and a **familiar melody hummed for a few faltering notes** distinguish the travelers' present experience. ChatGPT (**GPT-6**) reconciled the new details into the already-drafted **Chapter 19 direct Lived rescue**, preserving Brunti, Enna and Velen's safe-route response and the group's right to speak. **Chapter 19: 4,704 → 4,754 words (+50)**, same seven source IDs. See [nineteenth source diff](SOURCE_RECONCILIATION.md) and [Chapter 27 review](CHAPTER_27_REVIEW.md). Internal textual audit, not independent human editorial acceptance.
