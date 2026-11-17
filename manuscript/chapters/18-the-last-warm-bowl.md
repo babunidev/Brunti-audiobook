@@ -346,7 +346,7 @@ Aksa lifted the stone out of the basket and placed it beside the window.
 
 “Then remember it.”
 
-He walked to an old pine log beside the sheltered wall of the post and lowered himself onto it with a grunt. The log creaked under his weight. Fergus patted his round belly and laughed at the sound, then shifted sideways to leave space for anyone who wished to join him.
+He walked to an old pine log beside the sheltered wall of the post and lowered himself onto it with a grunt. The log creaked under his weight. Fergus pressed both broad hands to his round belly. Another deep rumble answered him. For an instant he listened with a look of enormous seriousness, then threw back his shoulders and laughed hard enough to shake the frost from his cloak. He stopped as a breeze reached him, little button nose twitching and oversized ears turning in opposite directions. Whatever scent had reached him brought his broad toothy grin back at once. With a contented sigh he shifted sideways to leave a generous space beside him and patted the empty seat.
 
 Brunti stepped out carrying her small mineral-water cup and a piece of bread for Velen.
 
