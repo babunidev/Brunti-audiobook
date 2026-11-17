@@ -2,6 +2,8 @@
 
 **Status:** Proposed only, not approved, drafted, or manuscript-verified. **203 distinct encounters assigned, 0 omitted.** The game data and world archive remain authoritative for source detail. The mode is an editorial possibility: **Lived** is staged before Brunti, **Testimony** comes from another speaker, **Archive** is something Brunti learns from a record, and **Metaphor** translates a game-system label without staging that label as fiction.
 
+**Reviewed prose baseline:** [Morkahja encounters at 5b0d73e550ca](https://github.com/babunidev/Morkahja/blob/5b0d73e550ca123adcb095b45febeba4330a9fdf/server/game/encountersdata.json). The first atlas was indexed from an earlier revision; [19 text-only revisions were reconciled](../docs/SOURCE_RECONCILIATION.md).
+
 A primary placement is **not a claim that the scene is already in the book**. A location-specific encounter included as testimony does not mean Brunti traveled there. Refer to [outline](OUTLINE_V1.md), [source atlas](ENCOUNTER_ATLAS.md), and [literary survey](LITERARY_SURVEY.md).
 
 | ID | Encounter | Chapter | Form | Particular literary use |
