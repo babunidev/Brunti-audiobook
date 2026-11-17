@@ -2,7 +2,7 @@
 
 **Status:** Proposed only, not approved, drafted, or manuscript-verified. **203 distinct encounters assigned, 0 omitted.** The game data and world archive remain authoritative for source detail. The mode is an editorial possibility: **Lived** is staged before Brunti, **Testimony** comes from another speaker, **Archive** is something Brunti learns from a record, and **Metaphor** translates a game-system label without staging that label as fiction.
 
-**Reviewed prose baseline:** [Morkahja encounters at 5b0d73e550ca](https://github.com/babunidev/Morkahja/blob/5b0d73e550ca123adcb095b45febeba4330a9fdf/server/game/encountersdata.json). The first atlas was indexed from an earlier revision; [19 text-only revisions were reconciled](../docs/SOURCE_RECONCILIATION.md).
+**Reviewed prose baseline:** [Morkahja encounters at e0bc99c51c74](https://github.com/babunidev/Morkahja/blob/e0bc99c51c74bb088f27a8252082b41c61629cf7/server/game/encountersdata.json). The first atlas was indexed from an earlier revision; [19 initial and 5 subsequent text-only changes were reconciled](../docs/SOURCE_RECONCILIATION.md).
 
 A primary placement is **not a claim that the scene is already in the book**. A location-specific encounter included as testimony does not mean Brunti traveled there. Refer to [outline](OUTLINE_V1.md), [source atlas](ENCOUNTER_ATLAS.md), and [literary survey](LITERARY_SURVEY.md).
 
@@ -98,7 +98,7 @@ A primary placement is **not a claim that the scene is already in the book**. A 
 | 20077 | Quicksilver Quagmire | [15](OUTLINE_V1.md) | Lived | silver quagmire's uncertain reflection |
 | 20078 | Unhinged Gobbl | [22](OUTLINE_V1.md) | Lived | distorted Gobbl crouches |
 | 20079 | Fearfeaster Gobbl | [22](OUTLINE_V1.md) | Testimony | Fearfeaster warning |
-| 20080 | Dreamy Valley | [3](OUTLINE_V1.md) | Lived | pink flowers between rocks |
+| 20080 | Dreamy Valley | [3](OUTLINE_V1.md) | Lived | pink blossoms conceal a sheltered passage |
 | 20081 | Arcadian Hills | [4](OUTLINE_V1.md) | Lived | marked borderstone A |
 | 20082 | Alluring Fens | [15](OUTLINE_V1.md) | Testimony | night song across fens |
 | 20083 | Enchanted Gardens | [4](OUTLINE_V1.md) | Lived | garden engraving H |
