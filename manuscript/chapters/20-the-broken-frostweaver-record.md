@@ -258,7 +258,7 @@ Enna led them to a stone table protected by the ruins of an arch.
 
 At its center stood a piece of icy-blue crystal.
 
-Sunlight entered from a gap above and passed through the stone, catching intricate glyphs at different depths. Some had been cut into the surface; others seemed held deep within the clear material. As the angle of the sun changed, the markings shone in succession.
+A slender ray of winter sunlight entered from a gap above and divided into fine icy-blue lines within the crystal, catching intricate glyphs at different depths. Some had been cut into the surface; others seemed held in layers deep within the clear material. At its base a symbol kindled. Light climbed from it through several distant signs in careful succession, briefly arranging fragments of unfamiliar shapes between them. When the sun shifted, those impressions disappeared, but the first glyph remained illuminated. A second sequence began beside it, following a different path through the patient, transparent inscriptions.
 
 Velen approached with a reverence they usually reserved for a manuscript whose pages could no longer be replaced.
 
