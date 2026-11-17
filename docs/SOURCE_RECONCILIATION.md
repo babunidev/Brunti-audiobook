@@ -160,3 +160,16 @@ The game encounter file at [`4c7fcc7901f8`](https://github.com/babunidev/Morkahj
 The **nine Chapter 20 encounters (20133/20134/20137–20139/20142–20145)** were reread from this new baseline and were unchanged in all fields; their prose draft is separately documented in [Chapter 20 review](CHAPTER_20_REVIEW.md). No game/world repository was edited.
 
 **Historical cumulative text-only changes:** 19 + 5 + 1 + 2 + 1 + 1 + 8 + 5 + 5 + 4 + 2 + 8 + 2. **Current literary source baseline:** `4c7fcc7901f87f2b1fbf274e0cd46af49642b90f`. **Manuscript status:** 20 first drafts, 88,790 words including headings, 151 adapted encounter IDs, 52 still planned, none independently editorially verified.
+
+## Fourteenth source update — 17 November 2026
+
+A complete field-by-field comparison of all **203** game encounter records was performed between [Morkahja `4c7fcc7901f8`](https://github.com/babunidev/Morkahja/blob/4c7fcc7901f87f2b1fbf274e0cd46af49642b90f/server/game/encountersdata.json) (blob `8768959971bfd48a63d03a9c8875e267c52cee79`) and [current `2b4afe761c8b`](https://github.com/babunidev/Morkahja/blob/2b4afe761c8b80f8c0f9414a800fc683ec9b109d/server/game/encountersdata.json) (blob `72ec74d4835f10dce66e70da91ba0188f7955458`). Exactly **four `mEncounterText`-only differences** were found; no IDs, titles, elements, types, `mEncounterFollow` or other metadata changed.
+
+- **20120 Bronze Vault** — expanded metallic ice-strike sound, half-buried bronze, frost-lined engraving, precise nearly invisible lock seam and keyhole. Already [Chapter 17](../manuscript/chapters/17-the-mountain-has-a-voice.md); revised that direct sighting without opening the door.
+- **20121 Frost Strider** — stronger enormous shadow, giant-like raised limb, cracked ledges, stone-ice fall and concealed towering summit. Already Chapter 17; revised direct scene without asserting a true living golem.
+- **20122 Rocky Tundra** — new yellow grass, skittering pebbles, mossy wind-sheltered hollow with retained sunlight warmth and twitching nose. Already Chapter 17; revised scene without inventing a species. **Chapter 17: 4,683 → 4,819 words (+136 for the three).**
+- **20123 Everwinter Trading Post** — expanded stew aroma, wood fire, dried herbs, Rokur keeper's quiet remark, stirring pot and a clean wooden bowl in warm firelight. Already [Chapter 18](../manuscript/chapters/18-the-last-warm-bowl.md); reconciled while keeping Aksa's previously established novel-only name. **Chapter 18: 5,110 → 5,155 words (+45).**
+
+Net **+181 words** to earlier first-draft prose, without changing encounter placements or adding reward outcomes. Five complete **Chapter 21** sources (**20044/20107/20108/20112/20113**) were checked from the newer game baseline, unchanged against prior; previously refreshed **20107/20108/20112/20113** are now written in Chapter 21 with their updated descriptions (the Cursed Liani remains **Testimony**). The game and world repositories were **not changed** by these novel edits.
+
+**Cumulative successive text-only diffs:** 19 + 5 + 1 + 2 + 1 + 1 + 8 + 5 + 5 + 4 + 2 + 8 + 2 + 4. **Current reviewed game commit:** `2b4afe761c8b80f8c0f9414a800fc683ec9b109d`. **Book:** 21 first-draft chapters, 93,538 words including headings, 156 drafted IDs, 47 planned.
