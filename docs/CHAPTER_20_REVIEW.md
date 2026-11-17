@@ -1,6 +1,6 @@
 # Chapter 20 — The Broken Frostweaver Record: source and continuity review
 
-**Date:** 17 November 2026. **Status:** [Chapter 20](../manuscript/chapters/20-the-broken-frostweaver-record.md) is **6,239 words including heading** after the Chapter 26 source refresh (original draft 6,137 words; Chapter 24 interim 6,187 words), written as novel first-draft prose by **ChatGPT GPT-6** under Babuni's standing creative delegation. This is an **internal source and continuity review**, not independent human literary approval, a new game/world canon decision, narrated audio or publication.
+**Date:** 17 November 2026. **Status:** [Chapter 20](../manuscript/chapters/20-the-broken-frostweaver-record.md) is **6,292 words including heading** after the Chapter 27 source refresh (original draft 6,137 words; Chapter 24 interim 6,187; Chapter 26 interim 6,239 words), written as novel first-draft prose by **ChatGPT GPT-6** under Babuni's standing creative delegation. This is an **internal source and continuity review**, not independent human literary approval, a new game/world canon decision, narrated audio or publication.
 
 ## Primary game verification
 
@@ -52,3 +52,7 @@ The complete game source at `f949602a0a21` expands **20133 Kaldric of Nekalos** 
 ## Chapter 26 game source refresh — 17 November 2026
 
 The current game `3c14072c05be` expands **20134 Seal of Nekalos**: winter sunlight splits into fine blue lines through multiple crystal layers, an illuminated base symbol lights distant glyphs in sequence, momentary unfamiliar shapes appear and vanish, while the first glyph remains lit and a second sequence begins independently. ChatGPT (**GPT-6**) updated the **existing direct Lived** Chapter 20 scene, preserving the Frostweaver inscription table, unfinished knowledge and Brunti/Velen's uncertainty. No mechanism is decoded, no Blackwood/memorial connection is asserted. **Chapter 20: 6,187 → 6,239 (+52 words)**, all nine encounter IDs unchanged. See [eighteenth source reconciliation](SOURCE_RECONCILIATION.md), [Chapter 26 review](CHAPTER_26_REVIEW.md). No independent editorial approval.
+
+## Chapter 27 source refresh — 17 November 2026
+
+Current game `507cd0d738d5` expands **20137 The Shattered Seer** in `mEncounterText`: additional separate **spectral shoulder** fragment and transient regal silhouette join the incomplete **face**, **extended hand with open fingers**, partial fading and **disembodied fingers left hovering** before dispersal. ChatGPT (**GPT-6**) inserted those distinctive moments into the prior **direct Lived Chapter 20 shrine** episode, without adding a solved prophecy, confirmed cause of the Seer's fragmentation, or an artificial sequence to rejoin her words. **Chapter 20: 6,239 → 6,292 words (+53)**, same nine encounter IDs, source mode unchanged. See [nineteenth source diff](SOURCE_RECONCILIATION.md) and [Chapter 27 review](CHAPTER_27_REVIEW.md). This is internally source-checked draft, not independent editorial acceptance.
