@@ -502,7 +502,7 @@ After a while it lowered its head.
 
 It chose its own resting place behind the barrier.
 
-The daylight faded slowly. Brunti watched the azure arrow answer each difficult breath with a little pulse of light. There were legends of blessings bestowed by the Spirit Stag, but no blessing came. No wound closed, no hidden path appeared beneath the snow.
+The daylight faded slowly. Moonlight entered the hollow after dusk, and frost along the stag's antlers answered the first stars. Brunti watched the azure arrow answer each difficult breath with a little pulse of light. There were legends of blessings bestowed by the Spirit Stag, but no blessing came. No wound closed, no hidden path appeared beneath the snow.
 
 There was only a living being who had been hurt and the chance to keep the cold from reaching it quite so fiercely.
 
