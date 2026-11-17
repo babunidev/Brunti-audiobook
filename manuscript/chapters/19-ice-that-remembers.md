@@ -306,7 +306,7 @@ Brunti heard another sound beneath the storm: boots scraping against a crust tha
 
 They followed the voices only as far as Enna could confirm the ground. At a shallow bend, a group of travelers appeared out of the white, huddled so close together that their cloaks seemed to form one dark shape. The foremost dragged a heavy hem through the snow, leaving a narrow furrow that the wind quickly filled. Two others stood behind, their hands around the arms of a fourth.
 
-One pointed toward the hills, then dropped the arm when the snow revealed nothing.
+One pointed toward the hills, then dropped the arm when the snow revealed nothing. An elderly traveler tried to speak and managed only a broken whisper between chattering teeth. One companion steadied them with a hand at the shoulder. Someone began humming a familiar melody; it lasted only a few uncertain notes, but the others turned toward the sound before the wind swallowed it.
 
 “We were following the markers,” the traveler said through chattering teeth.
 
