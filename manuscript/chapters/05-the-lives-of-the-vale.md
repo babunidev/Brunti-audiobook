@@ -236,9 +236,9 @@ Brunti examined the marks. The Elder's tracks were farther apart than those of t
 
 As they spoke, the light dwindled, and Mara's account became less like a lesson than a series of roads opening out of the darkness.
 
-She told them of the Berserk, a Nagar whose roar broke through a thicket before its body appeared. Branches snapped against its shoulders while it drove forward without changing course. There was no cunning in that particular charge, only rage and great weight. Even a sturdy tree had been a poor shield for a traveler who chose the wrong side.
+She told them of the Berserk, a Nagar whose thunderous roar broke through a thicket before its body appeared. Its great tusks caught bark as branches snapped against its shoulders, and its heavy hooves flung earth backward without slowing. Hot vapor streamed from its nostrils as it threw its head, fixed its fierce eyes ahead and lowered its tusks for another charge. There was no cunning in that particular rush, only rage and great weight. Even a sturdy tree had been a poor shield for a traveler who chose the wrong side.
 
-Then she showed them an ordinary Nagar Boar, mottled grey and brown so thoroughly that a hunter had mistaken its back for a patch of brush. The creature had risen out of the greenery one shoulder at a time, curled tusks catching the grass, and stood considering the clearing before it took a step.
+Then she showed them an ordinary Nagar Boar, mottled grey and brown so thoroughly that a hunter had mistaken its back for a patch of brush. The creature had risen out of the greenery one shoulder at a time, its broad nostrils testing the air and curled tusks catching the grass. One hoof pressed into the soil hard enough to tremble the stems, while its watchful eyes surveyed the clearing. Its shoulders tightened beneath grizzled bristles before it moved.
 
 “No golden horns,” Mara said. “No tale worth singing at the market. Just an enormous animal, quite capable of killing you if you forgot it was there.”
 
@@ -250,9 +250,9 @@ Sira leaned back against the wall.
 
 A small rush of rain crossed the distant fields and moved away. The camp remained dry.
 
-Mara showed Brunti another sketch. Here the boar's hide had been left pale, almost white. Old scars crossed its shoulders, and the horns were drawn sharp and hard.
+Mara showed Brunti another sketch. Here the boar's hide had been left pale, almost white. Old scars crossed its shoulders, and the horns were drawn sharp and hard, their worn edges marked by repeated blows.
 
-“Bonecrusher. The name comes from what people claim those horns can break. I saw one from the far side of a ditch. The white hide caught the sun between green stems, and its eyes were red as hot coals. It stamped once. Even at that distance the ditch wall shed dust.”
+“Bonecrusher. The name comes from what people claim those horns can break. I saw one from the far side of a ditch. The white hide caught the sun between green stems, and its eyes were red as hot coals. It snapped a fallen branch beneath one immense hoof and lowered its horned head. Even at that distance the ditch wall shed dust.”
 
 Brunti traced the pale line around the drawn body.
 

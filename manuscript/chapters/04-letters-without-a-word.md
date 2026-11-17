@@ -182,13 +182,13 @@ She laughed despite herself.
 
 The fifth letter was not where Brunti expected it.
 
-The Captivating Downs lay open beneath a high bright sky. Tall grasses shone along their narrow edges, and flowers nodded after the wind had dropped. Brunti spent much of the morning following a ridge from which she could see the lower paths twisting among green slopes.
+The Captivating Downs lay open beneath a high bright sky. Tall grasses shone along their narrow edges. When the wind fell silent, a thin ribbon of stems continued moving over the slope—one bending after another, a slow circle traveling through the flowers while the taller grass stood perfectly still. Between two hills, a pale haze made the farther meadow seem nearer than it was. Brunti spent much of the morning following a ridge from which she could see the lower paths twisting among green slopes.
 
 She had almost given up searching when she noticed an oddly smooth curve on a stone near the trail.
 
 O.
 
-Unlike the sharp angles of the earlier marks, the letter followed the rounded face of its rock. Shadow rested inside the cut. Around its base the grass stirred while the higher stems remained still.
+Unlike the sharp angles of the earlier marks, the letter followed the rounded face of its rock. Shadow rested inside the cut. Around its base the grass stirred in a little circle while the higher stems remained still.
 
 Brunti laid a hand on the stone.
 
@@ -216,11 +216,11 @@ The mark looked rather lonely.
 
 At the Radiant Heath, she found the sixth.
 
-Warm golden light lay across an expanse of untended grass and wildflowers. Insects passed through the brightness and disappeared among the stems. The wind brought a dry rustle from the open land and a sweeter scent from a sheltered patch near a rock.
+Warm golden light lay across an expanse of untended grass and wildflowers. Bees wandered among the blossoms, and butterflies lifted from warm stones in the sun. The wind brought a dry rustle from the open land and a sweeter scent from a dense flowering patch beside a weathered rock.
 
 M.
 
-The letter had been carved large enough to recognize from a few paces away. Shadows gathered in its strokes, and the trembling shadow of a flower touched its final line.
+The letter had been carved large enough to recognize from a few paces away. Shadows gathered in its strokes. A butterfly settled within one dark groove, folded its wings and opened them to a fleeting glimmer of gold; the trembling shadow of a taller flower touched the final line.
 
 Brunti stood over it without taking out her notebook.
 
@@ -240,7 +240,7 @@ She left room below it.
 
 The hills beyond the heath rose in long green folds.
 
-At the Mesmerizing Hillsides, sunlight and cloud moved across opposite slopes so slowly that Brunti could watch one patch of flowers appear while another disappeared into shade. Wind crossed the hollow with a sudden rush. A small animal passed down the hillside, parting the grass for a moment before the stems closed again.
+At the Mesmerizing Hillsides, sunlight and cloud moved across opposite slopes so slowly that Brunti could watch one patch of flowers appear while another disappeared into shade. Wind crossed the hollow with a sudden rush. A small animal emerged briefly among the stems with its ears raised, then vanished down the slope, leaving a wavering line in the greenery.
 
 Brunti sat against a warm rock and studied the landscape.
 
@@ -258,9 +258,9 @@ She had spent much of the journey with her eyes turned toward stones. She had mi
 
 By the time she reached the Magical Glens, the afternoon light had thinned beneath the trees.
 
-A pale shaft of sunlight rested in a clearing, brighter than the gap in the canopy seemed able to allow. Flowers turned slowly in the breeze. Their leaves brushed together with a soft sound like a conversation held too far away to hear.
+A pale shaft of sunlight rested in a clearing, brighter than the gap in the canopy seemed able to allow. Flowers leaned toward the narrow light, though a cloud passed above the canopy without dimming it. Their leaves brushed together with a soft sound like a conversation held too far away to hear.
 
-At the edge of the glen stood a rock bordered by moss.
+At the edge of the glen stood a rock bordered by moss that followed the letter's edges but left the weathered cut clear.
 
 On its face was the final letter.
 
@@ -360,11 +360,11 @@ When Brunti returned the folio, she found the ink had dried on the edge of her t
 
 The Ethereal Glades lay beyond the shelter, where the trees thinned around a quiet opening in the greenery.
 
-Clouds had covered the sun, but the flowers below remained bright. Their colors held in the shadow as though daylight had settled among the petals and forgotten to leave. Faint shimmer rose from the grass. At the clearing's edge, leaves rustled from branch to branch and then became still.
+Clouds had covered the sun, but the flowers below remained bright. Their colors held in the shadow as though daylight had settled among the petals and forgotten to leave. Faint shimmer rose from the cool grass. At the clearing's edge, leaves rustled from branch to branch and then became still.
 
 Brunti followed a narrow opening through the foliage.
 
-Beyond it stood another glade beneath the same covered sky. Fallen leaves rested on the ground, illuminated by a soft radiance gathering near the roots of the flowers.
+Beyond it stood another glade beneath the same covered sky. Fallen leaves rested on the ground, illuminated by a soft radiance gathering near the roots of the flowers. One leaf descended silently from the canopy and settled within the pale light, its delicate veins briefly visible through its fading green.
 
 She had seen many strange lights since leaving her home.
 
