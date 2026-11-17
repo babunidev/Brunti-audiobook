@@ -112,3 +112,14 @@ Game `main` advanced from [`92b97aef8706`](https://github.com/babunidev/Morkahja
 **All twelve Chapter 16 source encounters `20019–20030` were unchanged** and fully reread at latest `525d26bc8b4d`; each is authored as separately identifiable **Archive** content. No game or world repo edit was performed.
 
 **Historical cumulative game prose change counts: 19 + 5 + 1 + 2 + 1 + 1 + 8 + 5 + 5**. The four future Chapter 17 sources were *reviewed for changes*, **not yet placed in manuscript prose**; do not mark them drafted. Seven carved letters remain **A H K J O M A**.
+
+## Tenth source update — 17 November 2026
+
+The game `main` at [`92cd8dc140c5`](https://github.com/babunidev/Morkahja/blob/92cd8dc140c5a73fce11f8ad3b5d87a488b3fd7b/server/game/encountersdata.json) has encounter JSON blob `ec27f8ef04095906ab811f3a21aa2378dfe48d46`. Comparing all **203 records and every field** with the [prior reviewed `525d26bc8b4d`](https://github.com/babunidev/Morkahja/blob/525d26bc8b4d745ca0e4e7c2b3c86c20d9829df6/server/game/encountersdata.json) (blob `1ae39adad0dc6ef0c09a84b8a9c9cd0868fe766b`) found **exactly four changed `mEncounterText` fields**. No encounter ID, title, expansion, follow link or other metadata changed.
+
+- **20104 Sudden Rockslide:** more detailed fracture racing through the upper cliff, boulders, snow and dust; belongs to **Chapter 18**, still planned. Chapter 17's ice-shelf failure is independent novel fiction and does **not** count 20104.
+- **20105 The Giant:** more explicit vertical monolith, person-like weathering, hollow resonance, cloud/light and falling stone; integrated in [Chapter 17](../manuscript/chapters/17-the-mountain-has-a-voice.md) without making the formation animate.
+- **20106 Sarga Lioness:** expanded tawny movement, green eyes, separately turning ears, raised forepaw and pebble; integrated into Chapter 17 with an original noncanonical hare pursuit and a safe retreat.
+- **20107 Silver Wolf:** expanded silver-furred she-wolf at northern Vale / southeastern Keldor wooded boundary, still belonging to **Chapter 21**; not drafted here.
+
+All eleven Chapter 17 encounters were reread at this baseline and integrated as distinct Lived scenes. The game/world sources were not edited. **Current reviewed source baseline: `92cd8dc140c5a73fce11f8ad3b5d87a488b3fd7b`**. Across successive reconciliations: **19 + 5 + 1 + 2 + 1 + 1 + 8 + 5 + 5 + 4** prose-only revisions. See [Chapter 17 source and continuity review](CHAPTER_17_REVIEW.md).
