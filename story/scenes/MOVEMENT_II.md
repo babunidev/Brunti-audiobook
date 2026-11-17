@@ -1,6 +1,6 @@
 # Movement II — scene briefs v1
 
-**Status:** working novel-scene design under delegated literary authorship. **Chapters 5–8 have been written as [first-draft manuscript prose](../../manuscript/chapters/README.md)**; Chapters 9–12 remain planned. The scene briefs are not themselves manuscript prose or a verified canon update. **Encounter source:** game prose reviewed at `5b0d73e550ca` and later `mEncounterText` revisions at `e0bc99c51c74`, `13a5d134c8e6` and `096c99bdf5ac` (see [source reconciliation](../../docs/SOURCE_RECONCILIATION.md)). Scene routes, new dialogue and consequences are novel fiction. [Story spine](../STORY_SPINE.md) · [Placement matrix](../PLACEMENT_MATRIX.md) · [Continuity register](../../docs/SCENE_CONTINUITY.md).
+**Status:** working novel-scene design under delegated literary authorship. **Chapters 5–9 have been written as [first-draft manuscript prose](../../manuscript/chapters/README.md)**; Chapters 10–12 remain planned. The scene briefs are not themselves manuscript prose or a verified canon update. **Encounter source:** game prose reviewed at `5b0d73e550ca` and later `mEncounterText` revisions at `e0bc99c51c74`, `13a5d134c8e6` and `096c99bdf5ac` (see [source reconciliation](../../docs/SOURCE_RECONCILIATION.md)). Scene routes, new dialogue and consequences are novel fiction. [Story spine](../STORY_SPINE.md) · [Placement matrix](../PLACEMENT_MATRIX.md) · [Continuity register](../../docs/SCENE_CONTINUITY.md).
 
 **How to use:** Each scene has an actionable turn and listed source IDs. “Lived,” “Testimony,” “Archive,” and “Metaphor” come from the still-provisional matrix. Individual encounter hooks must be dramatized when writing; a catalog mention alone is never finished adaptation. The mini-cues below preserve the distinct source identity of each assigned record.
 
@@ -204,7 +204,7 @@ The group takes a documented ordinary road rather than a new supernatural shortc
 
 #### 09.1 — The untrustworthy marvelous
 
-A trader describes a hidden market's mingled peoples and repeats the tale of an Aevis merchant at Celesterra's threshold. This latter meeting is **reported**, not a sudden physical journey into the subterranean sky-city.
+**Pel**, a novel-only cloth trader, describes a hidden market's mingled peoples and recalls an Aevis merchant at the outer trade approach to **subterranean Celesterra**. This latter meeting is **reported**, not a sudden physical journey into the subterranean sky-city.
 
 **Turn:** Brunti realizes a charming seller is not an authoritative historian.
 
@@ -214,7 +214,7 @@ A trader describes a hidden market's mingled peoples and repeats the tale of an 
 
 #### 09.2 — Temple and workshop
 
-On their actual route the Pantheon Temple offers more than one sacred symbol; a separate report tells of a Rokur blacksmith whose inner fire has dimmed. Preserve plural worship and exhaustion without speculating about a divine curse.
+On a pilgrim spur south of Eldridia, the Pantheon Temple offers more than one sacred symbol; a separate report tells of a Rokur blacksmith whose inner fire has dimmed. Preserve plural worship and exhaustion without speculating about a divine curse.
 
 **Turn:** Sira refuses to let the smith become a lesson with no person left in it.
 
@@ -224,7 +224,7 @@ On their actual route the Pantheon Temple offers more than one sacred symbol; a 
 
 #### 09.3 — The repaired binding
 
-An elderly Verdani rethreads a book, offers tea and distinguishes making something durable from claiming the words are complete. Sira asks for contacts who preserve old craft descriptions.
+**Thalen**, an elderly Verdani at an Eldertree forest-edge shop, rethreads a book, offers tea and distinguishes making something durable from claiming the words are complete. Sira asks for contacts who preserve old craft descriptions.
 
 **Turn:** An ordinary referral directs them toward Aetherion's Archive of Echoes.
 

@@ -88,3 +88,9 @@ A fourth source refresh changed **two** additional prose descriptions (20082 All
 ChatGPT (**GPT-6**) wrote [Chapter 7](../manuscript/chapters/07-things-that-are-kept.md) (**3,504 words**) and [Chapter 8](../manuscript/chapters/08-at-the-green-boundary.md) (**3,131 words**) as actual first-draft novel prose. The full **16 game encounter descriptions** were reread. **20008 and 20009 are northern Frostwind/Deepstone records**, not artifacts physically located in Eldertree; both are used through Teren's historical survey copies, and their matrix modes changed from Lived to Archive. Chapter 8 preserves the distinct dark Shadowwolf, emerald Guardian, reported Predator and directly seen Thunderfly Matriarch. [Detailed review](CHAPTERS_07_08_REVIEW.md) records the source evidence and limits.
 
 Progress is now **8 draft chapters, 27,832 words including headings, 67 draft-integrated IDs, 136 planned and zero editorially verified**. The earlier 109-scene architecture still covers all 203 records in one primary scene each; only their drafted status and two delivery modes changed.
+
+## Chapter 9 — trade and source attribution, 17 November 2026
+
+[Chapter 9, Where Stories Are Sold](../manuscript/chapters/09-where-stories-are-sold.md), is a **3,882-word** full prose draft incorporating game IDs **20012, 20031, 20059, 20060, 20076**. All five full descriptions were read from the latest game source; the [source-fidelity register](CHAPTER_09_REVIEW.md) documents which details are directly witnessed and which belong to trade and pilgrim testimony. Pel, Orena and Thalen are novel-only named characters. An ordinary craft-reference from Thalen advances the inquiry without inventing a clue resolution. The latest game diff added one prose revision to 20084 Mystical Vale, reconciled into Chapter 4's carved **K** scene.
+
+**Current coverage:** **9 drafted chapters, 31,741 words including headings, 72 drafted IDs, 131 planned, 0 independently editorial-verified**.

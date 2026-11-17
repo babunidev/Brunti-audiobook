@@ -84,3 +84,13 @@ No game/world canon files, recorded audiobook, author-approved final manuscript,
 - Added a [Chapters 7–8 source review](docs/CHAPTERS_07_08_REVIEW.md), updated manuscript index, scene plan, coverage matrix, roadmap and progress history.
 
 These remain AI-authored first drafts under delegated direction, not final reviewed text or new world canon. No production audio was generated.
+
+## 2026-11-17 — Draft Chapter 9 and reconcile source 20084
+
+- Wrote **Where Stories Are Sold** (3,882 first-draft words), adapting five encounters via market testimony, temple worship, pilgrim report, and an Eldertree bookbinder's shop.
+- Preserved Celesterra's **subterranean** nature and Pantheon Temple's position near Eldertree; invented original characters Pel, Orena and Thalen only for novel prose.
+- Established the **Archive of Echoes** as an actionable but unverified next research lead, not a completed memorial restoration.
+- Reconciled the live game's single 20084 prose edit into Chapter 4's **K** boulder atmosphere (new Chapter 4 count: 3,741 words).
+- Updated the [Chapter 9 review](docs/CHAPTER_09_REVIEW.md), source revision ledger, progress matrix, manuscript index, story-scene status, roadmap and documentation.
+
+Current state: **9 first-draft chapters, 31,741 words, 72 encounter IDs adapted, 131 planned**. No human literary sign-off, audio, or canonical game/world changes.

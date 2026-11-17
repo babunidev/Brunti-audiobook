@@ -1,10 +1,10 @@
 # Encounter placements — source-to-manuscript progress matrix
 
-**Status:** **203 distinct encounters assigned, 0 omitted; 67 adapted into first-draft prose across chapters 2–8, 136 remain planned, and none is independently editorial-verified.** The game data and world archive remain authoritative for source detail. The mode is an editorial possibility: **Lived** is staged before Brunti, **Testimony** comes from another speaker, **Archive** is something Brunti learns from a record, and **Metaphor** translates a game-system label without staging that label as fiction.
+**Status:** **203 distinct encounters assigned, 0 omitted; 72 adapted into first-draft prose across chapters 2–9, 131 remain planned, and none is independently editorial-verified.** The game data and world archive remain authoritative for source detail. The mode is an editorial possibility: **Lived** is staged before Brunti, **Testimony** comes from another speaker, **Archive** is something Brunti learns from a record, and **Metaphor** translates a game-system label without staging that label as fiction.
 
-**Reviewed prose baseline:** [Morkahja encounters at 096c99bdf5ac](https://github.com/babunidev/Morkahja/blob/096c99bdf5ac8af5174b26a337914f573263ab72/server/game/encountersdata.json). The first atlas was indexed from an earlier revision; [19, then 5, then 1, then 2 text-only changes were reconciled](../docs/SOURCE_RECONCILIATION.md).
+**Reviewed prose baseline:** [Morkahja encounters at 734f439b1699](https://github.com/babunidev/Morkahja/blob/734f439b1699ac144909462d31ca3e045cb4d811/server/game/encountersdata.json). The first atlas was indexed from an earlier revision; [19, then 5, then 1, then 2, then 1 text-only changes were reconciled](../docs/SOURCE_RECONCILIATION.md).
 
-A primary placement alone is **not a claim that the scene is already in the book**. The final column identifies which encounter IDs have actually been translated into draft prose, not which have passed editorial review. See the [Chapters 1–2 review](../docs/MANUSCRIPT_REVIEW.md) and [Chapters 3–4 review](../docs/CHAPTERS_03_04_REVIEW.md), and [Chapters 5–6 review](../docs/CHAPTERS_05_06_REVIEW.md), and [Chapters 7–8 review](../docs/CHAPTERS_07_08_REVIEW.md). A location-specific encounter included as testimony does not mean Brunti traveled there. Refer to [outline](OUTLINE_V1.md), [source atlas](ENCOUNTER_ATLAS.md), and [literary survey](LITERARY_SURVEY.md).
+A primary placement alone is **not a claim that the scene is already in the book**. The final column identifies which encounter IDs have actually been translated into draft prose, not which have passed editorial review. See the [Chapters 1–2 review](../docs/MANUSCRIPT_REVIEW.md) and [Chapters 3–4 review](../docs/CHAPTERS_03_04_REVIEW.md), and [Chapters 5–6 review](../docs/CHAPTERS_05_06_REVIEW.md), and [Chapters 7–8 review](../docs/CHAPTERS_07_08_REVIEW.md), and [Chapter 9 review](../docs/CHAPTER_09_REVIEW.md). A location-specific encounter included as testimony does not mean Brunti traveled there. Refer to [outline](OUTLINE_V1.md), [source atlas](ENCOUNTER_ATLAS.md), and [literary survey](LITERARY_SURVEY.md).
 
 | ID | Encounter | Chapter | Form | Particular literary use | Manuscript status |
 | ---: | --- | --- | --- | --- | --- |
@@ -30,7 +30,7 @@ A primary placement alone is **not a claim that the scene is already in the book
 | 20009 | Grimnir Vault | [7](OUTLINE_V1.md) | Archive | carefully sealed Grimnir vault | **Draft v1, ch. 7** |
 | 20010 | Verdani Casket | [7](OUTLINE_V1.md) | Lived | Verdani casket of uncertain ownership | **Draft v1, ch. 7** |
 | 20011 | Magic Source | [6](OUTLINE_V1.md) | Lived | forest magic source | **Draft v1, ch. 6** |
-| 20012 | Hidden Market | [9](OUTLINE_V1.md) | Testimony | secret market recounted by trader | Planned |
+| 20012 | Hidden Market | [9](OUTLINE_V1.md) | Testimony | secret market recounted by trader | **Draft v1, ch. 9** |
 | 20013 | Cauterized Rokur | [13](OUTLINE_V1.md) | Testimony | charred Rokur after battle | Planned |
 | 20014 | Downed Aevis | [13](OUTLINE_V1.md) | Testimony | exhausted Aevis beneath tree | Planned |
 | 20015 | Weakened Grimnir | [2](OUTLINE_V1.md) | Testimony | cave warrior wounded | **Draft v1, ch. 2** |
@@ -49,7 +49,7 @@ A primary placement alone is **not a claim that the scene is already in the book
 | 20028 | Tempestwailer Seductress | [16](OUTLINE_V1.md) | Archive | Seductress offers deceptive beauty | Planned |
 | 20029 | Blightwraith Occultist | [16](OUTLINE_V1.md) | Archive | Occultist withers sapling | Planned |
 | 20030 | Ashen Revenant Warlock | [16](OUTLINE_V1.md) | Archive | Warlock raises smoke symbols | Planned |
-| 20031 | Pantheon Temple | [9](OUTLINE_V1.md) | Lived | Pantheon Temple's plural worship | Planned |
+| 20031 | Pantheon Temple | [9](OUTLINE_V1.md) | Lived | Pantheon Temple's plural worship | **Draft v1, ch. 9** |
 | 20032 | Rare Treasurechest | [5](OUTLINE_V1.md) | Testimony | bronze treasure in plains | **Draft v1, ch. 5** |
 | 20033 | Wild Bloodfang | [5](OUTLINE_V1.md) | Lived | boar charges beneath trees | **Draft v1, ch. 5** |
 | 20034 | Menacing Goldhorn | [5](OUTLINE_V1.md) | Testimony | Goldhorn's horns in a ranger's account | **Draft v1, ch. 5** |
@@ -77,8 +77,8 @@ A primary placement alone is **not a claim that the scene is already in the book
 | 20056 | Venerable Grimnir | [2](OUTLINE_V1.md) | Testimony | hungry elder after Ravage | **Draft v1, ch. 2** |
 | 20057 | Verdani Child | [15](OUTLINE_V1.md) | Lived | hungry child forms mud cakes | Planned |
 | 20058 | Aevis Lady | [13](OUTLINE_V1.md) | Lived | older Aevis with unfinished song | Planned |
-| 20059 | Rokur Blacksmith | [9](OUTLINE_V1.md) | Testimony | Rokur smith too weary to work | Planned |
-| 20060 | Verdani Treasury | [9](OUTLINE_V1.md) | Lived | Verdani binds pages and shares tea | Planned |
+| 20059 | Rokur Blacksmith | [9](OUTLINE_V1.md) | Testimony | Rokur smith too weary to work | **Draft v1, ch. 9** |
+| 20060 | Verdani Treasury | [9](OUTLINE_V1.md) | Lived | Verdani binds pages and shares tea | **Draft v1, ch. 9** |
 | 20061 | Frostwind Junkyard | [17](OUTLINE_V1.md) | Lived | Frostwind junkdealer's oddments | Planned |
 | 20062 | Market of Aetherion | [11](OUTLINE_V1.md) | Lived | Aetherion market bustle | Planned |
 | 20063 | Ancient Inscription | [14](OUTLINE_V1.md) | Lived | weathered temple disc | Planned |
@@ -94,7 +94,7 @@ A primary placement alone is **not a claim that the scene is already in the book
 | 20073 | Celestial Cairn | [7](OUTLINE_V1.md) | Lived | cairn above running stream | **Draft v1, ch. 7** |
 | 20074 | Mysterious Cube | [4](OUTLINE_V1.md) | Archive | etched cube's pulses | **Draft v1, ch. 4** |
 | 20075 | Grumpy Fence | [22](OUTLINE_V1.md) | Lived | grumpy fence's tangled story | Planned |
-| 20076 | Aevis Merchant | [9](OUTLINE_V1.md) | Testimony | Aevis merchant tells of Celesterra | Planned |
+| 20076 | Aevis Merchant | [9](OUTLINE_V1.md) | Testimony | Aevis merchant tells of Celesterra | **Draft v1, ch. 9** |
 | 20077 | Quicksilver Quagmire | [15](OUTLINE_V1.md) | Lived | silver quagmire's uncertain reflection | Planned |
 | 20078 | Unhinged Gobbl | [22](OUTLINE_V1.md) | Lived | distorted Gobbl crouches | Planned |
 | 20079 | Fearfeaster Gobbl | [22](OUTLINE_V1.md) | Testimony | Fearfeaster warning | Planned |

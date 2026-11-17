@@ -51,3 +51,11 @@ A per-ID per-field comparison between [game `13a5d134c8e6`](https://github.com/b
 - **20083 — Enchanted Gardens:** expanded flower and twilight atmosphere; the deliberate **H** remains unchanged, but a **solitary note** now follows the garden's brief silence after the magical flicker. The drafted [Chapter 4](../manuscript/chapters/04-letters-without-a-word.md) was amended accordingly, without changing letter order or explanation.
 
 The cumulative literary source-review differences from the atlas are **19 + 5 + 1 + 2**, all prose-only at their respective updates. Current reviewed source baseline: `096c99bdf5ac8af5174b26a337914f573263ab72`. The 24 encounter descriptions drafted in Chapters 5 and 6 were read from this same revision. Neither the original game nor the established world repository was changed by audiobook development.
+
+## Fifth source update — 17 November 2026
+
+The game `main` at [`734f439b1699`](https://github.com/babunidev/Morkahja/blob/734f439b1699ac144909462d31ca3e045cb4d811/server/game/encountersdata.json) had encounter JSON blob `99ce4bf061d0870353db7246d531889e372fa7f8`. A complete per-ID, per-field comparison against game [`096c99bdf5ac`](https://github.com/babunidev/Morkahja/blob/096c99bdf5ac8af5174b26a337914f573263ab72/server/game/encountersdata.json) (blob `04403ba5be5a3e00501d8c3078edde0b5edc9557`) found **one additional text-only change**:
+
+- **20084 — Mystical Vale:** expanded summer landscape, long shadow of the huge boulder, returning cloud, and the old carved **K**. The letter itself and all game metadata remain unchanged. [Chapter 4](../manuscript/chapters/04-letters-without-a-word.md) now explicitly notes the long shadow and cloud crossing; its word count rose from **3,714 to 3,741**.
+
+**All 203 encounter records and other fields remained unchanged.** Running cumulative changed prose counts compared to the source atlas: **19 + 5 + 1 + 2 + 1**, with latest literary baseline `734f439b1699ac144909462d31ca3e045cb4d811`. The five Chapter 9 encounter descriptions were read in full against this baseline and did not change during the diff. Game and world source repositories were not modified.
