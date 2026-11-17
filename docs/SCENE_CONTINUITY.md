@@ -64,3 +64,11 @@
 **Programmatic structural verification:** 5 movement files; 30 chapter headings; 109 individually labeled scene briefs; 203 distinct source-ID annotations. Comparison against [placement matrix](../story/PLACEMENT_MATRIX.md) found **0 missing**, **0 extras**, **0 duplicates** and **0 wrong chapter assignments**.
 
 **Manual/source-limited review:** The particular canonical references above and targeted source excerpts were consulted. **Not completed:** final location-by-location geographical route proof; paragraph-by-paragraph comparison of all 203 full encounter descriptions; exact timeline; independent editorial review; drafted chapter prose; narration or audio production. Therefore mark **scene plan drafted**, not **scene plan fully canon-verified**.
+
+## Manuscript progress and season correction — 17 November 2026
+
+**Superseding the earlier “no drafted prose” planning status:** [four chapters](../manuscript/chapters/README.md) now exist as first-draft manuscript prose. The [review register](MANUSCRIPT_REVIEW.md) and [Chapter 3–4 source review](CHAPTERS_03_04_REVIEW.md) document **27** drafted source integrations; **176** remain planned. The plan itself still has **109 scenes** and **203** unique assignments, independent of draft status.
+
+A verified chronological tension between source scenes **20069** (warm summer butterflies) and **20072** (autumn, fox under falling ochre leaves) is solved by delivery-mode adjustment, not by claiming geography shifts the season: 20072 is **Eda's past-tense testimony** in Chapter 3, while Brunti travels through summer meadows. This is an explicit departure from the original “Lived” proposal and has been changed in the matrix and scene plan.
+
+The Skyland-to-Vale descent uses documented trade-descent practice, but its precise landing location is original literary connective fiction. The seven distinct marked stones have no verified canonical route or decoded message. Chapter 4 keeps them separate over multiple travel days, with their sequence and uncertainty intact.

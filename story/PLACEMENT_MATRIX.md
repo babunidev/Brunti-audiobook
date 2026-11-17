@@ -1,10 +1,10 @@
 # Encounter placements — source-to-manuscript progress matrix
 
-**Status:** **203 distinct encounters assigned, 0 omitted; 5 have been adapted into first-draft prose in chapter 2, 198 remain planned, and none is independently editorial-verified.** The game data and world archive remain authoritative for source detail. The mode is an editorial possibility: **Lived** is staged before Brunti, **Testimony** comes from another speaker, **Archive** is something Brunti learns from a record, and **Metaphor** translates a game-system label without staging that label as fiction.
+**Status:** **203 distinct encounters assigned, 0 omitted; 27 adapted into first-draft prose across chapters 2–4, 176 remain planned, and none is independently editorial-verified.** The game data and world archive remain authoritative for source detail. The mode is an editorial possibility: **Lived** is staged before Brunti, **Testimony** comes from another speaker, **Archive** is something Brunti learns from a record, and **Metaphor** translates a game-system label without staging that label as fiction.
 
 **Reviewed prose baseline:** [Morkahja encounters at 13a5d134c8e6](https://github.com/babunidev/Morkahja/blob/13a5d134c8e63855894436e4f1b09910c5c50b95/server/game/encountersdata.json). The first atlas was indexed from an earlier revision; [19, then 5, then 1 text-only changes were reconciled](../docs/SOURCE_RECONCILIATION.md).
 
-A primary placement alone is **not a claim that the scene is already in the book**. The final column identifies which encounter IDs have actually been translated into draft prose, not which have passed editorial review. See [manuscript review ledger](../docs/MANUSCRIPT_REVIEW.md). A location-specific encounter included as testimony does not mean Brunti traveled there. Refer to [outline](OUTLINE_V1.md), [source atlas](ENCOUNTER_ATLAS.md), and [literary survey](LITERARY_SURVEY.md).
+A primary placement alone is **not a claim that the scene is already in the book**. The final column identifies which encounter IDs have actually been translated into draft prose, not which have passed editorial review. See the [Chapters 1–2 review](../docs/MANUSCRIPT_REVIEW.md) and [Chapters 3–4 review](../docs/CHAPTERS_03_04_REVIEW.md). A location-specific encounter included as testimony does not mean Brunti traveled there. Refer to [outline](OUTLINE_V1.md), [source atlas](ENCOUNTER_ATLAS.md), and [literary survey](LITERARY_SURVEY.md).
 
 | ID | Encounter | Chapter | Form | Particular literary use | Manuscript status |
 | ---: | --- | --- | --- | --- | --- |
@@ -19,11 +19,11 @@ A primary placement alone is **not a claim that the scene is already in the book
 | 19670 | Forgotten Procession | [26](OUTLINE_V1.md) | Lived | one marcher resembles witness | Planned |
 | 19671 | Silent Throne | [27](OUTLINE_V1.md) | Lived | living architecture beneath throne | Planned |
 | 19672 | Verdani’s Vigil | [27](OUTLINE_V1.md) | Lived | healer's vigil after impossible journey | Planned |
-| 20001 | Lovely Meadows | [3](OUTLINE_V1.md) | Lived | mossy meadow stones | Planned |
-| 20002 | Enchanted Glades | [3](OUTLINE_V1.md) | Lived | stream and worn pillars | Planned |
-| 20003 | Fae Pastures | [3](OUTLINE_V1.md) | Lived | strange laughter between pillars | Planned |
-| 20004 | Mystic Grass | [3](OUTLINE_V1.md) | Lived | grass circles summit stone | Planned |
-| 20005 | Seraphic Plains | [3](OUTLINE_V1.md) | Lived | hollow sound between monoliths | Planned |
+| 20001 | Lovely Meadows | [3](OUTLINE_V1.md) | Lived | mossy meadow stones | **Draft v1, ch. 3** |
+| 20002 | Enchanted Glades | [3](OUTLINE_V1.md) | Lived | stream and worn pillars | **Draft v1, ch. 3** |
+| 20003 | Fae Pastures | [3](OUTLINE_V1.md) | Lived | strange laughter between pillars | **Draft v1, ch. 3** |
+| 20004 | Mystic Grass | [3](OUTLINE_V1.md) | Lived | grass circles summit stone | **Draft v1, ch. 3** |
+| 20005 | Seraphic Plains | [3](OUTLINE_V1.md) | Lived | hollow sound between monoliths | **Draft v1, ch. 3** |
 | 20006 | Aevis Chest | [6](OUTLINE_V1.md) | Lived | Aevis chest in roots | Planned |
 | 20007 | Aevis Lockbox | [6](OUTLINE_V1.md) | Lived | opalescent lockbox | Planned |
 | 20008 | Grimnir Trunk | [7](OUTLINE_V1.md) | Lived | Grimnir trunk far from home | Planned |
@@ -87,28 +87,28 @@ A primary placement alone is **not a claim that the scene is already in the book
 | 20066 | Thirsty Grimnir | [14](OUTLINE_V1.md) | Lived | thirsty Grimnir in open sun | Planned |
 | 20067 | Ferocious Silvermane | [5](OUTLINE_V1.md) | Lived | Silvermane in moonlight | Planned |
 | 20068 | Fey Greens | [7](OUTLINE_V1.md) | Testimony | faun sanctuary and rumors | Planned |
-| 20069 | Celestial Fields | [3](OUTLINE_V1.md) | Lived | wildflowers and a butterfly | Planned |
-| 20070 | Enigmatic Prairies | [3](OUTLINE_V1.md) | Testimony | faint notes draw still flowers toward luminous stone | Planned |
-| 20071 | Arcane Meadows | [3](OUTLINE_V1.md) | Testimony | distinct meadow treasure rumor | Planned |
-| 20072 | Tranquil Wilds | [3](OUTLINE_V1.md) | Lived | golden grass and falling leaf | Planned |
+| 20069 | Celestial Fields | [3](OUTLINE_V1.md) | Lived | wildflowers and a butterfly | **Draft v1, ch. 3** |
+| 20070 | Enigmatic Prairies | [3](OUTLINE_V1.md) | Testimony | faint notes draw still flowers toward luminous stone | **Draft v1, ch. 3** |
+| 20071 | Arcane Meadows | [3](OUTLINE_V1.md) | Testimony | distinct meadow treasure rumor | **Draft v1, ch. 3** |
+| 20072 | Tranquil Wilds | [3](OUTLINE_V1.md) | Testimony | golden grass and falling leaf | **Draft v1, ch. 3** |
 | 20073 | Celestial Cairn | [7](OUTLINE_V1.md) | Lived | cairn above running stream | Planned |
-| 20074 | Mysterious Cube | [4](OUTLINE_V1.md) | Archive | etched cube's pulses | Planned |
+| 20074 | Mysterious Cube | [4](OUTLINE_V1.md) | Archive | etched cube's pulses | **Draft v1, ch. 4** |
 | 20075 | Grumpy Fence | [22](OUTLINE_V1.md) | Lived | grumpy fence's tangled story | Planned |
 | 20076 | Aevis Merchant | [9](OUTLINE_V1.md) | Testimony | Aevis merchant tells of Celesterra | Planned |
 | 20077 | Quicksilver Quagmire | [15](OUTLINE_V1.md) | Lived | silver quagmire's uncertain reflection | Planned |
 | 20078 | Unhinged Gobbl | [22](OUTLINE_V1.md) | Lived | distorted Gobbl crouches | Planned |
 | 20079 | Fearfeaster Gobbl | [22](OUTLINE_V1.md) | Testimony | Fearfeaster warning | Planned |
-| 20080 | Dreamy Valley | [3](OUTLINE_V1.md) | Lived | pink blossoms conceal a sheltered passage | Planned |
-| 20081 | Arcadian Hills | [4](OUTLINE_V1.md) | Lived | marked borderstone A | Planned |
+| 20080 | Dreamy Valley | [3](OUTLINE_V1.md) | Lived | pink blossoms conceal a sheltered passage | **Draft v1, ch. 3** |
+| 20081 | Arcadian Hills | [4](OUTLINE_V1.md) | Lived | marked borderstone A | **Draft v1, ch. 4** |
 | 20082 | Alluring Fens | [15](OUTLINE_V1.md) | Testimony | night song across fens | Planned |
-| 20083 | Enchanted Gardens | [4](OUTLINE_V1.md) | Lived | garden engraving H | Planned |
-| 20084 | Mystical Vale | [4](OUTLINE_V1.md) | Lived | vale boulder K | Planned |
-| 20085 | Bucolic Dale | [4](OUTLINE_V1.md) | Lived | dale stone J | Planned |
-| 20086 | Captivating Downs | [4](OUTLINE_V1.md) | Lived | downs carving O | Planned |
-| 20087 | Radiant Heath | [4](OUTLINE_V1.md) | Lived | heath engraving M | Planned |
-| 20088 | Mesmerizing Hillsides | [4](OUTLINE_V1.md) | Lived | hillsides turn between light and shade | Planned |
-| 20089 | Magical Glens | [4](OUTLINE_V1.md) | Lived | glen rock A | Planned |
-| 20090 | Ethereal Glades | [4](OUTLINE_V1.md) | Lived | flowers retain light under clouds | Planned |
+| 20083 | Enchanted Gardens | [4](OUTLINE_V1.md) | Lived | garden engraving H | **Draft v1, ch. 4** |
+| 20084 | Mystical Vale | [4](OUTLINE_V1.md) | Lived | vale boulder K | **Draft v1, ch. 4** |
+| 20085 | Bucolic Dale | [4](OUTLINE_V1.md) | Lived | dale stone J | **Draft v1, ch. 4** |
+| 20086 | Captivating Downs | [4](OUTLINE_V1.md) | Lived | downs carving O | **Draft v1, ch. 4** |
+| 20087 | Radiant Heath | [4](OUTLINE_V1.md) | Lived | heath engraving M | **Draft v1, ch. 4** |
+| 20088 | Mesmerizing Hillsides | [4](OUTLINE_V1.md) | Lived | hillsides turn between light and shade | **Draft v1, ch. 4** |
+| 20089 | Magical Glens | [4](OUTLINE_V1.md) | Lived | glen rock A | **Draft v1, ch. 4** |
+| 20090 | Ethereal Glades | [4](OUTLINE_V1.md) | Lived | flowers retain light under clouds | **Draft v1, ch. 4** |
 | 20091 | Nagar Berserk | [5](OUTLINE_V1.md) | Testimony | Nagar Berserk's thunderous charge | Planned |
 | 20092 | Nagar Boar | [5](OUTLINE_V1.md) | Testimony | Nagar Boar concealed as brush | Planned |
 | 20093 | Bonecrusher | [5](OUTLINE_V1.md) | Testimony | Bonecrusher's pale hide | Planned |
@@ -202,8 +202,8 @@ A primary placement alone is **not a claim that the scene is already in the book
 | 20182 | Aetherion Forge | [11](OUTLINE_V1.md) | Lived | Rokur forges in elemental city | Planned |
 | 20183 | Harmonic Concert | [11](OUTLINE_V1.md) | Lived | concert gathers harmonies | Planned |
 | 20184 | Garden of Elements | [11](OUTLINE_V1.md) | Lived | elemental garden misses its rhythm | Planned |
-| 20185 | Earthsinger's Challenge | [3](OUTLINE_V1.md) | Lived | Earthsinger offers challenge | Planned |
-| 20186 | Melody's Bloomwalker | [4](OUTLINE_V1.md) | Lived | Bloomwalker sings along path | Planned |
+| 20185 | Earthsinger's Challenge | [3](OUTLINE_V1.md) | Lived | Earthsinger offers challenge | **Draft v1, ch. 3** |
+| 20186 | Melody's Bloomwalker | [4](OUTLINE_V1.md) | Lived | Bloomwalker sings along path | **Draft v1, ch. 4** |
 | 20187 | Ember's Journeykindler | [10](OUTLINE_V1.md) | Lived | fire-born pilgrim coughs smoke | Planned |
 | 20188 | Mystic Hearth's Seal | [10](OUTLINE_V1.md) | Lived | mystic hearth's sealed doorway | Planned |
 | 20189 | Zephyr's Embrace | [10](OUTLINE_V1.md) | Lived | Aevis defends against bandits | Planned |
@@ -220,4 +220,4 @@ A primary placement alone is **not a claim that the scene is already in the book
 - ID **1 Atranor** is an afterlife passage and is treated through uncertain secondhand testimony, not as ordinary travel. ID **2 Level up!** is an interface/system label, not a literal incident.
 - The source contains **no 20154** and has no encounters in expansion 1002; neither should be fabricated.
 
-The matrix is a first placement pass. Later scene briefs must establish the precise witness, setting, motive, continuity, source fidelity and actual prose passage. The existing atlas retains original **Unplaced** status until placements are approved.
+This matrix records **first-draft coverage**, not final quality or human creative approval. The existing atlas preserves its earlier original **Unplaced** labels as a historical inventory; this manuscript matrix is the current draft-status record.

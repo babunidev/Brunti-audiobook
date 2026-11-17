@@ -1,6 +1,6 @@
 # Movement I — scene briefs v1
 
-**Status:** working novel-scene design under delegated literary authorship; **chapters 1 and 2 have now been written as independent [first-draft manuscript prose](../../manuscript/chapters/README.md)**, while chapters 3–4 remain scene plans. Scene briefs are not themselves manuscript prose or a verified canon update. **Encounter source:** game prose reviewed at `5b0d73e550ca` and five additional `mEncounterText` revisions at `e0bc99c51c74` and one at `13a5d134c8e6` (see [source reconciliation](../../docs/SOURCE_RECONCILIATION.md)). Scene routes, new dialogue and consequences are novel fiction. [Story spine](../STORY_SPINE.md) · [Placement matrix](../PLACEMENT_MATRIX.md) · [Continuity register](../../docs/SCENE_CONTINUITY.md).
+**Status:** working novel-scene design under delegated literary authorship; **all four chapters now have [first-draft manuscript prose](../../manuscript/chapters/README.md)**. Scene briefs are not themselves manuscript prose or a verified canon update. **Encounter source:** game prose reviewed at `5b0d73e550ca` and five additional `mEncounterText` revisions at `e0bc99c51c74` and one at `13a5d134c8e6` (see [source reconciliation](../../docs/SOURCE_RECONCILIATION.md)). Scene routes, new dialogue and consequences are novel fiction. [Story spine](../STORY_SPINE.md) · [Placement matrix](../PLACEMENT_MATRIX.md) · [Continuity register](../../docs/SCENE_CONTINUITY.md).
 
 **How to use:** Each scene has an actionable turn and listed source IDs. “Lived,” “Testimony,” “Archive,” and “Metaphor” come from the still-provisional matrix. Individual encounter hooks must be dramatized when writing; a catalog mention alone is never finished adaptation. The mini-cues below preserve the distinct source identity of each assigned record.
 
@@ -92,7 +92,7 @@ Grass conceals small shapes; a stream passes worn pillars; a laugh seems to hang
 
 #### 03.2 — Five different silences
 
-A summit pillar bends the grass into circles; plains pillars hum faintly; flowers, a butterfly and a pink valley passage supply intervals of ordinary beauty. No secret mechanism is inferred.
+A summit pillar bends the grass into circles; plains pillars hum faintly; flowers, a butterfly and a pink valley passage supply intervals of ordinary beauty. **Eda separately recounts the autumn fox scene as testimony**. No secret mechanism is inferred.
 
 **Turn:** She learns to give each place its own descriptive line.
 
@@ -100,7 +100,7 @@ A summit pillar bends the grass into circles; plains pillars hum faintly; flower
   - **20004 — Mystic Grass** (*Lived*): grass circles summit stone.
   - **20005 — Seraphic Plains** (*Lived*): hollow sound between monoliths.
   - **20069 — Celestial Fields** (*Lived*): wildflowers and a butterfly.
-  - **20072 — Tranquil Wilds** (*Lived*): golden grass and falling leaf.
+  - **20072 — Tranquil Wilds** (*Testimony*): Eda's autumn recollection of golden grass and a leaf touching a sleeping fox.
   - **20080 — Dreamy Valley** (*Lived*): pink flowers between rocks.
 
 #### 03.3 — A false pattern

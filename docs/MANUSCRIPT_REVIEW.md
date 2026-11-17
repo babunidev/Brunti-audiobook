@@ -2,14 +2,18 @@
 
 **Date:** 17 November 2026. **Status:** Internal AI-authored *first draft*, not a human line edit or accepted final text. **Human creative direction:** Babuni's young Grimnir warrior, all 203 encounters integrated into a coherent novel, stepwise development. **AI contribution:** ChatGPT (GPT-6) drafted chapter prose and prepared this source/continuity comparison.
 
-## Current draft coverage
+## Opening two chapters — first completed review stage
+
+**This section describes Chapters 1–2 only.** See [the separate Chapters 3–4 source review](CHAPTERS_03_04_REVIEW.md) for the subsequent Vale manuscript, and [the live manuscript index](../manuscript/chapters/README.md) for current book-wide totals.
+
+## Chapters 1–2 coverage
 
 | Chapter | Prose link | Scene source | Encounter adaptations | Literary drafting status | Editorial status |
 | ---: | --- | --- | --- | --- | --- |
 | 1 | [Skyland Morning](../manuscript/chapters/01-skyland-morning.md) | [01.1–01.3](../story/scenes/MOVEMENT_I.md) | No game encounter; original Skyland opening | **Draft v1**, 3,249 words | Not independently reviewed |
 | 2 | [The Weight of Other Stones](../manuscript/chapters/02-the-weight-of-other-stones.md) | [02.1–02.3](../story/scenes/MOVEMENT_I.md) | **5 distinct game encounters**, all mediated as testimony | **Draft v1**, 3,313 words | Not independently reviewed |
 
-**Totals:** Two chapters; six planned opening scenes now written as prose; five game encounter IDs drafted; 198 game encounter IDs still planned; **0 manuscript encounter integrations independently editorial-verified**. The book's full target remains 30 chapters.
+**Historical stage totals when this initial review was written:** two chapters; six opening scenes as prose; five source encounter IDs drafted; 198 game encounter IDs then still planned. The latest totals now include [Chapters 3–4](CHAPTERS_03_04_REVIEW.md): **four chapters, 27 source integrations drafted and 176 planned**. **Zero manuscript encounters independently editorial-verified**.
 
 ## Chapter 1 — what is actually in the manuscript
 
@@ -62,4 +66,4 @@ Several early encounter descriptions depict injured Grimnir as ordinary humanoid
 6. **Geographic next scene:** Chapter 3 needs explicit ordinary transfer from Skyland to the Vale when trade descent is possible; no instantaneous drop or geographically invented road.
 7. **Original text voice:** The novel is in close third-person past tense, with distinct testimony; the game's encounter standard remains third-person present and stops before player action. These are separate media conventions.
 
-**Pending completion criteria:** human editorial review of these chapters, full continuity check of subsequent chapters, remaining **198** encounter adaptations in actual prose, independent source coverage verification, and a narrator-friendly approved edition. Do not convert a Draft v1 marker to “verified” based solely on this document.
+**Pending completion criteria:** human editorial review of these chapters, full continuity check of subsequent chapters, remaining **176** encounter adaptations in actual prose, independent source coverage verification, and a narrator-friendly approved edition. Do not convert a Draft v1 marker to “verified” based solely on this document.

@@ -390,15 +390,13 @@ Brunti glanced behind her, certain the invitation must be meant for someone else
 
 There was no one there.
 
-“I have a hammer,” she said.
+“The ground is uneven,” she said.
 
-The Verdani looked at the tool at her belt.
+“Then we can take small steps.”
 
-“That seems a difficult instrument for dancing.”
+“You ask strangers often?”
 
-“It is not an instrument. It is a hammer.”
-
-“Then perhaps leave it where it is.”
+“Only the ones who stop to listen.”
 
 Brunti had no ready answer.
 

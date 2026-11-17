@@ -25,9 +25,9 @@
 
 ## Stage 3 — novel manuscript (underway; first-draft, not editorially approved)
 
-- [x] Draft numbered [Chapters 1 and 2](manuscript/chapters/README.md) as clean novel prose under delegated drafting authority; 6,562 words; **5 source encounter adaptations** in Chapter 2.
-- [x] Reread full game encounter texts for the five Chapter 2 records, record lore discrepancies and attribution in the [manuscript review ledger](docs/MANUSCRIPT_REVIEW.md).
-- [ ] Draft and independently review Chapters 3–30 and remaining **198** planned encounter adaptations.
+- [x] Draft numbered [Chapters 1–4](manuscript/chapters/README.md) as clean novel prose under delegated drafting authority; 13,483 words including chapter headings; **27 source encounter adaptations** in Chapters 2–4.
+- [x] Reread the five complete Chapter 2 encounter descriptions and 22 complete Chapter 3–4 descriptions; record lore/physical/seasonal discrepancies and attribution in the [opening review](docs/MANUSCRIPT_REVIEW.md) and [Vale review](docs/CHAPTERS_03_04_REVIEW.md).
+- [ ] Draft and independently review Chapters 5–30 and remaining **176** planned encounter adaptations.
 - [ ] Revise all chapters into a complete, coherent literary narrative; independent human editorial approval outstanding.
 - [ ] Verify all **203** encounter integrations, full continuity, canonical constraints and prose quality in the finished manuscript.
 

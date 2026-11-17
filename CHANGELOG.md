@@ -54,3 +54,13 @@ No canonical-world files, source-game records, narrated scripts, recordings or r
 - Reconciled one additional game `mEncounterText` change for **20081**, without changing source records.
 
 These are AI-authored first drafts under delegated creative direction, not author-approved final text, narration recordings or world-canon changes.
+
+## 2026-11-17 — Draft Ethera's Vale chapters 3–4
+
+- Wrote Chapter 3 *A Road Made of Grass* (3,225 words) and Chapter 4 *Letters Without a Word* (3,696 words) as clean first-draft prose.
+- Adapted 22 further source encounters; four manuscript chapters now contain 27 drafted integrations of the 203 planned.
+- Preserved the seven original letter carvings **A H K J O M A**, the Earthsinger's challenge, and the source Bloomwalker's invitation to dance.
+- Reframed encounter 20072 as **testimony** to avoid compressing a source-autumn scene into the summer Vale journey; left original game data unchanged.
+- Added detailed Chapter 3–4 source review and updated manuscript index, source-status matrix, roadmap and development journal.
+
+No audio, world-canon changes or independent editorial approval are claimed.
