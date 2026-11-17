@@ -18,13 +18,13 @@ It turned slowly at first, gathering speed around a tall, translucent figure. Th
 
 The name reached Brunti through the next gust of icy wind.
 
-A hollow face turned toward the mountain. Light like cold fire moved in the eyes. The spectral figure lifted both hands, their edges trembling, and cried out again.
+A hollow face turned toward the mountain. Light like cold fire moved in the eyes. The spectral figure lifted both hands, their edges trembling. For a moment his fingers traced a complicated shape in the air. Snow followed the gesture, arranging itself into delicate patterns that stopped just short of completion.
 
 This time Brunti heard the words.
 
-“Nekalos—”
+“The Nekalos Mechanism—”
 
-The rest dissolved into a sound too torn to be language.
+The rest dissolved into a sound too torn to be language. The unfinished shapes scattered in the surging wind.
 
 Velen was already reaching for their notebook.
 
@@ -36,7 +36,7 @@ Brunti could see moon-pale daylight shining through the ghost's chest. Nothing a
 
 The distinction mattered, though she could not have explained why.
 
-Kaldric's hands gathered into fists. His robe flickered with a pale blue radiance. He raised his head as if to cry out once more, then faltered. The outline of his jaw wavered. For a moment the wind held him nearly upright.
+Kaldric's hands lifted again, the same gesture beginning with trembling precision. His robe flickered with a pale blue radiance. He raised his head as if to cry out once more, then faltered. The outline of his jaw wavered. For a moment the wind held him nearly upright, his wavering fingers still seeking a pattern they could not finish.
 
 The next cry came as a splintering sound.
 
