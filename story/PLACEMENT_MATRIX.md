@@ -1,10 +1,10 @@
 # Encounter placements — source-to-manuscript progress matrix
 
-**Status:** **203 distinct encounters assigned, 0 omitted; 151 adapted into first-draft prose across chapters 2–20, 52 remain planned, and none is independently editorial-verified.** The game data and world archive remain authoritative for source detail. The mode is an editorial possibility: **Lived** is staged before Brunti, **Testimony** comes from another speaker, **Archive** is something Brunti learns from a record, and **Metaphor** translates a game-system label without staging that label as fiction.
+**Status:** **203 distinct encounters assigned, 0 omitted; 156 adapted into first-draft prose across chapters 2–21, 47 remain planned, and none is independently editorial-verified.** The game data and world archive remain authoritative for source detail. The mode is an editorial possibility: **Lived** is staged before Brunti, **Testimony** comes from another speaker, **Archive** is something Brunti learns from a record, and **Metaphor** translates a game-system label without staging that label as fiction.
 
-**Reviewed prose baseline:** [Morkahja encounters at 4c7fcc7901f8](https://github.com/babunidev/Morkahja/blob/4c7fcc7901f87f2b1fbf274e0cd46af49642b90f/server/game/encountersdata.json). The first atlas was indexed from an earlier revision; [19, then 5, then 1, then 2, then 1, then 1, then 8, then 5, then 5, then 4, then 2, then 8, then 2 text-only changes were reviewed](../docs/SOURCE_RECONCILIATION.md).
+**Reviewed prose baseline:** [Morkahja encounters at 2b4afe761c8b](https://github.com/babunidev/Morkahja/blob/2b4afe761c8b80f8c0f9414a800fc683ec9b109d/server/game/encountersdata.json). The first atlas was indexed from an earlier revision; [19, then 5, then 1, then 2, then 1, then 1, then 8, then 5, then 5, then 4, then 2, then 8, then 2, then 4 text-only changes were reviewed](../docs/SOURCE_RECONCILIATION.md).
 
-A primary placement alone is **not a claim that the scene is already in the book**. The final column identifies which encounter IDs have actually been translated into draft prose, not which have passed editorial review. See the [Chapters 1–2 review](../docs/MANUSCRIPT_REVIEW.md) and [Chapters 3–4 review](../docs/CHAPTERS_03_04_REVIEW.md), and [Chapters 5–6 review](../docs/CHAPTERS_05_06_REVIEW.md), and [Chapters 7–8 review](../docs/CHAPTERS_07_08_REVIEW.md), and [Chapter 9 review](../docs/CHAPTER_09_REVIEW.md), and [Chapter 10 review](../docs/CHAPTER_10_REVIEW.md), and [Chapter 11 review](../docs/CHAPTER_11_REVIEW.md), and [Chapter 12 review](../docs/CHAPTER_12_REVIEW.md), and [Chapter 13 review](../docs/CHAPTER_13_REVIEW.md), and [Chapter 14 review](../docs/CHAPTER_14_REVIEW.md), and [Chapter 15 review](../docs/CHAPTER_15_REVIEW.md), and [Chapter 16 review](../docs/CHAPTER_16_REVIEW.md) and [Chapter 17 review](../docs/CHAPTER_17_REVIEW.md) and [Chapter 18 review](../docs/CHAPTER_18_REVIEW.md) and [Chapter 19 review](../docs/CHAPTER_19_REVIEW.md) and [Chapter 20 review](../docs/CHAPTER_20_REVIEW.md). A location-specific encounter included as testimony does not mean Brunti traveled there. Refer to [outline](OUTLINE_V1.md), [source atlas](ENCOUNTER_ATLAS.md), and [literary survey](LITERARY_SURVEY.md).
+A primary placement alone is **not a claim that the scene is already in the book**. The final column identifies which encounter IDs have actually been translated into draft prose, not which have passed editorial review. See the [Chapters 1–2 review](../docs/MANUSCRIPT_REVIEW.md) and [Chapters 3–4 review](../docs/CHAPTERS_03_04_REVIEW.md), and [Chapters 5–6 review](../docs/CHAPTERS_05_06_REVIEW.md), and [Chapters 7–8 review](../docs/CHAPTERS_07_08_REVIEW.md), and [Chapter 9 review](../docs/CHAPTER_09_REVIEW.md), and [Chapter 10 review](../docs/CHAPTER_10_REVIEW.md), and [Chapter 11 review](../docs/CHAPTER_11_REVIEW.md), and [Chapter 12 review](../docs/CHAPTER_12_REVIEW.md), and [Chapter 13 review](../docs/CHAPTER_13_REVIEW.md), and [Chapter 14 review](../docs/CHAPTER_14_REVIEW.md), and [Chapter 15 review](../docs/CHAPTER_15_REVIEW.md), and [Chapter 16 review](../docs/CHAPTER_16_REVIEW.md) and [Chapter 17 review](../docs/CHAPTER_17_REVIEW.md) and [Chapter 18 review](../docs/CHAPTER_18_REVIEW.md) and [Chapter 19 review](../docs/CHAPTER_19_REVIEW.md) and [Chapter 20 review](../docs/CHAPTER_20_REVIEW.md) and [Chapter 21 review](../docs/CHAPTER_21_REVIEW.md). A location-specific encounter included as testimony does not mean Brunti traveled there. Refer to [outline](OUTLINE_V1.md), [source atlas](ENCOUNTER_ATLAS.md), and [literary survey](LITERARY_SURVEY.md).
 
 | ID | Encounter | Chapter | Form | Particular literary use | Manuscript status |
 | ---: | --- | --- | --- | --- | --- |
@@ -62,7 +62,7 @@ A primary placement alone is **not a claim that the scene is already in the book
 | 20041 | Sunlit Dell | [6](OUTLINE_V1.md) | Lived | sunlit resting place | **Draft v1, ch. 6** |
 | 20042 | Enchanted Hollow | [6](OUTLINE_V1.md) | Testimony | fae den tradition | **Draft v1, ch. 6** |
 | 20043 | Sylvan Sanctuary | [6](OUTLINE_V1.md) | Lived | moss-lit shelter in cliff | **Draft v1, ch. 6** |
-| 20044 | Darkwood Thicket | [21](OUTLINE_V1.md) | Lived | thicket whispers | Planned |
+| 20044 | Darkwood Thicket | [21](OUTLINE_V1.md) | Lived | thicket whispers | **Draft v1, ch. 21** |
 | 20045 | Tranquil Glade | [7](OUTLINE_V1.md) | Lived | tranquil brookside glade | **Draft v1, ch. 7** |
 | 20046 | Feral Hollow | [7](OUTLINE_V1.md) | Lived | empty sheltered animal hollow | **Draft v1, ch. 7** |
 | 20047 | Moonlit Oasis | [7](OUTLINE_V1.md) | Lived | moonlit pond's drifting lights | **Draft v1, ch. 7** |
@@ -125,13 +125,13 @@ A primary placement alone is **not a claim that the scene is already in the book
 | 20104 | Sudden Rockslide | [18](OUTLINE_V1.md) | Lived | rockslide cuts off track | **Draft v1, ch. 18** |
 | 20105 | The Giant | [17](OUTLINE_V1.md) | Lived | immense stone Giant | **Draft v1, ch. 17** |
 | 20106 | Sarga Lioness | [17](OUTLINE_V1.md) | Lived | lioness on cliff shelf | **Draft v1, ch. 17** |
-| 20107 | Silver Wolf | [21](OUTLINE_V1.md) | Lived | silver wolf at border | Planned |
-| 20108 | Shena Alpha | [21](OUTLINE_V1.md) | Lived | Shena Alpha holds lookout | Planned |
+| 20107 | Silver Wolf | [21](OUTLINE_V1.md) | Lived | silver wolf at border | **Draft v1, ch. 21** |
+| 20108 | Shena Alpha | [21](OUTLINE_V1.md) | Lived | Shena Alpha holds lookout | **Draft v1, ch. 21** |
 | 20109 | Embersnout | [17](OUTLINE_V1.md) | Lived | Embersnout tracks across ice | **Draft v1, ch. 17** |
 | 20110 | Mother Wolf | [5](OUTLINE_V1.md) | Lived | mother wolf protecting cubs | **Draft v1, ch. 5** |
 | 20111 | Young Redeye | [5](OUTLINE_V1.md) | Lived | young Redeye pup plays | **Draft v1, ch. 5** |
-| 20112 | Cursed Silvermane | [21](OUTLINE_V1.md) | Lived | Silvermane afflicted by curse | Planned |
-| 20113 | Cursed Liani | [21](OUTLINE_V1.md) | Testimony | Liani whose counsel has fallen silent | Planned |
+| 20112 | Cursed Silvermane | [21](OUTLINE_V1.md) | Lived | Silvermane afflicted by curse | **Draft v1, ch. 21** |
+| 20113 | Cursed Liani | [21](OUTLINE_V1.md) | Testimony | Liani whose counsel has fallen silent | **Draft v1, ch. 21** |
 | 20114 | Liani Guardian | [8](OUTLINE_V1.md) | Lived | guardian holds boundary | **Draft v1, ch. 8** |
 | 20115 | Liani Predator | [8](OUTLINE_V1.md) | Testimony | Liani Predator recalled by hunter | **Draft v1, ch. 8** |
 | 20116 | Aradia's Perch | [15](OUTLINE_V1.md) | Lived | Aradia dragonfly and poisoned sting | **Draft v1, ch. 15** |
