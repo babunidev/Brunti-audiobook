@@ -281,3 +281,13 @@ All work is novel first-draft prose drafted by ChatGPT GPT-6 under Babuni's orig
 - Added [Chapter 28 source/lore/continuity review](docs/CHAPTER_28_REVIEW.md). Updated the manuscript index, complete unique-ID placement matrix, roadmap, README, source ledger/reconciliation, earlier chapter reviews, content guide, continuity register and dev journal.
 
 **Progress:** **28/30 first-draft chapters, 133,694 words including headings, 202/203 adapted game encounters, one planned (ID 2 Chapter 30 metaphor), zero independent editorial approvals.** No recorded narration, audio release or world/game canon edits.
+
+## 2026-11-18 — Chapter 29 first draft and twenty-first game source update
+
+- Added [Chapter 29 — The Work of Bringing Back](manuscript/chapters/29-the-work-of-bringing-back.md), **5,659 words** of original manuscript connecting fiction, **no unique game encounter ID**. Brunti returns to her moving Grimnir Skyland, publicly reports the harmful brace and needless Blackwood venture, and works with Darrik, Velen, independent craft witnesses and residents to identify and conserve the separate Tavra/Korrum memorials. The resident wall is safely supported first, and an accessible archive court preserves the distinct fixed stone echoes; permanent labels and a minor handrail remain for Chapter 30.
+- Added [Chapter 29 internal source/continuity review](docs/CHAPTER_29_REVIEW.md). Clarified that the Aetherion drawing carries **two drawn beds, no names**; the actual identification is a fictional direct physical inspection of the original stone carvings. The memorial names/history remain novel-only, not game canon.
+- Resolved a manuscript continuity collision: **renamed Chapter 28 mourner Orven to Tarnel**, preserving **Orven the Skykeeper** introduced in Chapter 2; updated Chapter 28 review and other records, and aligned Tavra's character dossier with the earlier anonymous sketch.
+- Checked all **203 entries and every field** in game `8e4857737f9b` versus `f62708ce2dd4`: two `mEncounterText`-only expansions **20145 Spirit Stag** and **20146 Eldritch Stronghold**. Reconciled existing Chapter 20 (6,432→6,482, **+50 words**) and Chapter 24 (5,388→5,422, **+34 words**) prose; no title, ID, follow or other metadata changes.
+- Updated chapter index, novel entry point, roadmap, source register, source reconciliation, placement matrix, historical Chapter 20/24 reviews, content guide, continuity ledger and creative development journal.
+
+**Progress:** **29/30 first-draft chapters; 139,437 words including chapter headings; 202/203 game encounter IDs adapted; 1 planned (ID 2 Level up! metaphor in Chapter 30); 0 independent editorial approvals, recordings or released audio**.
