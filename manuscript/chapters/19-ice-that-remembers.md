@@ -450,7 +450,7 @@ Velen had been studying the valley maps.
 
 “That's what the older guides call her.”
 
-Enna described a white shape seen moving through fog in the northern reaches, its flanks so translucent that the mist passed through them. Its eyes shone faintly above the snow. When it raised its muzzle, a mournful howl carried far across the valley and returned from hidden heights.
+Enna described a white shape seen moving through fog in the northern reaches, its flanks so translucent that wisps of mist passed through its fur. Its eyes shone clearly above the snow. When it raised its muzzle, a mournful howl carried far across the valley and returned from hidden heights. One account, she said, mentioned a deep rumble among the peaks that faded before anyone saw its cause; the wolf's ears had turned toward it before she herself vanished into the fog, leaving only the luminous eyes visible for a moment.
 
 “Some people turn back when they hear it,” she said. “They think it means a storm or an avalanche is near.”
 
@@ -484,11 +484,11 @@ Brunti had seen the name in Aksa's packets. It belonged among dangerous reports,
 
 A pair of blue lights appeared ahead.
 
-At first they hovered alone. Then the snow around them began to turn, lifting from the ground into a narrow column. Crystals circled the lights without falling. The shape drifted sideways across the upper path, almost silent.
+At first they hovered alone. Then a few crystals lifted from the ground against the wind. Hundreds followed, turning into a tall, silent spiral. Around the two blue eyes, the rising snow gathered into the suggestion of a towering body, constantly dissolving into powder and forming again. The shape drifted without touching the ground, almost silently, toward the upper path.
 
 “The Warden,” Enna whispered.
 
-Brunti watched the vortex gather into a clearer form. Frost extended through the air along its movement, and the path beneath it whitened. Behind it lay the high frozen ground that the valley's stories named as the Icebound Nymph Queen's realm.
+Brunti watched the vortex gather into a clearer form. Frost extended through the air along its movement, and the path beneath it whitened. Behind it lay the high frozen ground that the valley's stories named as the Icebound Nymph Queen's realm. The Warden's outer crystals spun faster before the narrow opening, drawing a glittering veil across the way; the center held still, two vivid eyes watching from within. Frost branched across the nearest exposed stones.
 
 The blue eyes remained steady.
 
