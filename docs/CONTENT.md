@@ -156,3 +156,11 @@ The story uses a roof leak that blurs a copied date to make provenance matter; V
 Game source `525d26bc8b4d` changed only **20099–20103** relative to `92b97aef8706`. **20101 Rocks of Ohgar** was reconciled in Chapter 14 (+25 words; **4,853**); four others are **still planned Chapter 17**. [Source diff](SOURCE_RECONCILIATION.md).
 
 **Coverage now:** 203 distinct encounter IDs; **119 actual first-draft integrations, 84 planned, none independently editorial-verified**. Manuscript **16 chapters / 68,125 words including headings / 68,032 prose-only**. No audio production or game/world changes.
+
+## Chapter 17 — different voices of mountain stone (17 November 2026)
+
+ChatGPT (**GPT-6**) drafted [Chapter 17 — The Mountain Has a Voice](../manuscript/chapters/17-the-mountain-has-a-voice.md), **4,639 first-draft words**, using all eleven assigned game descriptions 20061, 20099, 20100, 20102, 20103, 20105, 20106, 20109 and 20120–20122. All eleven remain **Lived** scenes; the chapter does not claim a discovered treasure, a speaking mountain, an awakened stone giant, a moving golem, or an identified link to Brunti's memorial. Sarga appears on an earlier separate travel leg. **Sira is absent physically**, honoring her Chapter 16 departure, and Brunti/Velen continue by ordinary roads with local guides. The Grimnir junkyard's paired fitting is only a possible resemblance; practical cold-weather supplies are purchased instead.
+
+The newer game [`92cd8dc140c5`](https://github.com/babunidev/Morkahja/blob/92cd8dc140c5a73fce11f8ad3b5d87a488b3fd7b/server/game/encountersdata.json) changes **four descriptions, 20104–20107**, relative to the Chapter 16 baseline. Revisions to **20105 The Giant** and **20106 Sarga Lioness** inform this manuscript; **20104 Sudden Rockslide** and **20107 Silver Wolf** remain scheduled for Chapters 18 and 21. [Chapter 17 review](CHAPTER_17_REVIEW.md) records the full textual correspondence and map/chronology limits.
+
+**Current coverage:** **203** unique assigned source IDs; **130** integrated into actual first-draft prose, **73** planned, **0** independent human editorial approvals. Manuscript **17 chapters / 72,764 words including headings / 72,664 prose-only**; no audio or source-game/world modifications.
