@@ -118,3 +118,11 @@ ChatGPT (**GPT-6**) authored [Where Water Is Guarded](../manuscript/chapters/12-
 Velen receives the **previously pending temporary archive travel leave** in the chapter's opening, as novel-only administration. The group's route moves from Aetherion through the southeastern Vale to the mapped oasis roads of **desert Evergrove**. Novel-only Riverkeeper **Iren** passes on a messenger's incomplete report of a raided oasis-village, which prompts Sira to lead the next leg toward survivors. The recovered **memorial drawing remains incomplete**; no source magic rule or world canon was changed.
 
 **Current:** 203 unique source IDs; **87 drafted**, **116 planned**, none independently editorial-verified. Manuscript: **12 first-draft chapters / 47,537 words including headings**. No audio produced.
+
+## Chapter 13 — recovery, testimony and village agency (17 November 2026)
+
+ChatGPT (**GPT-6**) wrote [After the Raid](../manuscript/chapters/13-after-the-raid.md), **5,482 first-draft manuscript words**, from ten fully reread game encounters at unchanged `ad34afb686ef`. **20125**, **20053** and **20058** are staged as **directly witnessed** scenes in the cultivated Evergrove oasis. The other **seven IDs (20013, 20014, 20016, 20017, 20054, 20126, 20127)** arrive as distinct witness testimony or attributed written account. The source-confirmed **Ogru and Gobbl raid** is presented without declaring all other suffering part of one attack or magical corruption.
+
+[Detailed Chapter 13 review](CHAPTER_13_REVIEW.md) records character and geography constraints: **Alen, Renn and Tavi are original fiction**, **three of four feeder channels are recovered**, a replacement pipe still has to be obtained, Sira stays with the community as Brunti and Velen leave briefly for supplies, and a previously displaced child with a carved stick has **unverified current whereabouts**, not a proved Keldor destination. The Eternal Twilight Grove is a **separate haunted forest**, never turned into an Evergrove feature.
+
+**Coverage:** **203 unique encounter IDs, 97 in full first-draft prose, 106 assigned but unwritten, 0 independently editorial-verified**. **13 drafted chapters / 53,019 words including headings / 52,942 prose words excluding headings**. No recorded audio or modifications to Morkahja source repositories.

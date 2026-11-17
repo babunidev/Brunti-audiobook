@@ -123,3 +123,12 @@ Current state: **9 first-draft chapters, 31,741 words, 72 encounter IDs adapted,
 - Added [Chapter 12 source and continuity review](docs/CHAPTER_12_REVIEW.md), updated manuscript index, 203-row coverage matrix, scene state and project documentation.
 
 **State:** 12 literary first-draft chapters / **47,537 words** / **87 game IDs in prose** / **116 planned**, **0 independent editorial sign-offs**; no published/recorded audio or canonical game/world changes.
+
+## 2026-11-17 — Chapter 13: aftermath of the Ogru/Gobbl raid
+
+- Wrote [**After the Raid**](manuscript/chapters/13-after-the-raid.md), **5,482 words**, integrating ten distinct game IDs as **three directly lived** encounters (20125 village; 20053 exhausted Verdani; 20058 Aevis Lady) and **seven separately attributed** reports (20013, 20014, 20016, 20017, 20054, 20126, 20127).
+- Kept **Evergrove as a water-engineered desert/oasis homeland**, the **Eternal Twilight Grove** as another distant place, and the five injured individuals separately identified rather than combining them with the Ogru/Gobbl village raid.
+- Left village reconstruction meaningfully incomplete (**fourth water feeder still closed**). Recorded Sira's independent responsibilities, Alen/Renn as novel-only cast, Brunti/Velen's brief supply trip, and the earlier displaced child's **uncertain** location.
+- Added [Chapter 13 source review](docs/CHAPTER_13_REVIEW.md), updated manuscript index, scene briefs, 203-ID placement matrix, roadmap, continuity, decisions and development record.
+
+**Current state:** **13 first-draft chapters, 53,019 words including headings, 97 encounter IDs integrated, 106 planned, no independently editorially reviewed encounter**. No audio, release or canonical game/world change.
