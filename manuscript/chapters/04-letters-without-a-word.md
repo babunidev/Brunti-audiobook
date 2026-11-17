@@ -92,6 +92,8 @@ She crossed the clearing and touched the edge of the letter. It was worn but del
 
 Brunti waited.
 
+The chorus among the flowers grew quiet. From somewhere deeper between the rocks, a solitary note rose into the dusk, so soft that its last trace disappeared before she could judge the distance.
+
 The letter did not change.
 
 She sat beside the stone and drew it before the light failed completely. Beneath the sketch she added the first letter she had found that morning.
