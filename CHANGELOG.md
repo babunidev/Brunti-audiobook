@@ -261,3 +261,13 @@ The chapter remains first-draft ChatGPT GPT-6 work under Babuni's creative direc
 - Updated source ledger, eighteenth reconciliation log, reviewed chapters, manuscript index, 203-ID placement matrix, roadmap, content/continuity and development records. **26 first-draft chapters / 122,216 words including headings / 199 distinct IDs adapted / four planned**.
 
 All manuscript prose remains ChatGPT GPT-6 first draft under Babuni's creative direction; no independent editorial approval, released audiobook or changes to game/world canon.
+
+## 2026-11-17 — Chapter 27 first draft, Blackwood chain completed and nineteenth game prose reconciliation
+
+- Added [Chapter 27 — What the Throne Keeps](manuscript/chapters/27-what-the-throne-keeps.md), **5,355 words** of first-draft original novel prose, integrating **19671 Silent Throne → 19672 Verdani’s Vigil** in direct Lived scenes.
+- Completed all **eight** follow-linked Blackwood encounters from **20050 Blackwood Portal → 19666 Tangled Depths → 19667 Blackwood Guardian → 19668 The Hollow Choir → 19669 The Weeping Mire → 19670 Forgotten Procession → 19671 Silent Throne → 19672 Verdani’s Vigil (end)** across Chapters 25–27. Preserved the uncertain entry/exit, hall identity and cosmological cause while staging the source's robed keeper, giant living-looking root, Verdani healing refuge and grounding birdcall.
+- Added [Chapter 27 internal source and continuity review](docs/CHAPTER_27_REVIEW.md). Sira and Velen rejoin via ordinary route days after Brunti's awakening; the story distinguishes reliable witness statements from memory gaps and unverified interpretation, and Brunti commits to returning home without a Blackwood relic or repair spell.
+- Compared all **203 source entries** at game `507cd0d738d5` against `3c14072c05be`: **two text-only changes** in **20136 Lost Souls of Everwinter** and **20137 The Shattered Seer**. Reconciled their existing Chapter 19 direct scene (**4,704 → 4,754, +50 words**) and Chapter 20 direct scene (**6,239 → 6,292, +53 words**); no changed metadata/ID/follow links.
+- Updated manuscript index, full ID matrix, roadmap, README, source register/reconciliation, historical chapter reviews, content/continuity register and dev journal. **27/30 first-draft chapters; 127,674 words including headings; 201/203 source encounters integrated; two planned; 0 independent editorial approvals**.
+
+All work is novel first-draft prose drafted by ChatGPT GPT-6 under Babuni's original creative direction. No new game/world lore, recorded audio, rights clearance, publishing or editorial acceptance is claimed.
