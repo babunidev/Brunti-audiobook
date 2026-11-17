@@ -181,3 +181,13 @@ All chapter prose remains AI-assisted first draft under Babuni's creative direct
 - Updated source provenance, documentation, 203-row encounter ledger, manuscript index, roadmap and project entry point. **18 first drafts / 77,918 words including headings / 135 adapted encounter IDs / 68 planned**.
 
 The manuscripts remain AI-assisted first drafts under Babuni's creative direction, without independent human editorial approval, recorded audio, publication or changes to Morkahja game/world source.
+
+## 2026-11-17 — Draft Chapter 19 and reconcile eight revised encounter texts
+
+- Added [Chapter 19 — Ice That Remembers](manuscript/chapters/19-ice-that-remembers.md), **4,533 words** of actual novel first draft, adapting **seven** assigned game encounters with the **20130 → 20131 Guardian/Cave sequence** in order.
+- Added [Chapter 19 source/continuity review](docs/CHAPTER_19_REVIEW.md), preserving unknown cave script, distinct lost travelers, Frostlace and Misthowl as testimony, and the Winterwisp Warden's unrevealed boundary.
+- Compared all 203 game records at `fe29096e90ad` to `e8fbfc67cbb4`, finding **eight `mEncounterText`-only revisions (20110–20117)** with other fields unchanged.
+- Reconciled six already written source descriptions: Chapter 5 **4,044 → 4,117**, Chapter 8 **3,131 → 3,192**, and Chapter 15 **4,914 → 4,935** words. The changed **20112/20113** remain planned Chapter 21 source obligations.
+- Updated source revisions, fidelity addenda, 203-row encounter matrix, manuscript ledger, roadmap and project documents. **19 first drafts / 82,606 words including headings / 142 adapted / 61 planned**.
+
+All prose remains AI-assisted novel draft under Babuni's creative direction, not independent human-approved manuscript, Morkahja canon, audio recording or publication.
