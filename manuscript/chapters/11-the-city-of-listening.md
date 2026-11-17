@@ -1,0 +1,887 @@
+# Chapter Eleven — The City of Listening
+
+Aetherion announced itself with an argument over pears.
+
+By the time Brunti and Sira passed beneath the first gate, a fruit seller was accusing a cloth merchant of placing his stall too close to the cartway. The merchant insisted that the cartway had moved. An official in a grey sash studied the paving stones with the expression of someone who had heard both claims many times and believed neither.
+
+“The stones have not moved,” Brunti said.
+
+The seller turned.
+
+“Then explain that wheel mark.”
+
+She examined the ground. A shallow rut crossed the edge of the paving, but it had been made by a cart cutting the corner, not by the street shifting beneath it.
+
+“Your cart took a shorter turn,” she said.
+
+The seller looked at the official. The official looked at the merchant. The merchant began to laugh.
+
+Brunti continued into the city while the argument changed direction behind her.
+
+Sira caught up with her beneath a hanging sign of polished copper.
+
+“Five minutes,” she said.
+
+“What?”
+
+“We have been here five minutes, and you have already entered a municipal dispute.”
+
+“I answered a question.”
+
+“They weren't asking you.”
+
+“They asked anyone who could explain the wheel mark.”
+
+“Did they?”
+
+Brunti considered the memory.
+
+“Perhaps they were asking the official.”
+
+They entered the market under a canopy of bright cloth.
+
+Colored awnings stretched above the winding cobbled lanes, their corners lifting in the warm breeze. Baskets of fruit stood beside flowers freshly gathered from the Vale. Spices scented the air, and a baker slid round loaves from an oven while a nearby cook turned something fragrant over a shallow pan. Merchants shouted prices, bargained, laughed and called across the street to people they knew.
+
+At a counter covered with embroidered cloth, a seller arranged polished stones beside metal ornaments, straightening each piece so that it caught the afternoon light. Brunti paused to admire the work.
+
+“Welcome to Aetherion,” Sira said.
+
+Brunti had expected walls, gates and perhaps a grand square. She had not expected the city to sound as if several towns had begun speaking at once.
+
+Beyond the market rose four different kinds of skyline. Warm metals and dark stone marked the Ember Wards. Farther away, high platforms and delicate bridges of Skyspire Heights caught the wind. The Crystal Canals shone between buildings draped with green. Along another avenue the Stonebound Terraces stepped upward in strong layers, their foundations cut into the hills.
+
+The Grand Confluence lay among them, where the city's avenues met.
+
+Brunti could feel the care beneath the cobbles. Some stones carried load along the street's length. Others had been fitted to release pressure around drains and narrow channels. The workmanship changed from section to section without becoming careless.
+
+“Four builders,” she murmured.
+
+“Many more than four,” Sira said. “But four traditions agreed on the city.”
+
+“You can see the joints.”
+
+“You always see the joints.”
+
+“That's how a structure keeps from falling.”
+
+Sira nodded toward a stall where an Aevis vendor was arranging long strips of dyed cloth so the passing breeze would carry them without tangling.
+
+“Sometimes,” she said, “the joints are people.”
+
+Brunti might have answered, but the cloth seller called out a price so improbable that Sira turned immediately and began to bargain.
+
+Brunti stood beside her, watching a negotiation she could not follow.
+
+The seller offered a deep-blue length of fabric. Sira examined its weave, praised the dye, criticized the loose edge, and offered half the price. The seller clutched the cloth as though she had wounded him. After several exchanges they settled on an amount between the first and second offers, and both seemed pleased.
+
+“What did you need that for?” Brunti asked as they walked away.
+
+“A message.”
+
+“A message needs cloth?”
+
+“This one does. It is meant to wrap a child's first instrument.”
+
+“Whose child?”
+
+“Someone I have promised to find.”
+
+Brunti said nothing more.
+
+Sira had business in the city beyond bringing her to an archive, and the market belonged as much to those promises as to the grand stories merchants told about rare treasures.
+
+They stopped at a food stall where Brunti chose a warm root cake dusted with mineral grains. Sira bought fruit and a little herb bread. They ate on a bench while the shadows of the awnings moved across the street.
+
+Brunti unfolded Thalen's note.
+
+The name written upon it was short: **Velen**.
+
+Below it was a reference to the intake records of old restoration sketches at the Archive of Echoes.
+
+“An actual person,” she said.
+
+Sira looked over her shoulder.
+
+“Did you expect a riddle?”
+
+“I expected the name to be difficult to read.”
+
+“It isn't.”
+
+“No.”
+
+Brunti folded the paper carefully.
+
+“Then we should go.”
+
+***
+
+The Archive of Echoes occupied a vaulted building beyond the busier market lanes.
+
+Its doors were open, yet the sound inside was quieter than the street, not because the building lacked voices but because so many of them were speaking softly.
+
+A murmur passed through the entrance as Brunti crossed the threshold.
+
+A closed book whispered from a shelf to her left.
+
+Farther down the aisle another voice answered in a different cadence. The words were not directed toward her. One voice returned to the beginning of an old passage and repeated it, its rhythm unchanged. Another faded halfway through a sentence, leaving the final word unspoken.
+
+The shelves rose so high that their upper rows disappeared into the shadows of the ceiling. Gentle light rested along faded spines and worn bindings. The air smelled of parchment, ink and the quiet dust of years carefully kept.
+
+Brunti stopped beneath the first arch.
+
+“Are they alive?” she asked.
+
+An Aevis carrying a tray of documents passed behind her.
+
+“The authors?” the Aevis replied. “No.”
+
+Brunti turned.
+
+The archivist was slender, their form pale as clouded glass. Their hair moved slightly in a breeze that did not reach the shelves. Their sleeves were rolled back from narrow hands, and the tray they carried was divided into compartments of paper, cloth and thin wooden slips.
+
+“The voices are preserved traces,” the archivist said. “The original voices, as recorded in each volume. They do not acquire new memories merely because someone opens the book.”
+
+Brunti looked along the aisle.
+
+A name from the city's founding emerged briefly from two different shelves. One speaker pronounced it with a long first syllable. The other used a shorter sound. Their accounts overlapped and faded beneath a third voice that seemed much younger.
+
+“Which pronunciation is right?” she asked.
+
+“That depends on which record you are studying.”
+
+“I mean which one belonged to the person.”
+
+The archivist stopped.
+
+“Now that,” they said, “would require more evidence.”
+
+Sira stepped forward.
+
+“We're looking for Velen. Thalen the Verdani bookbinder sent us.”
+
+The archivist glanced at the folded note Brunti held out.
+
+Then they looked at Brunti.
+
+“I am Velen.”
+
+Brunti was so relieved that she almost said she had found what she needed.
+
+Instead she handed over the note.
+
+Velen read it carefully.
+
+“Thalen still writes names on the back of his stock receipts,” they said.
+
+“He repairs books very well,” Brunti answered.
+
+“He does. What does he want this time?”
+
+“Not Thalen,” Sira said. “Brunti.”
+
+Velen studied the Grimnir warrior, her hammer, her crowded notebook and the pack that showed several weeks of road travel.
+
+“What kind of record?”
+
+“A drawing of a memorial repair.”
+
+“Date?”
+
+“Unknown.”
+
+“Workshop?”
+
+“Unknown.”
+
+“Material?”
+
+“Stone. More than one kind, I think. The casing has a joint that was repaired long before I was born.”
+
+Velen waited.
+
+Brunti reached into her bag and brought out the copied Skyland transport notation.
+
+“This mark may refer to the joint.”
+
+“May?”
+
+“I don't know what the mark means.”
+
+For the first time Velen's expression eased.
+
+“Good,” they said.
+
+Brunti frowned.
+
+“Good?”
+
+“Good that you know you don't know.”
+
+“I was hoping for a more useful greeting.”
+
+“Then you have come to the wrong profession.”
+
+Sira turned away for a moment. Brunti suspected she was smiling.
+
+Velen led them to a narrow reading desk beside a window and cleared a place among several catalog slips.
+
+“Tell me what you saw,” they said. “Not what you have been told to expect.”
+
+Brunti set down the ledger copy and her drawings of the memorial support.
+
+She described the two distinguishable notes, the old composite covering, the loosened join and the brace she had fitted. She told Velen how the sound had traveled into an inhabited resting chamber and how Darrik had isolated the structure. She repeated the council's deadline before the coming convergence.
+
+“Was anyone harmed?” Velen asked.
+
+“Disturbed. The resting chamber was no longer safe to use while the sound carried through its wall.”
+
+“And now?”
+
+“Darrik made the section safe. A replacement support is planned.”
+
+“What are you trying to prevent?”
+
+Brunti hesitated.
+
+“Moving the memorial.”
+
+“That is not the same as identifying a repair.”
+
+“I know.”
+
+Velen set down their pen.
+
+“Do you?”
+
+The question was so direct that Brunti felt the old impulse to defend herself.
+
+She looked at the ledger notation.
+
+“I wanted to keep the stones where people could hear them,” she said. “But that is not enough reason to leave a harmful joint in the wall.”
+
+Velen nodded once.
+
+“Now we have two separate questions. What was built? And where can it safely remain?”
+
+Brunti found the distinction irritating because it was so clearly necessary.
+
+Velen began writing the search terms.
+
+***
+
+They did not find the drawing on the first day.
+
+The archive held hundreds of restoration accounts from Skyland trade circuits, most filed under the name of the workshop that copied them rather than the place where the work had been done. Some volumes carried the authorial voice of a deceased copyist; others were ordinary paper records too recent or too fragmentary to hold such traces.
+
+Velen moved carefully through the catalog. Brunti moved impatiently through the aisles until she realized that one of them was making progress and the other was making noise.
+
+“May I help?” she asked.
+
+Velen looked up from a drawer of slips.
+
+“Can you read these older material abbreviations?”
+
+“Some.”
+
+“Then start with this column. Mark every entry that mentions a composite casing. Do not decide whether it is the one you want.”
+
+Brunti took the slips.
+
+The work was slower than forging a joint or crossing a meadow. Some entries named the metal. Others named the stone, the workshop or the purpose. A few used old craft marks she had seen in the Skylands, but they appeared beside ordinary bridge supports and storage bins as often as memorial pieces.
+
+By late afternoon she had found nothing.
+
+Sira had been away delivering messages in the city. When she returned, Brunti was sitting with her hands resting flat on the desk, staring at a stack of rejected entries.
+
+“Did you find it?” Sira asked.
+
+“No.”
+
+“Then what did you find?”
+
+“Four different meanings for the same old mark.”
+
+“That sounds inconvenient.”
+
+“It is.”
+
+Sira placed a small parcel beside her.
+
+“Someone sent you a meal.”
+
+Brunti looked up.
+
+“Who?”
+
+“Thalen. He sent word ahead to a friend who runs a food stall. When she heard you were in the archive, she insisted I carry this.”
+
+The parcel held a warm grain cake with crushed mineral salt folded through it.
+
+Brunti touched the wrapping.
+
+“That was thoughtful.”
+
+“Yes.”
+
+“Is there a message?”
+
+“Only that the book should open without tearing its pages.”
+
+Brunti smiled despite herself.
+
+They ate beneath the window while the high shelves murmured around them.
+
+Velen passed with another tray of catalog slips and stopped when they saw Brunti's stack.
+
+“You have marked every composite entry.”
+
+“Yes.”
+
+“Even the ones that are clearly not memorial work.”
+
+“You told me not to decide.”
+
+“I did.”
+
+Velen examined the entries.
+
+“Then tomorrow we can compare the transport marks against the workshops that copied these drawings.”
+
+Brunti looked up.
+
+“Tomorrow?”
+
+“The archive does not become more accurate when you glare at it.”
+
+Sira lowered her gaze to the parcel, smiling.
+
+Brunti packed her tools and followed them out into the city.
+
+***
+
+On the second day Velen brought a narrow volume from a high shelf.
+
+Its binding was badly worn. One corner had been repaired with a strip of pale cloth, and several pages were missing from the middle. As Velen set it upon the reading desk, a quiet voice rose from the closed covers and repeated a short inventory phrase in an old accent.
+
+“Who is speaking?” Brunti asked.
+
+“The copyist who prepared the catalog of restoration drawings,” Velen said. “Or rather, a preserved fragment of their voice. Listen.”
+
+The phrase returned.
+
+Brunti leaned closer.
+
+The cadence was formal and slightly hurried. The voice named a receiving workshop, a group of transported fittings, and a designation that might have referred to a memorial assembly. It stopped before identifying the sender.
+
+“That is where the page was lost,” Velen said.
+
+“Can it be recovered?”
+
+“Not from the sound alone. We have another copy of the next section, but its numbering begins later.”
+
+Brunti turned the page carefully.
+
+Between two inventories lay a narrow sheet of old drawing paper, folded and attached at the margin by a faded thread. The sheet had been torn away from a larger diagram. One side showed the edge of a stone casing, its outline cut by an old break. The other side showed two separate shallow compartments beneath a shared covering.
+
+Brunti became still.
+
+She had seen this kind of work before.
+
+Not exactly the same shape, and not in the memorial passage at home, where the casing had been set so close to the surrounding wall that its inner compartments were hidden. But the proportions were familiar: two support beds drawn side by side, each with its own fixing points. Between them ran a narrow gap that the outer cover concealed.
+
+“Two stones,” she said.
+
+Velen did not answer immediately.
+
+“Two intended positions,” they said. “We cannot see what was placed in them.”
+
+Brunti bent over the sheet.
+
+One corner bore a fragment of a transport mark. It curved in a way that resembled the notation in her own ledger, though the other half was missing.
+
+She placed her copy beside it.
+
+The lines did not match perfectly. The age and hand were different. But their lower strokes followed the same unusual turn before joining the base of the mark.
+
+“Could this be the repair?” she asked.
+
+“It could be a related casing pattern.”
+
+“Then it might be the same workshop.”
+
+“Possibly.”
+
+Brunti looked up sharply.
+
+“Must everything be possibly?”
+
+Velen met her gaze.
+
+“Would you prefer me to say it is certain when it is not?”
+
+“No.”
+
+“Then we have found something useful.”
+
+Brunti looked back at the drawing.
+
+Two compartments. A shared cover. A narrow space between them.
+
+The old memorial had carried two notes. She had assumed that one was the true echo and the other a fault made audible by a poor repair. The diagram allowed another explanation: two separate stones might have been placed together under one casing from the beginning.
+
+Not one damaged voice.
+
+Two things preserved.
+
+She felt an unexpected tenderness toward the blank places in the drawing.
+
+“Is there a name?” she asked.
+
+Velen shook their head.
+
+“The sender's line is missing. So is most of the workshop seal. There may have been inscriptions on the original stones, but the drawing doesn't show them.”
+
+“Could the missing half be somewhere else?”
+
+“Perhaps. The catalog refers to a set of northern construction copies. Some were transferred through Skyland trade workshops; others were later compared with old mountain records.”
+
+Brunti straightened.
+
+“Which mountains?”
+
+“Several routes. The northland collections include Frostwind and Everwinter material. I would not assume your memorial was made there. But the older repair methods may be described in better-preserved copies.”
+
+She looked at the torn edge of the sheet.
+
+“Can I take it?”
+
+“No.”
+
+Brunti stared.
+
+Velen drew the volume gently toward them.
+
+“Not the original. It belongs to the archive, and the attachment is fragile. You may have a measured copy and a full citation. I can prepare both.”
+
+Brunti opened her mouth.
+
+Then closed it.
+
+The old drawing had survived because someone had kept it. She had no greater right to take it than she had to open the Verdani casket or disturb the sleeping Ogru.
+
+“How long will that take?”
+
+“An hour, if you stop asking me to work faster.”
+
+Sira, who had been listening from the far side of the desk, began to laugh.
+
+Brunti sat down.
+
+“Very well.”
+
+Velen took a blank sheet and began copying the diagram's surviving lines. Their hands moved with quiet accuracy, and the faint currents around their fingers steadied the paper without pressing it flat.
+
+Brunti watched the work.
+
+She could see the temptation in the blank space: to draw the missing half as she thought it must have been. A clean symmetrical completion would have looked beautiful.
+
+Velen left the torn edge blank.
+
+Brunti said nothing.
+
+***
+
+They took the copy to the Ember Wards that evening.
+
+Velen had agreed to accompany them, though only because Brunti insisted that the drawn joint would make more sense beside real working metal.
+
+“Metal is not an argument,” Velen said as they crossed the warm stone streets.
+
+“It can be evidence.”
+
+“Then I hope you brought enough of it.”
+
+The forge stood beneath Aetherion's spires, its outer walls marked with protective runes that shone through the shifting heat. Hammers sounded from several workstations. A heated piece of metal entered a cooling vessel with a long hiss, and steam rose past the face of a Rokur artisan whose emberlit hands moved with practiced care.
+
+The workshop smelled of warm iron, wet stone and charcoal.
+
+Brunti stopped at the nearest anvil.
+
+A smith lifted a narrow bar from the cooling water and turned it toward the light. Another hammer rose nearby, paused while the flame changed color, then fell with a bright spray of sparks.
+
+The sounds overlapped in uneven rhythms.
+
+Velen held up the copied diagram.
+
+“We are looking for the distinction between a single bed and two compartments beneath one cover,” they said.
+
+The Rokur smith considered the question.
+
+“Do you want to know how to build it or why someone did?”
+
+“Both,” Brunti said.
+
+“Those are different conversations.”
+
+Brunti glanced at Velen, who raised an eyebrow.
+
+The smith introduced herself as Ketha. Her skin held dark volcanic textures, with emberlight moving through the seams of her arms. She set the bar aside and led them to a bench where several unfinished fittings lay in shallow trays.
+
+“Make two supports,” she said, “and you may choose to fasten them with one cover for convenience. But if the material in each support moves differently, that cover must not force them to become one body.”
+
+Brunti felt a small chill through her crystal seams.
+
+“That is what I did,” she said.
+
+Ketha looked at her.
+
+“With the memorial?”
+
+“I braced the cover tightly because it sounded loose. The sound traveled through the support into the resting room.”
+
+Ketha nodded.
+
+“Then the brace did its work very well.”
+
+Brunti looked up.
+
+“Too well.”
+
+“Yes. A faithful tool can be disastrous when the instruction is wrong.”
+
+She placed two small pieces of metal on the bench and joined them with a strip. One piece was fixed solidly; the other had a little room to move. When Ketha tapped the first, the sound passed through the strip into the second with a sharp ring.
+
+Then she loosened the fastening and tapped again.
+
+The tones were separate.
+
+Brunti listened.
+
+It was not proof of the memorial's history. Different materials, different dimensions, different purposes. Yet it showed how the same physical mistake could make two neighboring structures behave as one.
+
+Velen watched the demonstration closely.
+
+“May I record the method?” they asked.
+
+“You may record what I did,” Ketha said. “Do not record that it will repair a wall you have not seen.”
+
+Brunti almost laughed.
+
+Velen looked at her.
+
+“Now we agree on something.”
+
+The forge continued sounding around them. Elemental whispers moved beneath the clang of metal; cooling water hissed; protective runes held their steady glow.
+
+Brunti looked at the copied diagram in Velen's hands.
+
+A set of lines on a page had become a question she could test in material.
+
+Not an answer she could claim.
+
+***
+
+By twilight, Sira had found a place for all three of them at the Harmonic Concert.
+
+The performance took place in a natural amphitheater within the city, where gentle slopes of stone surrounded a low stage. Small lights gathered above the instruments, which shimmered with elemental energy. An audience filled the curved seats while the sky deepened from gold to blue.
+
+Brunti had never attended a concert like it.
+
+The first note traveled across the amphitheater alone.
+
+A second voice joined it, and a breeze moved over the gathered crowd. As the musicians held their chord the air became still. Above the stage a thin cloud began to turn.
+
+Other instruments answered, their softer tones gathering beneath the melody. The lights above the performers drifted toward one another while the higher notes passed over them.
+
+Brunti closed her eyes.
+
+She could hear separate lines in the music, each held by a different instrument. Some were warm and rough-edged, like stone under a hammer. Others were thin and clear, like wind through a narrow passage. The melody did not erase those differences. It depended upon them.
+
+Beside her, Velen was listening with the still concentration of someone reading a difficult page.
+
+Sira sat between them, her hands resting lightly on her knees.
+
+At the end of the opening measure, one musician raised a hand. The others watched, and the sustained note continued into the waiting dusk.
+
+Brunti thought of the old stories that gave music a power greater than celebration. Some promised that harmony could stand against calamity. She had heard such tales in the Skylands, often from travelers who had spent too long looking at the stars.
+
+She wondered what it would mean to trust a song with such work.
+
+Then the next measure began.
+
+A low instrument entered a little too early. The sound disturbed the pattern, and the higher voices shifted to meet it. For a moment Brunti heard the same uneasy overlap that had troubled her memorial wall.
+
+Her eyes opened.
+
+Velen leaned closer.
+
+“Did you hear that?”
+
+“Yes.”
+
+“What caused it?”
+
+“The lower instrument entered before the others were ready.”
+
+“Are you certain?”
+
+Brunti watched the performers.
+
+The musician had adjusted their hand. The next phrase began, and the low note joined at the proper time. The harmony settled without anyone stopping the concert.
+
+“It may have been deliberate,” she said.
+
+Velen nodded.
+
+“Or a small mistake.”
+
+Sira glanced at them.
+
+“Either way,” she whispered, “the musicians are still playing.”
+
+Brunti looked toward the stage.
+
+The performance continued, carrying separate voices through the same evening air.
+
+For the first time that day she listened without trying to turn the sound into a drawing.
+
+***
+
+The Garden of Elements was quiet when they reached it the following morning.
+
+Water moved through a clear brook between beds of blue and fiery-red blossoms. Tall trees sheltered the paths, and stones along the edges glowed with inner light. The air smelled of flowers and damp earth. Sunlight rested on the leaves in broad, gentle patches.
+
+Brunti had expected the garden to feel like the concert made visible: water, growth, fire and stone held together by patient design.
+
+At first it did.
+
+A red flower leaned toward the cool current. Blue blossoms opened beside it, their stems moving in the faint breeze. The stones pulsed slowly along the path, and the brook ran over smooth pebbles with a soft, continuous sound.
+
+Then the water faltered.
+
+It paused so briefly that Brunti might have missed it had she not been listening for the next ripple. The current resumed, but two small waves met where the flow should have been smooth.
+
+A stone brightened too soon.
+
+Another remained dark through the next pulse.
+
+Above them, branches swayed in a breeze that stopped before reaching the nearest leaves.
+
+Brunti knelt beside the brook.
+
+“There,” she said.
+
+Velen stood at her shoulder.
+
+“I see it.”
+
+“A lower vibration beneath the stones.”
+
+“Yes.”
+
+“It is interfering with the rhythm.”
+
+“Possibly.”
+
+Brunti looked up.
+
+“Must you?”
+
+“Always when I do not know.”
+
+She touched the pathstone nearest the water.
+
+The light beneath it wavered. A red blossom bent toward the brook while the blue flowers beside it drew away. Their stems trembled above the stone, rooted in the same soil but responding to different currents.
+
+The next pulse did not arrive.
+
+Brunti felt the absence as sharply as any sound.
+
+She thought of the double note in her Skyland. The old joint, the broken casing, the brace that had made the resonance travel. She could almost see the two patterns crossing again beneath the garden path.
+
+“Perhaps the same thing is happening,” she said.
+
+Velen waited.
+
+“Two currents held too closely together. One pushes the other out of time.”
+
+“An interesting analogy.”
+
+“More than an analogy.”
+
+“What evidence connects this garden to your memorial?”
+
+Brunti turned toward them.
+
+“The rhythm.”
+
+“Different materials. Different place. Different system.”
+
+“Similar interference.”
+
+“Similar sound.”
+
+They stood in silence for a moment.
+
+The brook caught again, and the flowers shifted in opposite directions. Farther along the path another stone pulsed steadily, untouched by the irregularity.
+
+Brunti looked from one to the other.
+
+“What if the old repair was made using the same principle?” she asked.
+
+“Then we would need a record of that principle in the workshop. We do not have one.”
+
+“But this garden—”
+
+“Needs its own caretakers,” Velen said. “Not a visiting Grimnir who has found a resemblance to a wall she wants to understand.”
+
+The words struck harder than Brunti expected.
+
+She stood.
+
+“I wasn't going to interfere.”
+
+“I know.”
+
+“How?”
+
+“Because you asked first.”
+
+Brunti looked away.
+
+Sira had been quiet beside a bed of flowers. Now she came closer, placing one hand on the low stone border.
+
+“Someone tends this place,” she said. “We can tell them what we noticed.”
+
+Velen nodded.
+
+“That is a useful action.”
+
+Brunti considered the wavering light.
+
+The garden was not theirs to repair. The missing beat was real, but its cause remained here, in the water and stone and living plants of Aetherion. It did not belong to the old memorial simply because she had heard something similar.
+
+They found a caretaker near the next path and described what they had seen, including the stone that brightened early and the one that failed to answer. The caretaker thanked them and called for another worker to examine the brook's flow.
+
+Brunti did not offer a solution.
+
+She gave the observations.
+
+***
+
+They returned to the Archive of Echoes before leaving the city.
+
+Velen had prepared a careful copy of the damaged restoration sketch, with measurements along every surviving edge and the missing portions clearly marked. Beside it they placed a list of related records, including several northern workshop collections that might preserve fuller descriptions of old composite supports.
+
+Brunti read the citations.
+
+They were specific. Not promises, but names of documents, workshops and places where copies had once been kept.
+
+“Will you come with us?” she asked.
+
+Velen looked up from their desk.
+
+“To the north?”
+
+“Eventually. We have other roads to travel first. Sira has messages to carry toward Evergrove, and there are people we mean to visit.”
+
+Velen glanced at Sira.
+
+“You carry messages without always writing them?”
+
+“Yes,” Sira said.
+
+“Then how do you verify the exact words?”
+
+“I remember what I was asked to say. When a person is worried that memory will change them, they may write the words down or ask someone else to listen with me.”
+
+Velen considered that.
+
+“Memory can fail.”
+
+“So can paper,” Sira replied.
+
+Brunti watched the two of them.
+
+The archivist looked as though they were about to argue, then glanced toward the torn sketch on the desk.
+
+“Yes,” Velen said. “It can.”
+
+They folded the copy carefully.
+
+“I cannot leave the archive without arranging my work,” they said. “And I would not go north merely because a damaged drawing looks interesting.”
+
+“What would make you go?” Brunti asked.
+
+“A chance to find its earlier source and compare the methods without pretending to know the result.”
+
+Brunti smiled.
+
+“That is what I want.”
+
+Velen looked at her.
+
+“Is it?”
+
+She hesitated.
+
+“I want an answer. But I have begun to understand that wanting one does not make it true.”
+
+Velen studied her for a moment.
+
+Then they took out a blank travel form.
+
+“I will request a temporary research assignment. The archive may allow it if the journey serves the collection as well as your inquiry.”
+
+Brunti felt relief rise through her like warmth through stone.
+
+“And if they refuse?”
+
+“Then we will still have the copy. You can carry it north, and I can continue searching here.”
+
+Sira nodded.
+
+“Two useful paths.”
+
+Brunti looked at the damaged sketch.
+
+Two positions beneath one casing. Two supports drawn close enough to share a cover without becoming a single thing.
+
+She thought of Darrik waiting on the Skyland, of the resting chamber that had been made safe, and of the old voices she feared losing from the memorial passage.
+
+The drawing did not tell her whether the stones belonged where they had been.
+
+It only allowed her to ask a better question about what was there.
+
+***
+
+That evening they stood beneath the high windows of the archive while the city lights came on.
+
+Aetherion sounded different after dark. The markets softened into conversation. From the Ember Wards came the distant ring of tools being put away, though some forges continued working. Wind passed through the towers of Skyspire Heights, carrying a faint chime. Along the Crystal Canals, water moved beneath bridges and returned in cool echoes.
+
+Velen had gone inside to finish their request. Sira waited beside Brunti with her messages safely tied in their bag.
+
+“Will they come?” Brunti asked.
+
+“They said they would ask.”
+
+“That is not the same as coming.”
+
+“No.”
+
+Brunti considered the road ahead.
+
+There would be more delays. More people to meet, more places where she would have to listen rather than decide. The Skyland's convergence would not wait for her certainty. Darrik would continue making the structure safe whether or not she returned with a perfect history.
+
+But in her pack lay a copy of a drawing that had survived long enough to show two separate places beneath one old cover.
+
+It was the first physical evidence she had found.
+
+She touched the folded paper through the cloth.
+
+Inside the archive a preserved voice began again, low and almost lost beneath the height of the shelves. Its words did not change. It held the shape of a person who had once spoken them, and nothing more.
+
+Brunti listened until the phrase ended.
+
+Then she and Sira turned toward the lantern-lit road, carrying the incomplete drawing between them.
