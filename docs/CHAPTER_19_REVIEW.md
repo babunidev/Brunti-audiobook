@@ -1,6 +1,6 @@
 # Chapter 19 — Ice That Remembers: source and continuity review
 
-**Date:** 17 November 2026. **Status:** [Chapter 19](../manuscript/chapters/19-ice-that-remembers.md) is **4,754 words including heading** after the Chapter 27 source refresh (original draft 4,533 words; Chapter 23 interim 4,643; Chapter 26 interim 4,704 words), written as first-draft novel prose by **ChatGPT GPT-6** under Babuni's existing creative delegation. This review is internal source/continuity checking, **not independent human literary approval, game/world canon, narrated audio or publication**.
+**Date:** 17 November 2026. **Status:** [Chapter 19](../manuscript/chapters/19-ice-that-remembers.md) is **4,854 words including heading** after the Chapter 28 source refresh (original draft 4,533 words; Chapter 23 interim 4,643; Chapter 26 interim 4,704; Chapter 27 interim 4,754 words), written as first-draft novel prose by **ChatGPT GPT-6** under Babuni's existing creative delegation. This review is internal source/continuity checking, **not independent human literary approval, game/world canon, narrated audio or publication**.
 
 ## Primary encounter verification
 
@@ -50,3 +50,7 @@ The new game revision `3c14072c05be` expands **20135 Frostlace**, with deceptive
 ## Chapter 27 source refresh — 17 November 2026
 
 Current game `507cd0d738d5` expands **20136 Lost Souls of Everwinter**: an exhausted foremost traveler drags a frozen cloak hem; the lost company is pressed against the mountainside by a snow-blinded narrow pass; an **elderly traveler's broken whisper**, a companion's **steadying hand on a shoulder**, and a **familiar melody hummed for a few faltering notes** distinguish the travelers' present experience. ChatGPT (**GPT-6**) reconciled the new details into the already-drafted **Chapter 19 direct Lived rescue**, preserving Brunti, Enna and Velen's safe-route response and the group's right to speak. **Chapter 19: 4,704 → 4,754 words (+50)**, same seven source IDs. See [nineteenth source diff](SOURCE_RECONCILIATION.md) and [Chapter 27 review](CHAPTER_27_REVIEW.md). Internal textual audit, not independent human editorial acceptance.
+
+## Chapter 28 source refresh — 18 November 2026
+
+The twentieth game source revision, `f62708ce2dd4`, expands **20140 Misthowl** and **20141 Winterwisp Warden**. ChatGPT (**GPT-6**) reconciled the mist-clad spectral wolf's luminous eyes, faint mountain rumble, ears turning toward the unseen heights and disappearance into a **guide's attributed testimony** rather than claiming Brunti personally met the wolf or verified a blizzard warning. The **direct Warden scene** now includes rising snow crystals forming a constantly dissolving towering body, a floating approach, sharper blue eyes, branching frost and a spinning crystal veil across the route toward the Icebound Nymph Queen. Both remain within Chapter 19, same unique seven source IDs/modes, no new follow or result. **4,754 → 4,854 words (+100).** See [twentieth source comparison](SOURCE_RECONCILIATION.md) and [Chapter 28 review](CHAPTER_28_REVIEW.md). This is internal source adjustment only, not independent editorial approval.
