@@ -410,13 +410,15 @@ Brunti had heard the name in a mountain trader's warning. The creature was said 
 
 They found it at the next rise.
 
-The wolf came low over the snow, its fiery fur bright beneath the cold sky. Its nose traced a scent that crossed the trail and vanished among the rocks. On a stretch of bare ice it slowed just enough to set its paws, then moved swiftly again.
+The wolf came low over the snow, its fiery fur bright beneath the cold sky. Its nose traced a scent that crossed the trail and vanished among the rocks. On a stretch of bare ice it slowed, placing each paw carefully while its claws scraped against the frozen surface. Then it moved swiftly again.
+
+A sharp sound rang out on a distant slope.
+
+The wolf stopped with one forepaw raised. Its ears turned first; slowly, its narrow head followed. Watchful eyes settled on the travelers beside the ridge.
 
 Brunti's hand closed around the handle of her hammer.
 
-The animal turned.
-
-Its lips drew back from thin, needle-like teeth. A brief cloud of breath escaped its jaws. The fur over its shoulders lifted, and its body settled toward the ground.
+The animal's lips drew back from thin, needle-like teeth. A pale cloud of breath escaped its jaws and lingered in the cold. The fur over its shoulders lifted, and its body settled toward the ground.
 
 Hesk did not run. He raised an arm to indicate a line of stones behind them.
 
