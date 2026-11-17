@@ -150,7 +150,7 @@ At first Brunti saw only fragments of light.
 
 Then the wings moved.
 
-The Aradia dragonfly rested on the perch with its long body suspended above the water. Silver flecks caught the sultry daylight along its wings, spreading quick reflections across the dark surface below. A thin buzz rose as it vibrated, soft but sharp enough to separate from the insects calling among the reeds.
+The Aradia dragonfly rested on the perch with its dark, iridescent body suspended above the water. Its four delicate wings caught the sultry daylight, spreading silver reflections across the dark surface below. A thin metallic buzz rose as the wings trembled, sharp enough to interrupt the frogs calling among the reeds.
 
 Its elongated body ended in a sting angled outward.
 
@@ -196,7 +196,7 @@ Brunti folded her arms.
 
 “Then you're well practiced.”
 
-The Aradia lifted slightly. Its silver wings trembled, and the bead at its stinger flashed in a shaft of sunlight. It turned toward the open water.
+Something disturbed the pool beneath the perch. The Aradia lifted slightly and turned abruptly toward it. Its wings gave a sharp, high-pitched whine, scattering silver across the water. A bead of venom trembled at the long curved sting as the dragonfly held itself almost motionless above the branch.
 
 Sira stepped backward first.
 
