@@ -132,3 +132,13 @@ Current state: **9 first-draft chapters, 31,741 words, 72 encounter IDs adapted,
 - Added [Chapter 13 source review](docs/CHAPTER_13_REVIEW.md), updated manuscript index, scene briefs, 203-ID placement matrix, roadmap, continuity, decisions and development record.
 
 **Current state:** **13 first-draft chapters, 53,019 words including headings, 97 encounter IDs integrated, 106 planned, no independently editorially reviewed encounter**. No audio, release or canonical game/world change.
+
+## 2026-11-17 — Chapter 14, Ohgar route and eighth-source prose reconciliation
+
+- Wrote [**Words in the Sand**](manuscript/chapters/14-words-in-the-sand.md), **4,828 first-draft words**, integrating four **Lived** game encounters: **20101 Rocks of Ohgar**, **20035 Ohgar Skorpo**, **20066 Thirsty Grimnir**, **20063 Ancient Inscription**.
+- Resolved the Chapter 13 party split; reopened the village's fourth water feeder with **local monitoring**, kept Evergrove reconstruction incomplete, and took the party via successive guided stations into Ohgar and toward Karrhu.
+- Preserved **Grimnir mineral-body physiology** for the exhausted young traveler; no Skorpo kill, decoded temple runes, magic prophecy, certainty about ancient inscriptions, or confirmed delivery of Brunti's letter to Darrik.
+- Compared latest game `e826fa46d3ff` with `ad34afb686ef`: **eight** `mEncounterText` edits only (**20086–20093**), with 203 source IDs and all other fields intact. Revised Chapter 4 (3,895 words; **A H K J O M A** unchanged) and Chapter 5 (3,900 words; three individual Nagar accounts preserved).
+- Added [Chapter 14 review](docs/CHAPTER_14_REVIEW.md) and source reconciliation; updated literary index, 203-ID coverage matrix, scene status, roadmap, decisions, continuity and development record.
+
+**Working status:** **14 first-draft chapters, 58,041 words including headings, 101 source encounter adaptations, 102 planned, none independently editorial-verified.** No narrated audio, release or canonical game/world change.
