@@ -162,7 +162,7 @@ The shrine stood beyond a slope of pale stone, sheltered between two walls of ic
 
 Fragments of blue-white light drifted above the central stones.
 
-At first Brunti saw no pattern. One pale shard passed her shoulder with a flicker like the corner of an eye. Another floated high above the shrine and revealed part of a woman's mouth. The pieces moved independently, joining neither into a whole face nor into the shape of a complete body.
+At first Brunti saw no pattern. One pale shard passed her shoulder with a flicker like the corner of an eye. Another floated high above the shrine and revealed part of a woman's mouth. A third caught the graceful curve of a shoulder. The pieces moved independently, joining neither into a whole face nor into the shape of a complete body. Their pale light briefly suggested a regal figure suspended in the cold shrine air.
 
 A whisper came from somewhere near the floor.
 
@@ -188,7 +188,7 @@ Enna remained outside the inner ring of stones.
 
 “No one agrees on what the fragments mean.”
 
-Brunti moved slowly around the outer edge. A piece of luminous face appeared beside a frost-coated pillar and dissolved before the rest could form. Near the center, a floating shard held the outline of a hand, fingers lifted as if beginning to guide someone along a road. The fingers faded. There was no arm to follow.
+Brunti moved slowly around the outer edge. A piece of luminous face appeared beside a frost-coated pillar and dissolved before the rest could form. Near the center, a floating shard held the outline of a hand, fingers lifted as if beginning to guide someone along a road. The hand reached outward, its translucent fingers opening in a gesture of guidance. Then its outline trembled. Most of the hand faded, leaving a few pale fingers suspended alone before they too vanished. There was no arm to follow.
 
 Two fragments drifted close together.
 
