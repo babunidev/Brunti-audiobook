@@ -1,6 +1,6 @@
 # Chapter 18 — The Last Warm Bowl: source and continuity review
 
-**Date:** 17 November 2026. **Status:** [Chapter 18](../manuscript/chapters/18-the-last-warm-bowl.md) is **5,193 words including heading** after the Chapter 22 source refresh (original first draft: 5,110 words; interim Chapter 21 revision: 5,155 words), written as first-draft novel prose by **ChatGPT GPT-6** under Babuni's standing creative delegation. Internally compared with the current game encounter texts and relevant canonical lore; **not independent human editorial approval, final narration, game/world canon, recorded audio or publication**.
+**Date:** 17 November 2026. **Status:** [Chapter 18](../manuscript/chapters/18-the-last-warm-bowl.md) is **5,261 words including heading** after the Chapter 24 source refresh (original first draft: 5,110 words; intermediate Chapter 21: 5,155 and Chapter 22: 5,193), written as first-draft novel prose by **ChatGPT GPT-6** under Babuni's standing creative delegation. Internally compared with the current game encounter texts and relevant canonical lore; **not independent human editorial approval, final narration, game/world canon, recorded audio or publication**.
 
 ## Game baseline and encounter fidelity
 
@@ -41,3 +41,7 @@ The newer game `2b4afe761c8b` changes only `mEncounterText` for **20123 Everwint
 ## Chapter 22 source refresh — 17 November 2026
 
 The game at `c227753b59d0` revised **20124 Frostfang Alpha** in `mEncounterText` only. ChatGPT (**GPT-6**) reread the new complete game text and updated [Chapter 18 — The Last Warm Bowl](../manuscript/chapters/18-the-last-warm-bowl.md) as **Aksa reading a courier's signed account**. The wolf's two blue eyes, breath cloud, moving ears, powder falling from white shoulders, echoing commanding howl, long bared teeth and wide braced paws now appear without turning the encounter into a direct Brunti sighting. **Chapter 18: 5,155 → 5,193 words (+38)** (original first draft 5,110). Its alternate name Winterworg remains the same described beast, not a new species. See [fifteenth source reconciliation](SOURCE_RECONCILIATION.md) and [Chapter 22 review](CHAPTER_22_REVIEW.md). Internal fidelity check only; no independent editorial approval.
+
+## Chapter 24 source refresh — 17 November 2026
+
+The complete game source at `f949602a0a21` expands **20132 Frostbite Fergus** in `mEncounterText` only, including a more visible serious pause after a rumbling belly, delighted laughter, blue skin, cheerful toothy face, twitching nose, ears turning independently and invitation by patting the open seat on his pine log. ChatGPT (**GPT-6**) updated the **existing direct Chapter 18 meeting** without changing Fergus's name or Aksa/Brunti/Velen's original fictional dialogue and responsibilities. **Chapter 18: 5,193 → 5,261 words (+68)**, originally 5,110. This is an internal source fidelity refresh, not independent editorial approval. [Seventeenth game diff](SOURCE_RECONCILIATION.md) and [Chapter 24 review](CHAPTER_24_REVIEW.md).
