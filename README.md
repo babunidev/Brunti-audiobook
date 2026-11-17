@@ -20,6 +20,7 @@ The existing world lore belongs to [MorkahjaWorld](https://github.com/babunidev/
 | [Structural overview](story/STRUCTURE.md) · [30-chapter outline](story/OUTLINE_V1.md) | Five movements with proposed chapter briefs, not approved prose |
 | [Encounter placements](story/PLACEMENT_MATRIX.md) | One proposed chapter, mode and literary function for each of the 203 encounters |
 | [Literary survey](story/LITERARY_SURVEY.md) | Scene functions, atmosphere, and outstanding canon checks |
+| [Source reconciliation](docs/SOURCE_RECONCILIATION.md) | Change audit between initial encounter index and current reviewed game prose |
 | [Sources](docs/SOURCES.md) | Specific game and world references, revision identifiers, and artwork paths |
 | [Content method](docs/CONTENT.md) | Encounter mapping rules, coverage evidence and explicit follow sequences |
 | [Roadmap](ROADMAP.md) | Steps and what is complete versus deferred |
@@ -30,6 +31,6 @@ The [documentation guide](docs/DOCUMENTATION.md), [project rules](AGENTS.md), [d
 
 ## Source boundaries
 
-The encounter atlas is indexed from `Morkahja/server/game/encountersdata.json` at source commit `58576f063627752f77cdf99514baad875d509114`. It remains the source coverage ledger; the new placement matrix proposes literary uses for all 203 records but does not establish approved or drafted manuscript scenes. World facts are checked against `MorkahjaWorld`; proposals in this repository never override that archive.
+The encounter atlas was indexed from `Morkahja/server/game/encountersdata.json` at commit `58576f063627752f77cdf99514baad875d509114`; a newer game source at `5b0d73e550ca123adcb095b45febeba4330a9fdf` changed 19 descriptions and was [reconciled](docs/SOURCE_RECONCILIATION.md) for the literary placement proposal. It remains the source coverage ledger; the new placement matrix proposes literary uses for all 203 records but does not establish approved or drafted manuscript scenes. World facts are checked against `MorkahjaWorld`; proposals in this repository never override that archive.
 
 **Current limits:** The title is provisional; the existing title poster has not been imported; no approved chapter list (the 30-chapter version is only a proposal), manuscript, audiobook audio, audiobook rights clearance or publication is claimed.

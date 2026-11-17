@@ -3,11 +3,12 @@
 | Authority | Repository | Pinned source |
 | --- | --- | --- |
 | Established world lore | [MorkahjaWorld](https://github.com/babunidev/MorkahjaWorld) | [f56a7c3d2034](https://github.com/babunidev/MorkahjaWorld/tree/f56a7c3d2034652e1c5961f0ece9c3ef52b52b48) |
-| Game encounter, portraits and expansion data | [Morkahja](https://github.com/babunidev/Morkahja) | [58576f063627](https://github.com/babunidev/Morkahja/tree/58576f063627752f77cdf99514baad875d509114) |
+| Game encounter prose (current reviewed revision) | [Morkahja](https://github.com/babunidev/Morkahja) | [5b0d73e550ca](https://github.com/babunidev/Morkahja/tree/5b0d73e550ca123adcb095b45febeba4330a9fdf) |
+| Original encounter atlas / avatar and expansion source snapshot | [Morkahja](https://github.com/babunidev/Morkahja) | [58576f063627](https://github.com/babunidev/Morkahja/tree/58576f063627752f77cdf99514baad875d509114) |
 
 ## Game records
 
-The [encounter JSON](https://github.com/babunidev/Morkahja/blob/58576f063627752f77cdf99514baad875d509114/server/game/encountersdata.json) was parsed into the [complete source atlas](../story/ENCOUNTER_ATLAS.md). Its 203 records contain encounter IDs, names, descriptions, types, expansion associations and follow links. The full encounter prose is **not** copied into the atlas. Revisions to the source must be reconciled explicitly.
+The [encounter JSON](https://github.com/babunidev/Morkahja/blob/58576f063627752f77cdf99514baad875d509114/server/game/encountersdata.json) was parsed into the [complete source atlas](../story/ENCOUNTER_ATLAS.md). Its 203 records contain encounter IDs, names, descriptions, types, expansion associations and follow links. The full encounter prose is **not** copied into the atlas. A newer game snapshot changes the descriptions of 19 IDs, but no record IDs, titles or gameplay metadata; see [source reconciliation](SOURCE_RECONCILIATION.md). The placement matrix uses the newer reviewed prose baseline.
 
 In the [portrait JSON](https://github.com/babunidev/Morkahja/blob/58576f063627752f77cdf99514baad875d509114/server/game/portraits.json), **Brunti** appears twice:
 

@@ -17,3 +17,9 @@ No novel chapters, narrated audio, source-game changes or publication were produ
 - Updated roadmap, story navigation, decision record, content documentation and development history to distinguish proposed structure from approved or drafted prose.
 
 No manuscript chapters, audio files, source game content, established lore or deployment were changed.
+
+## 2026-11-17 — Reconcile updated game prose baseline
+
+- Compared the initial encounter snapshot with the newer game main: 19 `mEncounterText` changes, no other changes, 203 encounter IDs retained.
+- Added a reconciliation record and updated literary proposal references, including the Enigmatic Prairies narrative cue.
+- Left original atlas history and game-world repositories untouched.

@@ -1,6 +1,6 @@
 # Source-reading survey — first literary pass
 
-**Source snapshot:** [Morkahja encounters 58576f063627](https://github.com/babunidev/Morkahja/blob/58576f063627752f77cdf99514baad875d509114/server/game/encountersdata.json). **Status:** first scene-level review of the 203 encounter records, with targeted reading of relevant world entries. This is **not** a complete paragraph-by-paragraph close edit or approval of the resulting fiction.
+**Source snapshot:** [Morkahja encounters 58576f063627](https://github.com/babunidev/Morkahja/blob/5b0d73e550ca123adcb095b45febeba4330a9fdf/server/game/encountersdata.json). **Status:** first scene-level review of the 203 encounter records, with targeted reading of relevant world entries. This is **not** a complete paragraph-by-paragraph close edit or approval of the resulting fiction. A later source revision changes 19 encounter texts but no IDs or gameplay fields; see [reconciliation](../docs/SOURCE_RECONCILIATION.md).
 
 The original catalog contains more than fights. Meadows, pillars, brooks and shelter places often distinguish themselves by tiny sounds or changes in light. A faithful novel must preserve their separate textures rather than transform each into another treasure hunt. Injured Grimnir, drained Aevis, hungry Verdani children, spent Rokur and a wounded spirit stag carry moments of **need before choice**. The mother's protective posture and the young Redeye's play similarly interrupt the assumption that every animal encounter demands violence.
 

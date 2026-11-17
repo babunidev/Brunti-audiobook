@@ -86,7 +86,7 @@ A primary placement is **not a claim that the scene is already in the book**. A 
 | 20067 | Ferocious Silvermane | [5](OUTLINE_V1.md) | Lived | Silvermane in moonlight |
 | 20068 | Fey Greens | [7](OUTLINE_V1.md) | Testimony | faun sanctuary and rumors |
 | 20069 | Celestial Fields | [3](OUTLINE_V1.md) | Lived | wildflowers and a butterfly |
-| 20070 | Enigmatic Prairies | [3](OUTLINE_V1.md) | Testimony | confusing prairie paths |
+| 20070 | Enigmatic Prairies | [3](OUTLINE_V1.md) | Testimony | faint notes draw still flowers toward luminous stone |
 | 20071 | Arcane Meadows | [3](OUTLINE_V1.md) | Testimony | distinct meadow treasure rumor |
 | 20072 | Tranquil Wilds | [3](OUTLINE_V1.md) | Lived | golden grass and falling leaf |
 | 20073 | Celestial Cairn | [7](OUTLINE_V1.md) | Lived | cairn above running stream |

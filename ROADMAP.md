@@ -15,6 +15,7 @@
 - [x] Propose a primary chapter, delivery mode and unique narrative hook for all 203 encounter IDs ([placement matrix](story/PLACEMENT_MATRIX.md)); **not approved or written**.
 - [x] Keep Blackwood, Everwinter, Hearth, Nereval follow chains and the seven engraved letters intact in the proposed outline.
 - [x] Produce a provisional five-movement, 30-chapter architecture with a high-level geographic itinerary.
+- [x] Reconcile the newer game prose snapshot: 19 text-only changes; no changed encounter IDs.
 - [ ] Validate detailed geography, chronology, supporting cast, scene consequences and causality against all relevant lore.
 - [ ] Obtain creative approval of central conflict, ending, movements and chapter briefs; current plot is an AI proposal.
 
