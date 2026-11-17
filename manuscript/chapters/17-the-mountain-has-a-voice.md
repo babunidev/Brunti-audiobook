@@ -354,11 +354,11 @@ They moved on.
 
 Beyond the rock pillar, the high ground widened into yellow tundra. Moss grew where stone protected it, and pale lichen spread over the faces exposed to the wind. There were no great trees here, only low shrubs bending in the cold.
 
-Something small skittered between two bushes and disappeared beneath a brown crag.
+Something small skittered between two bushes, scattering a few pebbles, and disappeared beneath a brown crag.
 
 Hesk took no notice. Velen crouched.
 
-A faint scrape came from within the stones. They waited, and the movement returned: a tiny creature, quick and indistinct, pushing grit aside before withdrawing again.
+The overhanging rock protected a little hollow from the wind. Moss covered its floor, and a trace of the afternoon's warmth lingered close to the stone. A faint scrape came from within. They waited, and a few grains of grit rolled out of the darkness. Then a tiny nose appeared, twitched once, and withdrew again.
 
 “What is it?” Brunti whispered.
 
@@ -376,9 +376,9 @@ Velen sat back on their heels.
 
 “That's usually where it hides,” Hesk said.
 
-Farther along the slope, a second colossal formation stood with one mass planted deeply in the mountain and another raised forward. Snow streamed between its stone legs. The Frost Strider seemed arrested halfway through a step, its jagged upper body lost in blown powder.
+Farther along the slope, the shadow of a second colossal formation stretched across the mountain. One enormous limb appeared planted deeply among the cliffs and another raised forward. Snow streamed through the hollow spaces beneath its stone legs. The Frost Strider seemed arrested halfway through a step, its jagged upper body lost in blown powder. Long cracks climbed its weathered limbs, forming ledges that vanished into the mist.
 
-Stories said it had once been a living being. Other stories said it was a golem waiting for a forgotten command.
+Stories said it had once been a living being. Other stories said it was a golem guarding forgotten treasures. A sheet of old ice broke from its upper reaches and shattered against the rocks below. When the snow cleared, more of the towering body appeared above, climbing toward a summit still hidden in cloud.
 
 Brunti walked a careful half-circle around the exposed base. The formation did not shift. The raised mass remained suspended where the ridge supported it. Snow gathered in a long seam and spilled out, briefly giving the illusion of muscles relaxing beneath a white cloak.
 
@@ -446,7 +446,7 @@ He offered her the wrapped heat-stone from his kit. Brunti took it, held it betw
 
 On the other side of the ridge, bronze flashed through a break in the cloud.
 
-A great vault stood among broken stones, half-sheathed in frost. Etched lines covered the metal, catching light in a mesh of fine shadows. A heavy lock occupied its front, dark where the rest of the bronze shone.
+A loose fragment of ice struck bronze with a sharp metallic ring. A great vault stood half-buried among broken stones and snow, its ancient surface surprisingly intact. Etched lines covered the metal, frost filling the delicate grooves in pale silver. A heavy lock occupied its front, its seams nearly impossible to distinguish, the narrow keyhole dark where the rest of the bronze shone.
 
 Velen drew nearer, then halted outside the ice-crusted stones.
 
@@ -464,7 +464,7 @@ Brunti examined the fitting from where they stood. The lock was massive, its mec
 
 Velen began a sketch.
 
-Above them, clouds closed across the sun. The etchings lost their brightness. A loose ice crystal slipped down the bronze and stopped against the lock.
+Above them, clouds closed across the sun. The etchings lost their brightness. A loose ice crystal slipped down the bronze and stopped against the lock. When sunlight broke through again, a thousand small reflections briefly revealed details that had been hidden in the darker metal.
 
 Brunti might have measured the seams. She might have tried to find a maker's mark among the ornament, or asked Hesk to help clear the frost. There were countless ways to spend a day beside an unanswered object.
 
