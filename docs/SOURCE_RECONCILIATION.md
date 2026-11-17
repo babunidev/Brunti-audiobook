@@ -59,3 +59,11 @@ The game `main` at [`734f439b1699`](https://github.com/babunidev/Morkahja/blob/7
 - **20084 — Mystical Vale:** expanded summer landscape, long shadow of the huge boulder, returning cloud, and the old carved **K**. The letter itself and all game metadata remain unchanged. [Chapter 4](../manuscript/chapters/04-letters-without-a-word.md) now explicitly notes the long shadow and cloud crossing; its word count rose from **3,714 to 3,741**.
 
 **All 203 encounter records and other fields remained unchanged.** Running cumulative changed prose counts compared to the source atlas: **19 + 5 + 1 + 2 + 1**, with latest literary baseline `734f439b1699ac144909462d31ca3e045cb4d811`. The five Chapter 9 encounter descriptions were read in full against this baseline and did not change during the diff. Game and world source repositories were not modified.
+
+## Sixth source update — 17 November 2026
+
+The game `main` at [`ad34afb686ef`](https://github.com/babunidev/Morkahja/blob/ad34afb686efa017cd43ffeccc554afb43d79b22/server/game/encountersdata.json) had encounter JSON blob `b0a3c99ad5ec5ac5f898fac6039c9aee9de8bc67`. A complete per-ID, per-field comparison against [`734f439b1699`](https://github.com/babunidev/Morkahja/blob/734f439b1699ac144909462d31ca3e045cb4d811/server/game/encountersdata.json) (blob `99ce4bf061d0870353db7246d531889e372fa7f8`) found **one `mEncounterText` change**:
+
+- **20085 — Bucolic Dale:** the revised description specifically shows **two small creatures playing**; one scrambles onto the **J**-inscribed half-buried stone, then leaps away and scatters petals, while a larger creature grazes nearby. The carved **J** remains unchanged. [Chapter 4](../manuscript/chapters/04-letters-without-a-word.md) now dramatizes that action and keeps the **A H K J O M A** sequence. The updated Chapter 4 is **3,776 words including its heading**.
+
+Both snapshots have **203** identical records/IDs; **no other metadata or follow-link changed**. Game encounter **20188** continues to follow to **19444**, and Chapter 10 respects this order. Cumulative newer `mEncounterText` differences compared in successive game updates: **19 + 5 + 1 + 2 + 1 + 1**. Current source baseline: `ad34afb686efa017cd43ffeccc554afb43d79b22`. Neither the game nor established world repositories were changed by this audiobook work.

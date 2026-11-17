@@ -1,17 +1,17 @@
 # Encounter placements — source-to-manuscript progress matrix
 
-**Status:** **203 distinct encounters assigned, 0 omitted; 72 adapted into first-draft prose across chapters 2–9, 131 remain planned, and none is independently editorial-verified.** The game data and world archive remain authoritative for source detail. The mode is an editorial possibility: **Lived** is staged before Brunti, **Testimony** comes from another speaker, **Archive** is something Brunti learns from a record, and **Metaphor** translates a game-system label without staging that label as fiction.
+**Status:** **203 distinct encounters assigned, 0 omitted; 78 adapted into first-draft prose across chapters 2–10, 125 remain planned, and none is independently editorial-verified.** The game data and world archive remain authoritative for source detail. The mode is an editorial possibility: **Lived** is staged before Brunti, **Testimony** comes from another speaker, **Archive** is something Brunti learns from a record, and **Metaphor** translates a game-system label without staging that label as fiction.
 
-**Reviewed prose baseline:** [Morkahja encounters at 734f439b1699](https://github.com/babunidev/Morkahja/blob/734f439b1699ac144909462d31ca3e045cb4d811/server/game/encountersdata.json). The first atlas was indexed from an earlier revision; [19, then 5, then 1, then 2, then 1 text-only changes were reconciled](../docs/SOURCE_RECONCILIATION.md).
+**Reviewed prose baseline:** [Morkahja encounters at ad34afb686ef](https://github.com/babunidev/Morkahja/blob/ad34afb686efa017cd43ffeccc554afb43d79b22/server/game/encountersdata.json). The first atlas was indexed from an earlier revision; [19, then 5, then 1, then 2, then 1, then 1 text-only changes were reconciled](../docs/SOURCE_RECONCILIATION.md).
 
-A primary placement alone is **not a claim that the scene is already in the book**. The final column identifies which encounter IDs have actually been translated into draft prose, not which have passed editorial review. See the [Chapters 1–2 review](../docs/MANUSCRIPT_REVIEW.md) and [Chapters 3–4 review](../docs/CHAPTERS_03_04_REVIEW.md), and [Chapters 5–6 review](../docs/CHAPTERS_05_06_REVIEW.md), and [Chapters 7–8 review](../docs/CHAPTERS_07_08_REVIEW.md), and [Chapter 9 review](../docs/CHAPTER_09_REVIEW.md). A location-specific encounter included as testimony does not mean Brunti traveled there. Refer to [outline](OUTLINE_V1.md), [source atlas](ENCOUNTER_ATLAS.md), and [literary survey](LITERARY_SURVEY.md).
+A primary placement alone is **not a claim that the scene is already in the book**. The final column identifies which encounter IDs have actually been translated into draft prose, not which have passed editorial review. See the [Chapters 1–2 review](../docs/MANUSCRIPT_REVIEW.md) and [Chapters 3–4 review](../docs/CHAPTERS_03_04_REVIEW.md), and [Chapters 5–6 review](../docs/CHAPTERS_05_06_REVIEW.md), and [Chapters 7–8 review](../docs/CHAPTERS_07_08_REVIEW.md), and [Chapter 9 review](../docs/CHAPTER_09_REVIEW.md), and [Chapter 10 review](../docs/CHAPTER_10_REVIEW.md). A location-specific encounter included as testimony does not mean Brunti traveled there. Refer to [outline](OUTLINE_V1.md), [source atlas](ENCOUNTER_ATLAS.md), and [literary survey](LITERARY_SURVEY.md).
 
 | ID | Encounter | Chapter | Form | Particular literary use | Manuscript status |
 | ---: | --- | --- | --- | --- | --- |
 | 1 | Atranor | [28](OUTLINE_V1.md) | Testimony | uncertain account of Atranor judgment | Planned |
 | 2 | Level up! | [30](OUTLINE_V1.md) | Metaphor | earned change without literal level-up | Planned |
 | 19001 | Nerevals Sanctuary | [12](OUTLINE_V1.md) | Lived | Nereval healing seal after entry | Planned |
-| 19444 | Hearthguard Sanctuary | [10](OUTLINE_V1.md) | Lived | hearth chamber after enchanted veil | Planned |
+| 19444 | Hearthguard Sanctuary | [10](OUTLINE_V1.md) | Lived | hearth chamber after enchanted veil | **Draft v1, ch. 10** |
 | 19666 | Tangled Depths | [25](OUTLINE_V1.md) | Lived | root maze Tangled Depths | Planned |
 | 19667 | Blackwood Guardian | [25](OUTLINE_V1.md) | Lived | Guardian's raised root | Planned |
 | 19668 | The Hollow Choir | [26](OUTLINE_V1.md) | Lived | faces sing in hanging trees | Planned |
@@ -204,11 +204,11 @@ A primary placement alone is **not a claim that the scene is already in the book
 | 20184 | Garden of Elements | [11](OUTLINE_V1.md) | Lived | elemental garden misses its rhythm | Planned |
 | 20185 | Earthsinger's Challenge | [3](OUTLINE_V1.md) | Lived | Earthsinger offers challenge | **Draft v1, ch. 3** |
 | 20186 | Melody's Bloomwalker | [4](OUTLINE_V1.md) | Lived | Bloomwalker sings along path | **Draft v1, ch. 4** |
-| 20187 | Ember's Journeykindler | [10](OUTLINE_V1.md) | Lived | fire-born pilgrim coughs smoke | Planned |
-| 20188 | Mystic Hearth's Seal | [10](OUTLINE_V1.md) | Lived | mystic hearth's sealed doorway | Planned |
-| 20189 | Zephyr's Embrace | [10](OUTLINE_V1.md) | Lived | Aevis defends against bandits | Planned |
-| 20190 | Veilwalker | [10](OUTLINE_V1.md) | Testimony | Veilwalker sighting without origin | Planned |
-| 20191 | Slumbering Ogru | [10](OUTLINE_V1.md) | Lived | sleeping Ogru and visible pouch | Planned |
+| 20187 | Ember's Journeykindler | [10](OUTLINE_V1.md) | Lived | fire-born pilgrim coughs smoke | **Draft v1, ch. 10** |
+| 20188 | Mystic Hearth's Seal | [10](OUTLINE_V1.md) | Lived | mystic hearth's sealed doorway | **Draft v1, ch. 10** |
+| 20189 | Zephyr's Embrace | [10](OUTLINE_V1.md) | Lived | Aevis defends against bandits | **Draft v1, ch. 10** |
+| 20190 | Veilwalker | [10](OUTLINE_V1.md) | Testimony | Veilwalker sighting without origin | **Draft v1, ch. 10** |
+| 20191 | Slumbering Ogru | [10](OUTLINE_V1.md) | Lived | sleeping Ogru and visible pouch | **Draft v1, ch. 10** |
 | 20192 | Nereval Elite | [12](OUTLINE_V1.md) | Lived | Nereval guardian asks for mark | Planned |
 | 20193 | Joyful Riverkeeper | [12](OUTLINE_V1.md) | Lived | riverkeeper's merry interruption | Planned |
 

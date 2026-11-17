@@ -1,6 +1,6 @@
 # Movement II — scene briefs v1
 
-**Status:** working novel-scene design under delegated literary authorship. **Chapters 5–9 have been written as [first-draft manuscript prose](../../manuscript/chapters/README.md)**; Chapters 10–12 remain planned. The scene briefs are not themselves manuscript prose or a verified canon update. **Encounter source:** game prose reviewed at `5b0d73e550ca` and later `mEncounterText` revisions at `e0bc99c51c74`, `13a5d134c8e6` and `096c99bdf5ac` (see [source reconciliation](../../docs/SOURCE_RECONCILIATION.md)). Scene routes, new dialogue and consequences are novel fiction. [Story spine](../STORY_SPINE.md) · [Placement matrix](../PLACEMENT_MATRIX.md) · [Continuity register](../../docs/SCENE_CONTINUITY.md).
+**Status:** working novel-scene design under delegated literary authorship. **Chapters 5–10 have been written as [first-draft manuscript prose](../../manuscript/chapters/README.md)**; Chapters 11–12 remain planned. The scene briefs are not themselves manuscript prose or a verified canon update. **Encounter source:** game prose reviewed at `5b0d73e550ca` and later `mEncounterText` revisions at `e0bc99c51c74`, `13a5d134c8e6`, `096c99bdf5ac`, `734f439b1699` and `ad34afb686ef` (see [source reconciliation](../../docs/SOURCE_RECONCILIATION.md)). Scene routes, new dialogue and consequences are novel fiction. [Story spine](../STORY_SPINE.md) · [Placement matrix](../PLACEMENT_MATRIX.md) · [Continuity register](../../docs/SCENE_CONTINUITY.md).
 
 **How to use:** Each scene has an actionable turn and listed source IDs. “Lived,” “Testimony,” “Archive,” and “Metaphor” come from the still-provisional matrix. Individual encounter hooks must be dramatized when writing; a catalog mention alone is never finished adaptation. The mini-cues below preserve the distinct source identity of each assigned record.
 
@@ -241,7 +241,7 @@ On a pilgrim spur south of Eldridia, the Pantheon Temple offers more than one sa
 
 #### 10.1 — Exhaustion and threat
 
-An exhausted Rokur pilgrim coughs smoke while, farther on, bandits pressure an Aevis whose winds begin to fail. Brunti cannot do both instantly and must ask the travelers what is needed.
+**Aru**, a novel-only female Rokur pilgrim, coughs smoke on the road while, farther on, bandits pressure **Tessan**, a novel-only Aevis courier whose winds begin to fail. Brunti cannot do both instantly and must ask the travelers what is needed.
 
 **Turn:** Protection becomes a shared choice rather than her solitary demonstration.
 
@@ -261,7 +261,7 @@ A traveler tells of an origin-unknown Veilwalker; in another quiet place a sleep
 
 #### 10.3 — The seal first, the chamber second
 
-The Mystic Hearth's Seal visibly bars entry. The route through the enchantment remains a novel-specific scene resolution, not a new universal magic rule. Only **after** that threshold does the Hearthguard Sanctuary reveal its eternal fire, earthen jars and stone bench.
+The Mystic Hearth's Seal visibly bars entry. The draft resolves **this particular** enchantment through a carefully moved **stone fitting** timed with its shifting threads; this is novel-only, **not** a universal magic rule. Only **after** that threshold does the Hearthguard Sanctuary reveal its eternal fire, earthen jars and stone bench.
 
 **Turn:** Brunti chooses to leave the refuge usable for later travelers.
 

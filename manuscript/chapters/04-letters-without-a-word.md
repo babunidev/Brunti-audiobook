@@ -152,11 +152,15 @@ Brunti told herself that if it bore an ordinary maker's sign, she would leave th
 
 She took the path toward the dale.
 
-Small animals were chasing one another through its flowers when she arrived. Stems shook in their wake. Farther up the hill, a grazing creature lifted its head, watched her pass and returned to its meal.
+Two little creatures tumbled through the flowers when she arrived, chasing one another so quickly that the stems shook behind them. Farther up the hill, a grazing animal lifted its head at the commotion, then returned to its meal.
 
-The letter J sat on a stone near a sunlit fold of ground.
+One creature scrambled onto a weathered stone half buried in the meadow. Its whiskers twitched. Below it, the other disappeared into the grass.
 
-As the evening deepened, shadows filled its strokes. Above the dale, the sky turned pale rose and orange. The little creatures had disappeared beyond the flowers, but their passage remained visible in a wavering line of disturbed stems.
+Beneath the little paws, a letter had been cut into the stone.
+
+J.
+
+The creature sprang away, sending loose petals into the evening air. As shadows deepened along the grooves, the sky above the dale turned rose and orange. The pair chased each other over the slope until only a wavering line of stems showed where they had passed.
 
 Brunti knelt, brushed loose dust away with the side of her hand and made her fourth drawing.
 
