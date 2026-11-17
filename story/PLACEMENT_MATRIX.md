@@ -1,10 +1,10 @@
 # Encounter placements — source-to-manuscript progress matrix
 
-**Status:** **203 distinct encounters assigned, 0 omitted; 142 adapted into first-draft prose across chapters 2–19, 61 remain planned, and none is independently editorial-verified.** The game data and world archive remain authoritative for source detail. The mode is an editorial possibility: **Lived** is staged before Brunti, **Testimony** comes from another speaker, **Archive** is something Brunti learns from a record, and **Metaphor** translates a game-system label without staging that label as fiction.
+**Status:** **203 distinct encounters assigned, 0 omitted; 151 adapted into first-draft prose across chapters 2–20, 52 remain planned, and none is independently editorial-verified.** The game data and world archive remain authoritative for source detail. The mode is an editorial possibility: **Lived** is staged before Brunti, **Testimony** comes from another speaker, **Archive** is something Brunti learns from a record, and **Metaphor** translates a game-system label without staging that label as fiction.
 
-**Reviewed prose baseline:** [Morkahja encounters at fe29096e90ad](https://github.com/babunidev/Morkahja/blob/fe29096e90ad2f524271a91ceb9cff318ac6b8b0/server/game/encountersdata.json). The first atlas was indexed from an earlier revision; [19, then 5, then 1, then 2, then 1, then 1, then 8, then 5, then 5, then 4, then 2, then 8 text-only changes were reviewed](../docs/SOURCE_RECONCILIATION.md).
+**Reviewed prose baseline:** [Morkahja encounters at 4c7fcc7901f8](https://github.com/babunidev/Morkahja/blob/4c7fcc7901f87f2b1fbf274e0cd46af49642b90f/server/game/encountersdata.json). The first atlas was indexed from an earlier revision; [19, then 5, then 1, then 2, then 1, then 1, then 8, then 5, then 5, then 4, then 2, then 8, then 2 text-only changes were reviewed](../docs/SOURCE_RECONCILIATION.md).
 
-A primary placement alone is **not a claim that the scene is already in the book**. The final column identifies which encounter IDs have actually been translated into draft prose, not which have passed editorial review. See the [Chapters 1–2 review](../docs/MANUSCRIPT_REVIEW.md) and [Chapters 3–4 review](../docs/CHAPTERS_03_04_REVIEW.md), and [Chapters 5–6 review](../docs/CHAPTERS_05_06_REVIEW.md), and [Chapters 7–8 review](../docs/CHAPTERS_07_08_REVIEW.md), and [Chapter 9 review](../docs/CHAPTER_09_REVIEW.md), and [Chapter 10 review](../docs/CHAPTER_10_REVIEW.md), and [Chapter 11 review](../docs/CHAPTER_11_REVIEW.md), and [Chapter 12 review](../docs/CHAPTER_12_REVIEW.md), and [Chapter 13 review](../docs/CHAPTER_13_REVIEW.md), and [Chapter 14 review](../docs/CHAPTER_14_REVIEW.md), and [Chapter 15 review](../docs/CHAPTER_15_REVIEW.md), and [Chapter 16 review](../docs/CHAPTER_16_REVIEW.md) and [Chapter 17 review](../docs/CHAPTER_17_REVIEW.md) and [Chapter 18 review](../docs/CHAPTER_18_REVIEW.md) and [Chapter 19 review](../docs/CHAPTER_19_REVIEW.md). A location-specific encounter included as testimony does not mean Brunti traveled there. Refer to [outline](OUTLINE_V1.md), [source atlas](ENCOUNTER_ATLAS.md), and [literary survey](LITERARY_SURVEY.md).
+A primary placement alone is **not a claim that the scene is already in the book**. The final column identifies which encounter IDs have actually been translated into draft prose, not which have passed editorial review. See the [Chapters 1–2 review](../docs/MANUSCRIPT_REVIEW.md) and [Chapters 3–4 review](../docs/CHAPTERS_03_04_REVIEW.md), and [Chapters 5–6 review](../docs/CHAPTERS_05_06_REVIEW.md), and [Chapters 7–8 review](../docs/CHAPTERS_07_08_REVIEW.md), and [Chapter 9 review](../docs/CHAPTER_09_REVIEW.md), and [Chapter 10 review](../docs/CHAPTER_10_REVIEW.md), and [Chapter 11 review](../docs/CHAPTER_11_REVIEW.md), and [Chapter 12 review](../docs/CHAPTER_12_REVIEW.md), and [Chapter 13 review](../docs/CHAPTER_13_REVIEW.md), and [Chapter 14 review](../docs/CHAPTER_14_REVIEW.md), and [Chapter 15 review](../docs/CHAPTER_15_REVIEW.md), and [Chapter 16 review](../docs/CHAPTER_16_REVIEW.md) and [Chapter 17 review](../docs/CHAPTER_17_REVIEW.md) and [Chapter 18 review](../docs/CHAPTER_18_REVIEW.md) and [Chapter 19 review](../docs/CHAPTER_19_REVIEW.md) and [Chapter 20 review](../docs/CHAPTER_20_REVIEW.md). A location-specific encounter included as testimony does not mean Brunti traveled there. Refer to [outline](OUTLINE_V1.md), [source atlas](ENCOUNTER_ATLAS.md), and [literary survey](LITERARY_SURVEY.md).
 
 | ID | Encounter | Chapter | Form | Particular literary use | Manuscript status |
 | ---: | --- | --- | --- | --- | --- |
@@ -151,19 +151,19 @@ A primary placement alone is **not a claim that the scene is already in the book
 | 20130 | Everwinter Guardian | [19](OUTLINE_V1.md) | Lived | Everwinter Guardian at cave | **Draft v1, ch. 19** |
 | 20131 | Everwinter Cave | [19](OUTLINE_V1.md) | Lived | creatures sealed in ice | **Draft v1, ch. 19** |
 | 20132 | Frostbite Fergus | [18](OUTLINE_V1.md) | Lived | Frostbite Fergus makes room | **Draft v1, ch. 18** |
-| 20133 | Kaldric of Nekalos | [20](OUTLINE_V1.md) | Lived | Kaldric's fragmented cries | Planned |
-| 20134 | Seal of Nekalos | [20](OUTLINE_V1.md) | Lived | glowing Knowledge Seal | Planned |
+| 20133 | Kaldric of Nekalos | [20](OUTLINE_V1.md) | Lived | Kaldric's fragmented cries | **Draft v1, ch. 20** |
+| 20134 | Seal of Nekalos | [20](OUTLINE_V1.md) | Lived | glowing Knowledge Seal | **Draft v1, ch. 20** |
 | 20135 | Frostlace | [19](OUTLINE_V1.md) | Testimony | Frostlace's deadly invitation | **Draft v1, ch. 19** |
 | 20136 | Lost Souls of Everwinter | [19](OUTLINE_V1.md) | Lived | travelers lost in snowfall | **Draft v1, ch. 19** |
-| 20137 | The Shattered Seer | [20](OUTLINE_V1.md) | Lived | Seer of Snows shattered voices | Planned |
-| 20138 | Skyreach Peak | [20](OUTLINE_V1.md) | Lived | Skyreach glimpsed in snow | Planned |
-| 20139 | Lyria of Nekalos | [20](OUTLINE_V1.md) | Lived | Lyria's faint lasting melody | Planned |
+| 20137 | The Shattered Seer | [20](OUTLINE_V1.md) | Lived | Seer of Snows shattered voices | **Draft v1, ch. 20** |
+| 20138 | Skyreach Peak | [20](OUTLINE_V1.md) | Lived | Skyreach glimpsed in snow | **Draft v1, ch. 20** |
+| 20139 | Lyria of Nekalos | [20](OUTLINE_V1.md) | Lived | Lyria's faint lasting melody | **Draft v1, ch. 20** |
 | 20140 | Misthowl | [19](OUTLINE_V1.md) | Testimony | Misthowl's uncertain warnings | **Draft v1, ch. 19** |
 | 20141 | Winterwisp Warden | [19](OUTLINE_V1.md) | Lived | Winterwisp Warden blocks way | **Draft v1, ch. 19** |
-| 20142 | Frostfall Cascade | [20](OUTLINE_V1.md) | Lived | glint behind frozen cascade | Planned |
-| 20143 | Frostforged Vault | [20](OUTLINE_V1.md) | Lived | sealed Frostforged Vault | Planned |
-| 20144 | The Scholar | [20](OUTLINE_V1.md) | Lived | Jorvald's scattered books | Planned |
-| 20145 | Spirit Stag | [20](OUTLINE_V1.md) | Lived | Spirit Stag wounded by azure arrow | Planned |
+| 20142 | Frostfall Cascade | [20](OUTLINE_V1.md) | Lived | glint behind frozen cascade | **Draft v1, ch. 20** |
+| 20143 | Frostforged Vault | [20](OUTLINE_V1.md) | Lived | sealed Frostforged Vault | **Draft v1, ch. 20** |
+| 20144 | The Scholar | [20](OUTLINE_V1.md) | Lived | Jorvald's scattered books | **Draft v1, ch. 20** |
+| 20145 | Spirit Stag | [20](OUTLINE_V1.md) | Lived | Spirit Stag wounded by azure arrow | **Draft v1, ch. 20** |
 | 20146 | Eldritch Stronghold | [24](OUTLINE_V1.md) | Lived | stronghold chest under dead tree | Planned |
 | 20147 | Ironclad Reliquary | [24](OUTLINE_V1.md) | Lived | reliquary pulse in wood | Planned |
 | 20148 | Luminous Enclave | [23](OUTLINE_V1.md) | Lived | hag's bright hut and comedy | Planned |
