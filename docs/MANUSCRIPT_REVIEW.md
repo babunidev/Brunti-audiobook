@@ -13,7 +13,7 @@
 | 1 | [Skyland Morning](../manuscript/chapters/01-skyland-morning.md) | [01.1–01.3](../story/scenes/MOVEMENT_I.md) | No game encounter; original Skyland opening | **Draft v1**, 3,249 words | Not independently reviewed |
 | 2 | [The Weight of Other Stones](../manuscript/chapters/02-the-weight-of-other-stones.md) | [02.1–02.3](../story/scenes/MOVEMENT_I.md) | **5 distinct game encounters**, all mediated as testimony | **Draft v1**, 3,313 words | Not independently reviewed |
 
-**Historical stage totals when this initial review was written:** two chapters; six opening scenes as prose; five source encounter IDs drafted; 198 game encounter IDs then still planned. The latest totals now also include [Chapters 5–6](CHAPTERS_05_06_REVIEW.md): **fifteen chapters, 107 source integrations drafted and 96 planned**. This opening review records the earlier stage as well. **Zero manuscript encounters independently editorial-verified**.
+**Historical stage totals when this initial review was written:** two chapters; six opening scenes as prose; five source encounter IDs drafted; 198 game encounter IDs then still planned. The latest totals now also include [Chapters 5–6](CHAPTERS_05_06_REVIEW.md): **sixteen chapters, 119 source integrations drafted and 84 planned**. This opening review records the earlier stage as well. **Zero manuscript encounters independently editorial-verified**.
 
 ## Chapter 1 — what is actually in the manuscript
 
@@ -66,7 +66,7 @@ Several early encounter descriptions depict injured Grimnir as ordinary humanoid
 6. **Geographic next scene:** Chapter 3 needs explicit ordinary transfer from Skyland to the Vale when trade descent is possible; no instantaneous drop or geographically invented road.
 7. **Original text voice:** The novel is in close third-person past tense, with distinct testimony; the game's encounter standard remains third-person present and stops before player action. These are separate media conventions.
 
-**Pending completion criteria:** human editorial review of these chapters, full continuity check of subsequent chapters, remaining **96** encounter adaptations in actual prose, independent source coverage verification, and a narrator-friendly approved edition. Do not convert a Draft v1 marker to “verified” based solely on this document.
+**Pending completion criteria:** human editorial review of these chapters, full continuity check of subsequent chapters, remaining **84** encounter adaptations in actual prose, independent source coverage verification, and a narrator-friendly approved edition. Do not convert a Draft v1 marker to “verified” based solely on this document.
 
 ## Chapter 14 — current internal review addendum (17 November 2026)
 
@@ -79,3 +79,11 @@ The same current game source updated **20086–20093**, requiring five Chapter 4
 [Chapter 15 — Beneath the Reeds](../manuscript/chapters/15-beneath-the-reeds.md) is **4,914 words of actual novel Draft v1**, adapting five **directly experienced** swamp scenes (**20038 Inferno Duck, 20116 Aradia's Perch, 20057 Verdani Child, 20037 Flytrap Grotto, 20077 Quicksilver Quagmire**) and one **attributed testimony** (**20082 Alluring Fens**). [The detailed source and continuity review](CHAPTER_15_REVIEW.md) establishes place-specific detail and the distinction between **Karrhu** and the **central-land Fens**. Leta returns to her aunt by a local tested crossing; she is not the still-unlocated displaced child with a carved walking stick. Quicksilver stars are not made into new canon or proven prophecy. Sira remains with the trio through the chapter end, considering—but not yet taking—a distinct messenger route.
 
 The latest game snapshot changes **20094–20098** only in prose, reconciled in [Chapter 5](../manuscript/chapters/05-the-lives-of-the-vale.md) (**4,044 words** including heading) and [Chapter 7](../manuscript/chapters/07-things-that-are-kept.md) (**3,554 words**), without shifting encounter identities or delivery modes. Current book totals: **15 first-draft chapters, 63,149 words including headings, 107 draft-integrated encounters, 96 planned**, and **none independently editorial-verified**. Older totals in this file are historical snapshots; no audio production or author editorial signoff has occurred.
+
+## Chapter 16 — twelve archived corruption witnesses, not twelve battles (17 November 2026)
+
+[Chapter 16 — Witnesses of Corruption](../manuscript/chapters/16-witnesses-of-corruption.md) adds **4,951 words of actual literary Draft v1** and **twelve separately identifiable Archive integrations** from game IDs **20019–20030**. No encounter in this chapter is narrated as an on-page battle with a corrupted being. The four known corrupted forms (Ashen Revenants, Blightwraiths, Crumblegheists, Tempestwailers) remain distinct from the Urcogor Ravage; their stories do not prove Brunti's Skyland memorial shares a cause. [Detailed fidelity review](CHAPTER_16_REVIEW.md).
+
+A western courier named **Rava** (novel-only) offers a credible route to missing *records* of dispersed families. **Sira leaves by an ordinary western mail route after three more days together**, not instant magical transport, while **Brunti and Velen travel north**. The walking-stick child is **not confirmed missing**, and neither future Keldor location nor a universal magical answer is invented. The live game also refreshed **20099–20103**; **20101** was reconciled in [Chapter 14](../manuscript/chapters/14-words-in-the-sand.md), now **4,853 words**; the other four await drafted Chapter 17. [Ninth source difference](SOURCE_RECONCILIATION.md).
+
+**Current verified file counts:** **16 first-draft chapters, 68,125 words including headings, 119 source IDs in prose, 84 still planned, 0 independent editorial approvals**. Earlier totals in this review remain historical.

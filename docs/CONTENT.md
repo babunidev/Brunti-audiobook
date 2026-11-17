@@ -146,3 +146,13 @@ Direct action includes the Inferno Duck's fire, Aradia's still dangerous venom, 
 The game source moved from `e826fa46d3ff` to `92b97aef8706` with **exactly five `mEncounterText` updates (20094–20098)**, all reconciled in old first-draft Chapters 5 and 7 without new source IDs or follow-link changes. Their new lengths: Chapter 5 **4,044 words**, Chapter 7 **3,554**. [Source reconciliation](SOURCE_RECONCILIATION.md).
 
 **Current project:** **203 distinct assigned encounter IDs, 107 adapted as first-draft prose, 96 planned, 0 independently editorial-verified**, manuscript **15 chapters / 63,149 words including headings / 63,061 prose-only**. No audio, releases or changes to the game or world source files.
+
+## Chapter 16 — corrupted forms kept separate by original witness (17 November 2026)
+
+ChatGPT (**GPT-6**) wrote [Chapter 16 — Witnesses of Corruption](../manuscript/chapters/16-witnesses-of-corruption.md), **4,951 words of first-draft novel prose**, under Babuni's existing creative delegation. All **twelve assigned game descriptions 20019–20030** were read at `525d26bc8b4d`, where none of these twelve had changed. They appear as **twelve attributed Archive records**, not physical journeys or a new series of attacks: three **Ashen Revenants (20019, 20020, 20030)**, three **Blightwraiths (20021, 20024, 20029)**, three **Crumblegheists (20022, 20025, 20026)** and three **Tempestwailers (20023, 20027, 20028)**. [Full source and canon review](CHAPTER_16_REVIEW.md) distinguishes observed forms from witness inference and preserves the *Roughian/Berserk* nomenclature tension.
+
+The story uses a roof leak that blurs a copied date to make provenance matter; Velen builds a practical **Seen / Inferred / Unknown** register. The chapter moves Sira's independent duty into actual travel: novel-only courier **Rava** identifies a western registry location, the trio travels together another three days, and Sira leaves by **ordinary western mail caravan** while Brunti/Velen take the northern road. The older displaced child with a carved stick remains of **unconfirmed whereabouts**. This is novel-only connecting fiction, not new game canon.
+
+Game source `525d26bc8b4d` changed only **20099–20103** relative to `92b97aef8706`. **20101 Rocks of Ohgar** was reconciled in Chapter 14 (+25 words; **4,853**); four others are **still planned Chapter 17**. [Source diff](SOURCE_RECONCILIATION.md).
+
+**Coverage now:** 203 distinct encounter IDs; **119 actual first-draft integrations, 84 planned, none independently editorial-verified**. Manuscript **16 chapters / 68,125 words including headings / 68,032 prose-only**. No audio production or game/world changes.

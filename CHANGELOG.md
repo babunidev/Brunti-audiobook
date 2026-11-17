@@ -152,3 +152,13 @@ Current state: **9 first-draft chapters, 31,741 words, 72 encounter IDs adapted,
 - Updated [Chapter 15 source review](docs/CHAPTER_15_REVIEW.md), [source diff](docs/SOURCE_RECONCILIATION.md), 203-ID placement matrix, scene plan, chapter index, roadmap, creative journal, decisions and continuity.
 
 **Current record:** **15 first-draft chapters / 63,149 words including headings / 107 integrated encounter IDs / 96 planned / 0 independently editorial-verified**. No recorded audio, rights approval or publication.
+
+## 2026-11-17 — Chapter 16, archive testimony and Sira's departure
+
+- Drafted [**Witnesses of Corruption**](manuscript/chapters/16-witnesses-of-corruption.md), **4,951 words**, including all **12 assigned game encounters 20019–20030** as separately identifiable **Archive** descriptions in four groups: Ashen Revenants, Blightwraiths, Crumblegheists, Tempestwailers.
+- Preserved game-specific details, incomplete witness provenance, corruption-versus-Ravage origins, and the unverified relation between **Crumblegheist Roughian** and world lore's similar **Berserk**. No fictive unified corruption mastermind, solved memorial case or confirmed prophecy.
+- Wrote Sira's actual **ordinary western messenger-road departure** after three further days accompanying Brunti/Velen; the other two continue **north alone**. The displaced walking-stick child's destination remains uncertain.
+- Reconciled changed **20101 Rocks of Ohgar** prose in [Chapter 14](manuscript/chapters/14-words-in-the-sand.md) (**4,828 → 4,853 words**); four other newly changed descriptions **20099/20100/20102/20103** remain assigned to unwritten Chapter 17. Source game's 203 IDs/metadata/follow links unchanged.
+- Added [Chapter 16 review](docs/CHAPTER_16_REVIEW.md), source-diff addendum, and updated manuscript index, 203-ID matrix, scene continuity, roadmap, decisions, creative journal and change log.
+
+**Current:** **16 literary first-draft chapters / 68,125 words including headings / 119 source IDs adapted / 84 planned / 0 independently editorial-verified**. No audio release or Morkahja game/world canon edits.
