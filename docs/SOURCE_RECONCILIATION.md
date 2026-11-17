@@ -149,3 +149,14 @@ The game `main` at [`fe29096e90ad`](https://github.com/babunidev/Morkahja/blob/f
 - **20117 Thunderfly Matriarch:** added blue antenna sparks and forceful descending wing gust; reconciled as lived observation in Chapter 8. Chapter 8 **3,131 → 3,192 words** (+61).
 
 **Net +155 words** across already drafted Chapters 5, 8 and 15, **no encounter placement changes**. All seven Chapter 19 source descriptions (**20129, 20130, 20131, 20135, 20136, 20140, 20141**) were fully reread against the newer source and unchanged, including ordered link **20130 → 20131**. Neither game nor world repository was modified by the audiobook project. Current literary source baseline: `fe29096e90ad2f524271a91ceb9cff318ac6b8b0`. Historical cumulative changed prose counts: **19 + 5 + 1 + 2 + 1 + 1 + 8 + 5 + 5 + 4 + 2 + 8**. Manuscript total after Chapter 19: **19 first drafts / 82,606 words including headings / 142 adapted / 61 planned**.
+
+## Thirteenth source update — 17 November 2026
+
+The game encounter file at [`4c7fcc7901f8`](https://github.com/babunidev/Morkahja/blob/4c7fcc7901f87f2b1fbf274e0cd46af49642b90f/server/game/encountersdata.json) has blob `8768959971bfd48a63d03a9c8875e267c52cee79`. Compared with [`fe29096e90ad`](https://github.com/babunidev/Morkahja/blob/fe29096e90ad2f524271a91ceb9cff318ac6b8b0/server/game/encountersdata.json), blob `199d00e37ca66d9311f8c053b5e8cee3da57bd56`, all **203 records and every field** were checked. **Exactly two text-only changes** appeared; IDs, titles, types, elements, expansion flags and follow links remain unchanged.
+
+- **20118 Firecrest Bloodbeak:** the Keldor black rooster's proud strut, proffered scraps, bandit sentinel role, sharp spurs and arrested pre-alarm cry are more richly staged. This encounter remains **planned for Chapter 22**; no assertion that it has been narrated or adapted yet.
+- **20119 Simple Treasure:** the meadow's light brown chest shows finely carved wandering figures, trees and old buildings, a gleaming brass lock and narrow shadowed keyhole, with its contents still unseen. ChatGPT (**GPT-6**) reconciled these details in [Chapter 7](../manuscript/chapters/07-things-that-are-kept.md); the chest remains closed and its ownership unclaimed. **Chapter 7 words: 3,554 → 3,601 (+47)**.
+
+The **nine Chapter 20 encounters (20133/20134/20137–20139/20142–20145)** were reread from this new baseline and were unchanged in all fields; their prose draft is separately documented in [Chapter 20 review](CHAPTER_20_REVIEW.md). No game/world repository was edited.
+
+**Historical cumulative text-only changes:** 19 + 5 + 1 + 2 + 1 + 1 + 8 + 5 + 5 + 4 + 2 + 8 + 2. **Current literary source baseline:** `4c7fcc7901f87f2b1fbf274e0cd46af49642b90f`. **Manuscript status:** 20 first drafts, 88,790 words including headings, 151 adapted encounter IDs, 52 still planned, none independently editorially verified.
