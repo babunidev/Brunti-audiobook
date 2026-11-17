@@ -32,7 +32,7 @@ It was the corner of a chest.
 
 ***
 
-The chest rested in a shallow depression among wind-rounded stones, half covered by a dusting of new snow. Its timber had darkened almost to blue-black with age and weather. Delicate flowers were carved across the lid, their petals filled with fine frost. Iron bands secured the corners, and long icicles hung beneath them, hard and transparent in the pale light.
+The chest rested in a shallow depression among wind-rounded stones, half covered by a dusting of new snow. Its timber had darkened almost to blue-black with age and weather. Delicate flowers and winding leaves were carved across the lid, their petals filled with fine frost. A faint fragrance of blossoms rose with the warmth despite the bitter air. Iron bands secured the corners, and long icicles hung beneath them, hard and transparent in the pale moonlight. At the center, an iron lock remained firmly fastened, a tiny icicle hanging from its lower edge.
 
 Brunti crouched.
 
@@ -58,7 +58,7 @@ Enna remained standing on the firmer stones.
 
 “Not that I've seen. It moves less than the stories about it.”
 
-The runes beneath the frost glimmered blue. Their light strengthened slowly as Brunti watched, then softened again. She drew a finger near the wooden surface without touching it. The warmth remained, mild and oddly steady, while the frost at the carved edges showed no sign of melting.
+The runes beneath the frost glimmered blue. A gust swept powder across the lid until the markings vanished. Then their light shone through the new snow, one unfamiliar sign after another, illuminating the frost from below. The glow strengthened slowly as Brunti watched, then softened again. She drew a finger near the wooden surface without touching it. The warmth remained, mild and oddly steady, while the frost at the carved edges showed no sign of melting.
 
 She thought of the pair of memorial stones at home. A familiar resonance had persuaded her to brace them too quickly. The material had answered her action, but it had answered in a way she had not understood.
 
@@ -92,13 +92,13 @@ They went on, leaving the little pocket of warmth under the open sky.
 
 The entrance to Everwinter Cave lay above an old ice shelf, reached by a route so narrow that Enna had them unfasten their packs and carry them low beside their bodies. The cliff above curved out to shelter a crescent of still air. Beyond it stood a pale mouth of ice and stone.
 
-A broad ear twitched in the shadow.
+A sudden puff of frost burst from the icy entrance and scattered small crystals across the snow. Something stirred within the blue shadows.
 
 Velen halted.
 
-Another ear moved, this one turning toward the sound of snow sliding from Brunti's pack.
+One enormous ear moved toward the mountain wind while the other turned into the cavern.
 
-A small ice troll stepped into view, its body nearly the same glacial blue as the wall behind it. Thick hair hung over a gnarled face. Its eyes were clear and alert beneath the shaggy brow, and it studied the visitors with an attention that made Brunti stop moving.
+A small ice troll stepped into view, its shaggy body nearly the same glacial blue as the wall behind it. Its ears extended well beyond the width of its head. Thick hair hung over a gnarled face. Its nose wrinkled beneath a heavy brow, and its clear watchful eyes studied the visitors with an attention that made Brunti stop moving.
 
 “So this is the Guardian,” she said.
 
@@ -106,7 +106,7 @@ Enna lowered her voice.
 
 “That's the name the guides use.”
 
-The troll's head tilted toward her. It drew a breath, then exhaled a little squall of frost. Crystals swept across the entrance and rattled against the rock before settling.
+The troll's head tilted toward her. It drew a breath, then exhaled a little squall of frost. Crystals swirled around its feet and rattled against the entrance before settling. For a brief moment it looked surprised by the storm it had made, then returned its watchful attention to the passage.
 
 Velen tucked their hands under their cloak.
 
