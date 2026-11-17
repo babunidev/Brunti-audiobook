@@ -410,7 +410,7 @@ People had protected one another.
 
 Darrik laid out the work schedule.
 
-A new support had been prepared and checked in a separate bay. At the next convergence, the outer wall could be opened fully without depending on the unstable memorial join. A temporary cradle would hold the two old stones while their casing was lifted.
+A new support had been prepared and checked in a separate bay. With convergence approaching, the outer wall could be opened fully without depending on the unstable memorial join. A temporary cradle would hold the two old stones while their casing was lifted.
 
 “The transfer can proceed whether or not we identify the old inscriptions,” he said.
 
@@ -882,7 +882,7 @@ The elder listened for a long time.
 
 “I knew Tavra's name,” she said softly. “Korrum's had been lost from the part we could see.”
 
-“His inscription remained underneath,” Velen replied.
+“Korrum's inscription remained underneath,” Velen replied.
 
 “And now?”
 
