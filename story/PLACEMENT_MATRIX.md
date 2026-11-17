@@ -1,10 +1,10 @@
 # Encounter placements — source-to-manuscript progress matrix
 
-**Status:** **203 distinct encounters assigned, 0 omitted; 130 adapted into first-draft prose across chapters 2–17, 73 remain planned, and none is independently editorial-verified.** The game data and world archive remain authoritative for source detail. The mode is an editorial possibility: **Lived** is staged before Brunti, **Testimony** comes from another speaker, **Archive** is something Brunti learns from a record, and **Metaphor** translates a game-system label without staging that label as fiction.
+**Status:** **203 distinct encounters assigned, 0 omitted; 135 adapted into first-draft prose across chapters 2–18, 68 remain planned, and none is independently editorial-verified.** The game data and world archive remain authoritative for source detail. The mode is an editorial possibility: **Lived** is staged before Brunti, **Testimony** comes from another speaker, **Archive** is something Brunti learns from a record, and **Metaphor** translates a game-system label without staging that label as fiction.
 
-**Reviewed prose baseline:** [Morkahja encounters at 92cd8dc140c5](https://github.com/babunidev/Morkahja/blob/92cd8dc140c5a73fce11f8ad3b5d87a488b3fd7b/server/game/encountersdata.json). The first atlas was indexed from an earlier revision; [19, then 5, then 1, then 2, then 1, then 1, then 8, then 5, then 5, then 4 text-only changes were reviewed](../docs/SOURCE_RECONCILIATION.md).
+**Reviewed prose baseline:** [Morkahja encounters at e8fbfc67cbb4](https://github.com/babunidev/Morkahja/blob/e8fbfc67cbb487df4652b055f21afbc086676ff0/server/game/encountersdata.json). The first atlas was indexed from an earlier revision; [19, then 5, then 1, then 2, then 1, then 1, then 8, then 5, then 5, then 4, then 2 text-only changes were reviewed](../docs/SOURCE_RECONCILIATION.md).
 
-A primary placement alone is **not a claim that the scene is already in the book**. The final column identifies which encounter IDs have actually been translated into draft prose, not which have passed editorial review. See the [Chapters 1–2 review](../docs/MANUSCRIPT_REVIEW.md) and [Chapters 3–4 review](../docs/CHAPTERS_03_04_REVIEW.md), and [Chapters 5–6 review](../docs/CHAPTERS_05_06_REVIEW.md), and [Chapters 7–8 review](../docs/CHAPTERS_07_08_REVIEW.md), and [Chapter 9 review](../docs/CHAPTER_09_REVIEW.md), and [Chapter 10 review](../docs/CHAPTER_10_REVIEW.md), and [Chapter 11 review](../docs/CHAPTER_11_REVIEW.md), and [Chapter 12 review](../docs/CHAPTER_12_REVIEW.md), and [Chapter 13 review](../docs/CHAPTER_13_REVIEW.md), and [Chapter 14 review](../docs/CHAPTER_14_REVIEW.md), and [Chapter 15 review](../docs/CHAPTER_15_REVIEW.md), and [Chapter 16 review](../docs/CHAPTER_16_REVIEW.md) and [Chapter 17 review](../docs/CHAPTER_17_REVIEW.md). A location-specific encounter included as testimony does not mean Brunti traveled there. Refer to [outline](OUTLINE_V1.md), [source atlas](ENCOUNTER_ATLAS.md), and [literary survey](LITERARY_SURVEY.md).
+A primary placement alone is **not a claim that the scene is already in the book**. The final column identifies which encounter IDs have actually been translated into draft prose, not which have passed editorial review. See the [Chapters 1–2 review](../docs/MANUSCRIPT_REVIEW.md) and [Chapters 3–4 review](../docs/CHAPTERS_03_04_REVIEW.md), and [Chapters 5–6 review](../docs/CHAPTERS_05_06_REVIEW.md), and [Chapters 7–8 review](../docs/CHAPTERS_07_08_REVIEW.md), and [Chapter 9 review](../docs/CHAPTER_09_REVIEW.md), and [Chapter 10 review](../docs/CHAPTER_10_REVIEW.md), and [Chapter 11 review](../docs/CHAPTER_11_REVIEW.md), and [Chapter 12 review](../docs/CHAPTER_12_REVIEW.md), and [Chapter 13 review](../docs/CHAPTER_13_REVIEW.md), and [Chapter 14 review](../docs/CHAPTER_14_REVIEW.md), and [Chapter 15 review](../docs/CHAPTER_15_REVIEW.md), and [Chapter 16 review](../docs/CHAPTER_16_REVIEW.md) and [Chapter 17 review](../docs/CHAPTER_17_REVIEW.md) and [Chapter 18 review](../docs/CHAPTER_18_REVIEW.md). A location-specific encounter included as testimony does not mean Brunti traveled there. Refer to [outline](OUTLINE_V1.md), [source atlas](ENCOUNTER_ATLAS.md), and [literary survey](LITERARY_SURVEY.md).
 
 | ID | Encounter | Chapter | Form | Particular literary use | Manuscript status |
 | ---: | --- | --- | --- | --- | --- |
@@ -122,7 +122,7 @@ A primary placement alone is **not a claim that the scene is already in the book
 | 20101 | Rocks of Ohgar | [14](OUTLINE_V1.md) | Lived | granite monoliths groan | **Draft v1, ch. 14** |
 | 20102 | Frostwind Slopes | [17](OUTLINE_V1.md) | Lived | Frostwind recess beneath snow | **Draft v1, ch. 17** |
 | 20103 | Strange Boulder | [17](OUTLINE_V1.md) | Lived | perfume under precarious boulder | **Draft v1, ch. 17** |
-| 20104 | Sudden Rockslide | [18](OUTLINE_V1.md) | Lived | rockslide cuts off track | Planned |
+| 20104 | Sudden Rockslide | [18](OUTLINE_V1.md) | Lived | rockslide cuts off track | **Draft v1, ch. 18** |
 | 20105 | The Giant | [17](OUTLINE_V1.md) | Lived | immense stone Giant | **Draft v1, ch. 17** |
 | 20106 | Sarga Lioness | [17](OUTLINE_V1.md) | Lived | lioness on cliff shelf | **Draft v1, ch. 17** |
 | 20107 | Silver Wolf | [21](OUTLINE_V1.md) | Lived | silver wolf at border | Planned |
@@ -141,8 +141,8 @@ A primary placement alone is **not a claim that the scene is already in the book
 | 20120 | Bronze Vault | [17](OUTLINE_V1.md) | Lived | closed bronze vault | **Draft v1, ch. 17** |
 | 20121 | Frost Strider | [17](OUTLINE_V1.md) | Lived | stone Frost Strider | **Draft v1, ch. 17** |
 | 20122 | Rocky Tundra | [17](OUTLINE_V1.md) | Lived | life beneath rocky tundra | **Draft v1, ch. 17** |
-| 20123 | Everwinter Trading Post | [18](OUTLINE_V1.md) | Lived | postkeeper offers stew | Planned |
-| 20124 | Frostfang Alpha | [18](OUTLINE_V1.md) | Testimony | Frostfang Alpha described by locals | Planned |
+| 20123 | Everwinter Trading Post | [18](OUTLINE_V1.md) | Lived | postkeeper offers stew | **Draft v1, ch. 18** |
+| 20124 | Frostfang Alpha | [18](OUTLINE_V1.md) | Testimony | Frostfang Alpha described by locals | **Draft v1, ch. 18** |
 | 20125 | Raided Verdani Village | [13](OUTLINE_V1.md) | Lived | Verdani rebuild raided village | **Draft v1, ch. 13** |
 | 20126 | Disheartened Rokur | [13](OUTLINE_V1.md) | Testimony | disheartened Rokur's broken saga | **Draft v1, ch. 13** |
 | 20127 | Eternal Twilight Grove | [13](OUTLINE_V1.md) | Testimony | spirit grove's many laments | **Draft v1, ch. 13** |
@@ -150,7 +150,7 @@ A primary placement alone is **not a claim that the scene is already in the book
 | 20129 | Everwinter Treasurechest | [19](OUTLINE_V1.md) | Lived | chest warm but ice stays frozen | Planned |
 | 20130 | Everwinter Guardian | [19](OUTLINE_V1.md) | Lived | Everwinter Guardian at cave | Planned |
 | 20131 | Everwinter Cave | [19](OUTLINE_V1.md) | Lived | creatures sealed in ice | Planned |
-| 20132 | Frostbite Fergus | [18](OUTLINE_V1.md) | Lived | Frostbite Fergus makes room | Planned |
+| 20132 | Frostbite Fergus | [18](OUTLINE_V1.md) | Lived | Frostbite Fergus makes room | **Draft v1, ch. 18** |
 | 20133 | Kaldric of Nekalos | [20](OUTLINE_V1.md) | Lived | Kaldric's fragmented cries | Planned |
 | 20134 | Seal of Nekalos | [20](OUTLINE_V1.md) | Lived | glowing Knowledge Seal | Planned |
 | 20135 | Frostlace | [19](OUTLINE_V1.md) | Testimony | Frostlace's deadly invitation | Planned |
@@ -193,7 +193,7 @@ A primary placement alone is **not a claim that the scene is already in the book
 | 20173 | Verdantweave Envoy | [23](OUTLINE_V1.md) | Lived | envoy tends corrupted growth | Planned |
 | 20174 | Flameheart Purifier | [23](OUTLINE_V1.md) | Lived | Rokur purifies without burning all | Planned |
 | 20175 | Cinderheart Vanguard | [23](OUTLINE_V1.md) | Lived | spent Cinderheart Vanguard | Planned |
-| 20176 | Frostclaw Behemoth | [18](OUTLINE_V1.md) | Lived | Frostclaw Behemoth rises above ice | Planned |
+| 20176 | Frostclaw Behemoth | [18](OUTLINE_V1.md) | Lived | Frostclaw Behemoth rises above ice | **Draft v1, ch. 18** |
 | 20177 | Shadowmarket Mystic | [23](OUTLINE_V1.md) | Lived | shadowmarket mystic's price | Planned |
 | 20178 | Sylvan Rune Gateway | [24](OUTLINE_V1.md) | Lived | root-bound rune gateway | Planned |
 | 20179 | Roarback Mauler | [24](OUTLINE_V1.md) | Lived | Roarback strips bark | Planned |
