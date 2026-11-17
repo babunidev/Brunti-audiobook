@@ -271,3 +271,13 @@ All manuscript prose remains ChatGPT GPT-6 first draft under Babuni's creative d
 - Updated manuscript index, full ID matrix, roadmap, README, source register/reconciliation, historical chapter reviews, content/continuity register and dev journal. **27/30 first-draft chapters; 127,674 words including headings; 201/203 source encounters integrated; two planned; 0 independent editorial approvals**.
 
 All work is novel first-draft prose drafted by ChatGPT GPT-6 under Babuni's original creative direction. No new game/world lore, recorded audio, rights clearance, publishing or editorial acceptance is claimed.
+
+## 2026-11-18 — Chapter 28 Atranor testimony and twentieth source-prose refresh
+
+- Added [Chapter 28 — A Story About the End](manuscript/chapters/28-a-story-about-the-end.md), **5,780 words** of original first-draft prose, integrating source **`00001` (numeric ID 1) Atranor** as attributed **Testimony**, not a living protagonist's arrival in a divine realm.
+- Preserved Atranor's described black polished plain, silver skies, constellations and celestial rivers, pillars, floating worlds, divine dragons and watching Pantheon while keeping the mourner's story explicitly inherited. Cross-checked [Atranor](https://github.com/babunidev/MorkahjaWorld/blob/f56a7c3d2034652e1c5961f0ece9c3ef52b52b48/Places/Atranor.md) and [Divine Laws](https://github.com/babunidev/MorkahjaWorld/blob/f56a7c3d2034652e1c5961f0ece9c3ef52b52b48/Pantheon/Divine_Laws.md) to avoid invented resurrection, reincarnation or foreknowledge rules.
+- Continued Brunti's medically paced return toward the Skyland with Velen, while Sira resumes actual relief work. An ordinary delivered reply from Darrik confirms the memorial remains isolated and the replacement prepared; the original inscriptions and repair still await Chapter 29.
+- Compared all **203 game source records and all fields** from `507cd0d738d5` to `f62708ce2dd4`. Seven **`mEncounterText`-only** changes, **20138–20144**, were reconciled in older Chapters 19 (**4,754 → 4,854, +100**) and 20 (**6,292 → 6,432, +140**) without changed assignments, source modes or source metadata.
+- Added [Chapter 28 source/lore/continuity review](docs/CHAPTER_28_REVIEW.md). Updated the manuscript index, complete unique-ID placement matrix, roadmap, README, source ledger/reconciliation, earlier chapter reviews, content guide, continuity register and dev journal.
+
+**Progress:** **28/30 first-draft chapters, 133,694 words including headings, 202/203 adapted game encounters, one planned (ID 2 Chapter 30 metaphor), zero independent editorial approvals.** No recorded narration, audio release or world/game canon edits.
