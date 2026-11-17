@@ -221,3 +221,13 @@ All novel text remains AI-authored first draft under Babuni's creative direction
 - Updated the 203-ID matrix, manuscript index, roadmap, source ledger, source reconciliation history, Chapter 13/18 review addenda, content/continuity records and development journal. **22 chapters / 98,450 words including headings / 161 adapted / 42 planned**.
 
 All prose remains AI-authored first draft under Babuni's creative direction, not independently approved final text, recorded narration, publication or changed Morkahja world/game canon.
+
+## 2026-11-17 — Chapter 23 first draft and sixteenth game encounter text refresh
+
+- Added [Chapter 23 — Those Who Still Tend the Forest](manuscript/chapters/23-those-who-still-tend-the-forest.md) as **7,130 words** of first-draft fantasy prose, adapting **12 game encounters** (20148, 20162, 20167–20175 except 20176, 20177) in their planned direct Lived modes.
+- The party helps distinct Keldor residents, identifies the missing Verdani girl through private witness details and her repaired walking stick, separately helps a lost Verdani boy and an injured escapee, then brings them to Elda's staffed relief station. The family reunion remains pending; a safe homeward route is available.
+- Added [Chapter 23 source and continuity review](docs/CHAPTER_23_REVIEW.md), distinguishing game descriptions and established regional/elemental lore from novel-only journeys, dialog, evidence, rescue work and outcomes.
+- Compared **all 203 game records and every field** between `c227753b59d0` and `9cddb72157a5`: **five `mEncounterText`-only changes (20126–20130)**. Reconciled the two testimony descriptions in Chapter 13 (**5,526 → 5,579, +53**), the Stoneguard archive in Chapter 2 (**3,313 → 3,369, +56**) and the winter chest/guardian in Chapter 19 (**4,533 → 4,643, +110**) with **20130 → 20131** preserved.
+- Updated the manuscript index, 203-ID matrix, roadmap, primary-source ledger, sixteenth reconciliation, review addenda and continuity/development records. **23 first drafts / 105,799 words including headings / 173 adapted IDs / 30 planned**.
+
+All prose remains AI-authored first draft under Babuni's creative direction; no independent editorial approval, final audiobook narration, release or new Morkahja game/world canon.
