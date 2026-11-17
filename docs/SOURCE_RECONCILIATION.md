@@ -209,3 +209,11 @@ The **complete game encounter JSON (203 distinct IDs)** was compared **field by 
 Net **+118 older chapter words**, no reassignment or new source integration from these revisions. **All twenty Chapter 24 encounter texts unchanged** against the former game source, reread and directly adapted across intentionally separated scenes. No game-world files changed. See [Chapter 24 review](CHAPTER_24_REVIEW.md).
 
 **Cumulative successive text-only deltas:** 19 + 5 + 1 + 2 + 1 + 1 + 8 + 5 + 5 + 4 + 2 + 8 + 2 + 4 + 2 + 5 + 2. **Current game commit:** `f949602a0a210a9486e26b222a872e58665f87a7`. **Manuscript:** 24 first drafts, 111,305 words including headings, 193 adapted IDs, 10 planned, zero independent editorial acceptances.
+
+## Chapter 25 no-change verification — 17 November 2026
+
+The live game [`server/game/encountersdata.json`](https://github.com/babunidev/Morkahja/blob/f949602a0a210a9486e26b222a872e58665f87a7/server/game/encountersdata.json) was fetched again at commit `f949602a0a210a9486e26b222a872e58665f87a7` and compared **across all 203 records and all fields** to the previously pinned same commit. Both blobs are **`2608913e7e9f94a316c17f641fefa6f64147d266`**; **zero changes**. There was **no eighteenth game prose revision** to reconcile and no earlier chapter was modified in this step.
+
+Current novel source chain **20050 Blackwood Portal → 19666 Tangled Depths → 19667 Blackwood Guardian** was reread in full and staged in **Chapter 25** (`Lived`, 5,447 words). Its unchanged outgoing links to **19668 The Hollow Choir → 19669 The Weeping Mire → 19670 Forgotten Procession → 19671 Silent Throne → 19672 Verdani's Vigil** were validated and remain planned Chapters 26–27. The world/game discrepancy over the Guardian password/item rule is **not silently resolved**; see [Chapter 25 review](CHAPTER_25_REVIEW.md).
+
+**Current status:** **25 first-draft chapters, 116,752 words including headings, 196 adapted distinct source IDs, 7 planned, no independent editor approval**.
