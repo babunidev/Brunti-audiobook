@@ -188,9 +188,9 @@ Plain wood. Brass lock. Contents unknown.
 
 They passed it by.
 
-Later, where the forest opened onto a small meadow, sunlight touched another wooden chest among tall grass. This one was light brown and carved across the lid with little scenes from older days. Some lines showed figures beneath trees. Others had worn so softly that Brunti could no longer tell whether they represented a gathering, a journey or merely a pattern of leaves.
+Later, where the forest opened onto a small meadow, a glimmer of brass appeared and vanished between the swaying grasses. Sunlight touched a modest light-brown chest among wildflowers. Its lid was carved with little scenes from older days: tiny travelers followed winding paths beneath trees and past buildings whose outlines had softened with age. Along the most delicate figures, the wood was worn smooth where hands might once have touched it. Brunti could no longer tell whether the faintest lines represented a gathering, a journey or merely a pattern of leaves.
 
-Its brass lock shone more brightly than the surrounding wood.
+Its sturdy brass lock shone more brightly than the surrounding wood. A narrow keyhole lay in shadow at its center, and the moving reflection danced across the nearby stems.
 
 Brunti crouched to examine the carvings.
 
