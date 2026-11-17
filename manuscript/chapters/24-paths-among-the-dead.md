@@ -162,7 +162,7 @@ Brunti stood and followed the rootline away.
 
 A second object waited farther on, under a different tree.
 
-This one was rectangular, smaller and stranger. Green corrosion marked the iron bands securing its darkwood body. Fine engravings crossed the closed lid and continued beneath the fittings, their lines visible between patches of moss.
+This one was rectangular, smaller and stranger. Green corrosion marked the iron bands securing its darkwood body. Fine engravings crossed the closed lid and continued beneath the fittings, their lines visible between patches of moss. One delicate groove emerged from beneath an iron band on the other side, worked with a care that the green corrosion had not erased. A beetle wandered over the darkened fitting as a glimmer briefly lit the underside of a fallen leaf.
 
 A dull pulse passed through it.
 
@@ -240,7 +240,7 @@ There were three roots across the path where she remembered two.
 
 She looked again at the notebook. The sketch had not changed. It was the ground that refused to answer it.
 
-A crack of white light split the trees.
+A violent crack of white light split the trees, throwing sharp, fleeting shadows over the trunks. The air held the pungent scent of lightning.
 
 She dropped behind a low bank.
 
@@ -252,7 +252,7 @@ The animal's electric eyes turned toward the clearing.
 
 Then its jaws opened.
 
-The roar traveled through the ground with such force that Brunti felt the lowest part of her body answer it. Dead leaves sprang from the soil. Above the animal's shoulders, the tentacles gathered into a brighter knot as the last thunder faded.
+The roar traveled through the ground with such force that Brunti felt the lowest part of her body answer it. Dead leaves sprang from the soil. Above the animal's lowered shoulders, its enormous paws spread against the earth. The raised tentacles became strangely still as the last thunder faded, and a brilliant blue-white point began gathering between their tips.
 
 Brunti kept her weight low.
 
@@ -268,15 +268,15 @@ She rested until the mineral joints grew steady.
 
 Farther down the slope, a different sound came through the fog.
 
-Wood creaked.
+Wood creaked, then snapped with a sound like a dry branch breaking in two.
 
-A twisted limb emerged from the growth, planted itself, and took the weight of a body that bent like a damaged tree. The Timberclaw Wretch lifted a bark-like face toward the open ground. Light burned inside the knots where its eyes sat.
+A twisted limb emerged from the growth, planted itself, and took the weight of a body that bent like a damaged tree. Deep cracks ran through its splintered bark as it lurched forward, one elongated arm tearing shallow furrows through the leaves. The Timberclaw Wretch lifted a bark-like face toward the open ground. Light burned inside the knots where its eyes sat.
 
 Sap-like ichor stretched from its open mouth and broke, falling among the leaves.
 
 With its next laboring step, the joints complained again.
 
-One arm reached ahead. Splintered claws scraped a low branch before closing around nothing. The creature dragged its other limb through the brush, its movements slow and painfully uneven.
+One arm reached ahead. Five splintered claws unfolded, scraped a low branch until it broke, and briefly held the severed wood before closing around nothing. The creature dragged its other limb through the brush, its movements slow and painfully uneven.
 
 Brunti remembered the Gobbl whose arm had risen against his will.
 
@@ -290,7 +290,7 @@ The water lay stagnant between knotted roots, its surface carrying a faint gold 
 
 Gold light gathered along its skin.
 
-The Auraglow Mireling drew the pond's radiance closer, until its eyes gleamed with a brightness that came from the water rather than the moon. Ripples reached the bank. The creature shifted its gaze toward the clearing without moving its feet.
+Threads of golden light climbed from the dimming water along the Auraglow Mireling's slender legs, gathering beneath its skin. The pond darkened as the creature drew its radiance closer, until the crooked little body gleamed with a brightness the moon could not explain. Near the bank, a clump of reeds trembled. Ripples reached the bank. The creature shifted its gaze toward the clearing without moving its feet.
 
 Then its weight passed forward.
 
@@ -302,13 +302,13 @@ She moved along higher ground, leaving the pond untouched. The golden reflection
 
 A guttural noise came from the brush ahead.
 
-Another answered from a nearer patch of darkness.
+Another answered from a nearer patch of darkness—so near, and so soon, that it seemed to arrive before the first creature could have closed its jaws.
 
 The Echowraith Skulker appeared in pieces: a glowing eye between leaves, a claw edged with spectral light, a shoulder that jerked suddenly into place.
 
 The rest of the creature followed with a fluency that seemed to defy its own broken motion.
 
-It moved smoothly, stopped in a sharp lurch, then lowered itself against the dark growth. One arm lifted too quickly and remained suspended. A rough sound caught in its throat.
+It moved smoothly, stopped in a sharp lurch, then lowered itself against the dark growth. One arm snapped upward and remained suspended halfway through the motion, spectral light glimmering along the unfolded claws. A rough sound caught in its throat. The creature tilted its head, seeming to listen to the distorted echo as its wavering outline drew darker and more solid.
 
 Brunti waited beneath a fallen trunk.
 
