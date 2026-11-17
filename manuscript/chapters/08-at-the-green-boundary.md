@@ -140,7 +140,7 @@ Something moved between the trunks.
 
 A second wolf emerged from the shade, and this one did not resemble the first.
 
-Its coat shone with soft emerald light, each movement sending small changes of color through the fur along its shoulders. The creature was tall and steady, its jade eyes passing over the woodland boundary before settling on the travelers.
+Its coat shone with soft emerald light, each movement sending small changes of color through the fur along its shoulders. The creature was tall and steady, each paw finding the earth with quiet certainty. Its jade eyes passed along the woodland boundary and held on the distant trees before settling on the travelers.
 
 It stepped across the opening.
 
@@ -256,7 +256,7 @@ The hunter took a narrow strip of wood from his pouch. He used it to hold open t
 
 He paused to pull the thread through the leather.
 
-“It moved so low that the branches hardly stirred. One paw lifted at the edge of the open ground, then it stopped again. I couldn't see what it was watching.”
+“It moved between fallen twigs without snapping them. A breeze lifted the leaves for a moment, and I saw the curve of its back. One paw rose at the edge of the clearing, then it sank so low among the ferns that only its two green eyes remained. I couldn't see what it was watching.”
 
 “Did it attack?” Brunti asked.
 
@@ -342,7 +342,7 @@ The Thunderfly Matriarch was immense. Sapphire and silver light slid across the 
 
 Brunti had never seen anything quite like her.
 
-The wings moved so rapidly that their edges became a continuous shimmer. Between their beats, the Matriarch's antennae quivered. A faint charge crackled along them, bright enough to show for a moment against the dark leaves, then vanished into the next sweep.
+The wings moved so rapidly that their edges became a continuous shimmer. Between their beats, the Matriarch's antennae quivered. A faint charge crackled along them. Tiny blue sparks leapt across the tips, showing the intricate patterns in her sapphire armor before vanishing into the next sweep. The wings changed their rhythm and sent a sudden downward gust through the canopy, scattering leaves beneath her.
 
 Sira caught Brunti by the arm.
 
