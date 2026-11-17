@@ -1,10 +1,10 @@
 # Encounter placements — source-to-manuscript progress matrix
 
-**Status:** **203 distinct encounters assigned, 0 omitted; 51 adapted into first-draft prose across chapters 2–6, 152 remain planned, and none is independently editorial-verified.** The game data and world archive remain authoritative for source detail. The mode is an editorial possibility: **Lived** is staged before Brunti, **Testimony** comes from another speaker, **Archive** is something Brunti learns from a record, and **Metaphor** translates a game-system label without staging that label as fiction.
+**Status:** **203 distinct encounters assigned, 0 omitted; 67 adapted into first-draft prose across chapters 2–8, 136 remain planned, and none is independently editorial-verified.** The game data and world archive remain authoritative for source detail. The mode is an editorial possibility: **Lived** is staged before Brunti, **Testimony** comes from another speaker, **Archive** is something Brunti learns from a record, and **Metaphor** translates a game-system label without staging that label as fiction.
 
 **Reviewed prose baseline:** [Morkahja encounters at 096c99bdf5ac](https://github.com/babunidev/Morkahja/blob/096c99bdf5ac8af5174b26a337914f573263ab72/server/game/encountersdata.json). The first atlas was indexed from an earlier revision; [19, then 5, then 1, then 2 text-only changes were reconciled](../docs/SOURCE_RECONCILIATION.md).
 
-A primary placement alone is **not a claim that the scene is already in the book**. The final column identifies which encounter IDs have actually been translated into draft prose, not which have passed editorial review. See the [Chapters 1–2 review](../docs/MANUSCRIPT_REVIEW.md) and [Chapters 3–4 review](../docs/CHAPTERS_03_04_REVIEW.md), and [Chapters 5–6 review](../docs/CHAPTERS_05_06_REVIEW.md). A location-specific encounter included as testimony does not mean Brunti traveled there. Refer to [outline](OUTLINE_V1.md), [source atlas](ENCOUNTER_ATLAS.md), and [literary survey](LITERARY_SURVEY.md).
+A primary placement alone is **not a claim that the scene is already in the book**. The final column identifies which encounter IDs have actually been translated into draft prose, not which have passed editorial review. See the [Chapters 1–2 review](../docs/MANUSCRIPT_REVIEW.md) and [Chapters 3–4 review](../docs/CHAPTERS_03_04_REVIEW.md), and [Chapters 5–6 review](../docs/CHAPTERS_05_06_REVIEW.md), and [Chapters 7–8 review](../docs/CHAPTERS_07_08_REVIEW.md). A location-specific encounter included as testimony does not mean Brunti traveled there. Refer to [outline](OUTLINE_V1.md), [source atlas](ENCOUNTER_ATLAS.md), and [literary survey](LITERARY_SURVEY.md).
 
 | ID | Encounter | Chapter | Form | Particular literary use | Manuscript status |
 | ---: | --- | --- | --- | --- | --- |
@@ -26,9 +26,9 @@ A primary placement alone is **not a claim that the scene is already in the book
 | 20005 | Seraphic Plains | [3](OUTLINE_V1.md) | Lived | hollow sound between monoliths | **Draft v1, ch. 3** |
 | 20006 | Aevis Chest | [6](OUTLINE_V1.md) | Lived | Aevis chest in roots | **Draft v1, ch. 6** |
 | 20007 | Aevis Lockbox | [6](OUTLINE_V1.md) | Lived | opalescent lockbox | **Draft v1, ch. 6** |
-| 20008 | Grimnir Trunk | [7](OUTLINE_V1.md) | Lived | Grimnir trunk far from home | Planned |
-| 20009 | Grimnir Vault | [7](OUTLINE_V1.md) | Lived | carefully sealed Grimnir vault | Planned |
-| 20010 | Verdani Casket | [7](OUTLINE_V1.md) | Lived | Verdani casket of uncertain ownership | Planned |
+| 20008 | Grimnir Trunk | [7](OUTLINE_V1.md) | Archive | Grimnir trunk far from home | **Draft v1, ch. 7** |
+| 20009 | Grimnir Vault | [7](OUTLINE_V1.md) | Archive | carefully sealed Grimnir vault | **Draft v1, ch. 7** |
+| 20010 | Verdani Casket | [7](OUTLINE_V1.md) | Lived | Verdani casket of uncertain ownership | **Draft v1, ch. 7** |
 | 20011 | Magic Source | [6](OUTLINE_V1.md) | Lived | forest magic source | **Draft v1, ch. 6** |
 | 20012 | Hidden Market | [9](OUTLINE_V1.md) | Testimony | secret market recounted by trader | Planned |
 | 20013 | Cauterized Rokur | [13](OUTLINE_V1.md) | Testimony | charred Rokur after battle | Planned |
@@ -54,7 +54,7 @@ A primary placement alone is **not a claim that the scene is already in the book
 | 20033 | Wild Bloodfang | [5](OUTLINE_V1.md) | Lived | boar charges beneath trees | **Draft v1, ch. 5** |
 | 20034 | Menacing Goldhorn | [5](OUTLINE_V1.md) | Testimony | Goldhorn's horns in a ranger's account | **Draft v1, ch. 5** |
 | 20035 | Ohgar Skorpo | [14](OUTLINE_V1.md) | Lived | desert scorpion's clicking pincers | Planned |
-| 20036 | Liani Shadowwolf | [8](OUTLINE_V1.md) | Lived | quiet Liani Shadowwolf | Planned |
+| 20036 | Liani Shadowwolf | [8](OUTLINE_V1.md) | Lived | quiet Liani Shadowwolf | **Draft v1, ch. 8** |
 | 20037 | Flytrap Grotto | [15](OUTLINE_V1.md) | Lived | flytrap grotto's terrible buzzing | Planned |
 | 20038 | Inferno Duck | [15](OUTLINE_V1.md) | Lived | small inferno duck | Planned |
 | 20039 | Eldertree Grove | [6](OUTLINE_V1.md) | Lived | vibration within Eldertree | **Draft v1, ch. 6** |
@@ -63,11 +63,11 @@ A primary placement alone is **not a claim that the scene is already in the book
 | 20042 | Enchanted Hollow | [6](OUTLINE_V1.md) | Testimony | fae den tradition | **Draft v1, ch. 6** |
 | 20043 | Sylvan Sanctuary | [6](OUTLINE_V1.md) | Lived | moss-lit shelter in cliff | **Draft v1, ch. 6** |
 | 20044 | Darkwood Thicket | [21](OUTLINE_V1.md) | Lived | thicket whispers | Planned |
-| 20045 | Tranquil Glade | [7](OUTLINE_V1.md) | Lived | tranquil brookside glade | Planned |
-| 20046 | Feral Hollow | [7](OUTLINE_V1.md) | Lived | empty sheltered animal hollow | Planned |
-| 20047 | Moonlit Oasis | [7](OUTLINE_V1.md) | Lived | moonlit pond's drifting lights | Planned |
-| 20048 | Grimnir Steps | [7](OUTLINE_V1.md) | Lived | Grimnir steps under roots | Planned |
-| 20049 | Firefly Brook | [7](OUTLINE_V1.md) | Lived | fireflies over brook | Planned |
+| 20045 | Tranquil Glade | [7](OUTLINE_V1.md) | Lived | tranquil brookside glade | **Draft v1, ch. 7** |
+| 20046 | Feral Hollow | [7](OUTLINE_V1.md) | Lived | empty sheltered animal hollow | **Draft v1, ch. 7** |
+| 20047 | Moonlit Oasis | [7](OUTLINE_V1.md) | Lived | moonlit pond's drifting lights | **Draft v1, ch. 7** |
+| 20048 | Grimnir Steps | [7](OUTLINE_V1.md) | Lived | Grimnir steps under roots | **Draft v1, ch. 7** |
+| 20049 | Firefly Brook | [7](OUTLINE_V1.md) | Lived | fireflies over brook | **Draft v1, ch. 7** |
 | 20050 | Blackwood Portal | [25](OUTLINE_V1.md) | Lived | cliff door in Keldor | Planned |
 | 20051 | Nagar Charger | [5](OUTLINE_V1.md) | Testimony | Nagar Charger in a tracker tale | **Draft v1, ch. 5** |
 | 20052 | Nagar Elder | [5](OUTLINE_V1.md) | Testimony | scarred Nagar Elder | **Draft v1, ch. 5** |
@@ -86,12 +86,12 @@ A primary placement alone is **not a claim that the scene is already in the book
 | 20065 | Zeelai Feline | [5](OUTLINE_V1.md) | Testimony | Zeelai's unstable feline form | **Draft v1, ch. 5** |
 | 20066 | Thirsty Grimnir | [14](OUTLINE_V1.md) | Lived | thirsty Grimnir in open sun | Planned |
 | 20067 | Ferocious Silvermane | [5](OUTLINE_V1.md) | Lived | Silvermane in moonlight | **Draft v1, ch. 5** |
-| 20068 | Fey Greens | [7](OUTLINE_V1.md) | Testimony | faun sanctuary and rumors | Planned |
+| 20068 | Fey Greens | [7](OUTLINE_V1.md) | Testimony | faun sanctuary and rumors | **Draft v1, ch. 7** |
 | 20069 | Celestial Fields | [3](OUTLINE_V1.md) | Lived | wildflowers and a butterfly | **Draft v1, ch. 3** |
 | 20070 | Enigmatic Prairies | [3](OUTLINE_V1.md) | Testimony | faint notes draw still flowers toward luminous stone | **Draft v1, ch. 3** |
 | 20071 | Arcane Meadows | [3](OUTLINE_V1.md) | Testimony | distinct meadow treasure rumor | **Draft v1, ch. 3** |
 | 20072 | Tranquil Wilds | [3](OUTLINE_V1.md) | Testimony | golden grass and falling leaf | **Draft v1, ch. 3** |
-| 20073 | Celestial Cairn | [7](OUTLINE_V1.md) | Lived | cairn above running stream | Planned |
+| 20073 | Celestial Cairn | [7](OUTLINE_V1.md) | Lived | cairn above running stream | **Draft v1, ch. 7** |
 | 20074 | Mysterious Cube | [4](OUTLINE_V1.md) | Archive | etched cube's pulses | **Draft v1, ch. 4** |
 | 20075 | Grumpy Fence | [22](OUTLINE_V1.md) | Lived | grumpy fence's tangled story | Planned |
 | 20076 | Aevis Merchant | [9](OUTLINE_V1.md) | Testimony | Aevis merchant tells of Celesterra | Planned |
@@ -116,7 +116,7 @@ A primary placement alone is **not a claim that the scene is already in the book
 | 20095 | Nagar Razorback | [5](OUTLINE_V1.md) | Testimony | Razorback's spines | **Draft v1, ch. 5** |
 | 20096 | Thunderhoof | [5](OUTLINE_V1.md) | Testimony | Thunderhoof shakes the ground | **Draft v1, ch. 5** |
 | 20097 | Yowler | [5](OUTLINE_V1.md) | Lived | Yowler calls above valley | **Draft v1, ch. 5** |
-| 20098 | Common Chest | [7](OUTLINE_V1.md) | Lived | plain chest beneath tree | Planned |
+| 20098 | Common Chest | [7](OUTLINE_V1.md) | Lived | plain chest beneath tree | **Draft v1, ch. 7** |
 | 20099 | Cliffs of Sarga | [17](OUTLINE_V1.md) | Lived | singing Cliffs of Sarga | Planned |
 | 20100 | Mountain Pass | [17](OUTLINE_V1.md) | Lived | snowy narrow mountain pass | Planned |
 | 20101 | Rocks of Ohgar | [14](OUTLINE_V1.md) | Lived | granite monoliths groan | Planned |
@@ -132,12 +132,12 @@ A primary placement alone is **not a claim that the scene is already in the book
 | 20111 | Young Redeye | [5](OUTLINE_V1.md) | Lived | young Redeye pup plays | **Draft v1, ch. 5** |
 | 20112 | Cursed Silvermane | [21](OUTLINE_V1.md) | Lived | Silvermane afflicted by curse | Planned |
 | 20113 | Cursed Liani | [21](OUTLINE_V1.md) | Testimony | Liani whose counsel has fallen silent | Planned |
-| 20114 | Liani Guardian | [8](OUTLINE_V1.md) | Lived | guardian holds boundary | Planned |
-| 20115 | Liani Predator | [8](OUTLINE_V1.md) | Testimony | Liani Predator recalled by hunter | Planned |
+| 20114 | Liani Guardian | [8](OUTLINE_V1.md) | Lived | guardian holds boundary | **Draft v1, ch. 8** |
+| 20115 | Liani Predator | [8](OUTLINE_V1.md) | Testimony | Liani Predator recalled by hunter | **Draft v1, ch. 8** |
 | 20116 | Aradia's Perch | [15](OUTLINE_V1.md) | Lived | Aradia dragonfly and poisoned sting | Planned |
-| 20117 | Thunderfly Matriarch | [8](OUTLINE_V1.md) | Lived | Thunderfly Matriarch's charged wings | Planned |
+| 20117 | Thunderfly Matriarch | [8](OUTLINE_V1.md) | Lived | Thunderfly Matriarch's charged wings | **Draft v1, ch. 8** |
 | 20118 | Firecrest Bloodbeak | [22](OUTLINE_V1.md) | Lived | firecrest rooster as alarm | Planned |
-| 20119 | Simple Treasure | [7](OUTLINE_V1.md) | Lived | carved meadow chest | Planned |
+| 20119 | Simple Treasure | [7](OUTLINE_V1.md) | Lived | carved meadow chest | **Draft v1, ch. 7** |
 | 20120 | Bronze Vault | [17](OUTLINE_V1.md) | Lived | closed bronze vault | Planned |
 | 20121 | Frost Strider | [17](OUTLINE_V1.md) | Lived | stone Frost Strider | Planned |
 | 20122 | Rocky Tundra | [17](OUTLINE_V1.md) | Lived | life beneath rocky tundra | Planned |

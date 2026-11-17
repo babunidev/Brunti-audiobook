@@ -25,9 +25,9 @@
 
 ## Stage 3 — novel manuscript (underway; first-draft, not editorially approved)
 
-- [x] Draft numbered [Chapters 1–6](manuscript/chapters/README.md) as clean novel prose under delegated drafting authority; **21,197 words** including headings; **51 source encounter adaptations** in Chapters 2–6.
-- [x] Reread the five complete Chapter 2, 22 Chapter 3–4 and 24 Chapter 5–6 game encounter descriptions, with relevant world articles; document source/lore tensions in the [opening review](docs/MANUSCRIPT_REVIEW.md), [Vale review](docs/CHAPTERS_03_04_REVIEW.md), and [forest review](docs/CHAPTERS_05_06_REVIEW.md).
-- [ ] Draft and independently review Chapters 7–30 and remaining **152** planned encounter adaptations.
+- [x] Draft numbered [Chapters 1–8](manuscript/chapters/README.md) as clean novel prose under delegated drafting authority; **27,832 words** including headings; **67 source encounter adaptations** in Chapters 2–8.
+- [x] Reread the five complete Chapter 2, 22 Chapter 3–4 and 24 Chapter 5–6 game encounter descriptions, with relevant world articles; document source/lore tensions in the [opening review](docs/MANUSCRIPT_REVIEW.md), [Vale review](docs/CHAPTERS_03_04_REVIEW.md), and [forest review](docs/CHAPTERS_05_06_REVIEW.md), and [Liani/belonging review](docs/CHAPTERS_07_08_REVIEW.md). The 16 full source descriptions assigned to Chapters 7–8 were reread and their geographic delivery checked.
+- [ ] Draft and independently review Chapters 9–30 and remaining **136** planned encounter adaptations.
 - [ ] Revise all chapters into a complete, coherent literary narrative; independent human editorial approval outstanding.
 - [ ] Verify all **203** encounter integrations, full continuity, canonical constraints and prose quality in the finished manuscript.
 

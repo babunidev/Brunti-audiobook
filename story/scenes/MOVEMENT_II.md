@@ -1,6 +1,6 @@
 # Movement II — scene briefs v1
 
-**Status:** working novel-scene design under delegated literary authorship. **Chapters 5–6 have been written as [first-draft manuscript prose](../../manuscript/chapters/README.md)**; Chapters 7–12 remain planned. The scene briefs are not themselves manuscript prose or a verified canon update. **Encounter source:** game prose reviewed at `5b0d73e550ca` and later `mEncounterText` revisions at `e0bc99c51c74`, `13a5d134c8e6` and `096c99bdf5ac` (see [source reconciliation](../../docs/SOURCE_RECONCILIATION.md)). Scene routes, new dialogue and consequences are novel fiction. [Story spine](../STORY_SPINE.md) · [Placement matrix](../PLACEMENT_MATRIX.md) · [Continuity register](../../docs/SCENE_CONTINUITY.md).
+**Status:** working novel-scene design under delegated literary authorship. **Chapters 5–8 have been written as [first-draft manuscript prose](../../manuscript/chapters/README.md)**; Chapters 9–12 remain planned. The scene briefs are not themselves manuscript prose or a verified canon update. **Encounter source:** game prose reviewed at `5b0d73e550ca` and later `mEncounterText` revisions at `e0bc99c51c74`, `13a5d134c8e6` and `096c99bdf5ac` (see [source reconciliation](../../docs/SOURCE_RECONCILIATION.md)). Scene routes, new dialogue and consequences are novel fiction. [Story spine](../STORY_SPINE.md) · [Placement matrix](../PLACEMENT_MATRIX.md) · [Continuity register](../../docs/SCENE_CONTINUITY.md).
 
 **How to use:** Each scene has an actionable turn and listed source IDs. “Lived,” “Testimony,” “Archive,” and “Metaphor” come from the still-provisional matrix. Individual encounter hooks must be dramatized when writing; a catalog mention alone is never finished adaptation. The mini-cues below preserve the distinct source identity of each assigned record.
 
@@ -116,13 +116,13 @@ The keeper's fae tale about a luminous den remains second-hand; the moss-lit Syl
 
 #### 07.1 — Unclaimed is not ownerless
 
-A Grimnir trunk and vault call to Brunti's craftsmanship; a Verdani casket challenges any assumption that familiar locks imply her rights. No treasure needs to be opened.
+**Teren's archived survey drawings** show a Grimnir trunk and vault in the **far northern Frostwind / Deepstone** country, not this forest; Brunti encounters the Verdani casket directly in Eldertree. No treasure needs to be opened.
 
 **Turn:** Brunti leaves a mark of respectful inspection, not a claim.
 
 **Source encounters:** 
-  - **20008 — Grimnir Trunk** (*Lived*): Grimnir trunk far from home.
-  - **20009 — Grimnir Vault** (*Lived*): carefully sealed Grimnir vault.
+  - **20008 — Grimnir Trunk** (*Archive*): Teren's copy of a frozen Grimnir trunk in a Frostwind cavern.
+  - **20009 — Grimnir Vault** (*Archive*): Teren's copy of the Deepstone Hollow vault near Everwinter, fitted for a keystone.
   - **20010 — Verdani Casket** (*Lived*): Verdani casket of uncertain ownership.
 
 #### 07.2 — A plain and a pictured chest

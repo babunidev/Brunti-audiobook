@@ -74,3 +74,13 @@ No audio, world-canon changes or independent editorial approval are claimed.
 - Updated manuscript, scene briefs, encounter coverage matrix and project records: **six chapters**, **21,197 words**, **51 draft-adapted IDs**, **152 planned**.
 
 No game/world canon files, recorded audiobook, author-approved final manuscript, or audio-production output changed.
+
+## 2026-11-17 — Draft Chapters 7–8 and correct northern-source geography
+
+- Drafted **Things That Are Kept** (3,504 words) and **At the Green Boundary** (3,131 words).
+- Adapted 12 encounter IDs in Chapter 7 and four in Chapter 8; now 67 of 203 in manuscript prose.
+- Corrected **20008** and **20009** from physical Eldertree discovery to **Archive** records of northern Frostwind/Deepstone containers, with source-documented geographic reasoning.
+- Preserved 20036, 20114, 20115 and 20117 as distinct Liani-border and Thunderfly events without granting new hidden-realm access.
+- Added a [Chapters 7–8 source review](docs/CHAPTERS_07_08_REVIEW.md), updated manuscript index, scene plan, coverage matrix, roadmap and progress history.
+
+These remain AI-authored first drafts under delegated direction, not final reviewed text or new world canon. No production audio was generated.

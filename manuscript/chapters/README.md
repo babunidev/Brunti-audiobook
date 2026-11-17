@@ -1,6 +1,6 @@
 # Brunti — working novel manuscript
 
-**Status as of 17 November 2026:** **six first-draft chapters**, not editorially approved or prepared for narrated publication. The story structure remains a 30-chapter working direction authored under delegated literary authority. Chapter headings are part of clean prose files; editorial notes and source-ID assignments are kept separately.
+**Status as of 17 November 2026:** **eight first-draft chapters**, not editorially approved or prepared for narrated publication. The story structure remains a 30-chapter working direction authored under delegated literary authority. Chapter headings are part of clean prose files; editorial notes and source-ID assignments are kept separately.
 
 | Chapter | Title | Source encounter IDs | Status |
 | ---: | --- | --- | --- |
@@ -10,10 +10,12 @@
 | 4 | [Letters Without a Word](04-letters-without-a-word.md) | 20074, 20081, 20083–20090 (except 20082), 20186 | **Draft v1** — 3,714 words |
 | 5 | [The Lives of the Vale](05-the-lives-of-the-vale.md) | 16 distinct encounters, 20032–20111 (see progress matrix) | **Draft v1** — 3,825 words |
 | 6 | [Under Eldertree](06-under-eldertree.md) | 20006, 20007, 20011, 20039–20043 | **Draft v1** — 3,871 words |
-| 7–30 | [Remaining planned chapters](../../story/scenes/README.md) | 152 planned encounter placements | **Not drafted** |
+| 7 | [Things That Are Kept](07-things-that-are-kept.md) | 12 encounters, including 2 northern Grimnir archival accounts | **Draft v1** — 3,504 words |
+| 8 | [At the Green Boundary](08-at-the-green-boundary.md) | 20036, 20114, 20115, 20117 | **Draft v1** — 3,131 words |
+| 9–30 | [Remaining planned chapters](../../story/scenes/README.md) | 136 planned encounter placements | **Not drafted** |
 
-**Total current manuscript:** **21,197 words including chapter headings** (approximately **21,162 prose words** excluding headings). This is narrative prose, not a compilation of unadapted source descriptions.
+**Total current manuscript:** **27,832 words including chapter headings** (approximately **27,785 prose words** excluding headings). This is narrative prose, not a compilation of unadapted source descriptions.
 
-The chapter text is clean for reading and eventual narration export. Editorial notes stay in the [opening review](../../docs/MANUSCRIPT_REVIEW.md), [Chapters 3–4 review](../../docs/CHAPTERS_03_04_REVIEW.md) and [Chapters 5–6 review](../../docs/CHAPTERS_05_06_REVIEW.md). The [source-to-manuscript matrix](../../story/PLACEMENT_MATRIX.md) tracks every game ID separately from the historical [source atlas](../../story/ENCOUNTER_ATLAS.md).
+The chapter text is clean for reading and eventual narration export. Editorial notes stay in the [opening review](../../docs/MANUSCRIPT_REVIEW.md), [Chapters 3–4 review](../../docs/CHAPTERS_03_04_REVIEW.md) and [Chapters 5–6 review](../../docs/CHAPTERS_05_06_REVIEW.md) and [Chapters 7–8 review](../../docs/CHAPTERS_07_08_REVIEW.md). The [source-to-manuscript matrix](../../story/PLACEMENT_MATRIX.md) tracks every game ID separately from the historical [source atlas](../../story/ENCOUNTER_ATLAS.md).
 
-**Coverage:** **51 source encounters adapted into first-draft prose**, **152 still planned**, **0 independently editorially verified**. First draft does not mean author-approved final text, complete source coverage, audiobook narration script or recorded audio. No game or canonical-world source was modified.
+**Coverage:** **67 source encounters adapted into first-draft prose**, **136 still planned**, **0 independently editorially verified**. First draft does not mean author-approved final text, complete source coverage, audiobook narration script or recorded audio. No game or canonical-world source was modified.
