@@ -1,6 +1,6 @@
 # Movement III — Land and Loss: scene briefs v1
 
-**Status:** working audiobook-fiction scene design; no manuscript prose or world-canon changes. **Source baseline:** game encounter text `e0bc99c51c74` (203 source IDs), following first atlas and [reconciliation](../../docs/SOURCE_RECONCILIATION.md). [Story spine](../STORY_SPINE.md) · [Matrix](../PLACEMENT_MATRIX.md) · [Continuity register](../../docs/SCENE_CONTINUITY.md).
+**Status:** working audiobook-fiction scene design; **Chapter 13 is now actual first-draft manuscript prose**; Chapters 14–20 remain planned. No canon changes. **Source baseline:** game encounter text `ad34afb686ef` (203 source IDs), following first atlas and [reconciliation](../../docs/SOURCE_RECONCILIATION.md). [Story spine](../STORY_SPINE.md) · [Matrix](../PLACEMENT_MATRIX.md) · [Continuity register](../../docs/SCENE_CONTINUITY.md).
 
 The geography is intentionally **not** squeezed into one continuous afternoon. Evergrove is a Verdani desert/oasis heartland; Ohgar, Karrhu, Sarga and Frostwind are distinct lands whose exact routes and travel intervals require map checking. Corruption accounts are archive pieces, not twelve simultaneous fights.
 
@@ -12,7 +12,7 @@ The geography is intentionally **not** squeezed into one continuous afternoon. E
 
 #### 13.1 — The unfinished village
 
-In an oasis-garden community, raided survivors clear beams and repair channels. An exhausted Verdani at the settlement's edge needs assistance before a formal account is taken.
+In an oasis-garden community damaged by **Ogru and Gobbl attackers**, survivors clear beams and repair channels. **Renn**, an exhausted male Verdani at the settlement's edge, first needs rest; **Alen** (local leader) and the villagers then choose the water-distribution priorities.
 
 **Turn:** Sira chooses work over immediate story collecting; the company earns a place at the communal table.
 
@@ -22,7 +22,7 @@ In an oasis-garden community, raided survivors clear beams and repair channels. 
 
 #### 13.2 — Other voices of damage
 
-Five *separate* reports evoke a scorched Rokur warrior, a spent Aevis, an ailing Verdani, Flameveil among ash and another drained Aevis. Specific people and locations stay separate; they are not evidence of the same raid.
+Five **separate accounts**, gathered through caravan couriers, letters and travelers, evoke a scorched Rokur warrior, a spent **male** Aevis, a faded **female** Verdani in a mossy clearing, **Flameveil Emberheart** in a ruined *different* village, and a drained **female** Aevis in a woodland. Specific people and places stay distinct; none proves that their suffering belongs to the Evergrove raid.
 
 **Turn:** Brunti stops making survivors into examples of the single event she hopes to explain.
 
@@ -35,7 +35,7 @@ Five *separate* reports evoke a scorched Rokur warrior, a spent Aevis, an ailing
 
 #### 13.3 — A song still unfinished
 
-An elder Aevis hums a melody; a Rokur's broken saga carries a different silence. A teller recounts the Eternal Twilight Grove's spirits, explicitly as a separate place.
+An **elderly Aevis woman** hums an unfinished melody **directly in the cultivated oasis glade**, while separate **testimonies** convey a Rokur warrior's incomplete Battledance saga and the **Eternal Twilight Grove's** spirits beneath a starlit sky. The grove remains another place, not a new Evergrove region.
 
 **Turn:** The company understands that silence can accompany grief without concealing a usable key.
 
@@ -46,13 +46,13 @@ An elder Aevis hums a melody; a Rokur's broken saga carries a different silence.
 
 #### 13.4 — The caravan that left
 
-Sira learns that relatives from a **previous** displaced group traveled toward safer communities via ordinary caravan routes, including a child known by a walking stick. No one claims the child is already in Keldor; the relevant warning will arrive much later.
+Sira hears that an **earlier displaced group** traveled by ordinary oasis caravans, including a child with a carved walking stick. A split caravan route leaves the child's whereabouts **unconfirmed, not yet an established disappearance**; nobody claims the child has reached Keldor. The latest scene sends **Brunti and Velen temporarily to a nearby supply station** for replacement pipe while Sira stays to help **Alen**; Chapter 14 must show their reunion before any three-person onward journey.
 
 **Turn:** Sira retains a responsibility separate from Brunti's repair mission.
 
 **Source encounters:** Original connecting fiction; no direct encounter ID.
 
-**Chapter handoff:** The travelers depart after helping real reconstruction, rather than extracting a tragic account as payment for hospitality.
+**Chapter handoff:** Brunti and Velen depart **briefly for the next Oasis Heart** to fetch fitted water-channel pipe and records while Sira remains with the survivors. **Reunite them in the next chapter** before the onward desert crossing; the village's fourth channel and many homes remain unfinished.
 
 ## Chapter 14 — Words in the Sand
 

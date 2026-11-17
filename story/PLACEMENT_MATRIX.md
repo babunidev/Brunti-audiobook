@@ -1,10 +1,10 @@
 # Encounter placements — source-to-manuscript progress matrix
 
-**Status:** **203 distinct encounters assigned, 0 omitted; 87 adapted into first-draft prose across chapters 2–12, 116 remain planned, and none is independently editorial-verified.** The game data and world archive remain authoritative for source detail. The mode is an editorial possibility: **Lived** is staged before Brunti, **Testimony** comes from another speaker, **Archive** is something Brunti learns from a record, and **Metaphor** translates a game-system label without staging that label as fiction.
+**Status:** **203 distinct encounters assigned, 0 omitted; 97 adapted into first-draft prose across chapters 2–13, 106 remain planned, and none is independently editorial-verified.** The game data and world archive remain authoritative for source detail. The mode is an editorial possibility: **Lived** is staged before Brunti, **Testimony** comes from another speaker, **Archive** is something Brunti learns from a record, and **Metaphor** translates a game-system label without staging that label as fiction.
 
 **Reviewed prose baseline:** [Morkahja encounters at ad34afb686ef](https://github.com/babunidev/Morkahja/blob/ad34afb686efa017cd43ffeccc554afb43d79b22/server/game/encountersdata.json). The first atlas was indexed from an earlier revision; [19, then 5, then 1, then 2, then 1, then 1 text-only changes were reconciled](../docs/SOURCE_RECONCILIATION.md).
 
-A primary placement alone is **not a claim that the scene is already in the book**. The final column identifies which encounter IDs have actually been translated into draft prose, not which have passed editorial review. See the [Chapters 1–2 review](../docs/MANUSCRIPT_REVIEW.md) and [Chapters 3–4 review](../docs/CHAPTERS_03_04_REVIEW.md), and [Chapters 5–6 review](../docs/CHAPTERS_05_06_REVIEW.md), and [Chapters 7–8 review](../docs/CHAPTERS_07_08_REVIEW.md), and [Chapter 9 review](../docs/CHAPTER_09_REVIEW.md), and [Chapter 10 review](../docs/CHAPTER_10_REVIEW.md), and [Chapter 11 review](../docs/CHAPTER_11_REVIEW.md), and [Chapter 12 review](../docs/CHAPTER_12_REVIEW.md). A location-specific encounter included as testimony does not mean Brunti traveled there. Refer to [outline](OUTLINE_V1.md), [source atlas](ENCOUNTER_ATLAS.md), and [literary survey](LITERARY_SURVEY.md).
+A primary placement alone is **not a claim that the scene is already in the book**. The final column identifies which encounter IDs have actually been translated into draft prose, not which have passed editorial review. See the [Chapters 1–2 review](../docs/MANUSCRIPT_REVIEW.md) and [Chapters 3–4 review](../docs/CHAPTERS_03_04_REVIEW.md), and [Chapters 5–6 review](../docs/CHAPTERS_05_06_REVIEW.md), and [Chapters 7–8 review](../docs/CHAPTERS_07_08_REVIEW.md), and [Chapter 9 review](../docs/CHAPTER_09_REVIEW.md), and [Chapter 10 review](../docs/CHAPTER_10_REVIEW.md), and [Chapter 11 review](../docs/CHAPTER_11_REVIEW.md), and [Chapter 12 review](../docs/CHAPTER_12_REVIEW.md), and [Chapter 13 review](../docs/CHAPTER_13_REVIEW.md). A location-specific encounter included as testimony does not mean Brunti traveled there. Refer to [outline](OUTLINE_V1.md), [source atlas](ENCOUNTER_ATLAS.md), and [literary survey](LITERARY_SURVEY.md).
 
 | ID | Encounter | Chapter | Form | Particular literary use | Manuscript status |
 | ---: | --- | --- | --- | --- | --- |
@@ -31,11 +31,11 @@ A primary placement alone is **not a claim that the scene is already in the book
 | 20010 | Verdani Casket | [7](OUTLINE_V1.md) | Lived | Verdani casket of uncertain ownership | **Draft v1, ch. 7** |
 | 20011 | Magic Source | [6](OUTLINE_V1.md) | Lived | forest magic source | **Draft v1, ch. 6** |
 | 20012 | Hidden Market | [9](OUTLINE_V1.md) | Testimony | secret market recounted by trader | **Draft v1, ch. 9** |
-| 20013 | Cauterized Rokur | [13](OUTLINE_V1.md) | Testimony | charred Rokur after battle | Planned |
-| 20014 | Downed Aevis | [13](OUTLINE_V1.md) | Testimony | exhausted Aevis beneath tree | Planned |
+| 20013 | Cauterized Rokur | [13](OUTLINE_V1.md) | Testimony | charred Rokur after battle | **Draft v1, ch. 13** |
+| 20014 | Downed Aevis | [13](OUTLINE_V1.md) | Testimony | exhausted Aevis beneath tree | **Draft v1, ch. 13** |
 | 20015 | Weakened Grimnir | [2](OUTLINE_V1.md) | Testimony | cave warrior wounded | **Draft v1, ch. 2** |
-| 20016 | Ailing Verdani | [13](OUTLINE_V1.md) | Testimony | ailing Verdani in clearing | Planned |
-| 20017 | Flameveil Emberheart | [13](OUTLINE_V1.md) | Testimony | Flameveil amid ruined home | Planned |
+| 20016 | Ailing Verdani | [13](OUTLINE_V1.md) | Testimony | ailing Verdani in clearing | **Draft v1, ch. 13** |
+| 20017 | Flameveil Emberheart | [13](OUTLINE_V1.md) | Testimony | Flameveil amid ruined home | **Draft v1, ch. 13** |
 | 20018 | Stonefist Ironwill | [2](OUTLINE_V1.md) | Testimony | Stonefist resting in temple ruins | **Draft v1, ch. 2** |
 | 20019 | Ashen Revenant Witch | [16](OUTLINE_V1.md) | Archive | Ashen Witch and poison vapor | Planned |
 | 20020 | Ashen Revenant Seer | [16](OUTLINE_V1.md) | Archive | Ashen Seer with inner fire | Planned |
@@ -71,12 +71,12 @@ A primary placement alone is **not a claim that the scene is already in the book
 | 20050 | Blackwood Portal | [25](OUTLINE_V1.md) | Lived | cliff door in Keldor | Planned |
 | 20051 | Nagar Charger | [5](OUTLINE_V1.md) | Testimony | Nagar Charger in a tracker tale | **Draft v1, ch. 5** |
 | 20052 | Nagar Elder | [5](OUTLINE_V1.md) | Testimony | scarred Nagar Elder | **Draft v1, ch. 5** |
-| 20053 | Exhausted Verdani | [13](OUTLINE_V1.md) | Lived | spent Verdani at Evergrove edge | Planned |
-| 20054 | Drained Aevis | [13](OUTLINE_V1.md) | Testimony | drained Aevis in woodland | Planned |
+| 20053 | Exhausted Verdani | [13](OUTLINE_V1.md) | Lived | spent Verdani at Evergrove edge | **Draft v1, ch. 13** |
+| 20054 | Drained Aevis | [13](OUTLINE_V1.md) | Testimony | drained Aevis in woodland | **Draft v1, ch. 13** |
 | 20055 | Wounded Grimnir | [2](OUTLINE_V1.md) | Testimony | Grimnir injured by Crumblegheist | **Draft v1, ch. 2** |
 | 20056 | Venerable Grimnir | [2](OUTLINE_V1.md) | Testimony | hungry elder after Ravage | **Draft v1, ch. 2** |
 | 20057 | Verdani Child | [15](OUTLINE_V1.md) | Lived | hungry child forms mud cakes | Planned |
-| 20058 | Aevis Lady | [13](OUTLINE_V1.md) | Lived | older Aevis with unfinished song | Planned |
+| 20058 | Aevis Lady | [13](OUTLINE_V1.md) | Lived | older Aevis with unfinished song | **Draft v1, ch. 13** |
 | 20059 | Rokur Blacksmith | [9](OUTLINE_V1.md) | Testimony | Rokur smith too weary to work | **Draft v1, ch. 9** |
 | 20060 | Verdani Treasury | [9](OUTLINE_V1.md) | Lived | Verdani binds pages and shares tea | **Draft v1, ch. 9** |
 | 20061 | Frostwind Junkyard | [17](OUTLINE_V1.md) | Lived | Frostwind junkdealer's oddments | Planned |
@@ -143,9 +143,9 @@ A primary placement alone is **not a claim that the scene is already in the book
 | 20122 | Rocky Tundra | [17](OUTLINE_V1.md) | Lived | life beneath rocky tundra | Planned |
 | 20123 | Everwinter Trading Post | [18](OUTLINE_V1.md) | Lived | postkeeper offers stew | Planned |
 | 20124 | Frostfang Alpha | [18](OUTLINE_V1.md) | Testimony | Frostfang Alpha described by locals | Planned |
-| 20125 | Raided Verdani Village | [13](OUTLINE_V1.md) | Lived | Verdani rebuild raided village | Planned |
-| 20126 | Disheartened Rokur | [13](OUTLINE_V1.md) | Testimony | disheartened Rokur's broken saga | Planned |
-| 20127 | Eternal Twilight Grove | [13](OUTLINE_V1.md) | Testimony | spirit grove's many laments | Planned |
+| 20125 | Raided Verdani Village | [13](OUTLINE_V1.md) | Lived | Verdani rebuild raided village | **Draft v1, ch. 13** |
+| 20126 | Disheartened Rokur | [13](OUTLINE_V1.md) | Testimony | disheartened Rokur's broken saga | **Draft v1, ch. 13** |
+| 20127 | Eternal Twilight Grove | [13](OUTLINE_V1.md) | Testimony | spirit grove's many laments | **Draft v1, ch. 13** |
 | 20128 | Grimnir Rebels | [2](OUTLINE_V1.md) | Testimony | Stoneguard rebels by dim fire | **Draft v1, ch. 2** |
 | 20129 | Everwinter Treasurechest | [19](OUTLINE_V1.md) | Lived | chest warm but ice stays frozen | Planned |
 | 20130 | Everwinter Guardian | [19](OUTLINE_V1.md) | Lived | Everwinter Guardian at cave | Planned |
