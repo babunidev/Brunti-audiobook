@@ -214,7 +214,7 @@ Kelna unfolded a second piece of cloth. Inside lay a rubbing of marks made on a 
 
 “This account came from a different road,” she said. “I did not meet the people myself.”
 
-It concerned the Stoneguard, a group of Grimnir rebels sheltering in a cave. A traveler had seen them sitting close to a small fire beneath a dripping stalactite. They had not spoken much. When the fuel settled in the flames, several turned their faces at once toward the sound, then let their gazes fall again.
+It concerned the Stoneguard, a group of Grimnir rebels sheltering in a cave. A traveler had seen them sitting close to a dying fire beneath a dripping stalactite. Their rugged mineral bodies blended with the cave's shadows, and their gemstone eyes held faint reflections of the embers. One rebel leaned forward and carefully added a piece of wood; a few sparks lit the tired faces, then vanished. An elderly warrior raised his head and looked across the gathering, toward an empty place by the fire. Without speaking he shifted a stone closer to its warmth. Several other gemstone eyes turned toward the space. No one explained whom the place was for.
 
 “What were they rebelling against?” Brunti asked.
 
