@@ -144,7 +144,7 @@ Its roots spread through the earth like the ribs of a broken roof, holding up a 
 
 Brunti crouched.
 
-An edge of the heavy lid stood out from the green fringe. Layers of overlapping ironwood enclosed a narrow seam, and rusted locks secured the fittings. A drop of water fell from the dead wood above, darkened the rust around one lock, and slipped beneath it.
+An edge of the heavy lid stood out from the green fringe. Layers of overlapping ironwood enclosed a narrow seam, and rusted locks secured the fittings. A heavy drop of water fell from the dead wood above. It struck an ancient fitting with a hollow metallic knock, darkened the rust around one lock, and slowly trickled into the narrow seam beneath it. Pale fungi gathered in the deeper crevices of the chest, while tiny insects crossed its darksteel plates undisturbed.
 
 This was no little travel chest.
 
