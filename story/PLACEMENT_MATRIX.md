@@ -1,10 +1,10 @@
 # Encounter placements — source-to-manuscript progress matrix
 
-**Status:** **203 distinct encounters assigned, 0 omitted; 156 adapted into first-draft prose across chapters 2–21, 47 remain planned, and none is independently editorial-verified.** The game data and world archive remain authoritative for source detail. The mode is an editorial possibility: **Lived** is staged before Brunti, **Testimony** comes from another speaker, **Archive** is something Brunti learns from a record, and **Metaphor** translates a game-system label without staging that label as fiction.
+**Status:** **203 distinct encounters assigned, 0 omitted; 161 adapted into first-draft prose across chapters 2–22, 42 remain planned, and none is independently editorial-verified.** The game data and world archive remain authoritative for source detail. The mode is an editorial possibility: **Lived** is staged before Brunti, **Testimony** comes from another speaker, **Archive** is something Brunti learns from a record, and **Metaphor** translates a game-system label without staging that label as fiction.
 
-**Reviewed prose baseline:** [Morkahja encounters at 2b4afe761c8b](https://github.com/babunidev/Morkahja/blob/2b4afe761c8b80f8c0f9414a800fc683ec9b109d/server/game/encountersdata.json). The first atlas was indexed from an earlier revision; [19, then 5, then 1, then 2, then 1, then 1, then 8, then 5, then 5, then 4, then 2, then 8, then 2, then 4 text-only changes were reviewed](../docs/SOURCE_RECONCILIATION.md).
+**Reviewed prose baseline:** [Morkahja encounters at c227753b59d0](https://github.com/babunidev/Morkahja/blob/c227753b59d037c6fef66c4b96d181487713e41f/server/game/encountersdata.json). The first atlas was indexed from an earlier revision; [19, then 5, then 1, then 2, then 1, then 1, then 8, then 5, then 5, then 4, then 2, then 8, then 2, then 4, then 2 text-only changes were reviewed](../docs/SOURCE_RECONCILIATION.md).
 
-A primary placement alone is **not a claim that the scene is already in the book**. The final column identifies which encounter IDs have actually been translated into draft prose, not which have passed editorial review. See the [Chapters 1–2 review](../docs/MANUSCRIPT_REVIEW.md) and [Chapters 3–4 review](../docs/CHAPTERS_03_04_REVIEW.md), and [Chapters 5–6 review](../docs/CHAPTERS_05_06_REVIEW.md), and [Chapters 7–8 review](../docs/CHAPTERS_07_08_REVIEW.md), and [Chapter 9 review](../docs/CHAPTER_09_REVIEW.md), and [Chapter 10 review](../docs/CHAPTER_10_REVIEW.md), and [Chapter 11 review](../docs/CHAPTER_11_REVIEW.md), and [Chapter 12 review](../docs/CHAPTER_12_REVIEW.md), and [Chapter 13 review](../docs/CHAPTER_13_REVIEW.md), and [Chapter 14 review](../docs/CHAPTER_14_REVIEW.md), and [Chapter 15 review](../docs/CHAPTER_15_REVIEW.md), and [Chapter 16 review](../docs/CHAPTER_16_REVIEW.md) and [Chapter 17 review](../docs/CHAPTER_17_REVIEW.md) and [Chapter 18 review](../docs/CHAPTER_18_REVIEW.md) and [Chapter 19 review](../docs/CHAPTER_19_REVIEW.md) and [Chapter 20 review](../docs/CHAPTER_20_REVIEW.md) and [Chapter 21 review](../docs/CHAPTER_21_REVIEW.md). A location-specific encounter included as testimony does not mean Brunti traveled there. Refer to [outline](OUTLINE_V1.md), [source atlas](ENCOUNTER_ATLAS.md), and [literary survey](LITERARY_SURVEY.md).
+A primary placement alone is **not a claim that the scene is already in the book**. The final column identifies which encounter IDs have actually been translated into draft prose, not which have passed editorial review. See the [Chapters 1–2 review](../docs/MANUSCRIPT_REVIEW.md) and [Chapters 3–4 review](../docs/CHAPTERS_03_04_REVIEW.md), and [Chapters 5–6 review](../docs/CHAPTERS_05_06_REVIEW.md), and [Chapters 7–8 review](../docs/CHAPTERS_07_08_REVIEW.md), and [Chapter 9 review](../docs/CHAPTER_09_REVIEW.md), and [Chapter 10 review](../docs/CHAPTER_10_REVIEW.md), and [Chapter 11 review](../docs/CHAPTER_11_REVIEW.md), and [Chapter 12 review](../docs/CHAPTER_12_REVIEW.md), and [Chapter 13 review](../docs/CHAPTER_13_REVIEW.md), and [Chapter 14 review](../docs/CHAPTER_14_REVIEW.md), and [Chapter 15 review](../docs/CHAPTER_15_REVIEW.md), and [Chapter 16 review](../docs/CHAPTER_16_REVIEW.md) and [Chapter 17 review](../docs/CHAPTER_17_REVIEW.md) and [Chapter 18 review](../docs/CHAPTER_18_REVIEW.md) and [Chapter 19 review](../docs/CHAPTER_19_REVIEW.md) and [Chapter 20 review](../docs/CHAPTER_20_REVIEW.md) and [Chapter 21 review](../docs/CHAPTER_21_REVIEW.md) and [Chapter 22 review](../docs/CHAPTER_22_REVIEW.md). A location-specific encounter included as testimony does not mean Brunti traveled there. Refer to [outline](OUTLINE_V1.md), [source atlas](ENCOUNTER_ATLAS.md), and [literary survey](LITERARY_SURVEY.md).
 
 | ID | Encounter | Chapter | Form | Particular literary use | Manuscript status |
 | ---: | --- | --- | --- | --- | --- |
@@ -93,11 +93,11 @@ A primary placement alone is **not a claim that the scene is already in the book
 | 20072 | Tranquil Wilds | [3](OUTLINE_V1.md) | Testimony | golden grass and falling leaf | **Draft v1, ch. 3** |
 | 20073 | Celestial Cairn | [7](OUTLINE_V1.md) | Lived | cairn above running stream | **Draft v1, ch. 7** |
 | 20074 | Mysterious Cube | [4](OUTLINE_V1.md) | Archive | etched cube's pulses | **Draft v1, ch. 4** |
-| 20075 | Grumpy Fence | [22](OUTLINE_V1.md) | Lived | grumpy fence's tangled story | Planned |
+| 20075 | Grumpy Fence | [22](OUTLINE_V1.md) | Lived | grumpy fence's tangled story | **Draft v1, ch. 22** |
 | 20076 | Aevis Merchant | [9](OUTLINE_V1.md) | Testimony | Aevis merchant tells of Celesterra | **Draft v1, ch. 9** |
 | 20077 | Quicksilver Quagmire | [15](OUTLINE_V1.md) | Lived | silver quagmire's uncertain reflection | **Draft v1, ch. 15** |
-| 20078 | Unhinged Gobbl | [22](OUTLINE_V1.md) | Lived | distorted Gobbl crouches | Planned |
-| 20079 | Fearfeaster Gobbl | [22](OUTLINE_V1.md) | Testimony | Fearfeaster warning | Planned |
+| 20078 | Unhinged Gobbl | [22](OUTLINE_V1.md) | Lived | distorted Gobbl crouches | **Draft v1, ch. 22** |
+| 20079 | Fearfeaster Gobbl | [22](OUTLINE_V1.md) | Testimony | Fearfeaster warning | **Draft v1, ch. 22** |
 | 20080 | Dreamy Valley | [3](OUTLINE_V1.md) | Lived | pink blossoms conceal a sheltered passage | **Draft v1, ch. 3** |
 | 20081 | Arcadian Hills | [4](OUTLINE_V1.md) | Lived | marked borderstone A | **Draft v1, ch. 4** |
 | 20082 | Alluring Fens | [15](OUTLINE_V1.md) | Testimony | night song across fens | **Draft v1, ch. 15** |
@@ -136,7 +136,7 @@ A primary placement alone is **not a claim that the scene is already in the book
 | 20115 | Liani Predator | [8](OUTLINE_V1.md) | Testimony | Liani Predator recalled by hunter | **Draft v1, ch. 8** |
 | 20116 | Aradia's Perch | [15](OUTLINE_V1.md) | Lived | Aradia dragonfly and poisoned sting | **Draft v1, ch. 15** |
 | 20117 | Thunderfly Matriarch | [8](OUTLINE_V1.md) | Lived | Thunderfly Matriarch's charged wings | **Draft v1, ch. 8** |
-| 20118 | Firecrest Bloodbeak | [22](OUTLINE_V1.md) | Lived | firecrest rooster as alarm | Planned |
+| 20118 | Firecrest Bloodbeak | [22](OUTLINE_V1.md) | Lived | firecrest rooster as alarm | **Draft v1, ch. 22** |
 | 20119 | Simple Treasure | [7](OUTLINE_V1.md) | Lived | carved meadow chest | **Draft v1, ch. 7** |
 | 20120 | Bronze Vault | [17](OUTLINE_V1.md) | Lived | closed bronze vault | **Draft v1, ch. 17** |
 | 20121 | Frost Strider | [17](OUTLINE_V1.md) | Lived | stone Frost Strider | **Draft v1, ch. 17** |
@@ -172,7 +172,7 @@ A primary placement alone is **not a claim that the scene is already in the book
 | 20151 | Auraglow Mireling | [24](OUTLINE_V1.md) | Lived | Mireling gathers gold light | Planned |
 | 20152 | Echowraith Skulker | [24](OUTLINE_V1.md) | Lived | Skulker's fragmented motion | Planned |
 | 20153 | Lumbering Necrobrute | [24](OUTLINE_V1.md) | Lived | Ogru-like necrobrute | Planned |
-| 20155 | Blightwatcher Raven | [22](OUTLINE_V1.md) | Lived | raven's doubled caw | Planned |
+| 20155 | Blightwatcher Raven | [22](OUTLINE_V1.md) | Lived | raven's doubled caw | **Draft v1, ch. 22** |
 | 20156 | Twilight Whisper Grove | [24](OUTLINE_V1.md) | Lived | wandering lights in ruined grove | Planned |
 | 20157 | Enigmas End | [24](OUTLINE_V1.md) | Lived | elusive blue light at path end | Planned |
 | 20158 | Path of Despair | [24](OUTLINE_V1.md) | Lived | riblike bones and roots | Planned |
