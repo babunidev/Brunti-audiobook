@@ -394,7 +394,7 @@ The shelter keeper brought blankets and a hot kettle. Velen helped the lost trav
 
 Only after the group was fed did one of the travelers speak again of the woman's voice.
 
-The woman with the torn hood had heard another account in the valley. A figure called Frostlace appeared between the frozen ridges, silver-white hair drifting around pale shoulders, crystals bright along its strands. Her blue eyes seemed lit from within. She moved backward in a slow dance, extending a hand, and the air around her carried a whisper of warmth and shelter.
+The woman with the torn hood had heard another account in the valley. A figure called Frostlace appeared between the frozen ridges, silver-white hair flowing over alabaster-pale shoulders, crystals bright along its strands. Her deep blue eyes seemed almost tender. With slow, graceful steps she moved backward in a silent dance, extending a slender hand. A whisper of warmth drifted across the snow, as if from a distant hearth, although there was no fire anywhere among the ridges. Where Frostlace passed, the snow hardened and frost crept over bare stones. At the mouth of a narrow, dark passage, she paused, smiled faintly, and curled her fingers in invitation. Her fingertips glittered with frost even as the promise of warmth returned on the wind.
 
 “People followed her?” Velen asked.
 
