@@ -404,7 +404,7 @@ Sira was telling Brunti about a river village whose people kept songs in the ord
 
 A low growl stopped them.
 
-At the edge of the grass stood a mother wolf, grey and brown fur blending into the stems. She had moved sideways across an opening in the greenery. Behind her, something small shifted. A cub's muzzle appeared, then vanished.
+At the edge of the grass stood a mother wolf, grey and brown fur blending into the stems. A small, impatient whimper came from behind her. A cub's round-eared head appeared among the stalks, and one oversized paw reached awkwardly into the open. Without looking back, the mother turned an ear and moved sideways across the opening. The cub's muzzle vanished again beneath the swaying grass.
 
 The mother's eyes remained fixed on the travelers.
 
@@ -424,7 +424,7 @@ The mother wolf did not follow. Her low growl continued until Brunti and Sira we
 
 They took the rocky path.
 
-A little farther on, a russet shape bounced above the meadow grass, landed awkwardly and disappeared. Two crimson eyes appeared among the stems, bright with curiosity. The young Redeye sneezed as a flower brushed its nose, shook its thick coat and pounced on something unseen in the soil.
+A little farther on, a russet shape bounced above the meadow grass, hung briefly among the flowers, then landed in an undignified tumble. Two crimson eyes appeared among the stems, bright with curiosity. The young Redeye had one ear raised and the other drooping sideways. It stared at a butterfly on a nearby blossom and lifted one oversized paw. Before it could reach the insect, a flower brushed its muzzle. A tremendous sneeze sent the butterfly fluttering away. The pup shook petals from its reddish coat and pounced on something unseen in the soil.
 
 Brunti smiled.
 
