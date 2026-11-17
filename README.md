@@ -19,7 +19,7 @@ The existing world lore belongs to [MorkahjaWorld](https://github.com/babunidev/
 | [Character arcs](story/CHARACTER_ARCS.md) | Brunti, Darrik, Sira, Velen, relationships and growth |
 | [Causal chain](story/CAUSAL_CHAIN.md) | Why each of the 30 chapters leads to the next |
 | [Scene plan](story/scenes/README.md) | **109 concrete scene briefs** covering all 203 encounters across the 30 proposed chapters |
-| [Manuscript](manuscript/chapters/README.md) | **Chapters 1–4 first-draft prose** (13,483 words); remaining chapters not written |
+| [Manuscript](manuscript/chapters/README.md) | **Chapters 1–4 first-draft prose** (13,468 words); remaining chapters not written |
 | [Manuscript review ledger](docs/MANUSCRIPT_REVIEW.md) · [Chapters 3–4 review](docs/CHAPTERS_03_04_REVIEW.md) | Drafted encounters, lore tensions, source-check evidence and editorial gaps |
 | [Continuity register](docs/SCENE_CONTINUITY.md) | Source-confirmed constraints, scene-level safeguards and unresolved travel/lore checks |
 | [Encounter atlas](story/ENCOUNTER_ATLAS.md) | All 203 source encounters, IDs, source groups, narrative categories and tracking |

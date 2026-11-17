@@ -26,7 +26,7 @@
 
 ## Chapter 4 — Letters Without a Word
 
-**[Read the first draft](../manuscript/chapters/04-letters-without-a-word.md)** — **3,696 words including heading**. The chapter spans several unnamed days and minor paths through Ethera's Vale rather than compressing eleven experiences into a single hour.
+**[Read the first draft](../manuscript/chapters/04-letters-without-a-word.md)** — **3,681 words including heading**. The chapter spans several unnamed days and minor paths through Ethera's Vale rather than compressing eleven experiences into a single hour.
 
 | Game ID | Source encounter | Where/how the draft uses it | Integrity note |
 | ---: | --- | --- | --- |

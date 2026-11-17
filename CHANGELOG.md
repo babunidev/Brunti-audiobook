@@ -57,7 +57,7 @@ These are AI-authored first drafts under delegated creative direction, not autho
 
 ## 2026-11-17 — Draft Ethera's Vale chapters 3–4
 
-- Wrote Chapter 3 *A Road Made of Grass* (3,225 words) and Chapter 4 *Letters Without a Word* (3,696 words) as clean first-draft prose.
+- Wrote Chapter 3 *A Road Made of Grass* (3,225 words) and Chapter 4 *Letters Without a Word* (3,681 words) as clean first-draft prose.
 - Adapted 22 further source encounters; four manuscript chapters now contain 27 drafted integrations of the 203 planned.
 - Preserved the seven original letter carvings **A H K J O M A**, the Earthsinger's challenge, and the source Bloomwalker's invitation to dance.
 - Reframed encounter 20072 as **testimony** to avoid compressing a source-autumn scene into the summer Vale journey; left original game data unchanged.
