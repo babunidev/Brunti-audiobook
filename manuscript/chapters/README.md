@@ -1,6 +1,6 @@
 # Brunti — working novel manuscript
 
-**Status as of 17 November 2026:** **sixteen first-draft chapters**, not editorially approved or prepared for narrated publication. The story structure remains a 30-chapter working direction authored under delegated literary authority. Chapter headings are part of clean prose files; editorial notes and source-ID assignments are kept separately.
+**Status as of 17 November 2026:** **seventeen first-draft chapters**, not editorially approved or prepared for narrated publication. The story structure remains a 30-chapter working direction authored under delegated literary authority. Chapter headings are part of clean prose files; editorial notes and source-ID assignments are kept separately.
 
 | Chapter | Title | Source encounter IDs | Status |
 | ---: | --- | --- | --- |
@@ -20,10 +20,11 @@
 | 14 | [Words in the Sand](14-words-in-the-sand.md) | 20035, 20063, 20066, 20101 | **Draft v1** — 4,853 words |
 | 15 | [Beneath the Reeds](15-beneath-the-reeds.md) | 20037, 20038, 20057, 20077, 20082, 20116 | **Draft v1** — 4,914 words |
 | 16 | [Witnesses of Corruption](16-witnesses-of-corruption.md) | 20019–20030 | **Draft v1** — 4,951 words |
-| 17–30 | [Remaining planned chapters](../../story/scenes/README.md) | 84 planned encounter placements | **Not drafted** |
+| 17 | [The Mountain Has a Voice](17-the-mountain-has-a-voice.md) | 20061, 20099, 20100, 20102, 20103, 20105, 20106, 20109, 20120–20122 | **Draft v1** — 4,639 words |
+| 18–30 | [Remaining planned chapters](../../story/scenes/README.md) | 73 planned encounter placements | **Not drafted** |
 
-**Total current manuscript:** **68,125 words including chapter headings** (approximately **68,032 prose words** excluding headings). This is narrative prose, not a compilation of unadapted source descriptions.
+**Total current manuscript:** **72,764 words including chapter headings** (approximately **72,666 prose words** excluding headings). This is narrative prose, not a compilation of unadapted source descriptions.
 
-The chapter text is clean for reading and eventual narration export. Editorial notes stay in the [opening review](../../docs/MANUSCRIPT_REVIEW.md), [Chapters 3–4 review](../../docs/CHAPTERS_03_04_REVIEW.md) and [Chapters 5–6 review](../../docs/CHAPTERS_05_06_REVIEW.md) and [Chapters 7–8 review](../../docs/CHAPTERS_07_08_REVIEW.md) and [Chapter 9 review](../../docs/CHAPTER_09_REVIEW.md) and [Chapter 10 review](../../docs/CHAPTER_10_REVIEW.md) and [Chapter 11 review](../../docs/CHAPTER_11_REVIEW.md) and [Chapter 12 review](../../docs/CHAPTER_12_REVIEW.md) and [Chapter 13 review](../../docs/CHAPTER_13_REVIEW.md) and [Chapter 14 review](../../docs/CHAPTER_14_REVIEW.md) and [Chapter 15 review](../../docs/CHAPTER_15_REVIEW.md) and [Chapter 16 review](../../docs/CHAPTER_16_REVIEW.md). The [source-to-manuscript matrix](../../story/PLACEMENT_MATRIX.md) tracks every game ID separately from the historical [source atlas](../../story/ENCOUNTER_ATLAS.md).
+The chapter text is clean for reading and eventual narration export. Editorial notes stay in the [opening review](../../docs/MANUSCRIPT_REVIEW.md), [Chapters 3–4 review](../../docs/CHAPTERS_03_04_REVIEW.md) and [Chapters 5–6 review](../../docs/CHAPTERS_05_06_REVIEW.md) and [Chapters 7–8 review](../../docs/CHAPTERS_07_08_REVIEW.md) and [Chapter 9 review](../../docs/CHAPTER_09_REVIEW.md) and [Chapter 10 review](../../docs/CHAPTER_10_REVIEW.md) and [Chapter 11 review](../../docs/CHAPTER_11_REVIEW.md) and [Chapter 12 review](../../docs/CHAPTER_12_REVIEW.md) and [Chapter 13 review](../../docs/CHAPTER_13_REVIEW.md) and [Chapter 14 review](../../docs/CHAPTER_14_REVIEW.md) and [Chapter 15 review](../../docs/CHAPTER_15_REVIEW.md) and [Chapter 16 review](../../docs/CHAPTER_16_REVIEW.md) and [Chapter 17 review](../../docs/CHAPTER_17_REVIEW.md). The [source-to-manuscript matrix](../../story/PLACEMENT_MATRIX.md) tracks every game ID separately from the historical [source atlas](../../story/ENCOUNTER_ATLAS.md).
 
-**Coverage:** **119 source encounters adapted into first-draft prose**, **84 still planned**, **0 independently editorially verified**. First draft does not mean author-approved final text, complete source coverage, audiobook narration script or recorded audio. No game or canonical-world source was modified.
+**Coverage:** **130 source encounters adapted into first-draft prose**, **73 still planned**, **0 independently editorially verified**. First draft does not mean author-approved final text, complete source coverage, audiobook narration script or recorded audio. No game or canonical-world source was modified.
