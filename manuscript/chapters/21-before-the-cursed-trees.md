@@ -722,8 +722,4 @@ Sira smiled a little at that answer, though her eyes remained troubled.
 
 Beyond the shelter, the forest gave a distant, wavering call. A wind moved among the old leaves, bringing the scent of damp bark and the first hint of night mist.
 
-Brunti folded the map along its original crease.
-
-The line ended where the witnesses had stopped seeing.
-
-She left the blank part unmarked.
+Brunti folded the map along its original crease. Sira kept one hand over the open supplies list until Varun found the lantern. In its light they counted the food and clean bindings once more before the search.
