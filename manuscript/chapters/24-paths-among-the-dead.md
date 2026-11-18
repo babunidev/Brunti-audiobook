@@ -158,9 +158,7 @@ A wedge beneath the nearest corner. A lever against the iron band. A sequence of
 
 She took out neither wedge nor lever.
 
-The stronghold offered no evidence that its contents belonged to her problem. It had not even offered evidence that it could be safely opened.
-
-Brunti stood and followed the rootline away.
+A root above the lid shed wet bark onto her shoulder. Brunti brushed it away, stood and followed the rootline without disturbing the locks.
 
 A second object waited farther on, under a different tree.
 
@@ -190,9 +188,7 @@ One. Then the next.
 
 She recognized the danger in herself.
 
-“An object pulses,” she said aloud. “That does not make it a voice.”
-
-She wrote those words in her own notebook.
+She caught herself counting aloud. The next pulse came too late for the pattern she expected. She tucked her notebook away unopened.
 
 The reliquary remained closed, its iron fittings holding whatever lay within. Brunti moved away before the next faint glow could become an invitation to stay.
 
@@ -223,8 +219,6 @@ The lock gave another small pulse.
 She took one step backward.
 
 This was the Sylvan Rune Gateway. It stood in southern Keldor, rooted into a great tree, and its purpose remained unverified. The Blackwood Portal, in the accounts Velen had read aloud, was a wooden door set high in a remote cliff.
-
-The distinction was exact.
 
 Brunti left the stone door unbroken.
 
@@ -350,9 +344,7 @@ The Lumbering Necrobrute advanced in pauses, each ponderous step separated from 
 
 She stayed on the high stone until it passed.
 
-The resemblance to an Ogru was visible. The identity of whoever that body might once have been was not. No story of captors, raiders or ancient bloodlines could be made from its appearance alone.
-
-Brunti descended on the far side.
+The stone beneath Brunti's heel had begun to crumble. She shifted her weight to the far side of the rise and descended while the great figure continued away.
 
 Smoke met her before the next danger became visible.
 
@@ -376,21 +368,7 @@ Her hand rose toward another branch, paused, and moved in time with the broken t
 
 Brunti stood on the opposite side of the shallow stream.
 
-Two fire-bearing figures, within a single day's travel, among damaged trees.
-
-The temptation came quickly.
-
-*One origin.*
-
-*One pattern.*
-
-*One cause beneath all the others.*
-
-She thought of Kaldric's unfinished gesture. She thought of the two memorial voices occupying one wall.
-
-It would be so much easier if resemblance proved kinship.
-
-She wrote in her notebook: *Two separate observations. No verified connection.*
+The water between the burning figures carried a small black leaf past her boots. As Brunti watched, an ember fell on the far bank and flared briefly against dead grass. She moved before it could find the roots on her side of the stream.
 
 The Wanderer moved farther through the smoke, leaving the stream untouched.
 
@@ -410,9 +388,7 @@ The creature lurched forward with startling speed.
 
 Brunti stepped behind a broad trunk as the smoky tendrils swept through the underbrush. The last green patches beside it curled inward, their color draining into the dark. She backed along the wet channel and stayed beyond its reach.
 
-Sira's people were living water held together by memory and care. This altered creature retained something of their silhouette, but Brunti could not know whose life lay beneath the corruption or whether it could ever be restored.
-
-She moved away without striking it.
+The shape of its shoulders reminded Brunti of Sira for one unsettling instant. A smoky tendril reached across the stream and killed a line of young ferns. She moved away without striking it.
 
 The storm arrived before the smoke cleared.
 
