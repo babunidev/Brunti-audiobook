@@ -534,7 +534,7 @@ Velen set the pencil down. Tarnel closed the little case around his sister's thi
 
 When the rain stopped, the travelers left the house in separate groups.
 
-Tarnel joined the same northbound caravan as Brunti, Sira and Velen. He rode on the wagon ahead, his case secured in a canvas bundle beneath the seat.
+Tarnel joined the same caravan as Brunti, Sira and Velen, bound for the upland landing routes. He rode on the wagon ahead, his case secured in a canvas bundle beneath the seat.
 
 The road gradually left the edge of Keldor.
 
