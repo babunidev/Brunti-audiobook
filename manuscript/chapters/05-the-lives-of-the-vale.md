@@ -434,21 +434,17 @@ Brunti smiled.
 
 They watched from a distance while the pup investigated an insect, a fallen leaf and its own shadow. It lifted one paw, ears unevenly raised, then vanished when the breeze swept grass across its muzzle.
 
-Brunti put the question in her notebook without answering it.
-
-Mother wolf with hidden young. A Redeye pup farther along the meadow. Relationship unknown.
+Brunti tried to draw the pup before it disappeared. The sketch acquired a crooked ear, a paw much too large and a flower that looked like an exploding star.
 
 Sira read over her shoulder.
 
-“You could have left out the last line,” she said.
+“That is a very dangerous flower,” she said.
 
-“I could.”
+“The pup survived it.”
 
-“Why didn't you?”
+“Only just.”
 
-“Because I might forget that I didn't know.”
-
-Sira did not reply at once.
+Brunti added a few petals. Neither of them knew whether the pup belonged to the mother wolf farther back along the trail; for the moment, the untidy drawing was all the record needed.
 
 Then she reached into her bag and drew out a small piece of dried fruit. She offered half to Brunti, who accepted it and added a pinch of mineral salt from her own supplies.
 
@@ -474,11 +470,7 @@ Sira looked ahead. “You didn't.”
 
 Brunti considered what to say.
 
-The old habit was to explain how easily she could have struck the Bloodfang, or how much danger the Silvermane had posed, or how a warrior's first duty was to protect anyone traveling beside her.
-
-All of that was true enough.
-
-But she had seen the mother wolf standing between them and her cubs. She had watched the little Redeye disappear into grass. She could still feel the ground moving beneath the Bloodfang as it hurried across its own passage.
+A great paw print still marked the mud at the trail's edge. Brunti stepped around it, leaving the impression undisturbed.
 
 “Nothing was asking to be conquered,” she said.
 
