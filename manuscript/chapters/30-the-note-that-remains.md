@@ -744,7 +744,7 @@ She ran her sound fingertip along the edge of the folder.
 
 Brunti smiled.
 
-“Will you stay until the next convergence?”
+“Will you stay through the rest of the convergence?”
 
 “Not through all of it. Aetherion has its own records waiting, and the road doesn't stop asking questions because your wall is safe.”
 
@@ -1211,6 +1211,26 @@ Brunti looked down at the pale, unfamiliar pieces among the warm grain.
 “That seems sound advice.”
 
 Nemi climbed onto the low bench opposite her.
+
+Brunti reached into the inner pocket of her travel pouch and drew out a small dark pebble. A pale seam crossed one face. The Earthsinger had given it to her in the Vale, and she had kept it through every road since.
+
+“You asked me to bring you something from below.”
+
+Nemi set her bowl down and took the pebble in both hands.
+
+“Not from our Skyland?”
+
+“No.”
+
+“Does it do anything?”
+
+“Not that I've seen.”
+
+Nemi turned the pale seam toward the lamplight.
+
+“Then it can sit beside my hammer,” she decided.
+
+“An excellent place for it.”
 
 The two of them ate while the Skyland moved through the evening air.
 
