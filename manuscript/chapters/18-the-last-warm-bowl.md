@@ -414,7 +414,7 @@ The driver was carrying a message from the far side of the rockslide.
 
 No one had been struck on the northern approach, as far as the patrol could confirm. The line of travelers had stopped after hearing the first fall; two carts had turned back. The upper passage remained unstable. A road crew was marking a longer route, but the work might take days.
 
-Brunti felt her shoulders loosen at the news. It was not proof that every traveler had been accounted for, yet it was far better than the silence of the evening before.
+Brunti felt her shoulders loosen at the news. For the first time since the rockslide she could hear a traveler stamping snow from his boots without mistaking it for another fall.
 
 The younger traveler was less fortunate.
 
@@ -690,11 +690,11 @@ Aksa returned the copied packet to Velen.
 
 Brunti looked toward the valley.
 
-“No,” she said. “But you can choose not to challenge them.”
+“No,” she said. “And I intend to return for another bowl.”
 
 The keeper smiled slightly.
 
-“That's a useful thing to learn before the old ruins.”
+“Then mind what the guide tells you.”
 
 By midday the western route was marked and the patrol had signaled its opening. Brunti took up her pack. Velen secured the copies under their cloak. Hesk went ahead to meet the guide who would take them farther into the valley.
 
