@@ -730,11 +730,7 @@ Sira smiled.
 
 Brunti regarded the northern road.
 
-They had spent time they could not regain. Aetherion still lay ahead, and the old memorial was no closer to being repaired. Yet Aru could walk without coughing smoke at every step. Tessan had not lost her courier case. The sanctuary remained ready for someone else.
-
-The cost was real.
-
-So was the help.
+Aetherion still lay ahead. Aru tested her breath in the morning air and surprised herself with a little laugh. Tessan adjusted the fastening of her courier case; this time the strap rested against a steady shoulder.
 
 At the next fork the travelers parted. Tessan turned toward the guarded road, carrying her own messages. Aru chose the slower pilgrim route, promising herself frequent stops. Brunti and Sira followed the way toward Aetherion.
 
