@@ -292,13 +292,13 @@ She had drawn a line between the two reported places.
 
 At its end she had written: Possibly same resonance as home.
 
-She looked from the first trader to the second. One was uncertain of a sound. The other was already adding a silver handle to his treasure box.
+She looked from the first trader to the second. One was uncertain of a sound. The other had given an unseen treasure a box, a clasp and a name.
 
 She crossed out the line joining their stories. When the second teller glanced at her page, he frowned.
 
-“Was the handle wrong?” he asked.
+“Was the clasp wrong?” he asked.
 
-“You hadn't mentioned a handle.”
+“It wasn't there when you began.”
 
 “Ah.” He considered this. “Then perhaps there wasn't one.”
 
