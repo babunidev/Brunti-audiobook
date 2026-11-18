@@ -342,3 +342,13 @@ Documentation/audit work was performed by ChatGPT **GPT-6** under Babuni's origi
 - Reinforced the protagonist's **female Grimnir warrior/protector identity** through safe routes, watch duty, beam risk assessment and injured-person escort rather than additional fights.
 - Updated the [chapter index](manuscript/chapters/README.md) to **146,505 counted words**, the [Stage 2 verification report](docs/REVISION_STAGE_2_REVIEW.md), [revision log](docs/MANUSCRIPT_REVISION_LOG.md), roadmap, project README and story planning notes.
 - **Verification scope:** 30 chapter files remain; 203 unique encounter assignments retained. These are targeted edited drafts, **not independent human acceptance or a full literary/source/atlas audit**. Morkahja game/world repositories, voice scripts and audio files unchanged.
+
+## 2026-11-18 — Apply Stage 3 targeted pacing and scene-function revisions
+
+- Revised all **26 travel chapters (3–28)** with targeted paragraph changes, reducing repeated notebook/proof explanations and redundant summary endings without removing encounter descriptions, locations, source names or the narrative's main decisions.
+- Diversified **Ch3–9** through small creature/market humor, natural surroundings, and concrete social exchange; preserved the seven engraved letters and first material archive referral.
+- Diversified **Ch10–16** through healing, caretakers' work, village repair, distinct document custody, Sira's practical messages and the real departure.
+- Distinguished **Ch17–20** as physical survival and hospitality versus ice/record uncertainty and the decisive Jorvald conversation.
+- Streamlined **Ch21–28** to retain the child's rescue, Ch24's substantial hazard sequence, Blackwood's escalating sensory uncertainty, ordinary lazaret recovery and Atranor's secondhand testimony without repeated moral conclusions.
+- Preserved opening/conclusion Chapters **1–2, 29–30** unchanged. Recounted the complete manuscript to **145,771 words including chapter headings** (−734 counted words from Stage 2); updated the [manuscript index](manuscript/chapters/README.md), [Stage 3 review](docs/REVISION_STAGE_3_REVIEW.md), plan, roadmap, change log, source notes and development journal.
+- Confirmed **203/203 distinct encounter assignments** remain in the matrix and the explicit seven-letter and four follow-sequence assignments are intact. **Limit:** the full 145,771-word manuscript read, 203 encounter-to-source comparisons, 109 scene-brief inspection, refreshed game-source review, independent human editorial approval, narrator-readiness and audio remain **unverified**.
