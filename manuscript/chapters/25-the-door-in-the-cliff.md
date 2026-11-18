@@ -478,7 +478,7 @@ A spacing.
 
 Two sounds separated by a pause.
 
-She had heard the two memorial stones produce a similar interval before her first mistaken repair. One rhythm had begun, and another had answered through the same casing, each distinct until her brace made the two seem fused. She still did not know whose lives the stones preserved.
+She had heard two notes from the memorial wall produce a similar interval before her first mistaken repair. One rhythm had begun, and another had answered through the same casing, each distinct until her brace made the two seem fused. She still did not know whose lives the stones preserved.
 
 That was a fact belonging to home.
 
