@@ -323,3 +323,12 @@ Documentation/audit work was performed by ChatGPT **GPT-6** under Babuni's origi
 - Added [revision issue/status log](docs/MANUSCRIPT_REVISION_LOG.md) and marked Stage 0 complete in the revision plan and roadmap.
 - Documented the difference between historical index word counts and whitespace-token counts and flagged ten later game commits affecting encounter JSON for separate source reconciliation.
 - **Documentation and structural checks only:** none of the 30 first-draft chapters, 203 source placements, game/world-canon files, audio assets or editorial approval statuses changed.
+
+## 2026-11-18 — Apply Stage 1 manuscript continuity repairs
+
+- Revised **Chapter 20** to identify Darrik's original measurements instead of a letter that had never been received; preserved the two outgoing messages and the later Chapter 28 reply.
+- Revised **Chapters 25–28** to keep the two memorial identities anonymous before the on-page inscription discovery in **Chapter 29**; removed the false attribution of owner-name knowledge to Velen.
+- Revised **Chapter 29** to stage permanent memorial opening, material delivery and replacement **during convergence**, consistent with the access requirement in Chapters 1–2; synchronized the related timing in Chapters 27 and 30.
+- Revised **Chapter 30** to complete Nemi's promised Earthsinger pebble handover without a magic reward or forced resolution.
+- Updated the [30-chapter index](manuscript/chapters/README.md) with a consistent count convention (**145,584 counted words including headings**), [Stage 1 evidence](docs/REVISION_STAGE_1_REVIEW.md), [revision log](docs/MANUSCRIPT_REVISION_LOG.md), [plan](docs/MANUSCRIPT_REVISION_PLAN.md), README, decisions and roadmap.
+- Verified **203 distinct encounter IDs** remain assigned, 30 chapters remain present, and seven chapter prose files were changed. **Still outstanding:** full chronology and literary revision, latest game source reconciliation, exhaustive encounter/source audit, independent human editorial approval, narrator/audio production and publication. The Morkahja and MorkahjaWorld repositories were unchanged.
