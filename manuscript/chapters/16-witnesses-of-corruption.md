@@ -636,7 +636,7 @@ Brunti did not ask her to stay.
 
 ***
 
-They traveled together for three more days.
+They traveled together for three more days. More than two months had passed since Brunti left her Skyland, and their paths were about to divide in opposite directions. The distance between friends would have to be crossed by ordinary letters.
 
 The wet country receded gradually. Reeds gave way to dense woodland, then to stony paths where small streams descended from the hills. They slept at wayhouses, crossed ordinary bridges and learned from different guides which stretches of road had been cut by the recent rain.
 
