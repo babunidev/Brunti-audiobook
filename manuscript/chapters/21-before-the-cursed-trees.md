@@ -40,7 +40,7 @@ Sometimes smaller was more useful.
 
 ***
 
-The journey southward became a succession of ordinary things.
+The journey southward became a succession of ordinary things. Brunti took the last position when they walked beside the wagon, watching for a child or tired traveler who might fall behind. It was work she knew from the Skyland watch; it had no glory and very little room for error.
 
 A broken harness needed mending before the cart could leave a village. At a riverside station the bridge keeper would not allow another wagon onto the timbers until his apprentice replaced a worn crossbeam. A child in a market square asked Brunti whether her stone skin could hold a flower without crushing it. She opened her palm. The flower remained intact.
 
