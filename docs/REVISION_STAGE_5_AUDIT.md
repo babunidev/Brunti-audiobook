@@ -90,7 +90,7 @@ A repository-wide GitHub tree listing at `main` identified **100 Markdown files*
 | Canon physiology, Atranor, Keldor and Skyland boundaries | Pinned lore references and targeted manuscript inspections | **Partial** |
 | Full chronology, travel, injury, letters and character positions after Stage 4 | Prior stage ledgers, all 30 chapter openings/endings in order, selected inner passages (not the full continuous text) | **OPEN: not yet complete consecutive read** |
 | Read-aloud flow and whole-book dialogue/style consistency | Paragraph lengths and targeted samples | **OPEN: no performed listening test** |
-| Local Markdown link-path integrity | Scanned **all 100 Markdown files** in the current audiobook GitHub repository tree; **1,498 relative link destinations** resolve to existing tracked files. Heading fragments, external URL availability and other markdown parser edge cases not checked | **Path targets checked; remaining checks open** |
+| Local Markdown link-path integrity | Most recent rescan: **all 101 Markdown files**, **1,542 relative link destinations** resolve to existing tracked files; heading fragments/external URL availability not checked | **Path targets checked; remaining checks open** |
 | Narrator export integrity | No narrator-ready prose export, chapter-to-track mapping or audio file was generated | **OPEN** |
 | Separate human editorial acceptance | No explicit human approval of revised full prose | **OPEN** |
 
@@ -113,3 +113,7 @@ The semantic review uncovered and corrected the female identity of **Stonefist I
 **Changed manuscript files in this package:** Chapters **2, 10, 24, 26 and 29**. Added counted words **0 + 8 + 21 + 3 + 3 = 35**. Latest indexed corpus **146,637 → 146,672** including 30 chapter headings. All **203 original matrix placements remain intact**.
 
 **Current semantic coverage:** **54/203 targeted AI source-hook comparisons** (not human-reviewed) and **149/203 still to compare directly with their scenes**. **Full continuous manuscript pass, the 149 outstanding semantic comparisons, comprehensive atlas/canon and read-aloud checks, and independent human acceptance remain OPEN.** The presence of 54 evidence rows does not mean final Stage 5 readiness.
+
+### Repo-wide relative link-path recheck after source-review additions — 18 November 2026
+
+After adding [54-ID semantic ledger](REVISION_STAGE_5_SEMANTIC_REVIEW.md) and revising the roadmap, source documents and README, a new repository-tree read found **101 Markdown files**. All 101 were fetched in seven bounded groups. A basic Markdown inline-link scan resolved **1,542 relative link destinations** against the current set of tracked files: **zero missing file targets**. This replaces the earlier snapshot's 100 files/1,498 links **for the current branch**. It still does **not** verify link-fragment anchors, HTTP(S) destinations, unusual Markdown syntax or audiovisual outputs; it is an integrity check, not acceptance of prose or source fidelity.
