@@ -98,9 +98,7 @@ Sira crouched beside her.
 
 Brunti copied the crest into her notebook. She resisted the urge to press a thumb against its exacting lock.
 
-The box might have been a treasure. It might have been an offering, a forgotten possession, or something deliberately placed beyond the reach of passing hands. Its crest was no proof of anyone's rank.
-
-She wrote: Aevis-style gilded mark, origin uncertain.
+She sketched the crest, then moved the page into the shade to compare the gilding against her lines. The box was still more beautiful than her drawing. A moss beetle climbed over the lid and disappeared beneath a leaf.
 
 “Would a keeper know?” she asked.
 
@@ -548,17 +546,19 @@ Brunti turned.
 
 Sira's expression was gentle but not yielding.
 
-Brunti looked down at her hands. The seams of crystal across her knuckles caught the sanctuary's green light. She had spent the day surrounded by objects she had not opened and places whose meanings she had not forced. Each had been easier to leave alone than the thought of her own memorial passage.
+Brunti looked down at her hands. The seams of crystal across her knuckles caught the sanctuary's green light.
 
 “I don't know,” she said at last.
 
-Sira nodded.
+Sira nodded and pulled a corner of her blanket free of a root.
 
-“That is all right.”
+“Then don't decide tonight.”
 
-Brunti almost objected. She wanted a more useful answer than permission to be uncertain.
+“I wasn't going to.”
 
-But the forest outside had grown dark, and the water continued to pass over stones it had never been asked to explain.
+“You have been staring at the same stone for a quarter of an hour.”
+
+Brunti withdrew her hand from the wall. The moss where her palm had rested was warm.
 
 She lay back against the resting place, feeling the cool support beneath her body.
 
