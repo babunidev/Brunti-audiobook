@@ -106,7 +106,7 @@ Velen made a mark beside the route.
 
 Brunti looked at the line for a moment.
 
-Then she helped carry the supplies out.
+Then she helped carry the supplies out. Before the group passed the gate, Brunti checked the straps on both litters and asked who would hold the rear of the party if they needed to turn back. She took that place herself. The skill had been taught to warriors for a reason: a person carrying someone injured must never have to be the last one watching the path.
 
 ***
 
@@ -1150,9 +1150,13 @@ Varun came from the gate with a map rolled beneath his arm.
 
 “The southern road is open,” he said. “There's a cart leaving toward the Vale at midday. You can reach the next relay before night if you go with it.”
 
+Velen checked the relay dates against the Skyland's expected gathering. A little more than a month remained. With the scheduled wagons and descent lifts, Brunti could reach home in time to stand beside Darrik when the work began. There was a place for her on this cart.
+
 Velen looked at Brunti.
 
 “We could leave.”
+
+“We should,” Brunti replied, but the words came slowly.
 
 “Yes,” she said.
 
