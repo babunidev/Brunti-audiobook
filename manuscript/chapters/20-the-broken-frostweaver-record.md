@@ -840,10 +840,4 @@ Velen considered.
 
 She folded Sira's letter and laid it beside the copy of her own message home.
 
-One journey had begun because a wall could not carry two old rhythms safely.
-
-Another might begin because a child had not reached the place where someone waited for them.
-
-They were not the same kind of unfinished story.
-
-Brunti kept the letters separate.
+Brunti placed the two letters in different sleeves. Velen pulled the station timetable toward them, and together they found the first southbound caravan whose route passed the western relief roads.
