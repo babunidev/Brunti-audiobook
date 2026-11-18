@@ -102,7 +102,7 @@ She counted a third time.
 
 Only one voice remained, the others passing beneath it too softly to distinguish.
 
-Brunti lowered the notebook. Her hand remained tight around its spine long after the voices faded. She waited in the thinning music for that particular pause, until another face opened its mouth above her.
+Brunti lowered the notebook. Her hand remained tight around its spine long after the voices faded. She waited in the thinning music for that particular pause, until something stirred in the bark above her.
 
 ***
 
