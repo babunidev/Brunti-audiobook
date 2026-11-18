@@ -574,22 +574,16 @@ After a while Brunti took out Thalen's note. She held it carefully between two f
 
 Brunti looked at the little scrap.
 
-She had expected the road to bring her to some extraordinary object: a cube that spoke in symbols, a wolf that knew the names of the dead, a stone whose sound would tell her where to strike. Instead the most reliable gift she had received that day was a referral written by an old bookbinder.
+Thalen's writing was small enough that she had to tilt the paper toward the lanterns. The name remained clear, but an ink blot beside it looked almost like a second initial.
 
-Sira glanced at her.
+“Would he be offended if we went back to ask?” she said.
 
-“What are you thinking?”
+“He might charge you for another lesson in reading,” Sira replied.
 
-“That I have spent too long looking for things that will speak before I ask who wrote them.”
-
-Sira considered this.
-
-“Then we are going to the right city.”
+Brunti tucked the slip into the ledger sleeve. This time she knew whose name to ask for.
 
 The road bent between low hills, carrying the warm smell of evening meals from the caravan shelters ahead. Somewhere beyond the dark fields, Aetherion waited with its markets, its workshops and the great archive where a missing maker's mark might still have left a trace.
 
 Brunti put the note away beside the ledger copy.
 
-She had no answer to take home.
-
-For the first time, she had a particular place to ask for one.
+A cart driver called a late greeting to Sira. She answered with three sung notes that made the man's tired horses prick their ears.
