@@ -84,7 +84,7 @@ A pause.
 
 The old memorial had done that when she first came to work beneath its casing.
 
-One rhythm had belonged to Tavra's stone. The other, Velen had later helped her understand, belonged to Korrum's. The two records had been given one housing by an earlier repair, though neither person's memory was a continuation of the other's.
+The two rhythms had come from separate places beneath one old casing. Velen's incomplete drawing suggested how two records might have been housed together, but neither of them had learned whose stones they were. One person's memory could not be made into a continuation of another's.
 
 Brunti had once mistaken their overlapping resonance for a problem a better brace could solve.
 
@@ -906,7 +906,7 @@ A pause.
 
 Then again.
 
-She knew how easily she could make those two movements belong to the memorial at home. Tavra and Korrum had been two lives, held separately even when their echoes had overlapped. Their names deserved to be spoken by people who remembered them, not used as an answer to every ancient rhythm.
+She knew how easily she could make those two movements belong to the memorial at home. Two lives had left separate echoes there, even when the old casing made their rhythms overlap. Their unknown names deserved evidence from their own history, not an answer borrowed from every ancient sound.
 
 Brunti withdrew her hand.
 
