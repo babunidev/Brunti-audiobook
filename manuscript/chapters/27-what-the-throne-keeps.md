@@ -966,11 +966,7 @@ Velen wrote *sound perceived; source uncertain*.
 
 Brunti watched the pencil move.
 
-The words were few.
-
-They were not sufficient to carry the scale of what she remembered.
-
-They were sufficient to keep her from inventing the rest.
+The words were few. Velen set the pencil down for a moment and flexed their writing hand. Brunti watched the ink turn dull as it dried.
 
 “I thought the place was alive,” she said.
 
