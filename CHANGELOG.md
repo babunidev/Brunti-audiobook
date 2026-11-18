@@ -332,3 +332,13 @@ Documentation/audit work was performed by ChatGPT **GPT-6** under Babuni's origi
 - Revised **Chapter 30** to complete Nemi's promised Earthsinger pebble handover without a magic reward or forced resolution.
 - Updated the [30-chapter index](manuscript/chapters/README.md) with a consistent count convention (**145,584 counted words including headings**), [Stage 1 evidence](docs/REVISION_STAGE_1_REVIEW.md), [revision log](docs/MANUSCRIPT_REVISION_LOG.md), [plan](docs/MANUSCRIPT_REVISION_PLAN.md), README, decisions and roadmap.
 - Verified **203 distinct encounter IDs** remain assigned, 30 chapters remain present, and seven chapter prose files were changed. **Still outstanding:** full chronology and literary revision, latest game source reconciliation, exhaustive encounter/source audit, independent human editorial approval, narrator/audio production and publication. The Morkahja and MorkahjaWorld repositories were unchanged.
+
+## 2026-11-18 — Implement Stage 2 plot, chronology and character revisions
+
+- Updated **13 novel chapters** (1, 2, 11, 13, 14, 16, 20, 21, 23, 24, 27, 28 and 29) with a consistent **approximately six-month** local convergence schedule and visible time markers.
+- Strengthened Brunti's **particular reluctance to account to her home community** with an incomplete record, rather than erasing the learning she earned by Chapter 20.
+- Made the **safe homeward wagon and held seat** explicit in Chapter 23–24, and the wrong Blackwood choice consequential for relationships and arrival time.
+- Added an **ordinary external discovery, injury care, ridge-post/relief wagon and courier notification** around Chapter 27 without revealing any Blackwood exit mechanism; aligned Chapter 29's testimony accordingly.
+- Reinforced the protagonist's **female Grimnir warrior/protector identity** through safe routes, watch duty, beam risk assessment and injured-person escort rather than additional fights.
+- Updated the [chapter index](manuscript/chapters/README.md) to **146,505 counted words**, the [Stage 2 verification report](docs/REVISION_STAGE_2_REVIEW.md), [revision log](docs/MANUSCRIPT_REVISION_LOG.md), roadmap, project README and story planning notes.
+- **Verification scope:** 30 chapter files remain; 203 unique encounter assignments retained. These are targeted edited drafts, **not independent human acceptance or a full literary/source/atlas audit**. Morkahja game/world repositories, voice scripts and audio files unchanged.
