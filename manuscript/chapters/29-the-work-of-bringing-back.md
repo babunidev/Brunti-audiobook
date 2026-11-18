@@ -410,7 +410,7 @@ People had protected one another.
 
 Darrik laid out the work schedule.
 
-A new support had been prepared and checked in a separate bay. With convergence approaching, the outer wall could be opened fully without depending on the unstable memorial join. A temporary cradle would hold the two old stones while their casing was lifted.
+A new support had been prepared and checked in a separate bay. The remaining materials and safe access to the outer wall would come with the approaching convergence, just as Darrik had promised before Brunti left. Until then, the old panel would stay isolated from the resting chambers. A temporary cradle was ready to hold the two stones when their casing could finally be lifted.
 
 “The transfer can proceed whether or not we identify the old inscriptions,” he said.
 
@@ -482,9 +482,9 @@ No one was asked to applaud.
 
 ***
 
-The work began the next morning.
+The convergence came several days later. Temporary bridges of stone and light joined the neighboring Skylands, and the remaining fittings passed into the craft stores. A service platform was secured beside the outer wall. Only after Darrik's crew checked the access and the separate supports of the resting chambers did he permit the permanent work to begin.
 
-Brunti arrived at the memorial court with her wrist still in its brace and a written list of tasks she could perform without bearing a heavy load. Darrik had assigned the lifting to a crew who knew the old stone's weight. Velen stood near the worktable with the Aetherion drawing and the original Skyland ledger copy.
+The following morning, Brunti arrived at the memorial court with her wrist still in its brace and a written list of tasks she could perform without bearing a heavy load. Darrik had assigned the lifting to a crew who knew the old stone's weight. Velen stood near the worktable with the Aetherion drawing and the original Skyland ledger copy.
 
 The caretaker waited at the far end of the corridor.
 
@@ -908,7 +908,7 @@ That was enough for the afternoon.
 
 The Skyland held a modest gathering when the work was accepted.
 
-It was not a great victory feast. The city's people had other tasks, and the convergence preparation continued beyond the archive court. But the workers brought warm food, the memory-keeper invited those who had tended the old passage, and the caretaker from the resting chamber came for a short while after her shift.
+It was not a great victory feast. The city's people had other tasks, and the larger work of the convergence continued beyond the archive court. But the workers brought warm food, the memory-keeper invited those who had tended the old passage, and the caretaker from the resting chamber came for a short while after her shift.
 
 Brunti sat with Velen near the side wall.
 
