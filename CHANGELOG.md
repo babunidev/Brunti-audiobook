@@ -424,3 +424,15 @@ The Nereval river-rune question, remaining 95 source-scene checks, full-book/can
 - Updated README, roadmap, manuscript plan/index, Stage 5 audit, sources, decisions, Chapter 17 review and journal; flagged Ch16's twelve corruption reports and Ch20's nine northern sites for future spoken-comprehension testing.
 
 **Not completed:** 26 remaining source checks, continuous book/canon/atlas and 109-scene-brief audit, actual read-aloud, independent human line approval, rights clearance, narrator production, audio mastering or publication.
+
+## 2026-11-18 — Stage 5 individual encounter coverage reaches 203/203
+
+- Added [Stage 5 continuation F](docs/REVISION_STAGE_5_CONTINUATION_06.md), auditing the **last 26 individually unreviewed game encounter IDs** across Chapters **2, 21, 22, 23, 24 and 25**, against current `Morkahja` `2ba61f5a6bc`, original literary `952437c5c59d`, actual prose passages and relevant pinned MorkahjaWorld pages. **26/26 complete game source objects unchanged** between the two snapshots.
+- Combined with the five earlier semantic ledgers, **203/203 distinct ID-to-existing-novel scene hooks individually checked**, **zero IDs remaining without targeted comparison**. This is **not** equivalent to human editorial acceptance, exhaustive 109-brief functional analysis or final audiobook readiness.
+- Fixed [Chapter 22](manuscript/chapters/22-the-price-of-warning.md): button described as “almost” lost because the grumpy merchant later **returns it**, before coins change hands; **4,813 → 4,814 words**.
+- Fixed [Chapter 25](manuscript/chapters/25-the-door-in-the-cliff.md): merged repeated rest-against-wood phrasing, preserving the Blackwood Guardian's unexplained transition; **5,407 → 5,398 words**.
+- Refetched and recounted **all thirty full chapter files**, now **146,733 counted words including headings** (net **−8**).
+- Updated source audit, roadmap, manuscript revision plan/index, Chapter 22/25 internal reviews, README and development log. **Nereval healing-entry adaptation and compatible older lore remain approved for the novel**, not live game rules.
+- **Still open:** complete 109-scene brief/function check, uninterrupted literary/continuity/canon/atlas read, actual spoken pacing tests (including Ch24's twenty encounters), independent human full manuscript approval, audio/rights/recording/mastering/release.
+
+**No source-game/world code or lore repository changes, no audio render, no publication.**
