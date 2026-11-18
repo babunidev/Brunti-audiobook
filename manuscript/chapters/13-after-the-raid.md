@@ -70,7 +70,7 @@ Alen glanced at the branch of clay pipe protruding beneath the fallen beam.
 
 “Two are injured. The others are trying to keep the lower gardens alive. Why?”
 
-“Because that beam is holding the water out of the village.”
+“Because that beam is holding the water out of the village.” Brunti had the eye of a guard as well as a craft worker. She followed the possible fall of the timber to the nearest occupied doorway, then stepped aside so the people who lived there could show her which path still needed to stay open.
 
 “Yes,” Alen said. “We know.”
 
