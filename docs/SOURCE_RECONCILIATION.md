@@ -283,3 +283,24 @@ Compared every field of all **203** current records at [game `952437c5c59d`](htt
 The 30-chapter word-count audit found **145,229 words prior to these edits, then +39+115 = 145,383 words including 30 headings**. Final unique-ID matrix remains **203/203 Draft v1**, **0 planned**, and no independently approved chapters. The `00002` **Level up!** encounter description is still exactly `Levelup!`, newly integrated as Chapter 30 **Metaphor**, not a numerical gain.
 
 **Twenty-three consecutive source refreshes:** 19 + 5 + 1 + 2 + 1 + 1 + 8 + 5 + 5 + 4 + 2 + 8 + 2 + 4 + 2 + 5 + 2 + 2 + 2 + 7 + 2 + 6 + 4. Current full encounter content pin `952437c5c59da26a2f873f1a18590496f88a2354`; world lore pin unchanged `f56a7c3d2034652e1c5961f0ece9c3ef52b52b48`. **Not completed:** full independent source-by-source manuscript literary check, geographic/chronology edits, human approval, narration/audio and publication.
+
+## Stage 5 source-field comparison — 18 November 2026 (current game `cf7c285`)
+
+**Actual comparison performed by ChatGPT (GPT-6):** parsed `server/game/encountersdata.json` at the original literary-reviewed source [`952437c5c59da26a2f873f1a18590496f88a2354`](https://github.com/babunidev/Morkahja/blob/952437c5c59da26a2f873f1a18590496f88a2354/server/game/encountersdata.json) (blob `959e3911338014d0c0abc60194542ede26e31d81`) and at the latest observed game `main` [`cf7c285a469ce9db44583e034ec7bf45e272bd84`](https://github.com/babunidev/Morkahja/blob/cf7c285a469ce9db44583e034ec7bf45e272bd84/server/game/encountersdata.json) (blob `5df2cc76e80287f29a10bf2a2214338707e7bd09`). GitHub commit comparison found **37 commits** between these game revisions, with encounter-data changes among other game changes.
+
+Both JSON objects contain **203 encounter records**. Object-by-object and field-by-field comparison found **exactly 33** changed encounter records, **IDs 20158 through 20190 inclusive**. For each, the **sole changed field is `mEncounterText`**. No encounter was added/removed; IDs, titles, rewards, solutions, images, other gameplay fields and explicit `mEncounterFollow` links were unchanged. The source uses zero-padded object keys **`00001` / `00002`**, whose internal `mEncounterID` values are 1 and 2; the numeric novel matrix correctly includes both.
+
+| Literary chapter | Updated source IDs (current game) | Count |
+| ---: | --- | ---: |
+| 3 | 20185 — Earthsinger's Challenge | 1 |
+| 4 | 20186 — Melody's Bloomwalker | 1 |
+| 10 | 20187–20190 — Ember's Journeykindler, Mystic Hearth's Seal, Zephyr's Embrace, Veilwalker | 4 |
+| 11 | 20181–20184 — Archive of Echoes, Aetherion Forge, Harmonic Concert, Garden of Elements | 4 |
+| 18 | 20176 — Frostclaw Behemoth | 1 |
+| 23 | 20162, 20167–20175 and 20177 — forest witnesses, survivors and Shadowmarket Mystic | 11 |
+| 24 | 20158–20161, 20163–20166 and 20178–20180 — corrupted Keldor paths and figures | 11 |
+| **Total** | **33 description updates** | **33** |
+
+The descriptions retain broadly similar identities and observable encounter hooks. Focused comparison checked, among others, the Earthsinger's artistry exchange (Ch3), Aetherion's conflicting speaking books (Ch11), the Skylore Scholar's missing food and stick sketch (Ch23), Flamecrazed Wanderer's fire and broken song (Ch24) and the Atranor/Level up! special literary forms (Ch28/30). The [automated 203-ID paragraph locator](STAGE_5_ENCOUNTER_LOCATORS.md) is available as a **review aid only**. The [Stage 5 audit](REVISION_STAGE_5_AUDIT.md) explicitly leaves **203 per-ID semantic/source literary certification pending**; these changes **must not be mislabeled as fully reconciled manuscript prose** solely because their game fields were compared. No author approval or game/world repo modification took place.
+
+**Source-revision status after this check:** `952437c5c59d` remains the **last fully integrated literary source pin**; `cf7c285a469c` is the **newly field-compared game snapshot with outstanding passage-level review**. The unchanged world pin remains `f56a7c3d2034`. No audio or publication claim.
