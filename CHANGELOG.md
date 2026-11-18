@@ -381,3 +381,13 @@ Documentation/audit work was performed by ChatGPT **GPT-6** under Babuni's origi
 - Replaced three small stopped/held-breath lines with physical observations in Chapters **24, 26 and 29**, without assuming a definitive Grimnir respiration law.
 - **Five prose files edited** this package: Ch2, Ch10, Ch24, Ch26 and Ch29; updated the [chapter index](manuscript/chapters/README.md): **146,637 → 146,672 counted words (+35)**; 30 chapters, 203 original placement IDs and all follow links retained.
 - **Stage 5 final gate still OPEN:** 149 additional direct ID/scene checks; uninterrupted full manuscript continuity/line audit; complete canon/atlas and spoken-readability tests; separate human editorial approval. No narrated/mixed/produced audio or release.
+
+## 2026-11-18 — Stage 5 additional source and manuscript audit
+
+- Reviewed 17 previously unchecked Chapter 3–4 source passages and three more encounter scenes (20191–20193); rechecked already-counted Veilwalker 20190 and Level up! 2. **74/203 distinct source IDs have targeted semantic inspection; 129 await it.**
+- Compared current game revision `2ba61f5a6bc` to `cf7c285a469c` and initial literary baseline `952437c5c59d`: five newly updated description fields in the latest interval and 37 distinct text-only differences cumulatively, with all 203 IDs and follow metadata preserved.
+- Corrected Chapter 10 for Veilwalker silhouette/tendrils and Slumbering Ogru's slipping coin; corrected Chapter 12 for Nereval threshold/rune and the Joyful Riverkeeper bark detail.
+- Recounted all 30 chapter files: **146,742 words including headings** (+70); updated chapter index, README, roadmap, plan, source ledger, semantic evidence and audit.
+- Kept the Nereval literal river-mark versus novel symbolic-access question open for human source-fidelity judgment; the final Stage 5 gate and audio production remain unapproved/unstarted.
+
+No external game-world source, Morkahja canon, narrated audio or publication was changed.
