@@ -301,3 +301,11 @@ All work is novel first-draft prose drafted by ChatGPT GPT-6 under Babuni's orig
 - **Final first-draft milestone:** **30/30 chapters; 145,229 words including chapter headings; 203/203 distinct game encounters adapted; 0 independent editorial approvals.** This is **not** a final literary edition or recorded audiobook; proofreading, structural editing, verified comprehensive source audit, human creative acceptance, rights checks, voice scripts, recording, mastering and release remain outstanding.
 
 Created/drafted/checked via ChatGPT **GPT-6** under **Babuni's original human creative direction**. No change to Morkahja game mechanics, MorkahjaWorld canon or externally controlled media.
+
+## 2026-11-18 — Post-first-draft structural story audit and final Keldor source delta
+
+- Added [whole-manuscript story audit](docs/WHOLE_MANUSCRIPT_STORY_AUDIT.md), a **targeted internal GPT-6 editorial review** of 30 chapter transitions, decisive source/letter/identity scenes and the existing story planning documents. Confirmed **two cross-chapter contradictions still present in prose**: Tavra/Korrum named in Chapters 25–28 before their Chapter 29 discovery, and the convergence-only materials/access requirement in Chapters 1–2 conflicting with the Chapter 29 pre-convergence rebuild. Character motive, Blackwood survival, repeated lessons and promised secondary details remain editorial proposals to review, **not fixed**.
+- Reconciled the subsequent twenty-third game `mEncounterText`-only source update **20153, 20155–20157** against `952437c5c59d` in existing Chapters 22 (**4,830→4,869; +39 words**) and 24 (**5,617→5,732; +115 words**). No game ID or follow metadata changed. Updated source ledger, historical chapter reviews, Chapter 30 review and source reconciliation.
+- Adjusted the manuscript index, README and roadmap to **30 first-draft chapters, 145,383 words including headings, 203/203 unique game IDs drafted, zero planned**; separate **editorial consistency, exhaustive audit, human approval, audiobook rights and audio production are not complete**.
+
+Documentation/audit work was performed by ChatGPT **GPT-6** under Babuni's original creative direction. No storyline correction was silently committed, no external reviewer approval obtained and no game/world canon changed.
