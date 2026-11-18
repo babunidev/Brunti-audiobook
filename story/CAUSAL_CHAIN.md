@@ -81,3 +81,16 @@ A strong chapter should change what the next chapter can happen *because of*, ev
 **Ch. 28 — Atranor:** The realm is canonically real, but a mortal report's provenance is uncertain. Do not invent a certain future, automatic resurrection or return from reincarnation with memory intact.
 
 **Next check:** [scene-planning continuity audit](../docs/SCENE_CONTINUITY.md) now records some confirmed guardrails and remaining issues. Complete the paragraph-by-paragraph source comparison, detailed geography and timeline validation, and independent beat-sheet editing before declaring these ready-to-write final chapter briefs.
+
+## Stage 2 revised-prose causal notes (18 November 2026)
+
+This planning document's original 30-chapter table is retained as its historical working design. [Stage 2's edited manuscript and evidence](../docs/REVISION_STAGE_2_REVIEW.md) refine several linked turns:
+
+- **Ch1–2:** terrace watch training gives Brunti practical protective skill, making her failure to account for an unseen inhabited chamber a consequential mistake. The local council projects a **roughly six-month** convergence window.
+- **Ch11 → Ch20:** the fear of facing **her own** community with an incomplete answer persists despite Brunti's developing evidence discipline. Months pass in ordinary travel; the fourth month is the explicit Ch20 anchor.
+- **Ch20 → Ch23:** a real missing-child lead justifies continued travel, but Ch23 establishes a **safe, timely wagon** home after the rescue.
+- **Ch23 → Ch24:** Brunti declares they should leave, then **knowingly gives up her held seat** to seek an unnecessary Blackwood revelation. She forfeits companionship and reliable arrival before convergence, not her ability to help a trapped child (already rescued).
+- **Ch25–27:** Blackwood remains a disorienting, ordered game encounter sequence. Two wardens find Brunti **outside the unknown inner passage** at an exterior boundary marker; an ordinary litter, ridge post, wagon and station message explain access to care and Sira's whereabouts, not the uncanny escape.
+- **Ch28 → Ch29:** Darrik's dated notice narrows the convergence window; ordinary staffed travel returns Brunti with an injured wrist. Her truthful council testimony states **both** the physical evidence and her personal cowardice in delaying return. Actual memorial work waits for the convergence materials and access established in Stage 1.
+
+This is a **revision note**, not a claim that the source encounters were rechecked one by one or that new fiction has entered MorkahjaWorld canon. Stage 3's full literary rhythm, scene function and repetition pass remains outstanding.
