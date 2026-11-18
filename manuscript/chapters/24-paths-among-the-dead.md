@@ -336,7 +336,7 @@ An enormous footstep pressed the leaf litter flat ahead.
 
 Brunti climbed onto a low stone and looked through the branches.
 
-A giant figure moved across the dim ground. Pallid flesh hung from an Ogru-like frame, exposing bone and dark sinew in places. Its empty eye sockets faced forward without following the branches that struck its face.
+A giant figure moved across the dim ground. Pallid flesh hung from an Ogru-like frame, exposing bone and dark sinew in places. Its slack mouth showed broken teeth, and hollow eye sockets faced forward without following the branches that struck its face. Between ponderous steps it held so still that only a faint grinding from inside the ruined body suggested its next movement.
 
 One arm caught against the underbrush.
 
@@ -344,7 +344,7 @@ The body kept walking until the branch broke.
 
 The sound brought no change to its expression.
 
-The Lumbering Necrobrute advanced in pauses, each ponderous step separated from the next by a silence long enough for Brunti to think it had stopped. Then another foot rose, leaving a deep impression behind.
+The Lumbering Necrobrute advanced in pauses, each ponderous step separated from the next by a silence long enough for Brunti to think it had stopped. Then another foot rose and hung above the wet earth for a long moment before falling with a heavy thud, leaving a deep impression behind.
 
 She stayed on the high stone until it passed.
 
@@ -448,7 +448,7 @@ The answer did not come.
 
 ***
 
-At twilight she reached a grove where the trees had fallen long ago.
+At twilight she reached a grove where the trees had fallen long ago. One passing wisp briefly drew the shape of a pale face upon a rotten trunk; when it moved on, only cracked bark remained.
 
 Rotting stumps stood among the wet ground, their edges softened by mist. Faint lights drifted between them, vanishing whenever the fog thickened and returning farther away.
 
@@ -460,7 +460,7 @@ A whisper came through the fog.
 
 No leaves moved with it.
 
-The lights gathered near a hollow trunk, then separated. Its opening became dark again.
+The lights gathered near a hollow trunk, revealing smooth, worn curves within the old wood and a narrow recess that seemed to continue beneath tangled roots. Then they separated. Its opening became dark again.
 
 Brunti stood among the decaying wood and listened.
 
@@ -508,7 +508,7 @@ Brunti approached carefully.
 
 A side route appeared between two trunks. Its ground seemed firm. Then a dark shadow crossed it, though she could find no source above the trees. Beyond, a second opening repeated the same bend.
 
-The blue-white glow remained visible through both.
+The blue-white glow remained visible through both. As mist covered the first side passage, only a few pale stones along the original path stayed distinct; the light gave no sign of which turn would reach it.
 
 She tried the left branch first.
 
