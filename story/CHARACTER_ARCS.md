@@ -89,3 +89,11 @@ The two are **not revealed as divine emissaries, parents of Brunti, ancient crea
 **Cast discipline:** no chosen romance, destiny, invented master villain or additional divine figure. New surnames, private biographies and spoken lines enter only as clearly novel-authored material.
 
 **Related:** [story spine](STORY_SPINE.md) · [chapter causal chain](CAUSAL_CHAIN.md) · [game and world sources](../docs/SOURCES.md).
+
+## Stage 2 novel-draft refinement — personal flaw and protector (18 November 2026)
+
+The [targeted Stage 2 prose revision](../docs/REVISION_STAGE_2_REVIEW.md) clarifies **what Brunti has not learned by Chapter 20**: she has genuinely accepted that safe transfer should proceed, but she cannot easily stand before the caretaker, Darrik and Nemi admitting she lacks the missing memorial identities. Her blind spot is **fear of being seen as the protector who caused harm and returned without a triumphant answer**, not universal ignorance about evidence. The northern journey ends with a truthful letter; Keldor's successful rescue provides an ethical reason to turn home; Blackwood is a knowingly **self-directed relapse**, not a secret solution. The safe wagon is available and declined in Chapter 24. Her injured return forces her to confront the people she left waiting. Chapter 29 now has her admit that fear openly.
+
+Her warrior identity is integrated through **Skyland terrace watch training**, assessing a beam near occupied rooms, escorting wagons from the rear and protecting litter bearers along Keldor's marked routes. These are **novel biography and scene choices**, not claims about avatar backstory in the original game. Sira continues her independent relief work and is legitimately angry; Velen preserves evidence independently; Darrik's careful repair does not depend on Brunti being heroic.
+
+**Clock selected for this draft:** about six months until the particular Skyland convergence at Brunti's departure, documented against Chapters 2, 14, 16, 20, 23–24 and 28–30. **Blackwood recovery:** mundane wardens/litter/ridge-post/wagon from a known exterior marker to the lazaret, but no proven route from the Silent Throne to that exterior site. These choices are **committed AI-written literary drafts under delegated authority**, not human final approval or source-world canon.
