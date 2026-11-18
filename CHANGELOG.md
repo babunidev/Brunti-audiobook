@@ -309,3 +309,9 @@ Created/drafted/checked via ChatGPT **GPT-6** under **Babuni's original human cr
 - Adjusted the manuscript index, README and roadmap to **30 first-draft chapters, 145,383 words including headings, 203/203 unique game IDs drafted, zero planned**; separate **editorial consistency, exhaustive audit, human approval, audiobook rights and audio production are not complete**.
 
 Documentation/audit work was performed by ChatGPT **GPT-6** under Babuni's original creative direction. No storyline correction was silently committed, no external reviewer approval obtained and no game/world canon changed.
+
+## 2026-11-18 — Document staged manuscript repair plan
+
+- Added [the six-stage manuscript revision plan](docs/MANUSCRIPT_REVISION_PLAN.md), with issue identifiers R1–R13, affected chapter groups, editing sequence and acceptance checks.
+- Linked the proposed stages from the roadmap and recorded AI-authored planning provenance and unapproved options in the decision/development documents.
+- **Documentation only:** no manuscript chapter, game encounter, MorkahjaWorld canon, audio production or release status changed. All fixes remain outstanding.
