@@ -2,7 +2,7 @@
 
 **18 November 2026 | Status: IN PROGRESS, NOT editorially accepted.** ChatGPT (**GPT-6**) conducted source-data comparison, 30-chapter structural and focused prose checks, lore-reference inspection and one documented copyedit under Babuni's instruction to proceed to Stage 5. **The final Stage 5 gate is NOT passed.** The required uninterrupted full-book read, individual semantic approval of every encounter, read-aloud performance check and separate human acceptance have **not** been completed.
 
-**Book revision at start:** audiobook `df0fbe8f370981ec870d8da621435fcda27f8c68` (end of Stage 4), [original revision plan](MANUSCRIPT_REVISION_PLAN.md). **Revised manuscript:** 30 chapters, **146,662 counted words** including chapter headings after the Stage 5 Chapter 3 copyedit. Method: whitespace-separated tokens containing at least one Unicode letter or numeral, as in the [chapter index](../manuscript/chapters/README.md). This is **+3** counted words from 146,659 at Stage 4. Source encounter matrix remains unmodified.
+**Book revision at start:** audiobook `df0fbe8f370981ec870d8da621435fcda27f8c68` (end of Stage 4), [original revision plan](MANUSCRIPT_REVISION_PLAN.md). **Revised manuscript:** 30 chapters, **146,637 counted words** including chapter headings after the Stage 5 Chapter 3 copyedit. Method: whitespace-separated tokens containing at least one Unicode letter or numeral, as in the [chapter index](../manuscript/chapters/README.md). This is **−22** counted words from 146,659 at Stage 4. Source encounter matrix remains unmodified.
 
 ## 1. Source revisions and structural provenance — verified
 
@@ -42,7 +42,7 @@ The current game source includes **10 nonzero `mEncounterFollow` links**. Every 
 - Nereval entry / sanctuary: **20192 → 19001**, Chapter **12**.
 - Everwinter follow pair: **20130 → 20131**, Chapter **19**.
 
-Focused manuscript inspections found the original Blackwood portal and root maze in Chapter 25, the Choir / Mire / Procession material in Chapter 26, and the Silent Throne followed by the Verdani healer and ordinary post-abyss care in Chapter 27. The seven distinct letter-stone encounters remain in Chapter 4; their intended **A H K J O M A** order and absence of a decoding are retained in the prior continuity records, but a fresh independent letter-by-letter semantic acceptance remains outstanding.
+Focused manuscript inspections found the original Blackwood portal and root maze in Chapter 25, the Choir / Mire / Procession material in Chapter 26, and the Silent Throne followed by the Verdani healer and ordinary post-abyss care in Chapter 27. A direct paragraph-by-paragraph inspection of [Chapter 4](../manuscript/chapters/04-letters-without-a-word.md) found the seven engraved letters in sequence: **A** (paragraph 6), **H** (44), **K** (62), **J** (80), **O** (94), **M** (110) and **A** (133). Paragraph 137 actually assembles **A H K J O M A**. Brunti offers no established decoding. This check used the chapter prose itself, not only the matrix.
 
 **Special modes:** [Chapter 28](../manuscript/chapters/28-a-story-about-the-end.md) presents Atranor as **Tarnel's inherited secondhand story**, not Brunti's eyewitness experience. [Chapter 30](../manuscript/chapters/30-the-note-that-remains.md) uses game ID 2 as a **change in craft judgment**, not a numerical or game-system level-up.
 
@@ -62,9 +62,16 @@ The following **actual pinned world files** were reopened and compared with manu
 
 All **30 chapter files were reopened** in grouped scans for passage structure, duplicate neighboring paragraphs, weak source-specific lexical matches, obvious human-anatomy mistakes, and paragraph length. No verbatim consecutive paragraph duplicates were found by this automated check. Most single paragraphs are below 100 whitespace words; Chapter 19 contains one approximately **123-word testimony paragraph** worth a live read-aloud check, but this is not by itself a literary defect.
 
-**Actual correction:** [Chapter 3 — A Road Made of Grass](../manuscript/chapters/03-a-road-made-of-grass.md) initially said a second trader added a *silver handle* although the preceding narration added a *silver box and golden clasp*. The later question about an unmentioned handle contradicted the narrative. Stage 5 changed the paragraph to refer to the invented box, clasp and name, and changed the trader's question to **“Was the clasp wrong?”** Brunti answers that it had not appeared in the first account. This restores the joke's causal order without altering either source encounter. The word count is **3,221 → 3,224** (+3), book count **146,659 → 146,662**.
+**Actual manuscript corrections from Stage 5:**
 
-**Not performed:** an uninterrupted **full 146,662-word human-like literary close-read**, listening to all of it spoken, professional line/copyedit, pronunciation checks, narrator files or finished audio. Paragraph/term scans cannot substitute for those tasks.
+1. [**Chapter 3 — A Road Made of Grass**](../manuscript/chapters/03-a-road-made-of-grass.md) initially let a trader add a *silver handle* while the preceding narration said he had improvised a *silver box and golden clasp*. His following dialogue then denied ever mentioning a handle. The passage now refers consistently to the invented **box, clasp and name**, and the trader asks about the **clasp**. A sequential opening/ending check also found the chapter **closed its notebook and immediately left a page open under a cup**. The contradictory last sentence was removed; the chapter now ends naturally with Brunti **closing the notebook**. Overall chapter change **3,221 → 3,207 counted words** (−14).
+2. [**Chapter 11 — The City of Listening**](../manuscript/chapters/11-the-city-of-listening.md) repeated nearly the same gesture on adjacent lines at its ending: feeling a folded drawing through its cloth, then touching the same folded paper through that cloth. The redundant gesture was removed without changing the source sketch, Velen's role or the scene's meaning. Chapter change **5,211 → 5,203 counted words** (−8).
+
+**Book total after these copyedits: 146,637 counted words** (−22 from Stage 4's 146,659). All edits are actual GitHub commits, not only proposals.
+
+**Chapter-transition check performed:** The **first three and final five substantive paragraphs of all thirty chapter files** were viewed in book order. Adjacent chapter handoffs, including Ch16 → Ch17 (Sira's departure), Ch17 → Ch18 (mountain fire/post), Ch20 → Ch21 (southbound return), Ch23 → Ch24 (safe wagon declined), Ch24 → Ch27 (Blackwood escalation), Ch28 → Ch29 (Skyland lift) and Ch29 → Ch30 (court settled), were cross-checked for obvious timing and party breaks. A seeming Ch13 → Ch14 contradiction was **resolved by opening Chapter 14's actual text**: Chapter 13 sends Brunti and Velen *out* for a replacement feeder pipe; Chapter 14 begins after they **return** to the same village to install it. This was **not** an omission or timeline error; no speculative patch was made. The handoff scan is still **less than the required uninterrupted full 30-chapter literary read**.
+
+**Not performed:** an uninterrupted **full 146,637-word human-like literary close-read**, listening to all of it spoken, professional line/copyedit, pronunciation checks, narrator files or finished audio. Paragraph/term scans cannot substitute for those tasks.
 
 ### Internal Markdown link-path test — 18 November 2026
 
@@ -74,12 +81,12 @@ A repository-wide GitHub tree listing at `main` identified **100 Markdown files*
 
 | Stage 5 gate | Evidence so far | Status |
 | --- | --- | --- |
-| 30 indexed manuscript chapters and standardized word recount | Chapter sources + index, total **146,662** | **Checked structurally** |
+| 30 indexed manuscript chapters and standardized word recount | Chapter sources + index, total **146,637** | **Checked structurally** |
 | 203 game records vs 203 matrix assignments vs 203 scene-brief ID entries | Direct machine parses, all numeric IDs match and chapter assignments agree | **Checked structurally** |
 | 33 newer source prose records compared by JSON field | **Only** `mEncounterText` changed at IDs 20158–20190 | **Checked field-by-field** |
 | 203 manuscript integration identities/faithfulness | [Automated candidate locator register](STAGE_5_ENCOUNTER_LOCATORS.md), **24 low-overlap flags**; focused examples read | **OPEN: not semantically certified per ID** |
 | Canon physiology, Atranor, Keldor and Skyland boundaries | Pinned lore references and targeted manuscript inspections | **Partial** |
-| Full chronology, travel, injury, letters and character positions after Stage 4 | Prior stage ledgers, selected late-chapter cross-reads | **OPEN: not yet complete consecutive read** |
+| Full chronology, travel, injury, letters and character positions after Stage 4 | Prior stage ledgers, all 30 chapter openings/endings in order, selected inner passages (not the full continuous text) | **OPEN: not yet complete consecutive read** |
 | Read-aloud flow and whole-book dialogue/style consistency | Paragraph lengths and targeted samples | **OPEN: no performed listening test** |
 | Local Markdown link-path integrity | Scanned **all 100 Markdown files** in the current audiobook GitHub repository tree; **1,498 relative link destinations** resolve to existing tracked files. Heading fragments, external URL availability and other markdown parser edge cases not checked | **Path targets checked; remaining checks open** |
 | Narrator export integrity | No narrator-ready prose export, chapter-to-track mapping or audio file was generated | **OPEN** |
