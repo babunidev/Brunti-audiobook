@@ -17,15 +17,15 @@ Turn the existing **30-chapter, 145,383-word first draft** into a coherent, vari
 
 ## Stage 0 — Lock the baseline and map the dependencies
 
-**Before prose edits.**
+**Completed 18 November 2026 as a documentation and structural baseline (not a prose revision).** See [30-file/203-ID snapshot](REVISION_STAGE_0_BASELINE.md), [chronology/knowledge/objects ledger](../story/REVISION_CHRONOLOGY_AND_OBJECTS.md), [chapter-function map](../story/REVISION_CHAPTER_FUNCTIONS.md), and [revision log](MANUSCRIPT_REVISION_LOG.md). The game source has advanced by ten commits since the pinned reviewed encounter baseline; individual new prose changes remain to be reconciled before source-specific manuscript changes.
 
-- [ ] Snapshot the 30 draft paths/word counts and confirm the [203-entry encounter placement matrix](../story/PLACEMENT_MATRIX.md) against the current manuscript. Record exact starting commit and source revision; check for later game-text changes before each source-specific edit.
-- [ ] Build a **chronology and travel ledger** from Chapter 1 through Chapter 30: departure, settlements and regions, time elapsed, seasonal references, Sira/Velen separations/reunions, messages sent and received, convergence preparations, Blackwood recovery and arrival home.
-- [ ] Build a **clue/knowledge/prop ledger**: anonymous two-stone observation, Aetherion drawing, first verified owner names, who knows what when, Brunti's tools, Nemi's pebble and letters to/from Darrik and Sira.
-- [ ] Prepare a short **chapter-function map**: for each chapter, the changed circumstances, principal dramatic function and consequence for the next chapter; flag repeats without assuming every source encounter needs an independent scene.
-- [ ] Establish a small change log for revision passes, including proposed vs accepted choices.
+- [x] Snapshot the 30 draft paths/word counts and confirm the [203-entry encounter placement matrix](../story/PLACEMENT_MATRIX.md) against the current manuscript. Record exact starting commit and source revision; check for later game-text changes before each source-specific edit.
+- [x] Build a **chronology and travel ledger** from Chapter 1 through Chapter 30: departure, settlements and regions, time elapsed, seasonal references, Sira/Velen separations/reunions, messages sent and received, convergence preparations, Blackwood recovery and arrival home.
+- [x] Build a **clue/knowledge/prop ledger**: anonymous two-stone observation, Aetherion drawing, first verified owner names, who knows what when, Brunti's tools, Nemi's pebble and letters to/from Darrik and Sira.
+- [x] Prepare a short **chapter-function map**: for each chapter, the changed circumstances, principal dramatic function and consequence for the next chapter; flag repeats without assuming every source encounter needs an independent scene.
+- [x] Establish a small change log for revision passes, including proposed vs accepted choices.
 
-**Gate 0:** All moving parts are visible; no invented calendar or retrospective source claim is presented as verified.
+**Gate 0 (documentation check passed):** All 30 chapters are inventoried, the 203-row matrix is structurally validated, and relative chronology/knowledge/props/functions are catalogued with unresolved gaps explicit. No finalized calendar or source-fidelity sign-off is asserted.
 
 ## Stage 1 — Repair the hard contradictions
 
