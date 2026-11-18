@@ -478,9 +478,7 @@ Sira raised one eyebrow.
 
 “You can hear the story,” she said. “Just remember where you heard it.”
 
-Brunti opened a clean page in her notebook.
-
-The road through the forest had led her back among people. Perhaps an archive could tell her more than a boundary that had never promised to speak.
+Brunti shifted her chair closer. The traveler drew the mouth of the underground market in spilled flour on the tabletop, much to the displeasure of the innkeeper, who came over with a cloth and stood waiting for his tale to end.
 
 Outside, the trees stood dark beneath the stars. Somewhere beyond them the Liani kept their hidden paths, and the Thunderfly Matriarch moved through a sky Brunti could no longer see.
 
