@@ -51,3 +51,16 @@ A completed inventory is **not** evidence that its encounters have already been 
 - [ ] Complete **full source-by-source and location/chronology/character audit** with independent editorial review. **No identified story fix is applied or approved yet.**
 
 **Latest counted first-draft milestone:** **30/30 chapters**, **145,383 words including headings**, **203/203 unique game encounter IDs marked adapted**, **0 remaining planned**, **0 independent editorial approvals**. Source revision **`952437c5c59d`**; latest 4 Keldor text-only updates reconciled in Ch22/Ch24. Narrator scripts, media clearance, recorded/mastered audio and release remain outstanding.
+
+## Manuscript revision implementation plan — 18 November 2026 (proposed; not begun)
+
+The staged, issue-indexed [manuscript revision plan](docs/MANUSCRIPT_REVISION_PLAN.md) translates the [whole-story audit](docs/WHOLE_MANUSCRIPT_STORY_AUDIT.md) into coordinated chapter-level work. The existing first-draft counts are unchanged.
+
+- [ ] **Stage 0:** Baseline 30 chapters and 203 encounter placements; assemble chronology, knowledge/prop/correspondence and chapter-function ledgers.
+- [ ] **Stage 1:** Resolve early Tavra/Korrum naming, convergence-only access versus early permanent rebuild, Darrik letter provenance and Nemi's keepsake.
+- [ ] **Stage 2:** Reconcile time and travel; strengthen Brunti's Chapter 20–24 conflict, Blackwood recovery's ordinary physical bridge and warrior-protector identity.
+- [ ] **Stage 3:** Revise pacing and varied scene functions across all chapters, prioritizing Chapters 3–9, 17–20 and 21–28 without dropping encounter integrations.
+- [ ] **Stage 4:** Deepen two anonymous memorial histories and finish the emotional consequences for Nemi, Sira, Velen, Darrik and the rescued child without inventing unsupported outcomes.
+- [ ] **Stage 5:** Conduct full 30-chapter line/continuity read, 203-ID source verification, lore checks, read-aloud pass and separate human editorial acceptance.
+
+**Proposed default, not adopted:** Stage 1 considers depicting the permanent repair **during convergence** while leaving Brunti's presentation and inspection preparations before it. Choose a solution against the full chronology before changing prose. No identified fix has yet been applied, reviewed or approved; narration remains a later phase.
