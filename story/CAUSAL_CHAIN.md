@@ -94,3 +94,9 @@ This planning document's original 30-chapter table is retained as its historical
 - **Ch28 → Ch29:** Darrik's dated notice narrows the convergence window; ordinary staffed travel returns Brunti with an injured wrist. Her truthful council testimony states **both** the physical evidence and her personal cowardice in delaying return. Actual memorial work waits for the convergence materials and access established in Stage 1.
 
 This is a **revision note**, not a claim that the source encounters were rechecked one by one or that new fiction has entered MorkahjaWorld canon. Stage 3's full literary rhythm, scene function and repetition pass remains outstanding.
+
+## Stage 3 narrative-rhythm update (18 November 2026)
+
+The chapter-to-chapter causal chain above is retained. The [Stage 3 edited-prose function map](../docs/REVISION_STAGE_3_REVIEW.md) documents small, **implemented literary draft** changes throughout Chapters **3–28** without changing the 30-chapter itinerary, the 203 encounter placements or the central physical memorial resolution. The new functions rely less often on an explicit “no proof” declaration at the end of each scene: ordinary beauty can remain unclaimed, hospitality can have immediate bodily stakes, corrupted creatures can endanger the path without illustrating the memorial, a child's rescue can stand on its own, and the Blackwood experience can become less legible rather than more explained.
+
+**Limits:** This is a pacing pass under delegated novel drafting, not independently approved canon or a literal line edit of the whole manuscript. Source fidelity and all 109 scene-level function alignments remain to be exhaustively verified in Stage 5.
