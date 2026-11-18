@@ -1,6 +1,6 @@
 # Chapter 22 — The Price of Warning: source and continuity review
 
-**Date:** 17 November 2026. **Status:** [Chapter 22](../manuscript/chapters/22-the-price-of-warning.md) contains **4,830 words including heading**, drafted by **ChatGPT GPT-6** under Babuni's existing literary delegation. This is an **internal source- and continuity-fidelity review**, not independent literary approval, world/game canon, audiobook production, or publication.
+**Date:** 17 November 2026. **Status:** [Chapter 22](../manuscript/chapters/22-the-price-of-warning.md) contains **4,869 words including heading** after the 23rd game-source refresh, drafted by **ChatGPT GPT-6** under Babuni's existing literary delegation. This is an **internal source- and continuity-fidelity review**, not independent literary approval, world/game canon, audiobook production, or publication.
 
 ## Primary source verification
 
@@ -40,3 +40,7 @@ A full **203-record, all-field comparison** between prior game `2b4afe761c8b80f8
 **Checked:** five complete source descriptions, five distinct novel integrations (four Lived, one Testimony), current full 203-record metadata/prose delta, exact earlier-scene edits, accessible Keldor/Verdani lore, Chapter 21 handoff, and chapter word count. **Not independently checked:** fine-grained route geography and timing, human literary review, voice performance, sound design, rights clearance, audio production or publication.
 
 **Current projected manuscript totals after ledgers synchronize:** **22/30 first-draft chapters, 98,450 words including chapter headings, 161/203 source encounters in first-draft prose, 42 planned, 0 independently editorially approved**.
+
+## Twenty-third source refresh — 18 November 2026
+
+The game at `952437c5c59d` expands **20155 Blightwatcher Raven** in its existing **Chapter 22 direct lived** encounter: dark ragged feathers briefly reveal eerie light; head movement precedes a disjointed shoulder/body correction; claws grip bark then loosen one by one; wings unfold with a dry uneven rustle. ChatGPT (**GPT-6**) reconciled these details without changing the bird's identity or causing an invented confrontation. **Chapter 22: 4,830 → 4,869 words (+39)**. The original five encounter placements are unchanged; no independent editorial approval. See [source reconciliation](SOURCE_RECONCILIATION.md) and [story audit](WHOLE_MANUSCRIPT_STORY_AUDIT.md).
