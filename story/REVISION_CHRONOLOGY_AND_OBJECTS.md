@@ -138,3 +138,13 @@ This entry is **subsequent to historical Stages 0–3 notes above**; keep those 
 | Tarnel's thimble case | Ch28 Tarnel keeps deceased sister's worn thimble; Brunti asks permission to fix a catching lid; he refuses for personal memory reasons | His Atranor account remains inherited testimony, not direct god-world evidence |
 
 **Stage 4 temporal consistency:** all changes occur within the Stage 2 relative convergence itinerary; the child's and Sira's messages travel by existing ordinary relays. No precise new world calendar, magical shortcut or verified reunion is invented. **Still open:** full atlas travel-time verification, current game-source reconciliation, all 203 encounter fidelity checks, and independent human literary acceptance.
+
+## Post-map manuscript evidence — 19 November 2026 (targeted update, not re-baselining Stage 0)
+
+The dated table above reflects the earlier manuscript extraction. Babuni subsequently directed three small orientation repairs following the [world-map chapter audit](../docs/REVISION_STAGE_5_MAP_ROUTE_AUDIT.md); ChatGPT (**GPT-6**) implemented them in current draft chapters without moving any named encounters or recasting archive/testimony as lived travel:
+
+- **Chapter 14 → 15:** Ch14 now expressly crosses **the southern approaches of Ethera's Vale over following days** and turns **east toward Karrhu** by waystations and wet-road wagons. Ch15 still opens at the ferry; no distance inferred.
+- **Chapter 16 → 17:** Ch16's three last joint days and western/northern departure still stand; Ch17 now clarifies **days out of Karrhu's northern crossings**, across the Vale's outer waystations and toward mountain trade roads. Sarga remains **without a confirmed atlas coordinate**; the existing multi-caravan northern progression is not shortened.
+- **Chapter 28 → 29:** Ch28's common wagon is now **bound for upland landing routes**, not merely labelled “northbound.” The later change to a smaller caravan, moving Skyland approach, mooring confirmation and lift remain as written.
+
+**Verified total after full 30-chapter reread for word counting only:** **146,816 counted words** (Ch14 **4,890**, Ch17 **4,848**, Ch28 **5,933**). This is not a recalculation of geographical mileages or a new precise global chronology. No canon, live game route or date is amended.
