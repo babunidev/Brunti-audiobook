@@ -852,9 +852,7 @@ It struck the ferry roof in thin, uneven taps, then grew steady. Beneath the hou
 
 Brunti set her cup beside the hearth.
 
-The old memorial drawing waited in her pack. Velen's records waited on the table. Sira's messages rested in her hands.
-
-Three different kinds of unfinished work.
+The old memorial drawing waited in her pack. Velen spread the route sheet flat, setting two cups on its curling corners. Sira kept her messages in her hands and read the last name once more before returning them to their sleeve.
 
 The ferry keeper opened the door to look at the weather. Beyond the threshold the reeds bent under the rain, and the black water continued along its unseen courses.
 
