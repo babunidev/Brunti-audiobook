@@ -315,3 +315,11 @@ Documentation/audit work was performed by ChatGPT **GPT-6** under Babuni's origi
 - Added [the six-stage manuscript revision plan](docs/MANUSCRIPT_REVISION_PLAN.md), with issue identifiers R1–R13, affected chapter groups, editing sequence and acceptance checks.
 - Linked the proposed stages from the roadmap and recorded AI-authored planning provenance and unapproved options in the decision/development documents.
 - **Documentation only:** no manuscript chapter, game encounter, MorkahjaWorld canon, audio production or release status changed. All fixes remain outstanding.
+
+## 2026-11-18 — Establish Stage 0 manuscript revision baseline
+
+- Added [the fixed 30-chapter manifest, Git blob hashes and 203-ID placement verification](docs/REVISION_STAGE_0_BASELINE.md), anchored to audiobook commit `0916221b5940d1a48229c4dc216207bd523202e0`.
+- Added [chronology, knowledge, correspondence and object-custody ledger](story/REVISION_CHRONOLOGY_AND_OBJECTS.md) and [chapter-function/dependency map](story/REVISION_CHAPTER_FUNCTIONS.md).
+- Added [revision issue/status log](docs/MANUSCRIPT_REVISION_LOG.md) and marked Stage 0 complete in the revision plan and roadmap.
+- Documented the difference between historical index word counts and whitespace-token counts and flagged ten later game commits affecting encounter JSON for separate source reconciliation.
+- **Documentation and structural checks only:** none of the 30 first-draft chapters, 203 source placements, game/world-canon files, audio assets or editorial approval statuses changed.
