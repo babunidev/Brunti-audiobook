@@ -66,7 +66,7 @@ He laid three narrow tablets on the council table.
 
 Brunti recognized the warning. She was beginning to hear it everywhere.
 
-Darrik sat beside her with the measurements of the memorial wall. He had spent the morning checking the pads and support frames. The resting chambers now used an independent, stable line of resonance. Their quiet no longer depended on the uncertain old joint.
+Darrik sat beside her with the measurements of the memorial wall. He had spent the morning checking the pads and support frames. On the back of his sheet he had copied the visible toolmarks from the old casing: narrow strokes high on the cover and deeper square impressions beside its lower fastening. Brunti had noticed them but not thought to record them. There was no name beside either pattern. The resting chambers now used an independent, stable line of resonance. Their quiet no longer depended on the uncertain old joint.
 
 Orven touched the first tablet.
 
