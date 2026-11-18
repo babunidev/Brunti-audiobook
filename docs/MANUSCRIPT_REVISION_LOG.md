@@ -8,11 +8,11 @@
 | R2 | Convergence access vs premature repair (Ch1–2/29–30) | **Draft repaired; targeted check passed; human approval pending** | [Stage 1 review](REVISION_STAGE_1_REVIEW.md) |
 | R3 | Darrik letter provenance | **Draft repaired; targeted check passed; human approval pending** | [Stage 1 review](REVISION_STAGE_1_REVIEW.md) |
 | R4 | Nemi's Earthsinger keepsake | **Draft repaired; targeted check passed; human approval pending** | [Stage 1 review](REVISION_STAGE_1_REVIEW.md) |
-| R5 | Global travel/calendar anchors | **Open — prose unchanged** | [Chronology ledger](../story/REVISION_CHRONOLOGY_AND_OBJECTS.md) |
-| R6 | Durable flaw despite Chapter 20 growth | **Open — prose unchanged** | [Chapter function map](../story/REVISION_CHAPTER_FUNCTIONS.md) |
-| R7 | Concrete cost of Chapter 24 Blackwood choice | **Open — prose unchanged** | [Chapter function map](../story/REVISION_CHAPTER_FUNCTIONS.md) |
-| R8 | Ordinary recovery chain from Blackwood | **Open — prose unchanged** | [Chronology ledger](../story/REVISION_CHRONOLOGY_AND_OBJECTS.md) |
-| R9 | Visible warrior/protector identity | **Open — prose unchanged** | [Chapter function map](../story/REVISION_CHAPTER_FUNCTIONS.md) |
+| R5 | Global travel/calendar anchors | **Draft revised; targeted internal check passed; independent review pending** | [Stage 2 review](REVISION_STAGE_2_REVIEW.md) |
+| R6 | Durable flaw despite Chapter 20 growth | **Draft revised; targeted internal check passed; independent review pending** | [Stage 2 review](REVISION_STAGE_2_REVIEW.md) |
+| R7 | Concrete cost of Chapter 24 Blackwood choice | **Draft revised; targeted internal check passed; independent review pending** | [Stage 2 review](REVISION_STAGE_2_REVIEW.md) |
+| R8 | Ordinary recovery chain from Blackwood | **Draft revised; targeted internal check passed; independent review pending** | [Stage 2 review](REVISION_STAGE_2_REVIEW.md) |
+| R9 | Visible warrior/protector identity | **Draft revised; targeted internal check passed; independent review pending** | [Stage 2 review](REVISION_STAGE_2_REVIEW.md) |
 | R10 | Anonymous individuality of memorial owners | **Open — prose unchanged** | [Chapter function map](../story/REVISION_CHAPTER_FUNCTIONS.md) |
 | R11 | Secondary rescue, relationships, keepsake payoff | **Open — prose unchanged** | [Chronology ledger](../story/REVISION_CHRONOLOGY_AND_OBJECTS.md) |
 | R12 | Sira/Velen/Darrik relationship consequences | **Open — prose unchanged** | [Chapter function map](../story/REVISION_CHAPTER_FUNCTIONS.md) |
@@ -39,6 +39,14 @@
 **Verified scope:** GitHub comparison from Stage 0 documentation commit `5ee0a87` to Stage 1 prose: **seven chapter files plus chapter index**; no changed game/world source files or 203-ID matrix. Literal Tavra/Korrum names no longer appear in Chapters 1–28; Chapter 29's revealed inscriptions are the first identifications. The original Ch1–2 convergence access rule now matches the Ch29 permanent repair; Ch27 and Ch30 references were reconciled. Brunti has Darrik's measurements in Ch20 (as packed in Ch2), and Nemi receives the dark Earthsinger pebble in Ch30. The count across 30 chapters is **145,584** by a specified Unicode-letter-or-number whitespace-token rule; historical 145,383 is a different original convention.
 
 **Limits:** These four are **internally checked, revised first-draft passages**, not independently approved final prose. Stage 2's full calendar/character causality, Stage 3's pacing, Stage 4's emotional breadth and Stage 5's whole-book/source/canon/line verification remain open. The newer game encounter JSON revisions still need comparison.
+
+### 2026-11-18 — Stage 2: chronology, Blackwood causality and protection
+
+**Human direction:** advance to the next revision stage under existing delegated literary-drafting authorization. **AI work:** ChatGPT (**GPT-6**) made targeted prose edits to **13 chapters** (Ch1, 2, 11, 13, 14, 16, 20, 21, 23, 24, 27, 28, 29), with review evidence in [Stage 2 report](REVISION_STAGE_2_REVIEW.md).
+
+**Selected novel-only draft direction:** convergence anticipated about **six months** after departure, with cross-chapter month markers (around month 2 Ch14, over 2 Ch16, four elapsed Ch20, a little over one remaining Ch23, a dated approach notice Ch28 and physical arrival Ch29). Brunti's fear of facing her own caretaker with an incomplete record remains despite growth in Chapter 20; Chapter 23 offers a credible homebound wagon and Chapter 24 shows her refusing its held seat. In Chapter 27 outer-route wardens find her unconscious at an old boundary marker, carry her to a ridge post, and transfer her to a lazaret by wagon. The **path out of the Silent Throne remains unknown**. The warden report reaches Elda's shelter by ordinary messenger, explaining how Sira learns that Brunti may be alive. Warrior training is visible through guard stances, beam risk checks, escort positions and litter protection rather than added fights; Chapter 29 reconciles recovery testimony and culpability.
+
+**Verification boundary:** affected passages reread and the revised cross-chapter causal sequence reviewed; source encounter matrix remains 203 unique assignments, manuscript index remains 30 chapters. Updated word counts total **146,505** under the same declared counting convention (+921 from Stage 1's 145,584). Neither a complete atlas travel audit, full 203-source comparison, line-level literary edit nor separate human approval was performed. Stages 3–5 remain open.
 
 ## How to record subsequent work
 
