@@ -20,6 +20,8 @@ The keeper took it away. Velen watched the place where it had stood.
 
 “Not yet.”
 
+Days of wagon travel had carried them out of Karrhu's northern crossings, past farms and waystations along the Vale's outer roads, and toward the mountain trade routes. The reeds had given way to short grass and stony rises, though Brunti still found dried swamp mud in the seams of her boots.
+
 Brunti unfolded the sheet on which they had drawn their route. Sarga was marked in the margin of a trader's map, with a loose line leading toward the cliffs. Farther north, beyond several roads and an unmeasured stretch of inhabited country, the Frostwind Mountains were marked by a row of white teeth.
 
 The cartographer had made both places look rather close.
