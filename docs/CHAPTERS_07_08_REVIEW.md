@@ -57,3 +57,9 @@ Game `fe29096e90ad` updated **20114 Liani Guardian**, **20115 Liani Predator** a
 ## Simple Treasure game-text reconciliation — 17 November 2026 (Chapter 20 work)
 
 During Chapter 20's source check, `Morkahja` `4c7fcc7901f8` was found to have revised **20119 Simple Treasure**. ChatGPT (**GPT-6**) reread the complete new prose and adjusted [Chapter 7](../manuscript/chapters/07-things-that-are-kept.md): sunlit meadow and wildflowers, delicate carvings of tiny figures on winding paths beneath trees and past buildings, a brass lock reflecting among the stems, and a narrow keyhole in shadow. Brunti and Sira **do not open the chest** or assign a verified interpretation to the carvings. **Current Chapter 7 word count: 3,601**, previously 3,554 (+47). No other Chapter 7 encounter or narrative outcome changed. See [thirteenth source comparison](SOURCE_RECONCILIATION.md). Internal fidelity adjustment, not independent editorial approval.
+
+## Stage 5 source-hook recheck — 18 November 2026
+
+The [Stage 5 Chapters 5–8 continuation](REVISION_STAGE_5_CONTINUATION_03.md) re-read all **16 assigned Chapters 7–8 game descriptions** and their present chapter passages, plus pinned Eldertree and Liani lore. **Fourteen source IDs gained new targeted semantic checks**; `20036` and `20115` were already in the Stage 5 count and were rechecked. The northern trunk/vault remain attributed **archive** accounts, Liani species and roles remain distinct, and the game source JSON records are unchanged between `952437c5c59d` and `2ba61f5a6bc`.
+
+No manuscript change was justified here. Chapter 7's **five** total container accounts remain an audiobook-comprehension watchlist pending an actual read-aloud. This does not upgrade draft literary evidence to independent approval.
