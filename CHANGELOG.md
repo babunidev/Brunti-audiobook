@@ -401,3 +401,15 @@ No external game-world source, Morkahja canon, narrated audio or publication was
 - Updated roadmap, README, plan, Stage 5 evidence and journal without elevating any scene to human editorial approval.
 
 The Nereval river-rune question, remaining 95 source-scene checks, full-book/canon/atlas/read-aloud verification, narrator production and publication remain open.
+
+## 2026-11-18 — Stage 5 Chapters 9–14 source and lore continuation
+
+- Added [continuation D](docs/REVISION_STAGE_5_CONTINUATION_04.md): checked all **34** assigned source encounters in Chapters 9–14 at current game `2ba61f5a6bc`; **21 newly inspected distinct IDs**, **13 previously inspected rechecks**. Stage 5 total **129/203 targeted**, **74 individual checks pending**.
+- Reopened pinned world records for Aetherion, Celesterra, Evergrove, Nereval's Sanctuary, Ohgar and the elemental races. Clarified the **unresolved game `20192` literal river-mark bearer requirement** against established **world-lore healing-act entry** and linked game `19001` healing seal. This is an open source-authority/editorial decision, not a canonical mechanics change.
+- Adjusted `story/PLACEMENT_MATRIX.md` encounter **20014 Downed Aevis** from Testimony to **Archive** to match its incoming letter presentation.
+- Copyedited one repeated sketch-wrapping phrase in **Chapter 14**, retaining separate custody of archive and temple sketches; **4,864 → 4,863** counted words.
+- Re-fetched and recounted **all 30 chapters**, now **146,741 words**, with no changes to source ID assignments or follow chain placements.
+- Registered potential audiobook-density issue in **Chapter 13's consecutive remote reports**, alongside existing Ch5 and Ch7 watchlist; no recorded or human read-aloud review performed.
+- Updated manuscript index, status/roadmap, plan, Stage 5 evidence, decision note and development journal.
+
+**Status:** Stage 5 still open; 74 encounter checks, uninterrupted story/canon/atlas and read-aloud, human editorial acceptance, rights, narration and publication are outstanding.
