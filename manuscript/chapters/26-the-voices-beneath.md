@@ -84,7 +84,7 @@ A pause.
 
 The old memorial had done that when she first came to work beneath its casing.
 
-The two rhythms had come from separate places beneath one old casing. Velen's incomplete drawing suggested how two records might have been housed together, but neither of them had learned whose stones they were. One person's memory could not be made into a continuation of another's.
+The two rhythms had seemed to come from different places beneath one old casing. Velen's incomplete drawing suggested how two records might have been housed together, but neither of them had learned whose stones they were. One person's memory could not be made into a continuation of another's.
 
 Brunti had once mistaken their overlapping resonance for a problem a better brace could solve.
 
@@ -906,7 +906,7 @@ A pause.
 
 Then again.
 
-She knew how easily she could make those two movements belong to the memorial at home. Two lives had left separate echoes there, even when the old casing made their rhythms overlap. Their unknown names deserved evidence from their own history, not an answer borrowed from every ancient sound.
+She knew how easily she could make those two movements belong to the memorial at home. Its old casing still concealed who had left those rhythms. Nothing beneath this road could name them for her.
 
 Brunti withdrew her hand.
 
