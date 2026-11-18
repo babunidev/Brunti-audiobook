@@ -382,7 +382,7 @@ The cadence was formal and slightly hurried. The voice named a receiving worksho
 
 Brunti turned the page carefully.
 
-Between two inventories lay a narrow sheet of old drawing paper, folded and attached at the margin by a faded thread. The sheet had been torn away from a larger diagram. One side showed the edge of a stone casing, its outline cut by an old break. The other side showed two separate shallow compartments beneath a shared covering.
+Between two inventories lay a narrow sheet of old drawing paper, folded and attached at the margin by a faded thread. The sheet had been torn away from a larger diagram. One side showed the edge of a stone casing, its outline cut by an old break. The other side showed two separate shallow compartments beneath a shared covering. The marks beside the left fastening were close and light; those beside the right were deeper and more widely spaced. They might have been the work of different hands, but the damaged sheet named neither a maker nor an occupant.
 
 Brunti became still.
 
