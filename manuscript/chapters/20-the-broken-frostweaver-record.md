@@ -662,7 +662,7 @@ Jorvald rested his hand on the nearest scroll.
 
 For a moment Jorvald seemed older than the ruins around him.
 
-Brunti took out her letter from Darrik and the copy of the Aetherion restoration sketch.
+Brunti took out Darrik's original measurements and the copy of the Aetherion restoration sketch.
 
 “This is the other reason we came.”
 
@@ -714,7 +714,7 @@ Velen broke the silence.
 
 Velen closed the last page.
 
-Brunti looked at Darrik's letter.
+Brunti looked at Darrik's measurements, marked by his hand before she left the Skyland.
 
 The old steward had given her a deadline and a safe path home. The troubled wall was isolated; no one depended upon the damaged structure for sleep. At the next communal convergence the unsafe support would be replaced, and the memorial would be transferred intact to a protected archive. Her journey had begun because she feared the transfer would silence what the stones preserved.
 
