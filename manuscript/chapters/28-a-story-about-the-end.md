@@ -522,21 +522,7 @@ He closed the lid.
 
 “I said the teachings allow affinities, instincts, unexplained feelings. But none of them would give us the right to point at a child and call that child our dead.”
 
-Velen set the pencil down.
-
-The answer had the same care they had shown at the ruined shrine in Everwinter, where the Shattered Seer's fragments offered gestures but no complete sentence.
-
-Brunti remembered her own memorial wall.
-
-Whoever had been remembered in that wall was dead. Its stones preserved echoes, not souls that could be asked to prove what happened after death.
-
-The distinction mattered.
-
-She had once treated an old cadence as a voice trying to tell her something new. She had fitted a brace to make the two rhythms agree and nearly made the resting chamber unsafe.
-
-Tarnel had kept a thimble because he knew the shape of his sister's hand around it.
-
-The thimble did not have to contain her.
+Velen set the pencil down. Tarnel closed the little case around his sister's thimble with a practiced touch, careful not to trap the worn lining beneath its lid. Brunti thought of the stone names waiting beneath the memorial casing. None of the people here had asked their dead to return in order to speak of them.
 
 ***
 
@@ -1072,25 +1058,7 @@ Far above, a moving band of stone and metal passed between the clouds, its under
 
 Somewhere along that route her own Skyland was approaching the places where its people would gather for convergence.
 
-Darrik would be inspecting supports.
-
-The memorial panel would remain isolated.
-
-The resting chamber would still be safe.
-
-And within the old casing, two distinct stones would wait for the work of seeing them clearly.
-
-Brunti did not have a new relic to bring.
-
-She had no witness from Atranor, no answer from the Blackwood keeper and no repaired history that the world itself had handed her.
-
-She carried a copied drawing with uncertain edges.
-
-A letter from someone who had kept working.
-
-A damaged wrist.
-
-And a way of telling the truth that left room for another person to check it.
+Darrik would be inspecting supports while the memorial panel remained safely isolated. Brunti shifted the document case against her sound side; its familiar weight pulled at the strap. Her injured wrist could not yet carry it. Velen noticed and came to take the other handle without a word.
 
 The attendant called that the lift was ready.
 
