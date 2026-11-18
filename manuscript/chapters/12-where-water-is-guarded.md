@@ -224,7 +224,7 @@ Its approach lay near the southeastern border of Ethera's Vale, where clear wate
 
 The sanctuary was not marked by towers.
 
-Its doorway stood among moss-covered stones at the edge of a quiet clearing. Weather had softened the carved face, and roots traveled through the earth beside it. A Verdani guardian waited before the entrance, wearing armor that seemed grown from leaves, bark and green water rather than assembled by a smith.
+Its doorway stood among moss-covered stones at the edge of a quiet clearing. Water ran through shallow grooves in its weathered frame, and roots traveled through the earth beside it. A Verdani guardian waited before the entrance, wearing armor of interwoven bark-like plates and delicate roots, faint green light glimmering between them.
 
 The guardian's eyes followed the travelers as they approached.
 
@@ -236,7 +236,7 @@ Sira bowed her head.
 
 “If we are permitted.”
 
-The guardian lifted one hand toward the weathered stone door.
+The guardian lifted one hand from the weathered stone door, revealing a winding river rune that matched the carving along its frame.
 
 “This is a place of water, adaptation and healing. Those who enter must show the rune of the river, a sign of respect for the one whose care is kept here.”
 
@@ -612,7 +612,7 @@ He looked across the water.
 
 Sira did not interrupt.
 
-Iren rested one hand against the bark. For a while the only sound was the river moving among the stones.
+Iren rested one hand against the bark. His fingers traced an old mark there, then fell still. For a while the only sound was the river moving among the stones.
 
 “She's gone now,” he said. “But I keep forgetting which parts of the story are hers and which I have added.”
 
