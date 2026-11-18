@@ -530,7 +530,7 @@ The worker changed tools.
 
 Another fastening had been set at an awkward angle by an earlier repair. The crew protected the surrounding stone and eased it loose with a patient turn.
 
-When the cover began to move, Brunti held her breath.
+When the cover began to move, Brunti watched the narrow gap beneath it.
 
 Darrik raised one hand.
 
