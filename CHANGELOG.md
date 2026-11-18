@@ -444,3 +444,13 @@ The Nereval river-rune question, remaining 95 source-scene checks, full-book/can
 - Recorded **three proposed**, not yet edited, clarity improvements: Ch14→15 **Ohgar to Karrhu**, Ch16→17 **Karrhu toward unmapped Cliffs of Sarga and Frostwind**, and Ch28's **“northbound caravan”** despite destination being a **moving Skyland at an unspecified upland mooring**.
 - Correctly treated **Everwinter** as part of the Frostwind system, **Evergrove** as a desert/oasis heartland, **Celesterra** as subterranean Aevis city under Skyland routes; archive stories do not constitute Brunti's journeys.
 - No manuscript word count change (**146,733**); **203/203** targeted scene hooks remain individually checked. No game/world map, source lore or live mechanics changed. Exact travel times, all 109 scene functions, uninterrupted novel read, spoken verification and human editorial approval remain open.
+
+## 2026-11-19 — Three geographic transition fixes implemented in audiobook manuscript
+
+- **Approved creative action:** Babuni explicitly requested implementation of all three previously proposed [map-route corrections](docs/REVISION_STAGE_5_MAP_ROUTE_AUDIT.md#19-november-2026--explicitly-requested-map-route-fixes-implemented).
+- Edited [Chapter 14](manuscript/chapters/14-words-in-the-sand.md): added multi-day passage via the southern Vale roads, turning east into Karrhu, transfer to wet-country wagons, preserving final bridge detour (**+27 words**; commit `3f1cf789a7a53b8dd53282c33d5469b97fa2620d`).
+- Edited [Chapter 17](manuscript/chapters/17-the-mountain-has-a-voice.md): added Karrhu northern-crossings to outer Vale waystations and mountain trading roads (**+51 words**; commit `7798aa51f526eeca9d16eae25f3e80c718e7a9c4`). **Sarga's exact placement stays unresolved**.
+- Edited [Chapter 28](manuscript/chapters/28-a-story-about-the-end.md): replaced “northbound caravan” with a **destination-specific upland landing-route** statement (**+5 words**; commit `f97f6b2a41c18c84fecfac924dc01b8224c267a3`). Moving Skyland's location remains dynamic.
+- Refetched **all 30 manuscripts** and verified new total: **146,816 counted words, +83**. Updated [chapter index](manuscript/chapters/README.md), [map audit](docs/REVISION_STAGE_5_MAP_ROUTE_AUDIT.md), roadmap, decisions, chronology, revision plan/log, three chapter reviews and development journal.
+
+**Scope:** Novel-only travel orientation and continuity. No plot result, encounter source, game mechanic, authoritative map, specific distance/road naming or canonical Sarga coordinate changed. Stage 5 still needs whole-book/109-scene/literary/atlas/real audio and independent editorial verification; 203/203 individual source-scene comparisons remain complete.
