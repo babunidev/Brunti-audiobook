@@ -890,7 +890,7 @@ She did not see its face.
 
 Behind her the procession moved forward.
 
-Before her, the opening in the great structure swallowed the procession's last visible lantern.
+Before her, the opening lay dark beneath the great arch.
 
 Brunti stepped toward the arch.
 
