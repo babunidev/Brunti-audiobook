@@ -94,3 +94,7 @@ The prior text-overlap script flagged **24** unusually low single-paragraph matc
 Independent human approval, comprehensive atlas/travel verification, an actual spoken read-through, professional line edit, narrator-prep files, media rights signoff, recordings and distribution remain **OPEN**. The [Stage 5 audit](REVISION_STAGE_5_AUDIT.md) and [revision plan](MANUSCRIPT_REVISION_PLAN.md) retain the final gate as **in progress**.
 
 **Numerical trace:** 24 low-overlap IDs + 33 changed-source IDs − 3 IDs shared = **54 uniquely targeted**; 203 total − 54 = **149 still not targeted**. No encounter ID or sequence has been added to or removed from the matrix. Morkahja and MorkahjaWorld repositories were read only.
+
+## Subsequent continuation — 18 November 2026
+
+The **54-ID total above is the historical scope of this first targeted batch**, not the current running total. [Continuation B](REVISION_STAGE_5_CONTINUATION_02.md) checked **20 further distinct IDs** and rechecked **20190** and **2** against still-newer source wording. The running total is now **74 distinct IDs checked at targeted scene-hook level**; **129** remain individually uninspected. The latest game snapshot is `2ba61f5a6bcde383ed2a931c3d2a06c87404dffd`, and the revised manuscript has **146,742 counted words**. No source IDs gained independent editorial approval.
