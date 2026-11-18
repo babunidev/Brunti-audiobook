@@ -290,11 +290,7 @@ No obvious blow had struck her head.
 
 No known spell had announced itself.
 
-She had no proof that the door had opened for her.
-
-She had no proof that she had opened it.
-
-Yet she was no longer standing outside.
+Her fingers remembered the grain of the closed wooden door. Beneath them now was wet bark. She was no longer standing outside, and she could not recover the moment that had divided the two places.
 
 Brunti wrote two lines.
 
@@ -602,15 +598,7 @@ The root continued to tremble.
 
 Brunti sat beneath it, her back against a wall of damp wood.
 
-There had been moments on the road when she had acted before understanding and still helped someone. The injured young Verdani at the forest's fringe had needed to be carried. The girl with the walking stick had needed a safe path, and the scholar had needed food.
-
-Those needs had belonged to people who could answer her.
-
-This place offered no such answer.
-
-It offered only resemblance.
-
-And she had walked into it because she could not bear to leave one unanswered question at home.
+She sat with her back against the damp wood until the ache in her left wrist deepened. Somewhere beyond the roots a small crack sounded, like a branch breaking under a foot. She waited for another. None followed.
 
 ***
 
@@ -812,13 +800,9 @@ Nothing looked familiar.
 
 She could not say whether she had crawled beneath the lifted root, passed through some other opening, or been carried without consciousness between one place and another.
 
-She could not say whether the tree had allowed her past.
+The damp on her sleeve had dried in a narrow streak. Whether she had crawled past the tree or lost time again, only the change in her location remained.
 
-She could not say whether she had ever stood exactly where she now remembered standing.
-
-There was only the change in her location.
-
-The old account's promised password and significant object had explained nothing to her.
+The old account's promised password and significant object were still in her notes, but not on this side of the passage.
 
 She took out the notebook.
 
@@ -836,9 +820,7 @@ She could not fill it.
 
 Her hand shook as she closed the book.
 
-Brunti looked at the hammer, the pack and her mineral body, all still present and all bearing marks of wear. She had wanted one answer that no one could dispute.
-
-What she had gained was another gap she would have to describe honestly.
+Brunti looked at the hammer and the pack. Both still bore the scrape marks of the narrow passage. Her wrist trembled as she fastened the notebook beneath its cord.
 
 The path ahead narrowed.
 
