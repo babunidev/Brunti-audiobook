@@ -42,7 +42,7 @@ It was the first joke Brunti had made since Sira's cart disappeared around the w
 
 ***
 
-They reached the Cliffs of Sarga after days of climbing through country where the grass grew shorter and the roads narrowed to pale shelves of stone. A caravan master left them at a marked turning and sent a local pathkeeper ahead with them. The pathkeeper was an older woman named Orena, whose walking staff had acquired small metal rings from places she had visited.
+They reached the Cliffs of Sarga after days of climbing through country where the grass grew shorter and the roads narrowed to pale shelves of stone. A caravan master left them at a marked turning and sent a local pathkeeper ahead with them. The pathkeeper was an older woman named Ressa, whose walking staff had acquired small metal rings from places she had visited.
 
 The rings made no sound when she walked. She had bound them with thin strips of cloth.
 
@@ -68,7 +68,7 @@ Brunti placed her fingertips against a low stone. Her own mineral seams answered
 
 “More than two,” Velen replied. “The higher one wavers.”
 
-Orena sat on a flat rock and removed a knot from the cloth around her staff.
+Ressa sat on a flat rock and removed a knot from the cloth around her staff.
 
 “People say the cliffs guard a treasure,” she said. “If they sing at the right hour, a door opens. If they sing the wrong song, someone disappears.”
 
@@ -80,7 +80,7 @@ Brunti looked toward a fissure beneath a high shelf. Loose fragments had collect
 
 “What makes the lower note?”
 
-“The air, I suppose,” Orena said. “Or something inside. I have no reason to go far enough in to settle it.”
+“The air, I suppose,” Ressa said. “Or something inside. I have no reason to go far enough in to settle it.”
 
 The wind stopped.
 
@@ -92,7 +92,7 @@ Velen had lifted their pen, but the hand holding it did not move.
 
 Brunti studied the exposed face. A rock could be hollow and still strong. It could also hold together for centuries before an unnoticed seam gave way.
 
-Orena rose.
+Ressa rose.
 
 “That's where I turn back,” she said. “The crossing we need is below the singing shelf.”
 
@@ -106,13 +106,13 @@ Velen stood very close to Brunti.
 
 “She hasn't looked at us,” they whispered.
 
-“She has,” Orena said. “Not with the part of her face you're watching.”
+“She has,” Ressa said. “Not with the part of her face you're watching.”
 
 The lioness lowered her head. Her nostrils widened. A forepaw rose from the stone, held there in perfect silence.
 
 Brunti could have reached for her hammer. The habit traveled through her arm before she stopped it.
 
-Orena indicated a shallow recess beside the path. They stepped backward into its shadow, keeping their movements small. For several moments nothing happened.
+Ressa indicated a shallow recess beside the path. They stepped backward into its shadow, keeping their movements small. For several moments nothing happened.
 
 Then a hare darted through the grass below the ledge.
 
@@ -122,7 +122,7 @@ They did not follow.
 
 Velen let out a breath.
 
-Brunti watched a little grit settle over the flat rock beside her. Orena was already checking the next ledge for loose stones, as though the lioness had merely held them up on a familiar road.
+Brunti watched a little grit settle over the flat rock beside her. Ressa was already checking the next ledge for loose stones, as though the lioness had merely held them up on a familiar road.
 
 The wind returned to the cliff.
 
