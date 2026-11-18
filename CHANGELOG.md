@@ -436,3 +436,11 @@ The Nereval river-rune question, remaining 95 source-scene checks, full-book/can
 - **Still open:** complete 109-scene brief/function check, uninterrupted literary/continuity/canon/atlas read, actual spoken pacing tests (including Ch24's twenty encounters), independent human full manuscript approval, audio/rights/recording/mastering/release.
 
 **No source-game/world code or lore repository changes, no audio render, no publication.**
+
+## 2026-11-18 — First map-aware geographic audit of all 30 chapters
+
+- Created [Stage 5 map-route audit](docs/REVISION_STAGE_5_MAP_ROUTE_AUDIT.md) from Babuni's supplied in-game world map, actual thirty-chapter transitions and pinned MorkahjaWorld geography.
+- Verified broad novel circuit and actual travel versus remote **Testimony/Archive** accounts, with **zero confirmed impossible regional transitions**. The movement of Grimnir Skylands and absence of scale limit what can be certified.
+- Recorded **three proposed**, not yet edited, clarity improvements: Ch14→15 **Ohgar to Karrhu**, Ch16→17 **Karrhu toward unmapped Cliffs of Sarga and Frostwind**, and Ch28's **“northbound caravan”** despite destination being a **moving Skyland at an unspecified upland mooring**.
+- Correctly treated **Everwinter** as part of the Frostwind system, **Evergrove** as a desert/oasis heartland, **Celesterra** as subterranean Aevis city under Skyland routes; archive stories do not constitute Brunti's journeys.
+- No manuscript word count change (**146,733**); **203/203** targeted scene hooks remain individually checked. No game/world map, source lore or live mechanics changed. Exact travel times, all 109 scene functions, uninterrupted novel read, spoken verification and human editorial approval remain open.
