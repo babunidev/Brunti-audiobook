@@ -84,6 +84,18 @@
 
 **Final Stage 5 gate remains OPEN:** a continuous all-word edit, current-source semantic verification of all 203 encounters, complete 109-brief dramatic audit, final atlas/canon and spoken rhythm test, independent human approval, narrator prep and audio production have **not** been performed. Do not mark the novel reviewed/published from these checks alone.
 
+### 2026-11-18 — Stage 5 continuation: 54 direct game-source-to-scene checks
+
+**Instruction:** continue the existing Stage 5 audit. **AI work:** ChatGPT (**GPT-6**) reread current source text at `cf7c285a469c` alongside the assigned prose for all **24 low automated paragraph matches**, plus all **33 changed game descriptions**, with **three IDs overlapping**. The [54-ID targeted semantic ledger](REVISION_STAGE_5_SEMANTIC_REVIEW.md) reports source-specific scene evidence and limits; the previously [automated locators](STAGE_5_ENCOUNTER_LOCATORS.md) remain unchanged as original machine output. **149 of 203 unique encounters still require targeted human-like source-to-scene comparison**.
+
+**Genuine source fix:** ID **20018 — Stonefist Ironwill** is a **female** Grimnir warrior, but Orven's recounting in Chapter 2 used male pronouns. Three direct prose anchors were corrected to she/her, without importing a human blood-loss mechanism. Low lexical overlaps for the Zeelai feline (**20065**, actually Ch5 **Mara's testimony**, not the Silvermane) and Skylore Scholar (**20172**, Ch23 **§209 onward**, not the automatically chosen supply list at §44) were false-negative locators, not absent scenes.
+
+**Current game text refinements:** Ch24 now includes the **Skullstone Pass sheltered foothold (20161)** and **Flamecrazed Wanderer's startled cry (20164)**. The Ch10 Veilwalker testimony (**20190**) now depicts its enormous, barely defined form around the tree-crown height, with tendrils feeling through flowers but not trailing on the ground: an explicitly **novel-only** visualization consistent with the creative direction and the source's enormous eyes/uncertain body, **not** a new universal lore rule. Ch24/26/29 also replace a few unnecessary literal stopped/held-breath beats with visible actions, without asserting anything categorically about Grimnir respiration.
+
+**Actual edited chapter files this package:** Ch**2, 10, 24, 26, 29**. Current word-count convention: Ch2 **3,465** (unchanged), Ch10 **5,055→5,063** (+8), Ch24 **5,848→5,869** (+21), Ch26 **5,276→5,279** (+3), Ch29 **6,058→6,061** (+3). Total novel **146,637→146,672** (+35) in **30 chapters**. The source-to-chapter matrix is untouched, all **203 source IDs** retained. The [Stage 5 audit](REVISION_STAGE_5_AUDIT.md), [living plan](MANUSCRIPT_REVISION_PLAN.md) and [current manuscript index](../manuscript/chapters/README.md) reflect the results.
+
+**Status:** specific 54-ID source-hooks **target-reviewed by AI**, but no 203/203 semantic acceptance, uninterrupted full-manuscript reading, exhaustive atlas/canon review, spoken-performance verification, narrator export, independent human approval or audio. **Stage 5 remains open**.
+
 ## How to record subsequent work
 
 For each later revision package add **date, issue IDs, proposal vs selected direction, changed chapter paths, exact Git commit, source-lore revision, passages affected, verification performed, unresolved dependencies and editorial approval status**. Stage completion does not alone imply publication readiness. Preserve the story world's unresolved questions; never silently supply an undocumented solution.
