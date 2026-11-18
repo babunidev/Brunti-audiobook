@@ -104,3 +104,13 @@
 - **Open source interpretation:** Nereval's literal bearer wording vs world-sanctuary healing-entry rule; novel currently sides with healing response while preserving the rune symbol.
 - **Audio watchlist:** Ch5 clustered Nagar reports, Ch7 many chests, and now **Ch13's cluster of distant injury/haunting testimonies**. No actual human/narrated listening session or acoustic test has been performed.
 - **Outstanding:** 74 individual source-scene comparisons; atlas-scale geography and comprehensive consecutive book read; 109 scene briefs vs complete prose context checks; oral rhythm, dialogue, and performance tests; independent human editorial acceptance; downstream narrator-script, rights clearance, recording and release. **Stage 5 is not accepted.**
+
+## 9. Post-commit verification on GitHub
+
+At audiobook `main` revision [`871112fe6d7f7bf01ddc3ad789a73400b5b9b87b`](https://github.com/babunidev/audiobookGrimnir/tree/871112fe6d7f7bf01ddc3ad789a73400b5b9b87b), the recursive GitHub tree returned **104 tracked files** and was **not truncated**. The **ten changed Markdown documentation/index/placement files** in this package were reopened, and **712 local relative Markdown link destinations** were resolved against the tracked paths: **zero missing file targets**. This simple existence scan does not verify heading fragments, external URLs, audiovisual output, manuscript quality or rendering.
+
+The four source-semantic ledgers were re-parsed by encounter ID: first ledger **57 rows / 54 distinct**, continuation B **22 rows / 20 newly counted**, continuation C **40 rows / 34 newly counted**, continuation D **34 rows / 21 newly counted**. **Union: 129 unique IDs**, all present in the **203-record current game source**, **74 uninspected**; no invalid IDs. The placement matrix was reopened and confirms `20014` now reads **Archive**, not Testimony.
+
+Thirty manuscript chapters were refetched individually after the Chapter 14 edit in three groups of ten. Each was counted by whitespace-separated tokens containing a Unicode letter or numeral: **37,570 words (Ch1–10) + 52,476 (Ch11–20) + 56,695 (Ch21–30) = 146,741 words**. The Chapter 14 single-word reduction from 4,864 to 4,863 is independently reflected in the full result.
+
+**Verification limited to GitHub source access, parsed ID checks, link-path existence and word recount. No automated tests/CI, human editorial acceptance, read-aloud, audio or deployment were run.**
