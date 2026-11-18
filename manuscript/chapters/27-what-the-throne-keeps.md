@@ -276,7 +276,7 @@ Brunti waited until the green light faded.
 
 The words traveled a short distance and seemed to be swallowed by the dark.
 
-She thought of the two separate memory stones and the old shared casing. Whoever had left those echoes belonged to a local history, worn and repaired by people with ordinary hands. She still had no names to place beside the rhythms.
+She thought of the separate rhythms in the old memorial casing, and the two places where Velen's drawing suggested stones might lie. Whoever had left those echoes belonged to a local history, worn and repaired by people with ordinary hands. She still had no names to place beside the rhythms.
 
 What would this being know of them?
 
