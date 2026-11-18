@@ -64,7 +64,7 @@ Brunti looked at them.
 
 “Then the purpose has changed,” Velen said. “You're no longer going because someone needs you.”
 
-The wagon driver cleared his throat from the road. He would not wait much longer.
+The wagon driver cleared his throat from the road. He would not wait much longer. One seat had been kept for Brunti, and the route through the staffed relays would put her home before convergence. Leaving it meant surrendering the one journey whose end she could reasonably judge.
 
 Sira stepped closer.
 
@@ -85,6 +85,8 @@ Brunti studied her friend's face. Light moved beneath Sira's skin in small, unse
 Sira waited for another answer.
 
 Brunti had none that made her choice better.
+
+She could already picture the council table at home: Darrik's measurements, the Aetherion sketch, her own record of the harm her brace had caused. It was enough to repair the wall. It was not enough to quiet her dread of facing the caretaker with two still-unnamed lives and nothing that resembled a victory. In Blackwood she imagined one last observation that might make her return seem worthy of the trouble she had caused. She knew how little justified that hope.
 
 “I am going anyway.”
 
@@ -130,7 +132,7 @@ Brunti stepped away from the gate. Sira stayed beside the child. Velen sat among
 
 The wagon moved toward the southern road.
 
-Brunti watched until it passed beneath the last trees.
+Brunti had learned on the watch to keep a party in sight until everyone reached shelter. Now she stood alone while a party she could have protected passed beyond the last trees. By the time its wheels had disappeared, Sira would already be helping the child settle, and Velen would be counting the papers meant for Darrik. Neither would be waiting for her.
 
 Then she turned toward the forest.
 
