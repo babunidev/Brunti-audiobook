@@ -119,3 +119,22 @@ The original Stage 0 evidence was deliberately preserved; no retrospective scene
 **Updated Blackwood recovery evidence:** wardens find Brunti beyond maintained paths beside an old boundary stone and disused haul track, carry her by litter to a ridge post and then via wagon to the Verdani lazaret. The routine incident report reaches Elda's shelter and Sira. This is a **novel-only external chain**, not an explanation or canon map of the abyss.
 
 **Still unknown:** exact world-map distances between stations, specific calendrical dates of all mail legs, elapsed subjective time inside Blackwood and external human editorial approval. The [source matrix](PLACEMENT_MATRIX.md) and canonical lore are unchanged.
+
+## H. Stage 4 updated message, custody and name-knowledge ledger — 18 November 2026
+
+This entry is **subsequent to historical Stages 0–3 notes above**; keep those as evidence of earlier versions. [Stage 4 review](../docs/REVISION_STAGE_4_REVIEW.md) and the edited chapters are authoritative for the following novel-draft state:
+
+| Item or knowledge | Current draft transition | Known limit |
+| --- | --- | --- |
+| Anonymous outer memorial marks | Ch1 observes fine upper chisel strokes and broader lower square impressions; Ch2 Darrik copies them; Ch11 Aetherion diagram suggests unequal fastening styles | **No owner identities or proof of identical maker** before Ch29 |
+| Two memorial owners | Ch29 independently exposes and witnesses **Tavra** and **Korrum** inscriptions, compared to different source records; Ch30 keeps their name markers separate | All earlier literal owner-name mentions were removed in Stage 1; **no memory-stone conversation**, no Keldor source for their names |
+| Tavra's personal trace | Ch29 copied route index mentions a family-name correction; Ch30 elder recalls a qualified inherited version | Novel-only account, not objective full biography or new world canon |
+| Korrum's personal trace | Ch29 maintenance entry mentions widening an accessible landing; Ch30 elder remembers ordinary loose-step repairs and the landing | Novel-only, different work and tool style; no assumption the present Skyland rail was built by Korrum |
+| Rescued Verdani girl | Ch23 learns her family is looking for her and waits at Elda; **Velen prepares family message before Ch23 courier dispatch**; Ch24 girl travels with Sira on staffed wagon; Ch28 Sira reports handoff to safe southern relay caretakers and delivery of family address | **Family reunion not confirmed** at the time of Ch28; Ch30 Brunti requests an update, no response invented |
+| Separate rescued boy and injured young adult | Boy remains at Elda under care in Ch23–28 reporting; injured adult has protected personal report and a treated ankle | No invented matching family or completed future care timeline |
+| Brunti and Sira | Ch27 Sira is afraid and angry, helps ordinary recovery; Ch28 she asks for Brunti's **personal repair account** then resumes courier relief work; Ch30 Brunti posts that account with the Skykeeper packet | No automatic forgiveness or future reunion implied |
+| Velen's Blackwood record | Ch27 hears Brunti's testimony in recovery; Ch30 keeps it distinct from public Ch29 inscriptions, attributes it to Brunti and agrees not to circulate without her permission | Velen is not a witness inside Blackwood |
+| Nemi's pebble | Earthsinger gives it in Ch3; Brunti carries it through Ch16; Ch30 Brunti gives the **same dark pale-seamed stone** to Nemi | Ordinary keepsake with no special power |
+| Tarnel's thimble case | Ch28 Tarnel keeps deceased sister's worn thimble; Brunti asks permission to fix a catching lid; he refuses for personal memory reasons | His Atranor account remains inherited testimony, not direct god-world evidence |
+
+**Stage 4 temporal consistency:** all changes occur within the Stage 2 relative convergence itinerary; the child's and Sira's messages travel by existing ordinary relays. No precise new world calendar, magical shortcut or verified reunion is invented. **Still open:** full atlas travel-time verification, current game-source reconciliation, all 203 encounter fidelity checks, and independent human literary acceptance.
