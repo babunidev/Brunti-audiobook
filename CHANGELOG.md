@@ -391,3 +391,13 @@ Documentation/audit work was performed by ChatGPT **GPT-6** under Babuni's origi
 - Kept the Nereval literal river-mark versus novel symbolic-access question open for human source-fidelity judgment; the final Stage 5 gate and audio production remain unapproved/unstarted.
 
 No external game-world source, Morkahja canon, narrated audio or publication was changed.
+
+## 2026-11-18 — Stage 5 forest source-fidelity continuation
+
+- Added [Chapters 5–8 targeted review](docs/REVISION_STAGE_5_CONTINUATION_03.md), with all 40 assigned source encounters compared to current prose; **34 newly reviewed unique IDs** and **six already-reviewed rechecks**, for **108/203 distinct targeted checks**, **95 pending**.
+- Compared all 40 Ch5–8 source JSON objects at the game's `952437c5c59d` and `2ba61f5a6bc` revisions: **40/40 identical**, no intervening content revisions affecting this chapter group.
+- Reopened pinned Nagar, Liani, Eldertree, Aevis and unresolved-creature lore; confirmed archival locations of northern Grimnir containers and distinct treatment of wolf encounters.
+- Flagged audio-density risks in **Chapter 5's eight Nagar campfire stories** and **Chapter 7's five containers**. No new blocking contradiction and **no manuscript prose edit** applied; current count stays **146,742 words**.
+- Updated roadmap, README, plan, Stage 5 evidence and journal without elevating any scene to human editorial approval.
+
+The Nereval river-rune question, remaining 95 source-scene checks, full-book/canon/atlas/read-aloud verification, narrator production and publication remain open.
