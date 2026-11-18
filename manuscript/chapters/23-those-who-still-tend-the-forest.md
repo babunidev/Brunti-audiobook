@@ -1118,6 +1118,14 @@ He thought for a while.
 
 Their voices rose together for a few notes, then separated into two different endings. Neither child seemed to mind.
 
+When the song ended, the girl rubbed her thumb over the carved ring on her grandfather's walking stick.
+
+“If they come while I'm asleep, will someone wake me?” she asked.
+
+Sira sat beside her. “We'll tell the caretakers whom you're waiting for. You needn't stay awake to keep your place.”
+
+The girl leaned the stick against the bench, close enough to reach without standing. The boy began the tune again, softer this time.
+
 The injured young woman was carried to a dry room where Elda's caretakers could examine her splint and help her rest. She asked for water and a place where she could see the door. Both were given.
 
 Velen prepared the messages.
