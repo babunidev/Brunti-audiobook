@@ -1,6 +1,8 @@
 # Stage 5 — manuscript verification audit, first evidence pass
 
-**18 November 2026 | Status: IN PROGRESS, NOT editorially accepted.** ChatGPT (**GPT-6**) conducted source-data comparison, 30-chapter structural and focused prose checks, lore-reference inspection and one documented copyedit under Babuni's instruction to proceed to Stage 5. **The final Stage 5 gate is NOT passed.** The required uninterrupted full-book read, individual semantic approval of every encounter, read-aloud performance check and separate human acceptance have **not** been completed.
+**18 November 2026 | Status: IN PROGRESS, NOT editorially accepted.**
+
+**Latest continuation, same date:** [54 targeted current-source semantic scene checks](REVISION_STAGE_5_SEMANTIC_REVIEW.md) completed after the original first evidence pass below; **149 encounters remain unreviewed at that level**, and the current manuscript is **146,672 counted words**. Historical intermediate counts in the initial report are preserved to maintain change traceability. ChatGPT (**GPT-6**) conducted source-data comparison, 30-chapter structural and focused prose checks, lore-reference inspection and one documented copyedit under Babuni's instruction to proceed to Stage 5. **The final Stage 5 gate is NOT passed.** The required uninterrupted full-book read, individual semantic approval of every encounter, read-aloud performance check and separate human acceptance have **not** been completed.
 
 **Book revision at start:** audiobook `df0fbe8f370981ec870d8da621435fcda27f8c68` (end of Stage 4), [original revision plan](MANUSCRIPT_REVISION_PLAN.md). **Revised manuscript:** 30 chapters, **146,637 counted words** including chapter headings after the Stage 5 Chapter 3 copyedit. Method: whitespace-separated tokens containing at least one Unicode letter or numeral, as in the [chapter index](../manuscript/chapters/README.md). This is **−22** counted words from 146,659 at Stage 4. Source encounter matrix remains unmodified.
 
@@ -81,10 +83,10 @@ A repository-wide GitHub tree listing at `main` identified **100 Markdown files*
 
 | Stage 5 gate | Evidence so far | Status |
 | --- | --- | --- |
-| 30 indexed manuscript chapters and standardized word recount | Chapter sources + index, total **146,637** | **Checked structurally** |
+| 30 indexed manuscript chapters and standardized word recount | Chapter sources + index, latest total **146,672** | **Checked structurally** |
 | 203 game records vs 203 matrix assignments vs 203 scene-brief ID entries | Direct machine parses, all numeric IDs match and chapter assignments agree | **Checked structurally** |
 | 33 newer source prose records compared by JSON field | **Only** `mEncounterText` changed at IDs 20158–20190 | **Checked field-by-field** |
-| 203 manuscript integration identities/faithfulness | [Automated candidate locator register](STAGE_5_ENCOUNTER_LOCATORS.md), **24 low-overlap flags**; focused examples read | **OPEN: not semantically certified per ID** |
+| 203 manuscript integration identities/faithfulness | [54 actual current-source and scene hook comparisons](REVISION_STAGE_5_SEMANTIC_REVIEW.md) (24 low-overlap + 33 changed-source − 3 overlap); **149 more IDs outstanding**, no final human approval | **PARTIAL: targeted AI review only, final gate open** |
 | Canon physiology, Atranor, Keldor and Skyland boundaries | Pinned lore references and targeted manuscript inspections | **Partial** |
 | Full chronology, travel, injury, letters and character positions after Stage 4 | Prior stage ledgers, all 30 chapter openings/endings in order, selected inner passages (not the full continuous text) | **OPEN: not yet complete consecutive read** |
 | Read-aloud flow and whole-book dialogue/style consistency | Paragraph lengths and targeted samples | **OPEN: no performed listening test** |
@@ -101,3 +103,13 @@ A repository-wide GitHub tree listing at `main` identified **100 Markdown files*
 5. **E5-05 — Subsequent production only:** narrator-ready segmentation, pronunciation and attribution review, rights clearance, voice tests, audio mastering and release after manuscript acceptance.
 
 **Conclusion:** Stage 5 has produced **real new source reconciliation evidence, an automated 203-ID passage-locator aid, targeted lore checks and one manuscript copyedit**, but its **final gate remains unpassed**. Stages 0–4 remain internally revised drafts. **No audiobook has been recorded, approved or published** and no Morkahja/MorkahjaWorld file was changed.
+
+## 6. Continued Stage 5 source and literature pass — 18 November 2026
+
+[Targeted source-to-scene ledger](REVISION_STAGE_5_SEMANTIC_REVIEW.md) records **54 distinct IDs** reviewed against actual game encounter text at `cf7c285`, including all **24 low lexical matches** and all **33 newly changed descriptions** (three overlaps). A low score is not automatically an omission: the Zeelai is actually in Mara's Ch5 testimony, and the Skylore Scholar is in the Ch23 on-page fieldwork after an unrelated supply-list paragraph that the machine matched. Both special IDs **1** and **2** remain purposeful testimony/metaphor.
+
+The semantic review uncovered and corrected the female identity of **Stonefist Ironwill (ID 20018)** in Ch2. Current source's newly exposed **sheltered foothold (20161)** and the Flamecrazed Wanderer's **startled cry (20164)** now appear in Ch24. The Veilwalker (20190) in Ch10 is more clearly depicted as a vast, indefinite, tree-crown-height hovering presence in the witness's telling, a **novel-only visualization** rather than a newly established game-species rule. Ch24/26/29 remove three unnecessary literal stopped/held-breath gestures without declaring Grimnir respiration canonically impossible. No lore source was altered.
+
+**Changed manuscript files in this package:** Chapters **2, 10, 24, 26 and 29**. Added counted words **0 + 8 + 21 + 3 + 3 = 35**. Latest indexed corpus **146,637 → 146,672** including 30 chapter headings. All **203 original matrix placements remain intact**.
+
+**Current semantic coverage:** **54/203 targeted AI source-hook comparisons** (not human-reviewed) and **149/203 still to compare directly with their scenes**. **Full continuous manuscript pass, the 149 outstanding semantic comparisons, comprehensive atlas/canon and read-aloud checks, and independent human acceptance remain OPEN.** The presence of 54 evidence rows does not mean final Stage 5 readiness.
