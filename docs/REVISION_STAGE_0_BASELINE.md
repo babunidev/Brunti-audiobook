@@ -12,7 +12,7 @@
 
 ## Audited chapter-file manifest
 
-The word column is a newly reproducible **whitespace-token count** (`content.trim().split(/\\s+/)`), *not* the chapter index's historical counting convention. Hashes are chapter-content Git blob SHAs read from GitHub (first 12 characters shown). Links target the current visible chapter paths; the immutable starting commit above is the audit anchor.
+The word column is a newly reproducible **whitespace-token count** (`content.trim().split(/\s+/)`), *not* the chapter index's historical counting convention. Hashes are chapter-content Git blob SHAs read from GitHub (first 12 characters shown). Links target the current visible chapter paths; the immutable starting commit above is the audit anchor.
 
 | Chapter | Chapter file | Mapped IDs | Whitespace tokens | Git blob SHA |
 | ---: | --- | ---: | ---: | --- |
