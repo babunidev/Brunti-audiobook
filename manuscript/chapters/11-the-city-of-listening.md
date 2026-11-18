@@ -868,8 +868,6 @@ Brunti considered the road ahead.
 
 The copy in Brunti's pack had survived long enough to show two separate places beneath one old cover. On the road outside the archive, a pair of workers carrying ladders made room for her and Sira to pass; she felt the folded drawing through its cloth sleeve and let them go ahead.
 
-She touched the folded paper through the cloth.
-
 Inside the archive a preserved voice began again, low and almost lost beneath the height of the shelves. Its words did not change. It held the shape of a person who had once spoken them, and nothing more.
 
 Brunti listened until the phrase ended.
