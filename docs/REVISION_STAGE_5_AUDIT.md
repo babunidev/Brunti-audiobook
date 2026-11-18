@@ -66,6 +66,10 @@ All **30 chapter files were reopened** in grouped scans for passage structure, d
 
 **Not performed:** an uninterrupted **full 146,662-word human-like literary close-read**, listening to all of it spoken, professional line/copyedit, pronunciation checks, narrator files or finished audio. Paragraph/term scans cannot substitute for those tasks.
 
+### Internal Markdown link-path test — 18 November 2026
+
+A repository-wide GitHub tree listing at `main` identified **100 Markdown files**. Every one was fetched; basic Markdown inline-link targets were extracted; absolute HTTP(S), hash-only and mailto links were excluded; relative `..`/`.` segments and URL escapes were resolved against the tracked tree. **1,498 local link destinations resolved to existing files; no missing local file targets found.** This tests **file existence only**, not whether a heading fragment exists, whether external URLs load, or whether all possible Markdown link syntaxes are captured. No production files were created.
+
 ## 5. Current gate status — deliberately not certified
 
 | Stage 5 gate | Evidence so far | Status |
@@ -77,7 +81,8 @@ All **30 chapter files were reopened** in grouped scans for passage structure, d
 | Canon physiology, Atranor, Keldor and Skyland boundaries | Pinned lore references and targeted manuscript inspections | **Partial** |
 | Full chronology, travel, injury, letters and character positions after Stage 4 | Prior stage ledgers, selected late-chapter cross-reads | **OPEN: not yet complete consecutive read** |
 | Read-aloud flow and whole-book dialogue/style consistency | Paragraph lengths and targeted samples | **OPEN: no performed listening test** |
-| Links and export integrity | Check pending; source/chapter index files have not been exported as narrator scripts | **OPEN** |
+| Local Markdown link-path integrity | Scanned **all 100 Markdown files** in the current audiobook GitHub repository tree; **1,498 relative link destinations** resolve to existing tracked files. Heading fragments, external URL availability and other markdown parser edge cases not checked | **Path targets checked; remaining checks open** |
+| Narrator export integrity | No narrator-ready prose export, chapter-to-track mapping or audio file was generated | **OPEN** |
 | Separate human editorial acceptance | No explicit human approval of revised full prose | **OPEN** |
 
 ### Remaining editorial action register
