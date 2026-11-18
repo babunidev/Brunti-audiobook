@@ -1140,11 +1140,7 @@ Sira looked at the two young Verdani beneath the lantern.
 
 Brunti felt the answer settle slowly.
 
-A missing person had been found without a prophecy, without a secret relic, without a battle that made the forest kneel. The people who lived at its edge had kept their lamps burning. They had written careful reports, mended the paths they could reach, and refused to call every frightening thing an enemy that must be destroyed.
-
-The work was still unfinished.
-
-It was enough.
+The little girl laughed at a mistake in the boy's tune. He began again, this time more slowly. Behind them, Elda's caretakers carried fresh water to the injured traveler, and a carpenter called for another peg at the gate.
 
 Varun came from the gate with a map rolled beneath his arm.
 
@@ -1157,8 +1153,6 @@ Velen looked at Brunti.
 “We could leave.”
 
 “We should,” Brunti replied, but the words came slowly.
-
-“Yes,” she said.
 
 Beyond the hedge, the forest stood dense and dark. Somewhere deep among the trunks, old roads bent toward places the world had never understood. Brunti had crossed enough of Morkahja to know that an unanswered place could tempt a person more than a finished task.
 
