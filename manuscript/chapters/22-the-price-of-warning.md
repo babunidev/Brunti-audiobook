@@ -490,9 +490,7 @@ Varun watched them in silence for a moment, then tore a narrow strip from an old
 
 “One mark for a passable ford,” he said. “Not a promise. The water can change by morning.”
 
-As they resumed the trail, Brunti thought of the merchant's button and his loudly announced ancient charm. A person could charge a good price for a warning, and a warning could still be worth very little. Here they had made a crossing, recorded its limits, and left a marker that someone else could choose to trust or question.
-
-No one had asked for payment.
+The cloth marker fluttered once behind them. A little way downstream, Sira stopped to wring the water from the hem of her robe. Brunti pretended not to notice that Velen's boots made a much louder sound.
 
 The creek slipped away beneath the roots behind them.
 
@@ -585,8 +583,6 @@ Varun leaned near Brunti's shoulder.
 “Bandits?”
 
 “Likely. I know the shed is used by people who demand payments from travelers. I can't name the two who just passed.”
-
-The distinction mattered.
 
 The rooster strutted over the ground again, apparently satisfied that he had fulfilled his responsibilities. He found a better scrap beneath the leaves and began pecking at it.
 
@@ -742,7 +738,7 @@ The work was slow, practical and unmistakably alive.
 
 Brunti stopped at the outer marker.
 
-She had spent the day hearing warnings from people and creatures who each knew only a portion of the forest. Some had tried to sell certainty. Others had spoken cautiously, admitting what they could not prove. The warnings had not agreed, but they had kept her from treating every possible path as one she was entitled to take.
+The person repairing the support struck the peg again. The timber shifted, but did not fall. Brunti recognized the patience of someone who knew the next blow would matter more than the last.
 
 The person with the bucket saw them first.
 
