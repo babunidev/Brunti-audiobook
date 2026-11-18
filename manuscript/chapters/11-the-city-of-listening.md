@@ -180,7 +180,7 @@ Velen read it carefully.
 
 “Not Thalen,” Sira said. “Brunti.”
 
-Velen studied the Grimnir warrior, her hammer, her crowded notebook and the pack that showed several weeks of road travel.
+Velen studied the Grimnir warrior, her hammer, her crowded notebook and the pack that showed several weeks of road travel. Brunti had spent those weeks learning which questions a stranger could answer. The one she did not want to hear was simple: what would she say to the council if every useful drawing still left the dead unnamed?
 
 “What kind of record?”
 
