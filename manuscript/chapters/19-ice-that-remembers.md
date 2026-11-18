@@ -262,9 +262,7 @@ They did not draw it.
 
 Instead Velen shaded the area where the ice hid the writing, and wrote beside it: *not visible*.
 
-Brunti reached toward another pale inscription but stopped with her fingers short of the wall. In Aetherion, a partial craft diagram had taught her that the casing around two memorial stones might have been repaired more than once. Here, another kind of material held traces of a past she could not read.
-
-One did not explain the other merely because both were old.
+Brunti reached toward another pale inscription but stopped with her fingers short of the wall. A thread of meltwater traveled down the glassy surface and gathered against a crack. She watched it disappear beneath the frozen writing.
 
 The cord tightened slightly in her hand.
 
@@ -536,7 +534,7 @@ The traveler gave them the station, not a promise of finding the scholar. Enna c
 
 That night Brunti set the cave drawing beside the letters from home.
 
-The memorial wall's problem remained a problem of joined materials, two quiet lives pressed beneath one casing, and a choice about how to keep the resting rooms safe. Aetherion's old sketch had given her a practical lead. The mountain had not improved it by showing her ancient bones or luminous marks.
+The corner of the paper curled in the shelter's warmth. Brunti placed a cup on the clean margin, well away from the sketches.
 
 Velen sat across the table.
 
@@ -546,13 +544,11 @@ Velen sat across the table.
 
 “Did it?”
 
-“We know what is there. We know what it doesn't show us.”
+“We know where the ice hides the lettering.”
 
 “That is a disappointing kind of clarity.”
 
-Brunti considered the complaint. It was one she might have made herself when she first left the Skyland.
-
-The ice had kept bones from crumbling and lettering from vanishing. Yet without the lives that made them, neither could tell the whole story. An archive could protect what remained. It could not make the missing part appear through patience or desire.
+Brunti moved the cup. The paper stayed flat for a moment, then curled up again.
 
 “Would Jorvald know more?” Brunti asked.
 
@@ -562,7 +558,7 @@ The ice had kept bones from crumbling and lettering from vanishing. Yet without 
 
 “We'll have another name beside the answer we could not find.”
 
-Brunti looked at the page with its shaded gap. It reminded her of the space Sira had left in the displaced families' records, unfilled until a witness could speak for it.
+Brunti looked at the shaded gap. Velen sharpened the pencil twice, although its point was already fine.
 
 Outside the shelter, snow began to fall again, softly enough that no one rose to check the path.
 
