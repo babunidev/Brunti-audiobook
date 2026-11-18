@@ -13,10 +13,10 @@
 | R7 | Concrete cost of Chapter 24 Blackwood choice | **Draft revised; targeted internal check passed; independent review pending** | [Stage 2 review](REVISION_STAGE_2_REVIEW.md) |
 | R8 | Ordinary recovery chain from Blackwood | **Draft revised; targeted internal check passed; independent review pending** | [Stage 2 review](REVISION_STAGE_2_REVIEW.md) |
 | R9 | Visible warrior/protector identity | **Draft revised; targeted internal check passed; independent review pending** | [Stage 2 review](REVISION_STAGE_2_REVIEW.md) |
-| R10 | Anonymous individuality of memorial owners | **Open — prose unchanged** | [Chapter function map](../story/REVISION_CHAPTER_FUNCTIONS.md) |
-| R11 | Secondary rescue, relationships, keepsake payoff | **Open — prose unchanged** | [Chronology ledger](../story/REVISION_CHRONOLOGY_AND_OBJECTS.md) |
-| R12 | Sira/Velen/Darrik relationship consequences | **Open — prose unchanged** | [Chapter function map](../story/REVISION_CHAPTER_FUNCTIONS.md) |
-| R13 | Late Atranor interlude pacing | **Open — prose unchanged** | [Chapter function map](../story/REVISION_CHAPTER_FUNCTIONS.md) |
+| R10 | Anonymous individuality of memorial owners | **Draft revised; targeted internal check passed; human acceptance pending** | [Stage 4 review](REVISION_STAGE_4_REVIEW.md) |
+| R11 | Secondary rescue, relationships, keepsake payoff | **Draft revised; targeted internal check passed; human acceptance pending** | [Stage 4 review](REVISION_STAGE_4_REVIEW.md) |
+| R12 | Sira/Velen/Darrik relationship consequences | **Draft revised; targeted internal check passed; human acceptance pending** | [Stage 4 review](REVISION_STAGE_4_REVIEW.md) |
+| R13 | Late Atranor interlude pacing | **Draft revised; targeted internal check passed; human acceptance pending** | [Stage 4 review](REVISION_STAGE_4_REVIEW.md) |
 
 ## Stage history
 
@@ -57,6 +57,18 @@
 **Checks:** all 30 current chapter counts recalculated under the same published Unicode-letter/number whitespace convention: **145,771 words** (−734 from Stage 2's 146,505); 203/203 unique encounter assignments still in matrix; 30 chapter index rows; seven engraved letters `A H K J O M A`; Blackwood 8-ID and three smaller follow chains unchanged in assignment. R1–R9's targeted continuity links remain intact.
 
 **Explicit limits:** **no uninterrupted line-by-line read** of the full 145,771-word novel, **no 203-source-by-source fidelity audit or 109 scene-brief full tagging**, no independent editorial sign-off and no completed audio. These are **provisional, targeted narrative edits** under delegated writing authority, not final acceptance. Stage 4 emotional pass and Stage 5 exhaustive close-read/source/canon checks are open.
+
+### 2026-11-18 — Stage 4: memorial individuality, relationships and grief
+
+**Direction:** continue to the next approved workflow stage under existing delegated creative-draft authority. **AI work:** ChatGPT (**GPT-6**) changed **seven chapter files—Ch1, 2, 11, 23, 28, 29 and 30**—and documented evidence in [Stage 4 review](REVISION_STAGE_4_REVIEW.md).
+
+**R10:** Unnamed contrasting craft marks are now visible in Chapter 1, copied by Darrik in Chapter 2 and analogous to unequal fixing marks in Chapter 11's incomplete Aetherion diagram. **Tavra and Korrum remain first physically named only in Chapter 29**; ordinary recorded acts distinguish correcting a family's name from widening a lived-in landing. No fresh testimony from memory echoes, prophecy or world-canon changes.
+
+**R11:** The Keldor girl asks whether she will be woken if relatives arrive. Chapter 23 now correctly prepares the sealed family letter **before** next-morning dispatch, while Chapter 28 confirms continued supervised relay care and a delivered family address but **does not claim a reunion**. Nemi's on-page pebble delivery in Chapter 30 now acknowledges the long absence without making the stone magical.
+
+**R12–R13:** Sira retains justified anger, asks Brunti for her own account after the safe repair, and continues independent relief work; Brunti sends that letter in Chapter 30. Velen keeps inscription evidence separate from Brunti's unverified private Blackwood testimony and requests a teller's permission to attribute oral recollections. Darrik independently designs accessible archive access and protects the occupied chambers. Tarnel's secondhand Atranor story receives a small keepsake/clasp exchange with no changed divine rules.
+
+**Verification performed:** targeted cross-chapter reading; literal owner-name scan across Chapters 1–28 yields **zero** Tavra/Korrum occurrences; seven chapter-file word counts updated with the established convention; **30 chapters and 203 distinct placement-matrix encounter IDs** retained. New draft count **146,659** (+888 relative to Stage 3). **Still open:** uninterrupted full line edit, per-ID comparisons with changed source encounter JSON, lore/atlas/read-aloud review, human editorial acceptance, narrator files and audio.
 
 ## How to record subsequent work
 
