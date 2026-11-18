@@ -596,9 +596,7 @@ She took her hand away.
 
 The root continued to tremble.
 
-Brunti sat beneath it, her back against a wall of damp wood.
-
-She sat with her back against the damp wood until the ache in her left wrist deepened. Somewhere beyond the roots a small crack sounded, like a branch breaking under a foot. She waited for another. None followed.
+Brunti settled beneath it, her back against the damp wood. The ache in her left wrist deepened as she rested. Somewhere beyond the roots a small crack sounded, like a branch breaking under a foot. She waited for another. None followed.
 
 ***
 
