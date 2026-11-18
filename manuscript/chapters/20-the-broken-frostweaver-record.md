@@ -774,7 +774,7 @@ At the southern relay station, Brunti wrote to Darrik.
 
 She told him what Aetherion's partial drawing showed. She described the paired seats and the missing inscription. She admitted that the Frostweaver records offered no verified repair and no reason to postpone a safe transfer. She asked the stewards to conserve the pieces separately identifiable if possible, to keep their origin evidence with them, and to leave room for later testimony without allowing any unproved interpretation into the active structure.
 
-She did not call the transfer a defeat.
+She did not call the transfer a defeat. Yet when she pictured the council table, she still saw Darrik laying out a repair already planned without her. She could sign a measured account for strangers. Standing before the people whose resting room she had endangered, admitting that she could not name the two lives in the wall, was harder. She left that fear out of the letter.
 
 Velen read the letter once.
 
@@ -786,7 +786,7 @@ Velen read the letter once.
 
 Brunti sealed the page and gave it to the station courier, who carried messages south toward the trading routes. The courier could not promise delivery before the convergence, but the steward's existing plan required no further permission from her. Her note was a statement of support, not a last-minute attempt to direct work from a distant valley.
 
-The practical journey could end.
+The practical journey could end. At the station's route board, a clerk had set the expected convergence a little less than two months ahead. Four months of road and detours had already passed. The northern couriers could carry her account; the road south would have to carry her.
 
 They had enough provisions for the first stages home, a cautious route from Enna, and a packet of records that could be checked without trusting a ghost or a singing stone.
 
