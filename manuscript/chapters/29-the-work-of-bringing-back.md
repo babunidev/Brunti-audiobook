@@ -398,9 +398,15 @@ The council did not turn the meeting into a ceremony.
 
 They asked about the original panel, the deadline and the conditions under which a safe inspection could begin. One of the structural workers reported that the temporary dampening pads had remained stable through several ordinary shifts of resonance. The resting rooms had an independent support line, inspected daily. No new disturbance had been measured there.
 
-The caretaker confirmed the residents had been able to sleep without the old knocking returning.
+The caretaker confirmed the residents had been able to sleep without the old knocking returning. The elder whose rest Brunti had disturbed was using the same shaped bed again, though he still asked to be warned before work began near the chamber.
 
-Brunti felt a relief so plain that it was almost embarrassing.
+“Did anyone warn him this morning?” Brunti asked.
+
+“I did,” the caretaker said. “He wanted to know the hour, not the story.”
+
+Brunti nodded. The hour was something they could give him.
+
+She felt a relief so plain that it was almost embarrassing.
 
 She had spent months imagining the wall waiting for her.
 
@@ -616,6 +622,8 @@ A broad line emerged, then a curved stroke beside it. As more of the surface bec
 
 **Tavra.**
 
+The shallow strokes near the upper fastening resembled marks Brunti had noticed before her journey. Here they ended beside the pale memorial, where no cover concealed them. It was a trace of workmanship, not yet a story about the person named by the stone.
+
 The memory-keeper, watching from behind the work boundary, made a small sound.
 
 Brunti looked toward her.
@@ -624,7 +632,7 @@ Brunti looked toward her.
 
 “From the older sky-travel accounts,” the elder said. “A Skykeeper. Not a queen. Not a warrior who conquered anything. She carried the words of other people between settlements.”
 
-Velen found the name in a small index of copied Skyland records, where a Tavra had been associated with several former routes. The entry alone could not prove the stone belonged to that person, but its period and craft marks were consistent with the exposed inscription.
+Velen found the name in a small index of copied Skyland records, where a Tavra had been associated with several former routes. A surviving entry concerned the correction of a family's name in a carried account; the earlier spelling remained on the page with the correction beside it. Velen read the two forms aloud before showing the inscription to the memory-keeper. The entry alone could not prove the stone belonged to that person, but its period and craft marks were consistent with the exposed inscription.
 
 Darrik read the name aloud for the independent witness.
 
@@ -654,7 +662,7 @@ Enough of a name to read without inventing the missing strokes.
 
 **Korrum.**
 
-The lower inscription bore a different tool hand from Tavra's. It was heavier, its cuts suited to darker mineral and the kind of durable lettering used in workshops rather than formal memorial courts.
+The lower inscription bore a different tool hand from Tavra's. It was heavier, its cuts suited to darker mineral and the kind of durable lettering used in workshops rather than formal memorial courts. The broad squared marks beside the old lower fastening followed the same practical style, though the original fitter had left no name.
 
 Brunti leaned closer.
 
@@ -672,7 +680,7 @@ The other worker examined the stone from a different angle.
 
 Darrik asked for a rubbing and a measured copy of the exposed letters before the strip was moved elsewhere.
 
-Velen recorded which strokes were intact and which were inferred only from the surviving parts of the name. Another archive record associated a Korrum with the maintenance of inhabited chambers in an earlier period of the Skyland's history. The name and the old craft marks strengthened one another; neither record had required a fabricated conclusion.
+Velen recorded which strokes were intact and which were inferred only from the surviving parts of the name. Another archive record associated a Korrum with the maintenance of inhabited chambers in an earlier period of the Skyland's history. One entry listed a landing widened so residents could turn without leaning against a narrow rail; its measurements were ordinary, and the name beside them had nearly been worn away. The name and the old craft marks strengthened one another; neither record had required a fabricated conclusion.
 
 The inscription belonged to a separate stone.
 
@@ -814,7 +822,7 @@ She approached him after the elder had gone.
 
 “Why this place?”
 
-“The memory-keeper asked where she would sit.”
+“The memory-keeper asked where she would sit. The caretaker asked how someone could reach the court without crossing the room where people rested. The locked storehouse answered neither question, so I had the old copying tables moved.”
 
 “You listened.”
 
@@ -938,7 +946,7 @@ The food was simple, prepared with mineral grains and warm roots. Brunti ate whi
 
 Some residents spoke about Tavra's journeys. Others remembered stories of Korrum's work, particularly a bridge repair that had been repeated so often no one could now agree on how high the original bridge had stood.
 
-Velen made a note to record the differing versions separately.
+Velen listened until the elder who told the bridge story had finished, then asked whether she wished her name recorded beside the telling. The elder agreed, but requested that the height of the bridge remain uncertain. Velen wrote that down before accepting the next account.
 
 Brunti smiled into her bowl.
 
