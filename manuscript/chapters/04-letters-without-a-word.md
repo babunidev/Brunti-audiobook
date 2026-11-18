@@ -224,13 +224,13 @@ The letter had been carved large enough to recognize from a few paces away. Shad
 
 Brunti stood over it without taking out her notebook.
 
-The stone did not ask to be drawn. The heath was full of sound: insects, stems, an unseen bird farther up the slope. None of it seemed arranged for her.
+The heath was full of sound: insects, stems, an unseen bird farther up the slope. A bold bee investigated the rim of her food pouch until she moved it beneath her cloak. The bee continued investigating the cloak.
 
 At last she sat in the grass and ate a small portion of the food she had brought from the shelter. She had prepared it badly. The mineral mixture was too coarse, and the grain had dried around the edges. Darrik would have said the cook needed a better understanding of heat.
 
 She ate it anyway.
 
-She thought of Nemi's hammer. The child had repaired it by learning where the binding was wrong, not by insisting that the first binding ought to have held. And Brunti had come down into the Vale carrying a piece of metal that proved the cost of that same insistence.
+She found a crumb caught in a seam of the stone on her thumb and brushed it into the grass. Somewhere on the Skyland, Nemi would be testing her repaired hammer against a practice block. Brunti wondered whether the child had reached six blows without breaking the binding.
 
 When she finished, she wrote M on a clean page.
 
