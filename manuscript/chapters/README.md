@@ -25,9 +25,9 @@
 | 19 | [Ice That Remembers](19-ice-that-remembers.md) | 20129–20131, 20135, 20136, 20140, 20141 | **Draft v1** — 4,854 words |
 | 20 | [The Broken Frostweaver Record](20-the-broken-frostweaver-record.md) | 20133, 20134, 20137–20139, 20142–20145 | **Draft v1** — 6,482 words |
 | 21 | [Before the Cursed Trees](21-before-the-cursed-trees.md) | 20044, 20107, 20108, 20112, 20113 | **Draft v1** — 4,567 words |
-| 22 | [The Price of Warning](22-the-price-of-warning.md) | 20075, 20078, 20079, 20118, 20155 | **Draft v1** — 4,830 words |
+| 22 | [The Price of Warning](22-the-price-of-warning.md) | 20075, 20078, 20079, 20118, 20155 | **Draft v1** — 4,869 words |
 | 23 | [Those Who Still Tend the Forest](23-those-who-still-tend-the-forest.md) | 20148, 20162, 20167–20175 (except 20176), 20177 | **Draft v1** — 7,173 words |
-| 24 | [Paths Among the Dead](24-paths-among-the-dead.md) | 20146, 20147, 20149–20153, 20156–20161, 20163–20166, 20178–20180 | **Draft v1** — 5,617 words |
+| 24 | [Paths Among the Dead](24-paths-among-the-dead.md) | 20146, 20147, 20149–20153, 20156–20161, 20163–20166, 20178–20180 | **Draft v1** — 5,732 words |
 | 25 | [The Door in the Cliff](25-the-door-in-the-cliff.md) | 20050 → 19666 → 19667 | **Draft v1** — 5,447 words |
 | 26 | [The Voices Beneath](26-the-voices-beneath.md) | 19668 → 19669 → 19670 | **Draft v1** — 5,351 words |
 | 27 | [What the Throne Keeps](27-what-the-throne-keeps.md) | 19671 → 19672 | **Draft v1** — 5,355 words |
@@ -35,7 +35,7 @@
 | 29 | [The Work of Bringing Back](29-the-work-of-bringing-back.md) | Original connecting fiction; no assigned game ID | **Draft v1** — 5,659 words |
 | 30 | [The Note That Remains](30-the-note-that-remains.md) | 2 — Level up! (Metaphor) | **Draft v1** — 5,554 words |
 
-**Total current manuscript:** **145,229 words including chapter headings**. This is narrative prose, not a compilation of unadapted source descriptions.
+**Total current manuscript:** **145,383 words including chapter headings**. This is narrative prose, not a compilation of unadapted source descriptions.
 
 The chapter text is clean for reading and eventual narration export. Editorial notes stay in the [opening review](../../docs/MANUSCRIPT_REVIEW.md), [Chapters 3–4 review](../../docs/CHAPTERS_03_04_REVIEW.md) and [Chapters 5–6 review](../../docs/CHAPTERS_05_06_REVIEW.md) and [Chapters 7–8 review](../../docs/CHAPTERS_07_08_REVIEW.md) and [Chapter 9 review](../../docs/CHAPTER_09_REVIEW.md) and [Chapter 10 review](../../docs/CHAPTER_10_REVIEW.md) and [Chapter 11 review](../../docs/CHAPTER_11_REVIEW.md) and [Chapter 12 review](../../docs/CHAPTER_12_REVIEW.md) and [Chapter 13 review](../../docs/CHAPTER_13_REVIEW.md) and [Chapter 14 review](../../docs/CHAPTER_14_REVIEW.md) and [Chapter 15 review](../../docs/CHAPTER_15_REVIEW.md) and [Chapter 16 review](../../docs/CHAPTER_16_REVIEW.md) and [Chapter 17 review](../../docs/CHAPTER_17_REVIEW.md) and [Chapter 18 review](../../docs/CHAPTER_18_REVIEW.md) and [Chapter 19 review](../../docs/CHAPTER_19_REVIEW.md) and [Chapter 20 review](../../docs/CHAPTER_20_REVIEW.md) and [Chapter 21 review](../../docs/CHAPTER_21_REVIEW.md) and [Chapter 22 review](../../docs/CHAPTER_22_REVIEW.md) and [Chapter 23 review](../../docs/CHAPTER_23_REVIEW.md) and [Chapter 24 review](../../docs/CHAPTER_24_REVIEW.md) and [Chapter 25 review](../../docs/CHAPTER_25_REVIEW.md) and [Chapter 26 review](../../docs/CHAPTER_26_REVIEW.md) and [Chapter 27 review](../../docs/CHAPTER_27_REVIEW.md) and [Chapter 28 review](../../docs/CHAPTER_28_REVIEW.md) and [Chapter 29 review](../../docs/CHAPTER_29_REVIEW.md) and [Chapter 30 review](../../docs/CHAPTER_30_REVIEW.md). The [source-to-manuscript matrix](../../story/PLACEMENT_MATRIX.md) tracks every game ID separately from the historical [source atlas](../../story/ENCOUNTER_ATLAS.md).
 
