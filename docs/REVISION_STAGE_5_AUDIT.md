@@ -90,7 +90,7 @@ A repository-wide GitHub tree listing at `main` identified **100 Markdown files*
 | Canon physiology, Atranor, Keldor and Skyland boundaries | Pinned lore references and targeted manuscript inspections | **Partial** |
 | Full chronology, travel, injury, letters and character positions after Stage 4 | Prior stage ledgers, all 30 chapter openings/endings in order, selected inner passages (not the full continuous text) | **OPEN: not yet complete consecutive read** |
 | Read-aloud flow and whole-book dialogue/style consistency | Paragraph lengths and targeted samples | **OPEN: no performed listening test** |
-| Local Markdown link-path integrity | Most recent rescan: **all 101 Markdown files**, **1,542 relative link destinations** resolve to existing tracked files; heading fragments/external URL availability not checked | **Path targets checked; remaining checks open** |
+| Local Markdown link-path integrity | Most recent rescan: **all 101 Markdown files**, **1,543 relative link destinations** resolve to existing tracked files; heading fragments/external URL availability not checked | **Path targets checked; remaining checks open** |
 | Narrator export integrity | No narrator-ready prose export, chapter-to-track mapping or audio file was generated | **OPEN** |
 | Separate human editorial acceptance | No explicit human approval of revised full prose | **OPEN** |
 
@@ -116,4 +116,4 @@ The semantic review uncovered and corrected the female identity of **Stonefist I
 
 ### Repo-wide relative link-path recheck after source-review additions — 18 November 2026
 
-After adding [54-ID semantic ledger](REVISION_STAGE_5_SEMANTIC_REVIEW.md) and revising the roadmap, source documents and README, a new repository-tree read found **101 Markdown files**. All 101 were fetched in seven bounded groups. A basic Markdown inline-link scan resolved **1,542 relative link destinations** against the current set of tracked files: **zero missing file targets**. This replaces the earlier snapshot's 100 files/1,498 links **for the current branch**. It still does **not** verify link-fragment anchors, HTTP(S) destinations, unusual Markdown syntax or audiovisual outputs; it is an integrity check, not acceptance of prose or source fidelity.
+After adding [54-ID semantic ledger](REVISION_STAGE_5_SEMANTIC_REVIEW.md) and revising the roadmap, source documents and README, a new repository-tree read found **101 Markdown files**. All 101 were fetched in seven bounded groups. A basic Markdown inline-link scan resolved **1,543 relative link destinations** against the current set of tracked files: **zero missing file targets**. This replaces the earlier snapshot's 100 files/1,498 links **for the current branch**. It still does **not** verify link-fragment anchors, HTTP(S) destinations, unusual Markdown syntax or audiovisual outputs; it is an integrity check, not acceptance of prose or source fidelity.
