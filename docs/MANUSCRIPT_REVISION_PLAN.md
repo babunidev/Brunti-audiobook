@@ -1,10 +1,10 @@
 # Brunti — manuscript revision plan
 
-**18 November 2026 | Status: living editorial work plan. Stage 0 documentation and Stage 1 targeted continuity edits are complete; Stages 2–5 and independent editorial approval remain outstanding.** Prepared by ChatGPT (GPT-6) under Babuni's direction to plan fixes after the [whole-manuscript story audit](WHOLE_MANUSCRIPT_STORY_AUDIT.md). The human creative's direction and the established Morkahja source repositories remain authoritative. This plan records sequencing and editorial options; **R1–R4 have now been implemented as internally checked draft revisions**, not separately human-approved final prose.
+**18 November 2026 | Status: living editorial work plan. Stages 0–2 have received targeted edits/checks; Stages 3–5 and independent editorial approval remain outstanding.** Prepared by ChatGPT (GPT-6) under Babuni's direction to plan fixes after the [whole-manuscript story audit](WHOLE_MANUSCRIPT_STORY_AUDIT.md). The human creative's direction and the established Morkahja source repositories remain authoritative. This plan records sequencing and editorial options; **R1–R4 have now been implemented as internally checked draft revisions**, not separately human-approved final prose.
 
 ## Goal and fixed boundaries
 
-Turn the **30-chapter manuscript** (now **145,584 counted words** after the Stage 1 edits; the original index reported 145,383 under an unspecified earlier convention) into a coherent, varied, emotionally complete novel suitable for a separate narration-preparation phase. Retain all **203 source encounter IDs**, their significant imagery and required linked sequence, but do not privilege a one-encounter/one-beat formula over good storytelling. Preserve the local memorial solution, the distinct lives of the two deceased Grimnir, Brunti's living mineral/metal/crystal physiology, her identity as a warrior, the independence of Sira and Velen, and Morkahja's unresolved mythic questions.
+Turn the **30-chapter manuscript** (now **146,505 counted words** after Stage 2; the original index reported 145,383 under an unspecified earlier convention) into a coherent, varied, emotionally complete novel suitable for a separate narration-preparation phase. Retain all **203 source encounter IDs**, their significant imagery and required linked sequence, but do not privilege a one-encounter/one-beat formula over good storytelling. Preserve the local memorial solution, the distinct lives of the two deceased Grimnir, Brunti's living mineral/metal/crystal physiology, her identity as a warrior, the independence of Sira and Velen, and Morkahja's unresolved mythic questions.
 
 **Source hierarchy:** [MorkahjaWorld](https://github.com/babunidev/MorkahjaWorld) for lore; [Morkahja](https://github.com/babunidev/Morkahja) for encounters and follow-links; [source ledger](SOURCES.md) and [placement matrix](../story/PLACEMENT_MATRIX.md) for pinned review state. The last reconciled game baseline is `952437c5c59d`. New plot details are **novel-only proposals**, not lore amendments. No new all-purpose villain, prophecy, Blackwood explanation, Ravage cure or sentient-ghost behavior for memory-stone echoes.
 
@@ -42,7 +42,7 @@ Turn the **30-chapter manuscript** (now **145,584 counted words** after the Stag
 
 ## Stage 2 — Strengthen the clock, character causality and Blackwood stakes
 
-**Priority: structural; should precede large prose polish.**
+**Implemented as an internally checked targeted structural draft pass on 18 November 2026;** [Stage 2 review](REVISION_STAGE_2_REVIEW.md) records the decisions, chapter evidence and remaining limits. The table retains the original requirements as change-control history.
 
 | Work item | Chapter targets | Required story effect |
 | --- | --- | --- |
@@ -52,7 +52,7 @@ Turn the **30-chapter manuscript** (now **145,584 counted words** after the Stag
 | **R8. Plausible external rescue** | **25–27** | Keep the abyss crossing and collapse mysterious. Give the healer a modest verifiable report: who encountered Brunti **outside the inexplicable inner passage**, approximate condition/place/time, how she was transported to care, and how the companions received notice. These are a proposed **novel-only** recovery chain, not an explanation of Blackwood's workings. |
 | **R9. Warrior-protector identity** | 1–3, 10, 13, 17–18, 21–24, 29–30 | Show trained vigilance, protection, strength under restraint, risk appraisal and responsibility to others. Keep crafting and scholarship as part of her identity, not substitutes for it; do not add gratuitous battles. |
 
-**Gate 2:** A reader can trace why Brunti leaves, why she does not immediately return, why she knowingly goes astray in Chapter 24, why she survives without a magical answer, and why returning requires accountability. Every time/letter/companion transfer is feasible.
+**Gate 2 (targeted internal check passed; full geographic verification outstanding):** Brunti has a relative six-month convergence clock, a personal accountability wound distinct from her earlier learning, a feasible wagon home she knowingly declines, a visible cost to companionship and her body, an ordinary rescue/courier route, and guard training expressed through care. [Stage 2 review](REVISION_STAGE_2_REVIEW.md). Independently verified travel times, full scene-source fidelity and human line approval remain Stage 5.
 
 ## Stage 3 — Rebuild scene functions and chapter pacing
 
@@ -96,4 +96,4 @@ Turn the **30-chapter manuscript** (now **145,584 counted words** after the Stag
 
 Prefer **small, reviewable chapter-group commits** with a brief editorial note for each package (issue IDs R1–R13, chapters changed, before/after, source changes, check performed, unresolved questions). A pass is complete only after the affected earlier and later chapters have been reread together. If a proposed solution collides with lore or chronology, document the conflict and revise the proposal rather than hiding it.
 
-**Historical status when first created:** Planning document only. **Current status:** Stage 0 completed; Stage 1 draft prose repairs committed and internally verified. No human line approval or audio produced.
+**Historical status when first created:** Planning document only. **Current status:** Stages 0–2 draft/record work committed and internally checked; Stages 3–5 remain outstanding. No human line approval or audio produced.
