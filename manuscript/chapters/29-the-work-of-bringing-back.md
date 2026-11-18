@@ -370,7 +370,7 @@ She did not say the procession had shown her future.
 
 At the end she showed them the brace on her wrist.
 
-“I woke under a Verdani healer's care, at Keldor's border. I cannot tell you how I was brought there from the place I remember. The injury was real. My impressions may have been real, but they have not been checked by another witness.”
+“I woke under a Verdani healer's care, at Keldor's border. Two wardens found me beside an old boundary marker and carried me to a ridge post; a supply wagon brought me to the lazaret. I cannot tell you how I came from the hall I remember to the place where they found me. The injury was real. My impressions may have been real, but they have not been checked by another witness.”
 
 Orven finished writing and looked at the last tablet.
 
@@ -390,7 +390,7 @@ The older memory-keeper studied Brunti.
 
 Brunti looked toward the caretaker.
 
-“Because the people here had to keep doing the work while I chased an answer I did not need.”
+“Because the people here had to keep doing the work while I chased an answer I did not need.” She looked at the caretaker again. “And because I was more afraid of coming back with an unfinished record than of making you wait for me. I should have known the difference.”
 
 ***
 
