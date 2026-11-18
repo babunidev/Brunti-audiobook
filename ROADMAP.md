@@ -39,3 +39,15 @@
 - [ ] Record/generate, listen, edit, master and publish audio only after review.
 
 A completed inventory is **not** evidence that its encounters have already been adapted into the story.
+
+## Structural story-gap audit — 18 November 2026 (completed check, repairs outstanding)
+
+- [x] Cross-read openings and endings across all **30 draft chapters**, inspect core clue/consequence passages, and review named entities, letter/prop timelines and character arcs. Record [editorial findings](docs/WHOLE_MANUSCRIPT_STORY_AUDIT.md) with evidence and verification limits. This is a **targeted internal story audit**, not exhaustive line-by-line review or human approval.
+- [ ] Correct the **Chapter 25–28 Tavra/Korrum early identification** before Chapter 29 first reads the concealed inscriptions. Preserve the unnamed Aetherion sketch and physically verified revelation.
+- [ ] Reconcile the **convergence access/material requirement** in Chapters 1–2 with Chapter 29's pre-convergence wall replacement; preserve the humane safety-first duty.
+- [ ] Strengthen the **late Blackwood relapse motive and physical recovery context** without revealing unestablished Keldor/cathedral lore or changing the canon follow chain.
+- [ ] Conduct a **novel-wide pacing and voice pass**: thin repeated uncertainty lectures and encounter-as-lesson patterns, preserve distinctive places and actual character agency; check especially Chapters 3–9, 17–20 and 24–27.
+- [ ] Close or explicitly account for **Nemi's promised small Earthsinger pebble**, clarify the origin of a “letter from Darrik” referenced in Chapter 20, and assess the rescued Verdani child's/Sira's open emotional threads without asserting unsupported outcomes.
+- [ ] Complete **full source-by-source and location/chronology/character audit** with independent editorial review. **No identified story fix is applied or approved yet.**
+
+**Latest counted first-draft milestone:** **30/30 chapters**, **145,383 words including headings**, **203/203 unique game encounter IDs marked adapted**, **0 remaining planned**, **0 independent editorial approvals**. Source revision **`952437c5c59d`**; latest 4 Keldor text-only updates reconciled in Ch22/Ch24. Narrator scripts, media clearance, recorded/mastered audio and release remain outstanding.
