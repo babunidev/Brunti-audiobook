@@ -32,7 +32,7 @@ A primary placement alone is **not a claim that the scene is already in the book
 | 20011 | Magic Source | [6](OUTLINE_V1.md) | Lived | forest magic source | **Draft v1, ch. 6** |
 | 20012 | Hidden Market | [9](OUTLINE_V1.md) | Testimony | secret market recounted by trader | **Draft v1, ch. 9** |
 | 20013 | Cauterized Rokur | [13](OUTLINE_V1.md) | Testimony | charred Rokur after battle | **Draft v1, ch. 13** |
-| 20014 | Downed Aevis | [13](OUTLINE_V1.md) | Testimony | exhausted Aevis beneath tree | **Draft v1, ch. 13** |
+| 20014 | Downed Aevis | [13](OUTLINE_V1.md) | Archive | exhausted Aevis beneath tree | **Draft v1, ch. 13** |
 | 20015 | Weakened Grimnir | [2](OUTLINE_V1.md) | Testimony | cave warrior wounded | **Draft v1, ch. 2** |
 | 20016 | Ailing Verdani | [13](OUTLINE_V1.md) | Testimony | ailing Verdani in clearing | **Draft v1, ch. 13** |
 | 20017 | Flameveil Emberheart | [13](OUTLINE_V1.md) | Testimony | Flameveil amid ruined home | **Draft v1, ch. 13** |
