@@ -85,3 +85,15 @@ Source reference: [fixed chapter inventory](../docs/REVISION_STAGE_0_BASELINE.md
 **Stage 0 finding, not a manuscript patch:** preserve this as the dependency ledger. Before Stage 1 rewrite, choose an actual convergence schedule based on geography and elapsed travel; before Stage 2 validate every courier route and seasonal claim. Reference issues **R1/R2/R3/R4/R5/R8/R11** in the [revision plan](../docs/MANUSCRIPT_REVISION_PLAN.md).
 
 **Unresolved:** no fixed convergence date, no reliable total day count, unreconciled newer encounter-source revisions, two already documented story contradictions, uncertainty around Ch20 letter, and incomplete on-page family/keepsake closure. **No details have been silently filled in.**
+
+## F. Subsequent Stage 1 resolution (18 November 2026)
+
+**Historical note:** Sections A–E above describe the **pre-revision Stage 0 source state**, not the updated prose. The [Stage 1 review](../docs/REVISION_STAGE_1_REVIEW.md) is now authoritative for the implemented changes to those specific details:
+
+- The Tavra/Korrum identity leak in Ch25–28 is **corrected**; names are first verified in Ch29 from exposed inscriptions.
+- The permanent wall work in Ch29 now takes place **after convergence delivers access and remaining materials**; the council account and preparation still precede it, Ch27's transfer reference says *when* convergence comes, and Ch30 refers to the rest of that gathering. The **exact global calendar remains open R5**.
+- Ch20's unexplained “letter from Darrik” is **clarified as the original measurement record** from Ch2; the later legitimate incoming letter remains in Ch28.
+- The Earthsinger's small dark pebble is **given to Nemi on page in Ch30**.
+- Other open questions from Stage 0 remain (particularly the ordinary rescue chain in Ch27, the Verdani child's later family reunion, and complete travel/message chronology).
+
+The original Stage 0 evidence was deliberately preserved; no retrospective scene, source update or new canon fact is claimed.
