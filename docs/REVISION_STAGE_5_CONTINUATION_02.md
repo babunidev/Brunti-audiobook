@@ -55,3 +55,7 @@
 - **Open:** 129 source IDs still lack an individual targeted semantic reading; 109 scene-brief-to-prose context checks, comprehensive world/atlas distances, full uninterrupted read and read-aloud, independent human acceptance, narration/rights and recording remain outstanding. The Nereval entrance reinterpretation is a specific human editorial decision point, not an automatically resolved contradiction.
 
 **Status: Stage 5 IN PROGRESS. No approval, audio rendering, deployment or publication claimed.**
+
+## D. Repository verification after this package
+
+On the audiobook `main` revision `b4a7d34ff906962b5c251630e2c01c135d1610fe`, the connected GitHub repository tree was retrieved with `recursive=1` and was not truncated. The 12 newly created or edited documentation/index Markdown files in this package were reopened and their **562 local relative Markdown link destinations** resolved against the current tree: **0 missing paths**. This path-existence check does not validate heading fragments, external sites, prose quality, narration, or previously unchanged Markdown links. All 30 chapters were fetched separately for the **146,742-word recount**. The Stage 5 acceptance gate remains open.
