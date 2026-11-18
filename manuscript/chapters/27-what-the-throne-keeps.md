@@ -276,7 +276,7 @@ Brunti waited until the green light faded.
 
 The words traveled a short distance and seemed to be swallowed by the dark.
 
-She thought of Tavra and Korrum, of the two separate memory stones and the old shared casing. Their names had belonged to a local history, worn and repaired by people with ordinary hands.
+She thought of the two separate memory stones and the old shared casing. Whoever had left those echoes belonged to a local history, worn and repaired by people with ordinary hands. She still had no names to place beside the rhythms.
 
 What would this being know of them?
 
