@@ -70,6 +70,20 @@
 
 **Verification performed:** targeted cross-chapter reading; literal owner-name scan across Chapters 1–28 yields **zero** Tavra/Korrum occurrences; seven chapter-file word counts updated with the established convention; **30 chapters and 203 distinct placement-matrix encounter IDs** retained. New draft count **146,659** (+888 relative to Stage 3). **Still open:** uninterrupted full line edit, per-ID comparisons with changed source encounter JSON, lore/atlas/read-aloud review, human editorial acceptance, narrator files and audio.
 
+### 2026-11-18 — Stage 5 started: latest game source, manuscript-boundary and integrity audit
+
+**Human direction:** proceed to Stage 5. **AI contribution:** ChatGPT (**GPT-6**) reopened the current book, its instructions, full encounter source JSON at two revisions, the 203-row matrix, all five scene-brief movement files, relevant pinned MorkahjaWorld lore and the thirty manuscript chapter files in grouped scans. [Stage 5 audit](REVISION_STAGE_5_AUDIT.md) explicitly records which gates are checked and which remain unverified.
+
+**Source delta:** game `main` at `cf7c285a469ce9db44583e034ec7bf45e272bd84` is **37 commits newer** than previously reviewed `952437c5c59da26a2f873f1a18590496f88a2354`. The encounter JSON still has **203 records**, with exactly **33 `mEncounterText`-only edits at IDs 20158–20190**. Titles/other fields and **10 follow edges** are unchanged. Numeric encounter IDs 1/2 are keyed `00001`/`00002` in source. [Detailed source addendum](SOURCE_RECONCILIATION.md#stage-5-source-field-comparison--18-november-2026-current-game-cf7c285).
+
+**Placement:** all 203 unique matrix assignments match the 203 distinct source ID bullets of the 109 scene briefs, including chapters. [Automated passage locators](STAGE_5_ENCOUNTER_LOCATORS.md) provide a *candidate* paragraph for every ID; 24 candidates have weighted similarity below 0.100 and require a semantic check. **Not a 203-passage editorial acceptance.**
+
+**Literal and technical checks:** Ch4's seven letter stones read A H K J O M A in sequence; Blackwood's eight steps and three additional follow pairs retain their chapter order; all 100 Markdown files/1,498 relative links resolve to existing files (not anchors/external sites); all 30 chapter openings and closings inspected in book order; targeted world source comparisons (living Grimnir, Verdani desert, Keldor/Blackwood mystery, Atranor laws) showed no new outright blocking contradiction in the inspected sections. The apparent Ch13/14 time jump was checked against Ch14's actual return-with-pipe explanation and is consistent.
+
+**Actual copyedits:** Ch3's invented **silver-handle vs silver-box/clasp** mismatch was replaced with a consistent treasure-clasp exchange; the same chapter's contradiction **closed notebook → still-open page** was removed; Ch11's doubled touching of a folded drawing through cloth was removed. Ch3 **3,221→3,207**, Ch11 **5,211→5,203**, corpus **146,659→146,637** counted words including 30 headings.
+
+**Final Stage 5 gate remains OPEN:** a continuous all-word edit, current-source semantic verification of all 203 encounters, complete 109-brief dramatic audit, final atlas/canon and spoken rhythm test, independent human approval, narrator prep and audio production have **not** been performed. Do not mark the novel reviewed/published from these checks alone.
+
 ## How to record subsequent work
 
 For each later revision package add **date, issue IDs, proposal vs selected direction, changed chapter paths, exact Git commit, source-lore revision, passages affected, verification performed, unresolved dependencies and editorial approval status**. Stage completion does not alone imply publication readiness. Preserve the story world's unresolved questions; never silently supply an undocumented solution.
