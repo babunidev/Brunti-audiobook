@@ -114,7 +114,7 @@ She looked along the passage. One of the older craft stewards could be called to
 
 Brunti knew all those questions.
 
-She also knew a loose support when she found one.
+She also knew a loose support when she found one. Her training on the terrace watch had taught her to clear a path before anyone tested a failing bridge. But the memorial court was empty, the resting chamber was hidden behind another wall, and she mistook the absence of people in sight for the absence of risk.
 
 There was a length of soft-worked metal in her satchel, left over from Nemi's hammer. It was broad enough to bridge the open section, narrow enough to fit beneath the lip of the cover. If she seated it carefully, the joint would hold until a proper repair could be arranged.
 
