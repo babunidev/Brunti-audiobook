@@ -449,5 +449,3 @@ She thought about that, listening to the light crackle of the fire. At length sh
 The wind turned. Grass brushed the wheels of the cart. Overhead, the stars stood farther apart than they had looked from the Skyland's terraces.
 
 Brunti closed the notebook.
-
-She left the page open until the breeze turned its corner, then tucked it beneath her cup.
