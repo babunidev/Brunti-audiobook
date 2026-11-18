@@ -1,6 +1,6 @@
 # Chapter Twenty-Two — The Price of Warning
 
-The first warning cost them a button.
+The first warning almost cost them a button.
 
 It was a perfectly ordinary button, carved from grey stone, with two holes drilled through the middle. Brunti had carried it in her repair pouch since leaving home. She had meant to replace a missing fastening on her travel cloak, but in the months since then the cloak had acquired three different fastenings, none of which quite matched the others.
 
