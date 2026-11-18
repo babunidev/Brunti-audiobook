@@ -604,7 +604,7 @@ Hollows in the rocks caught a little light, turning them into skull-like faces. 
 
 A repugnant smell lingered beneath the fog.
 
-Above the path, cracked branches hung near their joints. Loose soil filled the pockets between rocks. A small collapse of earth exposed a deeper recess beneath one stone.
+Above the path, cracked branches hung near their joints. Loose soil filled the pockets between rocks. A small collapse of earth exposed a narrow recess beneath one stone. Its inner lip formed a sheltered foothold leading toward the higher ledges.
 
 Something glimmered within.
 
