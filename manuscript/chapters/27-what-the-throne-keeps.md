@@ -1042,7 +1042,7 @@ Sira had work among the living.
 
 Velen had records that belonged to people who had trusted them.
 
-Darrik had a wall at home that needed a safe transfer before the next convergence.
+Darrik had a wall at home that needed a safe transfer when the next convergence came.
 
 Brunti laid the pencil beside the notebook.
 
