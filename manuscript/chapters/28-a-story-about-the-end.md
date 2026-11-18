@@ -528,7 +528,7 @@ The answer had the same care they had shown at the ruined shrine in Everwinter, 
 
 Brunti remembered her own memorial wall.
 
-The two people remembered by those stones were dead, though Brunti still did not know their names. The stones preserved echoes, not souls that could be asked to prove what happened after death.
+Whoever had been remembered in that wall was dead. Its stones preserved echoes, not souls that could be asked to prove what happened after death.
 
 The distinction mattered.
 
