@@ -778,14 +778,8 @@ Velen adjusted the strap of their document case.
 
 They waited for the northern guide to give the signal.
 
-Brunti looked toward the empty western path. She had spent much of her journey measuring stones, listening to damaged structures and trying to place every strange sound beside one she already knew.
-
-The absence of Sira had no shape she could draw.
-
-It was simply there, like the space between two notes.
+Brunti looked toward the western bend long after the cart was gone. A flower had fallen from the cord on Sira's travel bag; it lay beside the wheel rut, its petals pressed flat on one side. Brunti picked it up and laid it beside the little dark pebble she meant to bring home to Nemi.
 
 The northern guide lifted a hand.
 
-Brunti took up her pack.
-
-She and Velen followed the road into the hills, carrying twelve accounts that warned of real danger, none of which explained the old memorial wall, and an empty place at their side that no record could fill.
+Brunti took up her pack, and she and Velen followed the road into the hills.
