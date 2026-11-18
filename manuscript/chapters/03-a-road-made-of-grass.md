@@ -292,11 +292,15 @@ She had drawn a line between the two reported places.
 
 At its end she had written: Possibly same resonance as home.
 
-She studied the words for a long time. The trader who had heard the note knew nothing about the Skyland's memorial. The man with the treasure story had heard no note at all. The resemblance belonged to Brunti, not to either witness.
+She looked from the first trader to the second. One was uncertain of a sound. The other was already adding a silver handle to his treasure box.
 
-She crossed out the sentence, carefully enough that it remained legible beneath the mark.
+She crossed out the line joining their stories. When the second teller glanced at her page, he frowned.
 
-Then she drew a second line under the two accounts and wrote: Different tellers. No established connection.
+“Was the handle wrong?” he asked.
+
+“You hadn't mentioned a handle.”
+
+“Ah.” He considered this. “Then perhaps there wasn't one.”
 
 Eda watched her.
 
@@ -446,4 +450,4 @@ The wind turned. Grass brushed the wheels of the cart. Overhead, the stars stood
 
 Brunti closed the notebook.
 
-For once she did not draw a line from one thing to another.
+She left the page open until the breeze turned its corner, then tucked it beneath her cup.
