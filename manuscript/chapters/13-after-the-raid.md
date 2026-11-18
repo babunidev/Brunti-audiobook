@@ -794,7 +794,7 @@ Renn nodded.
 
 Brunti looked toward the elder tree.
 
-The shade beneath it was crowded with salvaged objects, food baskets, tools and people who were beginning to move with a little less urgency. Beyond the village walls the desert remained wide and dry. No gentle grove had appeared there by miracle. The water came because someone guided it, measured it, repaired its banks and cared for the roots it fed.
+The shade beneath it was crowded with salvaged objects, food baskets, tools and people who were beginning to move with a little less urgency. Beyond the village walls the desert remained wide and dry. Near the repaired channel, an apprentice bent to clear a handful of fallen leaves from the current.
 
 Sira stood among the workers, speaking with a child who had brought a piece of broken pottery to be mended.
 
@@ -804,8 +804,4 @@ Sira answered.
 
 Then Brunti climbed onto the wagon beside Velen.
 
-The wheels moved over the road, past the empty fourth channel and the houses still open to the sky. Behind them the village continued its work.
-
-It was not finished.
-
-Neither were they.
+The wheels moved over the road, past the empty fourth channel and the houses still open to the sky. Behind them a hammer struck wood beside the dry feeder, and someone called for the measure that would tell them where the new pipe must sit.
