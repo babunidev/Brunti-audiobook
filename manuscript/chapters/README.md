@@ -1,6 +1,6 @@
 # Brunti — working novel manuscript
 
-**Status as of 18 November 2026:** **thirty draft chapters**, all thirty chapters have undergone targeted revision stages (Stage 3 changed Chapters 3–28, Stage 4 changed Chapters 1, 2, 11, 23, 28–30, and Stage 5 made focused source-fidelity and rhythm copyedits in Chapters 2, 3, 10–12, 24, 26 and 29); all remain unapproved draft literature, not prepared for narrated publication. The story structure remains a 30-chapter working direction authored under delegated literary authority. Chapter headings are part of clean prose files; editorial notes and source-ID assignments are kept separately.
+**Status as of 18 November 2026:** **Thirty draft chapters, 146,741 counted words, 203 first-draft source encounter assignments and 0 independent editorial approvals.** Targeted Stage 1–4 revision work and Stage 5 source/literary checks now cover **177 of 203** distinct source encounters (26 pending); Chapters 14 and 17 received small Stage 5 prose/character clarity edits. Narration files and audio remain outside this manuscript's approval state. The story is fictional adaptation under Babuni's creative direction, not added Morkahja game/world canon.
 
 | Chapter | Title | Source encounter IDs | Status |
 | ---: | --- | --- | --- |
@@ -20,7 +20,7 @@
 | 14 | [Words in the Sand](14-words-in-the-sand.md) | 20035, 20063, 20066, 20101 | **Draft v1 · Stage 5 targeted source and copyedit review** — 4,863 words |
 | 15 | [Beneath the Reeds](15-beneath-the-reeds.md) | 20037, 20038, 20057, 20077, 20082, 20116 | **Draft v1 · Stage 3 prose-edited** — 4,950 words |
 | 16 | [Witnesses of Corruption](16-witnesses-of-corruption.md) | 20019–20030 | **Draft v1 · Stage 3 prose-edited** — 4,960 words |
-| 17 | [The Mountain Has a Voice](17-the-mountain-has-a-voice.md) | 20061, 20099, 20100, 20102, 20103, 20105, 20106, 20109, 20120–20122 | **Draft v1 · Stage 3 prose-edited** — 4,797 words |
+| 17 | [The Mountain Has a Voice](17-the-mountain-has-a-voice.md) | 20061, 20099, 20100, 20102, 20103, 20105, 20106, 20109, 20120–20122 | **Draft v1 · Stage 5 source and character-name review** — 4,797 words |
 | 18 | [The Last Warm Bowl](18-the-last-warm-bowl.md) | 20104, 20123, 20124, 20132, 20176 | **Draft v1 · Stage 3 prose-edited** — 5,258 words |
 | 19 | [Ice That Remembers](19-ice-that-remembers.md) | 20129–20131, 20135, 20136, 20140, 20141 | **Draft v1 · Stage 3 prose-edited** — 4,735 words |
 | 20 | [The Broken Frostweaver Record](20-the-broken-frostweaver-record.md) | 20133, 20134, 20137–20139, 20142–20145 | **Draft v1 · Stage 3 prose-edited** — 6,577 words |
