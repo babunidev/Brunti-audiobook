@@ -620,7 +620,7 @@ She unfolded the page carefully with her sound hand.
 
 He had received the copy of the Aetherion restoration sketch and the message about the two possible memorial seats. The original damaged panel remained isolated from the inhabited resting chambers, where temporary supports had been inspected and found safe for continued use.
 
-The next convergence work was approaching.
+According to the dated mooring notice Darrik enclosed, the next convergence lay within three weeks when he wrote. The packet had spent days among the relays, and the precise arrival of the other Skylands could still shift. Brunti calculated the stages remaining, then stopped pretending she could make the road shorter by staring at it.
 
 The craft team was preparing a stable replacement for the affected wall. The old memorial casing would not be discarded. It would be moved intact to a protected space where its stones and original marks could be examined without placing the resting chamber at risk.
 
@@ -786,7 +786,7 @@ Brunti did not ask him to.
 
 ***
 
-They left the river country by stages.
+They left the river country by stages. The remaining stations were close enough for a careful journey of several days, though no one would promise a particular lift until the receiving Skyland confirmed its approach.
 
 Some mornings the road carried them beneath trees where birds sang from the hedges. On others it ran across bare hills, the wind catching at cloaks and wagon covers. The nights grew colder as the route climbed. At each station Brunti rested on stone warmed through by careful mineral preparations.
 
