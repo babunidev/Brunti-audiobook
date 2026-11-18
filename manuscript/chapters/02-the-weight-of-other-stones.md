@@ -330,7 +330,7 @@ Darrik approached from the far end of the hall.
 
 Brunti waited, holding the page.
 
-“The next convergence will provide the materials and access we need,” he continued. “It is not tomorrow. But it will come, and we will not postpone the safety work for a rumor.”
+“The next convergence will provide the materials and access we need,” he continued. “The route tables place it about half a year from now. That may shift by days as the Skylands move, but the repair will not wait beyond it for a rumor.”
 
 “No,” Brunti said.
 
@@ -384,7 +384,7 @@ Brunti packed that evening.
 
 There was no need for a great departure ceremony. The Skyland had always sent its people into the world and welcomed them back by the same routes. Travelers went down with craftwork, letters, supplies and questions. They came home carrying objects that had changed hands, stories altered by distance, and sometimes little more than a new way of looking at what they had left.
 
-She chose a small travel hammer, a serviceable weapon and a toolkit light enough to carry for long days. She wrapped the copied ledger page between thin boards and put it beside her notebook. Darrik's measurements went into a separate sleeve. The bent brace she kept in the outer pocket where it would rub against her hand each time she reached for something else.
+She chose a small travel hammer, a serviceable weapon and a toolkit light enough to carry for long days. She checked the weapon's balance, then the strap that kept it from catching a companion's cloak in a narrow passage. Those were habits from the watch, where protecting someone usually began long before a blow was struck. She wrapped the copied ledger page between thin boards and put it beside her notebook. Darrik's measurements went into a separate sleeve. The bent brace she kept in the outer pocket where it would rub against her hand each time she reached for something else.
 
 At the forge, Nemi found her checking the bindings on her pack.
 
