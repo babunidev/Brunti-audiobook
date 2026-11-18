@@ -82,3 +82,9 @@ Game [`92b97aef8706`](https://github.com/babunidev/Morkahja/blob/92b97aef8706dab
 ## Later source reconciliation — 17 November 2026 (Chapter 19 work)
 
 The later game `fe29096e90ad` changed the complete descriptions for **20110 Mother Wolf** and **20111 Young Redeye**. ChatGPT (**GPT-6**) reread both texts and amended the [Chapter 5](../manuscript/chapters/05-the-lives-of-the-vale.md) lived scenes: the mother hears a cub's impatient whimper and steps between its oversized paw and the open meadow; the Redeye's butterfly, asymmetrical ears, ungainly tumble and flower-triggered sneeze now distinguish its play. **The Mother Wolf → Redeye kinship remains unproven**, and neither is harmed. **Chapter 5: 4,044 → 4,117 words (+73)**. These source edits did not revise the game's follow links or chapter assignment. Full [twelfth source delta](SOURCE_RECONCILIATION.md). This is internal reconciliation, not independent editorial approval.
+
+## Stage 5 source-hook recheck — 18 November 2026
+
+A [new full-current-source comparison](REVISION_STAGE_5_CONTINUATION_03.md) reread the **24 game encounters assigned to Chapters 5–6** against the actual present chapter manuscripts and reopened the pinned Nagar, wolves, Eldertree, Aevis and unresolved-traditions lore. **Twenty source IDs were newly checked at Stage 5 targeted semantic level**; `20039`, `20065`, `20093`, and `20096` were already counted and were rechecked without double counting. The source JSON objects are unchanged from the literary game baseline `952437c5c59d` to current `2ba61f5a6bc`.
+
+No new blocking prose error or change to these chapters was established. An **oral pacing watchlist** remains for the eight named Nagar descriptions in Mara's single campfire account, which need a genuine spoken comprehension test. The old reviews above remain historical drafting snapshots, not human manuscript acceptance.
