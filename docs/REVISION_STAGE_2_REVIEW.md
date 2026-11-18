@@ -45,12 +45,12 @@ The original Chapter 20 already accepted the **safe transfer** and sought an hon
 
 ## R8 — establish a mundane recovery edge, not an explanation for the abyss
 
-[Ch27](../manuscript/chapters/27-what-the-throne-keeps.md) now includes the healer reading an ordinary signed/numbered-type incident account (the wardens' report):
+[Ch27](../manuscript/chapters/27-what-the-throne-keeps.md) now includes the healer relaying an ordinary incident report from the outer-route wardens:
 
 1. **Two outer-route wardens** checking a broken warning cord find Brunti **at first light beyond the last maintained path**, beside an old boundary stone and disused haul track. Neither saw her arrive.
 2. They carry her to a **ridge post on a litter**. A **supply wagon** transfers her to the Keldor-edge Verdani lazaret before the following night. She has a measurable **fractured left wrist** and dangerous cold stress along mineral seams.
 3. She was found **three days before waking**. How long she had been in the forest is unknown and no one can link the numbered marker to the impossible hall/Blackwood throne.
-4. Wardens relay the description of a Grimnir traveler with a hammer and damaged wrist to **Elda's shelter** by routine incident report. **Sira** recognizes its possible referent, takes the next supply wagon and arrives the fourth morning after Brunti wakes; **Velen** arrives later by staffed stations while preserving records.
+4. The wardens relay the description of a Grimnir traveler with a hammer and damaged wrist to **Elda's shelter** by routine incident report. **Sira** recognizes its possible referent, takes the next supply wagon and arrives the fourth morning after Brunti wakes; **Velen** arrives later by staffed stations while preserving records.
 5. [Ch29's testimony](../manuscript/chapters/29-the-work-of-bringing-back.md) now correctly distinguishes the **known ordinary transport** from the **unknown path between the Silent Throne and the boundary marker**.
 
 **Canon restraint:** No cause, geometry, portal rule, escape spell, prophecy, divine intervention or identity of the throne-figure was invented. The report's wardens, boundary marker, track and ridge-post transfer are **novel-only bridging fiction**, not new established Keldor locations. The Blackwood event order and follow-chain do not change.
