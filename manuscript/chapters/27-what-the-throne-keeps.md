@@ -540,11 +540,11 @@ The healer steadied the brace without holding her wrist down.
 
 The healer's hands became still.
 
-“You were recovered from the deep forest, far beyond the paths the patrols consider safe.”
+“Two outer-route wardens found you at first light beyond the last maintained path. They had gone to replace a broken warning cord and discovered you beside an old boundary stone, where a disused haul track disappears into the trees. Neither saw you arrive.”
 
 “Who brought me?”
 
-“People who knew this station. The report does not give a place I can point to on a reliable map.”
+“They carried you on a litter to the ridge post. A supply wagon brought you here before the next night. Your wrist was fractured, and the mineral seams along your side had grown dangerously cold. The post's boundary marker is numbered. Beyond it, the wardens could make no trustworthy map.”
 
 Brunti stared.
 
@@ -680,7 +680,7 @@ The healer checked the brace.
 
 “From the shelter.”
 
-“I don't know when you left it. We can ask those who saw you there, when you're ready.”
+“The wardens found you at dawn three days before you woke. They could not tell when you left the shelter, or how you came to be beside that marker. We can ask those who last saw you when you're ready.”
 
 “What day is it?”
 
@@ -816,7 +816,7 @@ The recognition struck her more deeply than any memory the abyss had offered.
 
 ***
 
-On the fourth morning after Brunti first woke, Sira came to the lazaret.
+On the fourth morning after Brunti first woke, Sira came to the lazaret. The wardens' ordinary incident report had traveled from the ridge post to Elda's shelter. It named no certain survivor, but described a Grimnir with a travel hammer and a damaged left wrist. Sira had taken the next supply wagon after recognizing the account.
 
 She did not arrive in a flash of green light.
 
