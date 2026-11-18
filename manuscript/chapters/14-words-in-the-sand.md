@@ -690,9 +690,7 @@ The guide smiled.
 
 They parted at the junction under a sky veiled with high cloud. Nera remained behind at the station, resting and waiting for a reply from her sister. The village in Evergrove was receiving water through all four channels, though its houses and walls still needed patient rebuilding. Sira's messages about the earlier displaced caravan were traveling through their own routes, no faster than the people carrying them.
 
-Brunti kept the temple sketch beside the archive drawing, each wrapped separately.
-
-The worn corner of the temple sketch caught against the other folder. Brunti straightened the papers and wrapped them separately again, careful not to crease the old marks.
+Brunti kept the temple sketch beside the archive drawing, each in its own cloth sleeve. When a worn corner caught against the neighboring folder, she eased it free and smoothed the wrapping, careful not to crease the copied marks.
 
 By the time the desert lay behind them, rain had begun falling somewhere ahead. It appeared first as a grey veil at the horizon, then as a darker edge beneath the clouds. The next caravan master checked the bridge reports and chose a longer, safer approach toward the wetlands beyond.
 
