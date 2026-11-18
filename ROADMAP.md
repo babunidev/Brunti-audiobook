@@ -40,27 +40,28 @@
 
 A completed inventory is **not** evidence that its encounters have already been adapted into the story.
 
-## Structural story-gap audit — 18 November 2026 (completed check, repairs outstanding)
+## Structural story-gap audit — 18 November 2026 (audit complete; targeted Stage 1 repairs implemented)
 
 - [x] Cross-read openings and endings across all **30 draft chapters**, inspect core clue/consequence passages, and review named entities, letter/prop timelines and character arcs. Record [editorial findings](docs/WHOLE_MANUSCRIPT_STORY_AUDIT.md) with evidence and verification limits. This is a **targeted internal story audit**, not exhaustive line-by-line review or human approval.
-- [ ] Correct the **Chapter 25–28 Tavra/Korrum early identification** before Chapter 29 first reads the concealed inscriptions. Preserve the unnamed Aetherion sketch and physically verified revelation.
-- [ ] Reconcile the **convergence access/material requirement** in Chapters 1–2 with Chapter 29's pre-convergence wall replacement; preserve the humane safety-first duty.
+- [x] Correct the **Chapter 25–28 Tavra/Korrum early identification** before Chapter 29 first reads the concealed inscriptions. Preserve the unnamed Aetherion sketch and physically verified revelation.
+- [x] Reconcile the **convergence access/material requirement** in Chapters 1–2 with Chapter 29's pre-convergence wall replacement; preserve the humane safety-first duty.
 - [ ] Strengthen the **late Blackwood relapse motive and physical recovery context** without revealing unestablished Keldor/cathedral lore or changing the canon follow chain.
 - [ ] Conduct a **novel-wide pacing and voice pass**: thin repeated uncertainty lectures and encounter-as-lesson patterns, preserve distinctive places and actual character agency; check especially Chapters 3–9, 17–20 and 24–27.
-- [ ] Close or explicitly account for **Nemi's promised small Earthsinger pebble**, clarify the origin of a “letter from Darrik” referenced in Chapter 20, and assess the rescued Verdani child's/Sira's open emotional threads without asserting unsupported outcomes.
-- [ ] Complete **full source-by-source and location/chronology/character audit** with independent editorial review. **No identified story fix is applied or approved yet.**
+- [x] Deliver **Nemi's promised Earthsinger pebble** in Chapter 30 and clarify that Chapter 20 carries **Darrik's original measurements**, not an undocumented letter.
+- [ ] Assess the rescued Verdani child's and Sira's remaining emotional threads without asserting unsupported outcomes.
+- [ ] Complete **full source-by-source and location/chronology/character audit** with independent editorial review. **Stage 1 draft repairs have been internally checked, not independently approved.**
 
-**Latest counted first-draft milestone:** **30/30 chapters**, **145,383 words including headings**, **203/203 unique game encounter IDs marked adapted**, **0 remaining planned**, **0 independent editorial approvals**. Source revision **`952437c5c59d`**; latest 4 Keldor text-only updates reconciled in Ch22/Ch24. Narrator scripts, media clearance, recorded/mastered audio and release remain outstanding.
+**Latest counted first-draft milestone:** **30/30 chapters**, **145,584 counted words including headings**, **203/203 unique game encounter IDs marked adapted**, **0 remaining planned**, **0 independent editorial approvals**. Source revision **`952437c5c59d`**; latest 4 Keldor text-only updates reconciled in Ch22/Ch24. Narrator scripts, media clearance, recorded/mastered audio and release remain outstanding.
 
-## Manuscript revision implementation plan — 18 November 2026 (proposed; not begun)
+## Manuscript revision implementation plan — 18 November 2026 (Stages 0–1 complete; Stages 2–5 pending)
 
-The staged, issue-indexed [manuscript revision plan](docs/MANUSCRIPT_REVISION_PLAN.md) translates the [whole-story audit](docs/WHOLE_MANUSCRIPT_STORY_AUDIT.md) into coordinated chapter-level work. The existing first-draft counts are unchanged.
+The staged, issue-indexed [manuscript revision plan](docs/MANUSCRIPT_REVISION_PLAN.md) translates the [whole-story audit](docs/WHOLE_MANUSCRIPT_STORY_AUDIT.md) into coordinated chapter-level work. The 30 chapters and 203 encounter placements are unchanged; the manuscript now has seven targeted continuity-edited chapters and a standardized [145,584-word count](manuscript/chapters/README.md).
 
 - [x] **Stage 0:** Baseline 30 chapter files and 203 encounter assignments, build [chronology/knowledge/prop ledgers](story/REVISION_CHRONOLOGY_AND_OBJECTS.md) and [chapter-function map](story/REVISION_CHAPTER_FUNCTIONS.md), and record [file SHAs, count-method discrepancy and newer game-source delta](docs/REVISION_STAGE_0_BASELINE.md). Structural checks done; no prose edits or full source reconciliation. [Revision change log](docs/MANUSCRIPT_REVISION_LOG.md).
-- [ ] **Stage 1:** Resolve early Tavra/Korrum naming, convergence-only access versus early permanent rebuild, Darrik letter provenance and Nemi's keepsake.
+- [x] **Stage 1:** Resolve early Tavra/Korrum naming, convergence-only access versus early permanent rebuild, Darrik letter provenance and Nemi's keepsake in a [targeted verified draft pass](docs/REVISION_STAGE_1_REVIEW.md). No independent editorial acceptance.
 - [ ] **Stage 2:** Reconcile time and travel; strengthen Brunti's Chapter 20–24 conflict, Blackwood recovery's ordinary physical bridge and warrior-protector identity.
 - [ ] **Stage 3:** Revise pacing and varied scene functions across all chapters, prioritizing Chapters 3–9, 17–20 and 21–28 without dropping encounter integrations.
 - [ ] **Stage 4:** Deepen two anonymous memorial histories and finish the emotional consequences for Nemi, Sira, Velen, Darrik and the rescued child without inventing unsupported outcomes.
 - [ ] **Stage 5:** Conduct full 30-chapter line/continuity read, 203-ID source verification, lore checks, read-aloud pass and separate human editorial acceptance.
 
-**Proposed default, not adopted:** Stage 1 considers depicting the permanent repair **during convergence** while leaving Brunti's presentation and inspection preparations before it. Choose a solution against the full chronology before changing prose. No identified fix has yet been applied, reviewed or approved; narration remains a later phase.
+**Implemented as novel-only draft fiction, not canonical or independently approved:** Chapter 29 now places the permanent memorial repair **during convergence** after Brunti's return, council account and preparations. Precise full-book chronology and further narrative restructuring are assigned to Stage 2; narration remains a later phase.
