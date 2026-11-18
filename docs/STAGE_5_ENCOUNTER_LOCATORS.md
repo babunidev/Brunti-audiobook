@@ -115,3 +115,104 @@
 | 20191 | Slumbering Ogru | 10 | Lived | No | §233: The Ogru had settled again. Its pouch lay open beside the roots, and the gold still caught the light. The great grey b… | 0.188 | Candidate |
 | 20192 | Nereval Elite | 12 | Lived | No | §120: “This is a place of water, adaptation and healing. Those who enter must show the rune of the river, a sign of respect … | 0.159 | Candidate |
 | 20193 | Joyful Riverkeeper | 12 | Lived | No | §272: His voice rolled over the water before the travelers saw the old tree where he rested. He sat with his back against th… | 0.139 | Candidate |
+
+| 1 | Atranor | 28 | Testimony | No | §175: “In the distance stood pillars larger than mountains. Above them floated pieces of impossible country. A forest hung u… | 0.070 | LOW |
+| 2 | Level up! | 30 | Metaphor | No | §0: # Chapter Thirty — The Note That Remains… | 0.000 | LOW |
+| 19666 | Tangled Depths | 25 | Lived | No | §155: They rose out of the dark in immense twisted masses, thicker than any pillars Brunti had known. Some crossed overhead,… | 0.201 | Candidate |
+| 19667 | Blackwood Guardian | 25 | Lived | No | §329: The old account had said that a forgotten password or an item of particular significance could grant passage.… | 0.131 | Candidate |
+| 19668 | The Hollow Choir | 26 | Lived | No | §13: One line rose, low and sorrowful. Others entered around it, some reaching the same tone and others falling beneath. Th… | 0.070 | LOW |
+| 19669 | The Weeping Mire | 26 | Lived | No | §190: One stood waist-deep in black water, its head turned toward the empty passage. Its features had eroded until Brunti co… | 0.084 | LOW |
+| 19670 | Forgotten Procession | 26 | Lived | No | §350: At first the distance seemed manageable. The broad-shouldered figure moved perhaps twenty paces ahead, separated from … | 0.080 | LOW |
+| 19671 | Silent Throne | 27 | Lived | No | §22: Enormous arches curved overhead, fashioned from blackened rootwood or a material that resembled it so closely she coul… | 0.081 | LOW |
+| 19672 | Verdani’s Vigil | 27 | Lived | No | §254: A Verdani healer sat close enough to reach her without leaning across the bed. Curved antlers rose above her brow, wov… | 0.085 | LOW |
+| 20019 | Ashen Revenant Witch | 16 | Archive | No | §32: An unknown witness had stood among scorched ruins where no living fire remained. A sickly green light pulsed between b… | 0.233 | Candidate |
+| 20020 | Ashen Revenant Seer | 16 | Archive | No | §43: Beside it lay a second account of an Ashen Revenant. This one concerned a Seer standing in a barren wasteland beneath … | 0.301 | Candidate |
+| 20021 | Blightwraith Huntress | 16 | Archive | No | §109: The writer had seen a fern curl inward before any figure appeared. Moss blackened between roots. A pale leaf darkened … | 0.183 | Candidate |
+| 20022 | Crumblegheist Mage | 16 | Archive | No | §154: A Mage stood beneath a jagged overhang, a broad dark-green hat shading his face. His leather armor still carried caref… | 0.170 | Candidate |
+| 20023 | Tempestwailer Wildheart | 16 | Archive | No | §221: A witness had seen crimson hair whipped by fierce wind, rain cutting across her still body while the surrounding grass… | 0.181 | Candidate |
+| 20024 | Blightwraith Rootrot | 16 | Archive | No | §123: The next witness had encountered something almost unrecognizable. Before seeing it, they smelled rot: sour water, wet … | 0.206 | Candidate |
+| 20025 | Crumblegheist Roughian | 16 | Archive | No | §168: A massive iron-clad being moved down a mountain slope with such force that gravel skipped ahead of its feet. Steel arm… | 0.178 | Candidate |
+| 20026 | Crumblegheist Barbarian | 16 | Archive | No | §177: She stood among jagged rock in heavy, spiked steel armor, wild red hair falling over battered plates. Dark currents mo… | 0.243 | Candidate |
+| 20027 | Tempestwailer Stormcaller | 16 | Archive | No | §230: A slender woman stood among the trunks wearing dark blue and earthy-brown robes. Loose strands of her hair stirred in … | 0.210 | Candidate |
+| 20028 | Tempestwailer Seductress | 16 | Archive | No | §239: Around her fingers rose greenish vapors carrying a sweet unfamiliar fragrance. They curled into delicate forms of gold… | 0.148 | Candidate |
+| 20029 | Blightwraith Occultist | 16 | Archive | No | §135: Tendrils of dark magic reached from the armor seams into the undergrowth. A young sapling trembled; black veins entere… | 0.203 | Candidate |
+| 20030 | Ashen Revenant Warlock | 16 | Archive | No | §58: He held his hands apart. Sickly streams of magic gathered into a pale veil between them. Strange symbols appeared, hun… | 0.193 | Candidate |
+| 20044 | Darkwood Thicket | 21 | Lived | No | §212: Twisted branches reached across the narrow space ahead. The trees stood close together, their older trunks furrowed an… | 0.123 | Candidate |
+| 20050 | Blackwood Portal | 25 | Lived | No | §12: It was made of wood, not stone, and it occupied a place where Brunti had seen only rock a moment before. Its dark timb… | 0.109 | Candidate |
+| 20061 | Frostwind Junkyard | 17 | Lived | No | §246: Hesk led them along a rocky track to a crevice from which a faint clink of metal rang through the air. Torchlight glow… | 0.125 | Candidate |
+| 20075 | Grumpy Fence | 22 | Lived | No | §10: They had found him at the edge of Keldor's outer trade path, crouching in a gloomy recess between two trees. A moth-ea… | 0.185 | Candidate |
+| 20078 | Unhinged Gobbl | 22 | Lived | No | §104: He was small and hunched, with ragged clothing hanging unevenly from his body. One shoulder rose higher than the other… | 0.131 | Candidate |
+| 20079 | Fearfeaster Gobbl | 22 | Testimony | No | §162: Ivera described narrow joints bent at strange angles and talons thin as needles gripping the roots. Its grin had been … | 0.144 | Candidate |
+| 20099 | Cliffs of Sarga | 17 | Lived | No | §31: The trees thinned. Beyond them stood an enormous weathered wall of rock, its face cut into fissures and narrow opening… | 0.096 | LOW |
+| 20100 | Mountain Pass | 17 | Lived | No | §91: At a sheltered bend, the wind briefly fell quiet. Snow lay against the cliff in smooth folds. An opening appeared bene… | 0.186 | Candidate |
+| 20102 | Frostwind Slopes | 17 | Lived | No | §111: Beyond the pass, the Frostwind Slopes opened in long bright descents, broken by cliffs and snow-filled gullies. A froz… | 0.103 | Candidate |
+| 20103 | Strange Boulder | 17 | Lived | No | §137: Near the summit, an immense moss-flecked boulder rested at a perilous angle on a narrow foundation. Its lower edge bar… | 0.137 | Candidate |
+| 20104 | Sudden Rockslide | 18 | Lived | No | §21: It crossed the air so swiftly that she could not place it at first. Hesk was already looking toward the frozen cliff o… | 0.117 | Candidate |
+| 20105 | The Giant | 17 | Lived | No | §164: The Giant stood against the mountain, almost perfectly vertical. Channels of weathering ran down its face in folds res… | 0.167 | Candidate |
+| 20106 | Sarga Lioness | 17 | Lived | No | §50: A tawny lioness emerged from a narrow cleft. She placed each paw with extraordinary care, her broad shoulders moving u… | 0.130 | Candidate |
+| 20107 | Silver Wolf | 21 | Lived | No | §151: She paused beside a fallen leaf. It had caught briefly against her flank. The wolf waited just long enough for it to s… | 0.122 | Candidate |
+| 20108 | Shena Alpha | 21 | Lived | No | §185: For several moments it held its place, gaze moving slowly between dark trunks. A soft wind passed through scattered le… | 0.172 | Candidate |
+| 20109 | Embersnout | 17 | Lived | No | §210: The animal's lips drew back from thin, needle-like teeth. A pale cloud of breath escaped its jaws and lingered in the … | 0.116 | Candidate |
+| 20112 | Cursed Silvermane | 21 | Lived | No | §259: An eerie spectral light spread across the scarred muzzle and along the torn silver fur. The glow deepened with each la… | 0.152 | Candidate |
+| 20113 | Cursed Liani | 21 | Testimony | No | §317: “She said old tales promised wisdom from the Shadowwolf, though never without a price. This creature had none of the p… | 0.161 | Candidate |
+| 20118 | Firecrest Bloodbeak | 22 | Lived | No | §254: He was magnificent in the way a small creature can be when convinced the world is watching. His glossy feathers shimme… | 0.097 | LOW |
+| 20120 | Bronze Vault | 17 | Lived | No | §224: A loose fragment of ice struck bronze with a sharp metallic ring. A great vault stood half-buried among broken stones … | 0.240 | Candidate |
+| 20121 | Frost Strider | 17 | Lived | No | §189: Farther along the slope, the shadow of a second colossal formation stretched across the mountain. One enormous limb ap… | 0.274 | Candidate |
+| 20122 | Rocky Tundra | 17 | Lived | No | §177: Beyond the rock pillar, the high ground widened into yellow tundra. Moss grew where stone protected it, and pale liche… | 0.177 | Candidate |
+| 20123 | Everwinter Trading Post | 18 | Lived | No | §87: A great pot hung over a hearth where wood crackled above glowing coals beneath iron bars. The room held shelves of rat… | 0.118 | Candidate |
+| 20124 | Frostfang Alpha | 18 | Testimony | No | §127: “It turned toward the open valley and gave a deep, commanding howl. The sound reached the far ridge and came back thin… | 0.144 | Candidate |
+| 20129 | Everwinter Treasurechest | 19 | Lived | No | §17: The chest rested in a shallow depression among wind-rounded stones, half covered by a dusting of new snow. Its timber … | 0.339 | Candidate |
+| 20130 | Everwinter Guardian | 19 | Lived | No | §50: A small ice troll stepped into view, its shaggy body nearly the same glacial blue as the wall behind it. Its ears exte… | 0.193 | Candidate |
+| 20131 | Everwinter Cave | 19 | Lived | No | §98: A great shape curved through the clear ice, suspended at an angle far above the floor. Brunti raised the lantern. Bone… | 0.191 | Candidate |
+| 20132 | Frostbite Fergus | 18 | Lived | No | §174: He walked to an old pine log beside the sheltered wall of the post and lowered himself onto it with a grunt. The log c… | 0.354 | Candidate |
+| 20133 | Kaldric of Nekalos | 20 | Lived | No | §10: A hollow face turned toward the mountain. Light like cold fire moved in the eyes. The spectral figure lifted both hand… | 0.126 | Candidate |
+| 20134 | Seal of Nekalos | 20 | Lived | No | §130: A slender ray of winter sunlight entered from a gap above and divided into fine icy-blue lines within the crystal, cat… | 0.451 | Candidate |
+| 20135 | Frostlace | 19 | Testimony | No | §197: The woman with the torn hood had heard another account in the valley. A figure called Frostlace appeared between the f… | 0.384 | Candidate |
+| 20136 | Lost Souls of Everwinter | 19 | Lived | No | §153: One pointed toward the hills, then dropped the arm when the snow revealed nothing. An elderly traveler tried to speak … | 0.181 | Candidate |
+| 20137 | The Shattered Seer | 20 | Lived | No | §82: At first Brunti saw no pattern. One pale shard passed her shoulder with a flicker like the corner of an eye. Another f… | 0.165 | Candidate |
+| 20138 | Skyreach Peak | 20 | Lived | No | §217: For a few breaths the white summit stood clear above every other mountain in Frostwind. Below it, an ascending path cr… | 0.131 | Candidate |
+| 20139 | Lyria of Nekalos | 20 | Lived | No | §54: Lyria of Nekalos walked between the drifts without leaving a footprint. Light traveled through the edges of her transl… | 0.126 | Candidate |
+| 20140 | Misthowl | 19 | Testimony | No | §225: Enna described a white shape seen moving through fog in the northern reaches, its flanks so translucent that wisps of … | 0.214 | Candidate |
+| 20141 | Winterwisp Warden | 19 | Lived | No | §244: Brunti watched the vortex gather into a clearer form. Frost extended through the air along its movement, and the path … | 0.232 | Candidate |
+| 20142 | Frostfall Cascade | 20 | Lived | No | §165: The cascade hung in a thousand arrested streams, every twisting fold of its former descent preserved in silent ice. Na… | 0.133 | Candidate |
+| 20143 | Frostforged Vault | 20 | Lived | No | §192: The entrance rose out of dark rock, colossal and severe. Across its ancient metal surface ran intricate worked pattern… | 0.182 | Candidate |
+| 20144 | The Scholar | 20 | Lived | No | §286: As they approached, one loose parchment skittered over the snow; Jorvald stopped it beneath his boot. Another gust tug… | 0.117 | Candidate |
+| 20145 | Spirit Stag | 20 | Lived | No | §231: The stag lowered its head as the wounded leg began to buckle. For a moment its weight dipped toward the snow; then it … | 0.204 | Candidate |
+| 20146 | Eldritch Stronghold | 24 | Lived | No | §74: An edge of the heavy lid stood out from the green fringe. Layers of overlapping ironwood enclosed a narrow seam, and r… | 0.337 | Candidate |
+| 20147 | Ironclad Reliquary | 24 | Lived | No | §82: This one was rectangular, smaller and stranger. Green corrosion marked the iron bands securing its darkwood body. Fine… | 0.301 | Candidate |
+| 20148 | Luminous Enclave | 23 | Lived | No | §65: An elderly hag stood behind a cluttered counter among crooked vessels, tarnished ornaments, odd glasswork and magical … | 0.132 | Candidate |
+| 20149 | Tempest Fury | 24 | Lived | No | §121: An enormous panther stood among the trunks, its sleek obsidian coat shining in the brief brilliance. Tentacles writhed… | 0.162 | Candidate |
+| 20150 | Timberclaw Wretch | 24 | Lived | No | §134: A twisted limb emerged from the growth, planted itself, and took the weight of a body that bent like a damaged tree. D… | 0.178 | Candidate |
+| 20151 | Auraglow Mireling | 24 | Lived | No | §144: Threads of golden light climbed from the dimming water along the Auraglow Mireling's slender legs, gathering beneath i… | 0.188 | Candidate |
+| 20152 | Echowraith Skulker | 24 | Lived | No | §153: It moved smoothly, stopped in a sharp lurch, then lowered itself against the dark growth. One arm snapped upward and r… | 0.177 | Candidate |
+| 20153 | Lumbering Necrobrute | 24 | Lived | No | §167: A giant figure moved across the dim ground. Pallid flesh hung from an Ogru-like frame, exposing bone and dark sinew in… | 0.185 | Candidate |
+| 20155 | Blightwatcher Raven | 22 | Lived | No | §308: Its feathers lay rough along its body. Some patches moved independently, rising and settling as though the plumage cou… | 0.135 | Candidate |
+| 20156 | Twilight Whisper Grove | 24 | Lived | No | §220: The lights gathered near a hollow trunk, revealing smooth, worn curves within the old wood and a narrow recess that se… | 0.112 | Candidate |
+| 20157 | Enigmas End | 24 | Lived | No | §244: The blue-white glow remained visible through both. As mist covered the first side passage, only a few pale stones alon… | 0.190 | Candidate |
+| 20158 | Path of Despair | 24 | Lived | Yes | §255: A pale shape lay across the trail. From one angle it resembled a rib cage. As the thin light shifted, one curved lengt… | 0.111 | Candidate |
+| 20159 | Gloomroot Expanse | 24 | Lived | Yes | §273: The Gloomroot Expanse offered corridors that looked passable until more roots folded across them. A slow exhalation ro… | 0.115 | Candidate |
+| 20160 | Wraithbone Pathway | 24 | Lived | Yes | §288: A dying bough creaked above the narrow trail. Beneath it rested a skull half buried in leaves. More bones lay along bo… | 0.193 | Candidate |
+| 20161 | Skullstone Pass | 24 | Lived | Yes | §302: Hollows in the rocks caught a little light, turning them into skull-like faces. More shapes lined the pass, their dark… | 0.109 | Candidate |
+| 20162 | Sageglow Clearing | 23 | Lived | Yes | §119: He shifted the tome so its open page faced outward, supporting the worn binding with one hand. Several fireflies moved… | 0.179 | Candidate |
+| 20163 | Emberlost Wraith | 24 | Lived | Yes | §176: The Emberlost Wraith moved through the smoke without haste. Fire ran from her body into dead growth, and another rotte… | 0.137 | Candidate |
+| 20164 | Flamecrazed Wanderer | 24 | Lived | Yes | §180: Another woman crossed the grey earth, humming in fragments that wandered away from the expected notes. Small fires app… | 0.077 | LOW |
+| 20165 | Gloomthorn Sentinel | 24 | Lived | Yes | §190: The Gloomthorn Sentinel had jagged horns and a body from which something of Verdani form still remained. Dark smoke cu… | 0.130 | Candidate |
+| 20166 | Stormshriek Harbinger | 24 | Lived | Yes | §197: A shriek rose inside a knot of dark cloud trapped beneath the canopy. Claw-like hands swept from its center, bending t… | 0.147 | Candidate |
+| 20167 | Skyshard Guardian | 23 | Lived | Yes | §150: An armored Aevis woman stood beneath a canopy from which dark, root-like tendrils extended toward her. A feathered cro… | 0.135 | Candidate |
+| 20168 | Skyheart Drifter | 23 | Lived | Yes | §187: An Aevis woman stood alone in the shade. Finely woven garments moved around her though the leaves nearby were still. H… | 0.111 | Candidate |
+| 20169 | Meadowheart Lostling | 23 | Lived | Yes | §290: A young Verdani boy sat among the shadows. His delicate horns scarcely rose above the growth around him. His deer-like… | 0.117 | Candidate |
+| 20170 | Forestwander Sproutling | 23 | Lived | Yes | §334: The path curved around a leaning tree whose exposed roots held a shallow pocket of damp earth. In its shadow a small V… | 0.120 | Candidate |
+| 20171 | Fringebound Escapee | 23 | Lived | Yes | §407: A young Verdani woman was crouched beneath the brush. Her small horned head remained low, and a crude splint bound one… | 0.174 | Candidate |
+| 20172 | Skylore Scholar | 23 | Lived | Yes | §44: They counted the supplies with the carpenter and the two people tending the settling basin. Water skins, cloth, minera… | 0.055 | LOW |
+| 20173 | Verdantweave Envoy | 23 | Lived | Yes | §255: Scholarly insignia marked his robes. His skin and hair shifted in Keldor's muted light as he traced a careful pattern … | 0.117 | Candidate |
+| 20174 | Flameheart Purifier | 23 | Lived | Yes | §460: A Rokur woman in rugged leather armor stood beside it, one hand raised. Emberlight glowed through her volcanic feature… | 0.183 | Candidate |
+| 20175 | Cinderheart Vanguard | 23 | Lived | Yes | §488: She was young for a Rokur warrior. Battle scars crossed her traditional armor, and ash filled the seams. The light ins… | 0.172 | Candidate |
+| 20176 | Frostclaw Behemoth | 18 | Lived | Yes | §322: The bear's orange eyes searched the open ground. It turned on its hind feet, a great weight shifting through fur and m… | 0.119 | Candidate |
+| 20177 | Shadowmarket Mystic | 23 | Lived | Yes | §513: Her wild hair framed a composed face, and her worn, torn clothing carried patterns Brunti did not recognize. Several o… | 0.124 | Candidate |
+| 20178 | Sylvan Rune Gateway | 24 | Lived | Yes | §110: This was the Sylvan Rune Gateway. It stood in southern Keldor, rooted into a great tree, and its purpose remained unve… | 0.118 | Candidate |
+| 20179 | Roarback Mauler | 24 | Lived | Yes | §319: A huge bear reared beyond the undergrowth, its light-brown fur matted and bristling around an unnatural hump. One elon… | 0.118 | Candidate |
+| 20180 | Gloomweaver Colossus | 24 | Lived | Yes | §331: Beneath the eyes, dark tentacles tightened around one another. A vast body lifted from the root tangle that anchored i… | 0.139 | Candidate |
+
+## Prioritized manual review of weak automatic matches
+
+Scores below 0.100 in the two groups are **review priorities, not evidence of omission**. Source keys for IDs **1 and 2** are stored as `00001` and `00002` in the game JSON. [Ch28 Atranor](../manuscript/chapters/28-a-story-about-the-end.md) (ID 1) and [Ch30 Level up!](../manuscript/chapters/30-the-note-that-remains.md) (ID 2) use **Testimony** and **Metaphor**; lexical source-overlap alone cannot assess these special literary modes. The other low matches should be checked against their named source creature/place and the full scene, not merely the best paragraph. Current-text changes themselves remain [a separate comparison task](REVISION_STAGE_5_AUDIT.md) and are not all approved by these locators.
