@@ -472,7 +472,7 @@ Brunti looked at the two stones.
 
 The elder rested her hands against the bench.
 
-“Tavra traveled,” she said. “That's the part of her history I heard most often as a child. A Skykeeper who brought other people's reports between cities and didn't always bring back the kind of answers they wanted.”
+“Tavra traveled,” she said. “That's the part of her history I heard most often as a child. A Skykeeper who brought other people's reports between cities and didn't always bring back the kind of answers they wanted. My teacher used to say Tavra once carried a corrected family name back along a road she had already traveled. I cannot tell you how much of that story survived unchanged.”
 
 “What did she bring?”
 
@@ -490,7 +490,7 @@ Nemi looked interested.
 
 The elder continued.
 
-“Korrum tended the inhabited structures. Some of the old workers used to say you could tell when that person had visited a chamber because a loose step would no longer be loose.”
+“Korrum tended the inhabited structures. Some of the old workers used to say you could tell when that person had visited a chamber because a loose step would no longer be loose. There was a record of a widened landing too, made for people who needed room to turn. No one sings about a landing, but people kept using it.”
 
 “Did Korrum repair everything?” Nemi asked.
 
@@ -723,6 +723,14 @@ Velen examined the supporting documents.
 They placed a small folder beside Brunti.
 
 “These are the copies that will remain here. The original Aetherion drawing stays in its own archive, under the old citation. The names came from the stone inscriptions uncovered here, and the supporting Skyland records are identified separately.”
+
+“And the things I told you after Blackwood?” Brunti asked.
+
+“Those are in a separate account, attributed to you. I was present when you told me, not when the things happened. I've made no copy for public circulation.”
+
+“May they stay that way until I've read them again?”
+
+“Of course,” Velen said. “They are your words to offer. They aren't mine to improve.”
 
 Brunti turned the pages.
 
@@ -1084,6 +1092,8 @@ The afternoon moved through the archive.
 
 A visitor brought a record of Tavra's last known road, copied from a Skykeeper's old ledger. Another remembered being told that Korrum had repaired a stair in a hall that no longer existed. Neither person could prove every detail. Velen noted the sources and left the differing versions visible for anyone who wished to compare them.
 
+Brunti wrote a letter to Sira before the next relay left. She described the safe new wall, Darrik's patient lifting crew and the names Tavra and Korrum. Her injured wrist had let her measure and check, not carry the stones. She wrote that no part of Blackwood had supplied the answer. Near the end she asked whether the girl with the walking stick had been met by her family yet. The last report had not confirmed it, and Brunti did not pretend otherwise. She sealed the letter and gave it to the Skykeeper carrying the evening packet.
+
 Darrik came to examine the new lamp proposal.
 
 Nemi carried the record back to the workshop.
@@ -1217,6 +1227,14 @@ Brunti reached into the inner pocket of her travel pouch and drew out a small da
 “You asked me to bring you something from below.”
 
 Nemi set her bowl down and took the pebble in both hands.
+
+“You remembered,” she said.
+
+“Yes.”
+
+“Even when you couldn't write home?”
+
+“Even then.”
 
 “Not from our Skyland?”
 
