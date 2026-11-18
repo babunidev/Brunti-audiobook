@@ -99,3 +99,11 @@ Brunti's last act is small. A young listener asks what the Blackwood voices mean
 - **Prose convention selected for the novel:** close third-person, past tense for Brunti's main narrative; marked storytelling frames for other witnesses, with a single narratorial voice attentive to texture, sound and quiet human-scale detail. This does not replace the game's present-tense encounter prose standard.
 
 **Companion documents:** [character arcs](CHARACTER_ARCS.md) · [causal chapter chain](CAUSAL_CHAIN.md) · [encounter matrix](PLACEMENT_MATRIX.md) · [world sources](../docs/SOURCES.md).
+
+## Stage 2 prose-realization note — 18 November 2026
+
+The [Stage 2 review](../docs/REVISION_STAGE_2_REVIEW.md) documents the current manuscript's **implemented** refinements to this working spine. For this novel's particular Skyland, Darrik's route schedule places convergence **roughly six months from departure**; later chapter markers track two months, four months and the final weeks, while actual permanent memorial work remains dependent on convergence-only materials/access (Stage 1).
+
+The central **unresolved internal flaw after Chapter 20** is not Brunti's inability to distinguish evidence from guesswork. She has already learned to make a defensible safe-transfer recommendation. Her remaining fear is **facing the residents and people she knows with no exceptional answer to redeem her own unsafe brace**. The Keldor child is genuinely helped; homeward travel is available; she rejects a held seat in Chapter 24 and goes into Blackwood voluntarily. This decision is wrong and is not rewarded with a memorial clue. After the throne, **outer-route wardens find her unconscious at a boundary marker**, and ordinary escort/wagon/medical reporting explains her care and Sira's arrival; **how she reached the marker from the throne is still unknown**. Her training as a female Grimnir warrior is present through protective watch work, escort positions, load assessment and accountability.
+
+This is **committed novel-only draft fiction** under delegated creative writing, not a change to the established world sources or an independently accepted final character arc. The original conceptual spine above is preserved as traceable planning history; Stages 3–5 remain open.
