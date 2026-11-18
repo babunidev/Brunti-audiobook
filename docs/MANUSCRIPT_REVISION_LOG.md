@@ -48,6 +48,16 @@
 
 **Verification boundary:** affected passages reread and the revised cross-chapter causal sequence reviewed; source encounter matrix remains 203 unique assignments, manuscript index remains 30 chapters. Updated word counts total **146,505** under the same declared counting convention (+921 from Stage 1's 145,584). Neither a complete atlas travel audit, full 203-source comparison, line-level literary edit nor separate human approval was performed. Stages 3–5 remain open.
 
+### 2026-11-18 — Stage 3: all-travel-chapter pacing revision
+
+**Direction:** advance the next planned literary revision stage. **AI work:** ChatGPT (**GPT-6**) inspected prose openings, endings and selected substantive scene passages across all **30** chapters and scanned the chapter texts for repeated explanatory patterns. It made targeted paragraph/scene-ending revisions to **all 26 travel chapters (Ch3–28)**; **Ch1–2 and 29–30 unchanged** because their opening council accident and closing craft resolution have distinct functions. See [Stage 3 review and 30-chapter function register](REVISION_STAGE_3_REVIEW.md).
+
+**Revision effect:** the repeated “strange sign → speculative memorial connection → no-proof disclaimer → notebook lesson” pattern was reduced. More scenes close on travelers' humor, small animal behavior, working hands, communal relief, mountain survival, children singing, an actual departure, route disorientation and Blackwood sensory consequences. Jorvald's principled refusal and the ordinary safe return remain central decisions, not more sermons. The Atranor testimony, named encounter imagery and the novel's unresolved mythology are retained.
+
+**Checks:** all 30 current chapter counts recalculated under the same published Unicode-letter/number whitespace convention: **145,771 words** (−734 from Stage 2's 146,505); 203/203 unique encounter assignments still in matrix; 30 chapter index rows; seven engraved letters `A H K J O M A`; Blackwood 8-ID and three smaller follow chains unchanged in assignment. R1–R9's targeted continuity links remain intact.
+
+**Explicit limits:** **no uninterrupted line-by-line read** of the full 145,771-word novel, **no 203-source-by-source fidelity audit or 109 scene-brief full tagging**, no independent editorial sign-off and no completed audio. These are **provisional, targeted narrative edits** under delegated writing authority, not final acceptance. Stage 4 emotional pass and Stage 5 exhaustive close-read/source/canon checks are open.
+
 ## How to record subsequent work
 
 For each later revision package add **date, issue IDs, proposal vs selected direction, changed chapter paths, exact Git commit, source-lore revision, passages affected, verification performed, unresolved dependencies and editorial approval status**. Stage completion does not alone imply publication readiness. Preserve the story world's unresolved questions; never silently supply an undocumented solution.
