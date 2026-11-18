@@ -56,7 +56,7 @@ A completed inventory is **not** evidence that its encounters have already been 
 
 The staged, issue-indexed [manuscript revision plan](docs/MANUSCRIPT_REVISION_PLAN.md) translates the [whole-story audit](docs/WHOLE_MANUSCRIPT_STORY_AUDIT.md) into coordinated chapter-level work. The existing first-draft counts are unchanged.
 
-- [ ] **Stage 0:** Baseline 30 chapters and 203 encounter placements; assemble chronology, knowledge/prop/correspondence and chapter-function ledgers.
+- [x] **Stage 0:** Baseline 30 chapter files and 203 encounter assignments, build [chronology/knowledge/prop ledgers](story/REVISION_CHRONOLOGY_AND_OBJECTS.md) and [chapter-function map](story/REVISION_CHAPTER_FUNCTIONS.md), and record [file SHAs, count-method discrepancy and newer game-source delta](docs/REVISION_STAGE_0_BASELINE.md). Structural checks done; no prose edits or full source reconciliation. [Revision change log](docs/MANUSCRIPT_REVISION_LOG.md).
 - [ ] **Stage 1:** Resolve early Tavra/Korrum naming, convergence-only access versus early permanent rebuild, Darrik letter provenance and Nemi's keepsake.
 - [ ] **Stage 2:** Reconcile time and travel; strengthen Brunti's Chapter 20–24 conflict, Blackwood recovery's ordinary physical bridge and warrior-protector identity.
 - [ ] **Stage 3:** Revise pacing and varied scene functions across all chapters, prioritizing Chapters 3–9, 17–20 and 21–28 without dropping encounter integrations.
