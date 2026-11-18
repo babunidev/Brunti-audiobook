@@ -357,3 +357,15 @@ Chapters **10 and 12** received narrow literary corrections: the Veilwalker now 
 A source-fidelity decision remains **open**. The game describes Nereval's mark as a literal access requirement, while the novel presents Brunti's repair of a neglected watercourse as an accepted sign of understanding. This is a novel-only interpretive choice, neither approved as a game rule nor signed off by the human creative. The [new evidence ledger](REVISION_STAGE_5_CONTINUATION_02.md) counts **20 new distinct targeted IDs**, for **74/203 inspected**, **129 still pending**, with all reviewed scenes subject to the final full-book check.
 
 No source game or world files were edited. No human line approval, definitive lore check, audio rendering, mastering, release, or publication occurred.
+
+## 18 November 2026 — Stage 5 Chapters 5–8 semantic continuation
+
+In the novel's early woodland chapters, my intention remains to let travelers and animals keep their distinct lives, rather than turn all unfamiliar things into clues or opponents. ChatGPT (**GPT-6**) reread the complete four-chapter draft sequence (Ch5–8) beside the **40 assigned current game encounter descriptions**, checked the [placement matrix](../story/PLACEMENT_MATRIX.md), reopened seven relevant pinned MorkahjaWorld lore entries and inspected the Ch4/Ch7 narrative seam.
+
+Of those 40 encounter IDs, **six** had been individually checked in the earlier Stage 5 source/scene packages: **20039, 20065, 20093, 20096, 20036, 20115**. The remaining **34** received new targeted source hook comparisons, for **108/203 unique IDs checked** and **95 still individually pending**. A direct parsed-object comparison confirmed **all 40 source JSON records for Ch5–8 are unchanged** between the manuscript's original reviewed game revision `952437c5c59d` and current `2ba61f5a6bc`. **No audiobook prose files were changed** by this review; the most recent count remains **146,742 words**.
+
+The audit supports the differing delivery forms: Mara's named Nagar stories stay attributed testimony; Bloodfang, Silvermane and meadow wolves are lived animal encounters; the possible Aevis “royal” emblem and old “dworv tools” remain unresolved labels; the Frostwind trunk and Deepstone vault are explicitly **northland archival drawings**, and the two Liani wolves Brunti meets are separate from Halven's reported Predator. This continues to respect existing world authority without asserting new species, dynasties, or secret routes.
+
+An **oral-comprehension watchlist** is recorded, not repaired in prose without a read-aloud: Chapter 5 presents **eight** distinguished Nagar cases in one campfire monologue, while Chapter 7 stages or reports **five** containers in close succession. Both retain source distinctions but could sound catalog-like aloud. [Source and manuscript audit details](REVISION_STAGE_5_CONTINUATION_03.md).
+
+No human editorial acceptance, full 30-chapter close-read, acoustic performance trial, global atlas audit, source-game editing, audio production or publication occurred.
