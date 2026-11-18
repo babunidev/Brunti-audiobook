@@ -93,7 +93,7 @@
 
 ## 8. Cross-chapter and milestone outcome
 
-- The four opening reports in Chapter 2 remain **different** from the three later wolves, the Keldor witness reports and any loved one identified near the novel's memorial. Grimnir injury is described in mineral terms despite human-body language in original encounter texts. The Ravage is not equated with all Gobbls or all corruption.
+- The four opening reports in Chapter 2 remain **different** from the four later wolves, the Keldor witness reports and any loved one identified near the novel's memorial. Grimnir injury is described in mineral terms despite human-body language in original encounter texts. The Ravage is not equated with all Gobbls or all corruption.
 - Chapter 21 reunites Brunti with Sira via the relief system; search leads narrow in Chapters 22–23; the rescue is **achieved** and a **safe route home is available** before Brunti deliberately reenters alone in Chapter 24. This makes her costly error a character action, not a mission requirement.
 - Chapter 24's twenty-source density and Chapter 25's memory-loss gates preserve supernatural uncertainty; no chosen-one rule, inevitable prophecy, cliff shortcut, new grimnir cure, or comprehensive explanation of Keldor is given. Chronology/atlas and spoken perception still require bookwide checking.
 - **Targeted source-fidelity milestone:** **26 newly checked IDs**, without duplicates among the previous 177, hence **203/203** distinct game encounter descriptions compared directly with their own draft narrative passages.
