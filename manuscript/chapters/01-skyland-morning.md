@@ -104,7 +104,7 @@ The cover shifted.
 
 Not much. Barely the width of a grain of sand. But beneath her touch came a small irregular tremor, the unmistakable answer of two parts that no longer bore their weight together.
 
-Someone had repaired this joint long ago. The outer fastening was newer than the stone around it, though even its edges had softened with use. Brunti could not see where the oldest work ended.
+Someone had repaired this joint long ago. The outer fastening was newer than the stone around it, though even its edges had softened with use. Beside its upper edge were short, shallow chisel strokes, almost delicate; nearer the lower plate the marks were broader and squared off. The cover hid where either set ended. Perhaps two craft hands had worked there, or one had simply changed tools. Brunti could not see where the oldest work ended.
 
 She took out the thin measuring blade she kept in her work belt and fitted it against the gap. The blade trembled with the two notes.
 
