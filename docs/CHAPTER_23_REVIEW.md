@@ -1,6 +1,6 @@
 # Chapter 23 — Those Who Still Tend the Forest: source and continuity review
 
-**Date:** 17 November 2026. **Status:** [Chapter 23](../manuscript/chapters/23-those-who-still-tend-the-forest.md) is **7,130 words including heading**, composed as first-draft novel prose by **ChatGPT GPT-6** under Babuni's delegated literary direction. This is a source-aware internal review, **not independent human literary approval, world or game canon, recorded audiobook, or publication**.
+**Date:** 17 November 2026. **Status:** [Chapter 23](../manuscript/chapters/23-those-who-still-tend-the-forest.md) is **7,173 words including heading** after the Chapter 30 game source refresh, composed as first-draft novel prose by **ChatGPT GPT-6** under Babuni's delegated literary direction. This is a source-aware internal review, **not independent human literary approval, world or game canon, recorded audiobook, or publication**.
 
 ## Current primary source verification
 
@@ -48,3 +48,7 @@ All **203 game encounter records and every field** were compared between [`c2277
 **Directly checked:** all twelve new current encounter descriptions and their particular modes, all 203 game records and changed fields, five retrospective current texts in prior drafted scenes, game follow link **20130 → 20131**, available canonical regional and race sources, Chapter 22 narrative handoff, rescue identification steps, manuscript words and the unique-ID coverage ledger. **Outstanding:** full independent geographic/travel-time analysis, editorial manuscript reading, narrated audio and rights verification, release and explicit human editorial ratification.
 
 **Current manuscript:** **23/30 first-draft chapters, 105,799 words including headings, 173/203 distinct source IDs adapted, 30 still planned, 0 independently editorially approved**.
+
+## Chapter 30 source refresh — 18 November 2026
+
+The current game `dae90392595d` expands **20148 Luminous Enclave**. ChatGPT (**GPT-6**) reconciled the elder hag's shop filled with crooked containers and ornaments, brighter moss near its doorway, and the hag's rapid **two-finger catch and suspicious scolding of a wobbling trinket** into the original **direct Chapter 23 Lived** scene. Her comic welcome, useful ordinary guidance toward Sageglow Clearing, and uncertain relationship to Keldor's curse remain unchanged. **Chapter 23: 7,130 → 7,173 words (+43)**, same twelve assigned source IDs and modes; no new game link, magic reward or objective cause. See [twenty-second source reconciliation](SOURCE_RECONCILIATION.md) and [Chapter 30 internal review](CHAPTER_30_REVIEW.md). The updated passage is internally source-checked **first-draft prose**, not independently edited or approved.
