@@ -97,3 +97,25 @@ Source reference: [fixed chapter inventory](../docs/REVISION_STAGE_0_BASELINE.md
 - Other open questions from Stage 0 remain (particularly the ordinary rescue chain in Ch27, the Verdani child's later family reunion, and complete travel/message chronology).
 
 The original Stage 0 evidence was deliberately preserved; no retrospective scene, source update or new canon fact is claimed.
+
+## G. Stage 2 revision — relative six-month itinerary and rescue provenance
+
+**This section updates the historical Stage 0/Stage 1 observations above**, which remain intact as an evidence record. Source is the [committed Stage 2 edited prose and review](../docs/REVISION_STAGE_2_REVIEW.md). Dates here describe **novel-specific working fiction**, not a universal Skyland cycle.
+
+| Current draft chapter | Verified relative clock | Dependency |
+| --- | --- | --- |
+| Ch2 | Estimated convergence in **about half a year**, with possible slight drift | The memorial remains safely isolated while inquiry proceeds |
+| Ch11 | **Several weeks** elapsed before Aetherion archive | Velen's leave begins after initial archive search |
+| Ch14 | **Second month** nearly complete | Outbound Darrik courier has a plausible extended relay to travel |
+| Ch16 | **More than two months** elapsed at Sira's departure west | Sira's report reaches Brunti via forwarding stations in Ch20 |
+| Ch20 | **Four months** elapsed, **less than two months** until convergence | Brunti acknowledges the adequate homebound report but follows Sira's missing-child request |
+| Ch23–24 | **A little more than a month** remains and a scheduled homebound wagon is available | Brunti consciously declines that wagon; arrival before convergence is no longer assured |
+| Ch27 | Wardens find Brunti beside a **numbered boundary marker three days before she wakes**. Sira receives a normal incident notice through Elda and visits on the fourth waking-day morning | **Unknown:** how the Silent Throne passage connects to the location of discovery |
+| Ch28 | Darrik's dated mooring notice says **within three weeks at dispatch**, with relay delay; last staffed roads take **several days** | Brunti's return remains contingent on ordinary transport and Skyland approach |
+| Ch29–30 | Council report **before** convergence; convergence arrives **several days later**; permanent repair during linked-Skyland access | Ch30 refers to remainder of **ongoing** convergence |
+
+**Updated character causality:** Brunti's unresolved fear of appearing useless to her own injured community appears in Ch11/20, visibly motivates refusing the Ch23–24 safe return, is challenged by Sira and Velen in Ch24/27, and is admitted to the caretaker/council in Ch29. **Warrior/protector skills:** early watch training, safe escort and guarded rear of a litter party; Brunti's lapse in duty at Ch24 is therefore concrete.
+
+**Updated Blackwood recovery evidence:** wardens find Brunti beyond maintained paths beside an old boundary stone and disused haul track, carry her by litter to a ridge post and then via wagon to the Verdani lazaret. The routine incident report reaches Elda's shelter and Sira. This is a **novel-only external chain**, not an explanation or canon map of the abyss.
+
+**Still unknown:** exact world-map distances between stations, specific calendrical dates of all mail legs, elapsed subjective time inside Blackwood and external human editorial approval. The [source matrix](PLACEMENT_MATRIX.md) and canonical lore are unchanged.
