@@ -122,7 +122,7 @@ They did not follow.
 
 Velen let out a breath.
 
-Brunti watched a little grit settle over the flat rock beside her. Their guide had known where to stand without needing to defeat the animal, or find the rumored treasure, or explain the song.
+Brunti watched a little grit settle over the flat rock beside her. Orena was already checking the next ledge for loose stones, as though the lioness had merely held them up on a familiar road.
 
 The wind returned to the cliff.
 
@@ -614,9 +614,7 @@ A long slope led down toward the southern approaches of Everwinter Valley. A tra
 
 The sky beyond the peaks was turning the color of worn silver. In the stillness between gusts, Brunti could hear the small movements of their equipment: a clasp striking leather, the quiet drag of boots through thin snow, the soft creak of Velen's newly gloved hand closing around the strap of their papers.
 
-She thought of the cliff that sang with two imperfect notes, the living creature hiding beneath the tundra, and the piece of metal she had left behind in Ordo's shop.
-
-The mountains had offered sounds, shapes and a great many stories. Not one of them had spoken the answer she wanted.
+A gust struck the lantern and sent its flame sharply sideways. Brunti cupped the glass while Velen secured the clasp Ordo had sold them. The little repair held.
 
 Her wrist felt steadier within its warm binding. The lantern still had oil. Velen was close beside her, matching the pace Hesk set on the descending trail.
 
