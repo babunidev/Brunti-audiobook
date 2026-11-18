@@ -1130,7 +1130,7 @@ The injured young woman was carried to a dry room where Elda's caretakers could 
 
 Velen prepared the messages.
 
-The child's family received a sealed account identifying her and naming the safe shelter where she could be reached. The other missing boy's circumstances were recorded separately, without turning him into the person Sira had come to find. The escapee's name and experience remained hers to share; the public route note recorded only that an injured traveler had been recovered.
+For the child's family Velen sealed an account identifying her and naming the safe shelter where she could be reached. The other missing boy's circumstances were recorded separately, without turning him into the person Sira had come to find. The escapee's name and experience remained hers to share; the public route note recorded only that an injured traveler had been recovered.
 
 By morning a courier had taken the messages toward the outer stations.
 
