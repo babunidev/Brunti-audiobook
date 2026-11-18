@@ -102,15 +102,7 @@ She counted a third time.
 
 Only one voice remained, the others passing beneath it too softly to distinguish.
 
-Brunti lowered the notebook.
-
-This music was not her memorial.
-
-The resemblance had been real to her ears. That did not make it evidence.
-
-She knew the distinction.
-
-Knowing it did not quiet the part of her that wanted the song to repeat.
+Brunti lowered the notebook. Her hand remained tight around its spine long after the voices faded. She waited in the thinning music for that particular pause, until another face opened its mouth above her.
 
 ***
 
@@ -730,23 +722,7 @@ The broad figure was still near the front.
 
 It moved its head in a small, habitual gesture that belonged to Brunti. She had done it since childhood when she wished to look upward without shifting the weight of something held in both hands.
 
-There could be other Grimnir who moved that way.
-
-There could be memories shaped into likenesses by this place.
-
-It might be an image she had made from a robe and a shared rhythm.
-
-She knew all of that.
-
-Still, she wanted to see its face.
-
-Not to ask for prophecy.
-
-Not, she told herself, to learn her future.
-
-Only to determine whether it was truly hers.
-
-The distinction grew thinner each time she repeated it.
+She knew that a tilt of the head belonged to no one person. Yet when the figure made that small motion again, she leaned forward without meaning to. The lantern between them swung, and for an instant its dead glass hid the figure's face.
 
 ***
 
@@ -844,9 +820,7 @@ She wanted to follow it farther.
 
 She wanted to know what happened when it reached the immense structure ahead.
 
-The wanting was so powerful that she almost forgot the road itself had offered no proof of anything beyond resemblance.
-
-She took out the notebook.
+The wanting had drawn her too close to the edge of the road. She caught herself as her boot slipped between two worn stones, then took out the notebook.
 
 The last page was crowded with short observations and spaces where she had refused to guess.
 
@@ -906,9 +880,7 @@ A pause.
 
 Then again.
 
-She knew how easily she could make those two movements belong to the memorial at home. Its old casing still concealed who had left those rhythms. Nothing beneath this road could name them for her.
-
-Brunti withdrew her hand.
+The second pulse traveled through the stone and into her wrist. She could not separate it from the pain already there. Brunti withdrew her hand.
 
 The pulse continued.
 
@@ -918,7 +890,7 @@ She did not see its face.
 
 Behind her the procession moved forward.
 
-Before her lay the opening in the great structure, and with it the last of the certainty she had believed she could carry into this place.
+Before her, the opening in the great structure swallowed the procession's last visible lantern.
 
 Brunti stepped toward the arch.
 
