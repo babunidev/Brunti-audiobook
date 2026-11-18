@@ -522,7 +522,7 @@ He closed the lid.
 
 “I said the teachings allow affinities, instincts, unexplained feelings. But none of them would give us the right to point at a child and call that child our dead.”
 
-Velen set the pencil down. Tarnel closed the little case around his sister's thimble with a practiced touch, careful not to trap the worn lining beneath its lid. Brunti thought of the stone names waiting beneath the memorial casing. None of the people here had asked their dead to return in order to speak of them.
+Velen set the pencil down. Tarnel closed the little case around his sister's thimble with a practiced touch, careful not to trap the worn lining beneath its lid. Brunti thought of the names still hidden beneath the memorial casing. None of the people here had asked their dead to return in order to speak of them.
 
 ***
 
@@ -1058,7 +1058,7 @@ Far above, a moving band of stone and metal passed between the clouds, its under
 
 Somewhere along that route her own Skyland was approaching the places where its people would gather for convergence.
 
-Darrik would be inspecting supports while the memorial panel remained safely isolated. Brunti shifted the document case against her sound side; its familiar weight pulled at the strap. Her injured wrist could not yet carry it. Velen noticed and came to take the other handle without a word.
+Darrik would be inspecting supports while the memorial panel remained safely isolated. Brunti adjusted the strap of her small pack with her sound hand. The brace caught against its edge, and she left the buckle alone rather than try to tighten it again.
 
 The attendant called that the lift was ready.
 
