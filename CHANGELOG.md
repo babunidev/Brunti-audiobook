@@ -352,3 +352,14 @@ Documentation/audit work was performed by ChatGPT **GPT-6** under Babuni's origi
 - Streamlined **Ch21–28** to retain the child's rescue, Ch24's substantial hazard sequence, Blackwood's escalating sensory uncertainty, ordinary lazaret recovery and Atranor's secondhand testimony without repeated moral conclusions.
 - Preserved opening/conclusion Chapters **1–2, 29–30** unchanged. Recounted the complete manuscript to **145,771 words including chapter headings** (−734 counted words from Stage 2); updated the [manuscript index](manuscript/chapters/README.md), [Stage 3 review](docs/REVISION_STAGE_3_REVIEW.md), plan, roadmap, change log, source notes and development journal.
 - Confirmed **203/203 distinct encounter assignments** remain in the matrix and the explicit seven-letter and four follow-sequence assignments are intact. **Limit:** the full 145,771-word manuscript read, 203 encounter-to-source comparisons, 109 scene-brief inspection, refreshed game-source review, independent human editorial approval, narrator-readiness and audio remain **unverified**.
+
+## 2026-11-18 — Implement Stage 4 memorial and relationship revision
+
+- Revised **7 chapter files**: Ch1, Ch2, Ch11, Ch23, Ch28, Ch29 and Ch30.
+- Seeded **anonymous contrasting old fastening marks** in Chapters 1–2 and 11; preserved Chapter 29 as the **first physically witnessed Tavra/Korrum name revelation**.
+- Added separate, ordinary novel-only archival traces: Tavra's correction of a family's name and Korrum's accessible landing repair. Memory stones do not become living speakers or universal keys to Morkahja's mysteries.
+- Let the rescued Verdani child wait for her relatives under actual caretakers; fixed the family-message send/receipt order and added a later report of staffed relay care and family notification, **without claiming reunion**.
+- Retained Sira's justified anger and independent work; she asks for Brunti's own repair account, and Brunti sends it. Strengthened Velen's account attribution/permission and Darrik's accessible, safety-first restoration decisions.
+- Strengthened Nemi's on-page Earthsinger pebble payoff, and gave Tarnel's inherited **secondhand Atranor** testimony a small keepsake choice without altering divine rules.
+- Updated [Stage 4 evidence](docs/REVISION_STAGE_4_REVIEW.md), [revision plan](docs/MANUSCRIPT_REVISION_PLAN.md), [revision log](docs/MANUSCRIPT_REVISION_LOG.md), [30-chapter index](manuscript/chapters/README.md), README and roadmap. **146,659 counted words** (+888 versus Stage 3), **203 unique encounter IDs** retained, zero independent editorial approvals.
+- **Not completed:** full 146,659-word line-by-line check, direct 203-ID game-source refresh/comparison, 109 scene-brief fidelity audit, lore/geography/read-aloud checks, independent human approval, narrator/audio production or publication. Morkahja and MorkahjaWorld source files were not modified.
