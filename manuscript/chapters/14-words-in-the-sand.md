@@ -692,7 +692,7 @@ They parted at the junction under a sky veiled with high cloud. Nera remained be
 
 Brunti kept the temple sketch beside the archive drawing, each in its own cloth sleeve. When a worn corner caught against the neighboring folder, she eased it free and smoothed the wrapping, careful not to crease the copied marks.
 
-By the time the desert lay behind them, rain had begun falling somewhere ahead. It appeared first as a grey veil at the horizon, then as a darker edge beneath the clouds. The next caravan master checked the bridge reports and chose a longer, safer approach toward the wetlands beyond.
+Over the following days, the caravans followed the southern approaches of Ethera's Vale before turning east toward Karrhu. At the waystations the loads moved from desert carts to wagons better suited to wet roads. The last dry hills fell behind them. Rain appeared ahead, first as a grey veil at the horizon, then as a darker edge beneath the clouds. The caravan master checked the bridge reports and chose a longer, safer approach toward the wetlands beyond.
 
 Brunti listened to the wheels as they turned along the road.
 
