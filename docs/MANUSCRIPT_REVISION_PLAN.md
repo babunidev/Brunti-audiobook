@@ -1,6 +1,6 @@
 # Brunti — manuscript revision plan
 
-**18 November 2026 | Status: proposed editorial work plan, not manuscript revision or publication approval.** Prepared by ChatGPT (GPT-6) under Babuni's direction to plan fixes after the [whole-manuscript story audit](WHOLE_MANUSCRIPT_STORY_AUDIT.md). The human creative's direction and the established Morkahja source repositories remain authoritative. This plan recommends sequencing and editorial options; **none of its specific fictional repairs is yet approved or implemented**.
+**18 November 2026 | Status: living editorial work plan. Stage 0 documentation and Stage 1 targeted continuity edits are complete; Stages 2–5 and independent editorial approval remain outstanding.** Prepared by ChatGPT (GPT-6) under Babuni's direction to plan fixes after the [whole-manuscript story audit](WHOLE_MANUSCRIPT_STORY_AUDIT.md). The human creative's direction and the established Morkahja source repositories remain authoritative. This plan records sequencing and editorial options; **R1–R4 have now been implemented as internally checked draft revisions**, not separately human-approved final prose.
 
 ## Goal and fixed boundaries
 
@@ -29,16 +29,16 @@ Turn the existing **30-chapter, 145,383-word first draft** into a coherent, vari
 
 ## Stage 1 — Repair the hard contradictions
 
-**Priority: blocking. Smallest coordinated set of edits.**
+**Implemented as a targeted draft continuity pass on 18 November 2026.** See [Stage 1 verification](REVISION_STAGE_1_REVIEW.md) and [change log](MANUSCRIPT_REVISION_LOG.md). The table below preserves the original issue targets for traceability.
 
 | Work item | Primary chapters | Proposed approach | Acceptance check |
 | --- | --- | --- | --- |
 | **R1. First identification of Tavra and Korrum** | 11, 20, **25–29** | Remove named knowledge from Chapters 25–28 and the false claim that Velen assigned the names. Preserve two distinct, **anonymous** rhythms and records. Chapter 29's exposed inscriptions provide the first verified identification, corroborated with surviving local material. | Search narrative prose for both names: first verified owner-name use appears only in Chapter 29; earlier descriptions do not accidentally reveal identities. |
-| **R2. Convergence access and repair** | **1–2, 14, 20, 28–30** | **Preferred proposal:** keep the original requirement that convergence supplies safe access/materials. Brunti may arrive and present evidence **before** the event, but the actual permanent opening/replacement occurs **during** the convergence work. Make the approach, arrival, preparation, repair and later ordinary-life epilogue chronological. Do not invent an unexplained early supply. | No permanent replacement happens before available access/materials; the council deadline, isolation and final repair all agree. |
+| **R2. Convergence access and repair** | **1–2, 14, 20, 28–30** | **Implemented in revised draft:** keep the original requirement that convergence supplies safe access/materials. Brunti may arrive and present evidence **before** the event, but the actual permanent opening/replacement occurs **during** the convergence work. Make the approach, arrival, preparation, repair and later ordinary-life epilogue chronological. Do not invent an unexplained early supply. | No permanent replacement happens before available access/materials; the council deadline, isolation and final repair all agree. |
 | **R3. Letter provenance** | **1–2, 14, 20, 28** | Determine if Chapter 20's “Darrik's letter” is an initial written brief/measurement sheet or a real incoming message; if no delivery is supported, relabel it accurately. Distinguish Brunti's earlier outgoing dispatch, Chapter 20 confirmation and Darrik's later reply. | Each important letter has sender, recipient, approximate dispatch/delivery order and a scene or credible relay explaining possession. |
 | **R4. Nemi's keepsake** | **2–3, 5, 16, 29–30** | Preserve the Earthsinger pebble and its promise; add a restrained on-page handover, or acknowledge an actual loss if a later scene supports it. Prefer the quiet handover over invented magical significance. | The promised object has a clear end state and Nemi is present to receive/understand it. |
 
-**Gate 1:** These four issues are visibly resolved by the chapter text, and a second cross-chapter read finds no new contradictions. The recommended convergence option remains a proposal until selected in the prose revision.
+**Gate 1 (targeted check passed):** R1–R4 are addressed in Chapters 20 and 25–30. The repair now takes place during convergence, the named identities first appear in Chapter 29, Darrik's Ch20 measurements are correctly identified, and Nemi receives the pebble. [Evidence and limits](REVISION_STAGE_1_REVIEW.md). Independent human acceptance and whole-book chronology remain outstanding.
 
 ## Stage 2 — Strengthen the clock, character causality and Blackwood stakes
 
@@ -96,4 +96,4 @@ Turn the existing **30-chapter, 145,383-word first draft** into a coherent, vari
 
 Prefer **small, reviewable chapter-group commits** with a brief editorial note for each package (issue IDs R1–R13, chapters changed, before/after, source changes, check performed, unresolved questions). A pass is complete only after the affected earlier and later chapters have been reread together. If a proposed solution collides with lore or chronology, document the conflict and revise the proposal rather than hiding it.
 
-**Status on creation:** Planning document only. **No chapter prose modified; no revision package tested or approved; no audio produced.**
+**Historical status when first created:** Planning document only. **Current status:** Stage 0 completed; Stage 1 draft prose repairs committed and internally verified. No human line approval or audio produced.
