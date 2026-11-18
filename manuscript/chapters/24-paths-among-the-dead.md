@@ -360,9 +360,7 @@ An uneven tune rose from the haze ahead.
 
 Another woman crossed the grey earth, humming in fragments that wandered away from the expected notes. Small fires appeared beneath her bare footsteps. Her burning hand touched a brittle branch, and it caught instantly.
 
-The Flamecrazed Wanderer interrupted her melody with a short, meaningless sound.
-
-Then she began again.
+The Flamecrazed Wanderer broke off with a short, startled cry. She stared at the burning branch, then began again on a different note.
 
 Her hand rose toward another branch, paused, and moved in time with the broken tune while flame ran through the wood beside her.
 
@@ -658,7 +656,7 @@ Roots rose and fell across the ground like the surface of a frozen dark sea. Som
 
 Two green eyes shone high among them.
 
-Brunti stopped breathing.
+Brunti did not move.
 
 Beneath the eyes, dark tentacles tightened around one another. A vast body lifted from the root tangle that anchored it to the blighted trees. Its head held no other visible feature. The lidless gaze remained steady while sinewy lengths slid into new positions below.
 
