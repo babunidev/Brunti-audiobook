@@ -413,3 +413,14 @@ The Nereval river-rune question, remaining 95 source-scene checks, full-book/can
 - Updated manuscript index, status/roadmap, plan, Stage 5 evidence, decision note and development journal.
 
 **Status:** Stage 5 still open; 74 encounter checks, uninterrupted story/canon/atlas and read-aloud, human editorial acceptance, rights, narration and publication are outstanding.
+
+## 2026-11-18 — Stage 5 Chapters 15–20 and approved older-lore interpretation
+
+- Recorded **Babuni's explicit creative authorization** to retain compatible established older lore through readability-only game encounter rewrites; material changes to creatures and actual contradicting facts still require direct review. [Decision](docs/DECISIONS.md), [source ledger](docs/SOURCES.md). Approved the **Chapter 12 healing-act Nereval entry for the novel**, without changing the current game guardian's literal mark wording or any actual live mechanics.
+- Added [continuation E](docs/REVISION_STAGE_5_CONTINUATION_05.md) auditing **all 50 assigned game encounters in Chapters 15–20**: **48 newly targeted IDs** and rechecks of `20099` and `20176`, raising Stage 5 to **177/203 distinct targeted scene checks, 26 pending**.
+- Compared all 50 current JSON encounter objects directly against original literary baseline `952437c5c59d`: **49 identical**, exactly one `mEncounterText` change (`20176 Frostclaw Behemoth`). The bear remains an immense white, orange-eyed, powerfully clawed animal in the game and manuscript, with no material source-fidelity contradiction requiring a rewrite.
+- Fixed a repeat-character name ambiguity: renamed **seven** mentions of Chapter 17 Sarga pathkeeper **Orena → Ressa**, retaining separate Chapter 9 southern pilgrim Orena. No game source identities or plot changed.
+- Refetched **all 30** manuscript chapter files and recounted **146,741 words including headings**, unchanged because name replacement preserved token count. Chapter 17 remains **4,797** words.
+- Updated README, roadmap, manuscript plan/index, Stage 5 audit, sources, decisions, Chapter 17 review and journal; flagged Ch16's twelve corruption reports and Ch20's nine northern sites for future spoken-comprehension testing.
+
+**Not completed:** 26 remaining source checks, continuous book/canon/atlas and 109-scene-brief audit, actual read-aloud, independent human line approval, rights clearance, narrator production, audio mastering or publication.
