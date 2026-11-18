@@ -350,9 +350,9 @@ Brunti heard the word *Veilwalker* and stopped.
 
 ***
 
-The woman said she had seen two enormous eyes high above the wildflowers, nearly level with the crowns of the nearby trees.
+The woman said an immense shadow had passed over the eastern meadow while the sun remained clear.
 
-They hovered above the eastern meadow, lidless and steady, without any face she could distinguish behind them. A long tendril descended from the barely visible shape, feeling through the blossoms far below. Other tentacles drifted through the air without touching the ground. No clear body appeared.
+High among the tree crowns, a translucent presence moved without keeping a single shape. The distant forest wavered through its vast outline. Two enormous, lidless eyes hovered within it, turning slowly over the wildflowers. Countless pale tendrils trailed beneath the enormous body, drifting between branches. One lowered toward the blossoms but never reached the ground. Leaves trembled though the woman felt no wind, and for a moment the body faded so completely that only the eyes remained.
 
 “I thought it was looking for something,” she said.
 
@@ -382,7 +382,7 @@ Sira listened from the bench beside the basket.
 
 Brunti wrote the account down.
 
-She did not connect it to the dark creatures of Keldor, though the name and the tentacles would have made it easy to do so. The witness had observed eyes, tendrils, movement among flowers and no origin at all.
+She did not connect it to the dark creatures of Keldor, though the name and the tentacles would have made it easy to do so. The witness had observed eyes, an immense shifting body, tendrils suspended above the flowers and no origin at all.
 
 That was enough.
 
@@ -436,7 +436,7 @@ Tessan saw it too.
 
 “Perhaps,” Sira said.
 
-The Ogru shifted. The pouch tilted, opening a little farther, and another bright edge caught the last sunlight.
+The Ogru shifted. The pouch tipped against a root, and one coin slid toward its open edge. For a moment the snoring stopped. Brunti stayed still until another deep rumble stirred the willow branches.
 
 Brunti watched the sleeping creature.
 
