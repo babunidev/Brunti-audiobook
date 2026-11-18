@@ -534,7 +534,7 @@ Sael raised an eyebrow.
 
 Brunti looked down at the harness in her hands.
 
-The Skyland's convergence was drawing nearer. She had never expected the old drawing to take her to so many places where someone needed help, or where a route could not be shortened without risk. Darrik might be preparing the transfer already.
+The second month since her descent was nearly over. The Skyland's convergence was still months ahead, though no longer a distant event that belonged entirely to Darrik's plans. She had never expected the old drawing to take her to so many places where someone needed help, or where a route could not be shortened without risk. Darrik might be preparing the transfer already.
 
 “I don't know,” she said.
 
