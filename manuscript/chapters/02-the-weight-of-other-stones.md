@@ -92,11 +92,11 @@ He laid the second tablet beside the first.
 
 Brunti knew the name. Stonefist had been spoken of in training halls when she was younger, always with more certainty than the person doing the speaking could justify.
 
-“The traveler saw deep damage to his armor,” Orven continued. “One fastening had torn loose. A fracture along his side had not yet settled. He held his weapon even while resting, as though releasing it would mean consenting to the end of the fight.”
+“The traveler saw deep damage to her armor,” Orven continued. “One fastening had torn loose. A fracture along her side had not yet settled. She held her weapon even while resting, as though releasing it would mean consenting to the end of the fight.”
 
 A member of the council asked where the temple stood. Orven named the region recorded by the traveler, then admitted that the older maps gave the place several names.
 
-“The traveler stayed with him for a short while,” Orven said. “Stonefist declined to explain the battle. He accepted water.”
+“The traveler stayed with her for a short while,” Orven said. “Stonefist declined to explain the battle. She accepted water.”
 
 The small detail troubled Brunti more than the damaged armor.
 
@@ -134,7 +134,7 @@ Orven looked at her.
 
 “They all needed to be brought out.”
 
-“Perhaps. One may have needed a guide. Another a safe place to rest. Stonefist may have wished only that someone remain with him for a while. We cannot ask the record to decide for them.”
+“Perhaps. One may have needed a guide. Another a safe place to rest. Stonefist may have wished only that someone remain with her for a while. We cannot ask the record to decide for them.”
 
 Brunti touched the edge of the third tablet. She felt the fine scored line that marked the cave's opening. It had been carved with care, yet the figure of the wounded woman remained no more than a few strokes against a wall.
 
