@@ -618,7 +618,7 @@ At first Brunti noticed only a pair of blue points high among the branches. They
 
 A raven sat on a gnarled limb.
 
-Its feathers lay rough along its body. Some patches moved independently, rising and settling as though the plumage could not agree on the direction of the breeze. The bird's blue eyes fixed upon a small movement in the roots below.
+Its feathers lay rough along its body. Some patches moved independently, rising and settling as though the plumage could not agree on the direction of the breeze. Beneath a jagged feather near its shoulder, a faint eerie light showed for an instant before the dark plumage closed over it. The bird's blue eyes fixed upon a small movement in the roots below.
 
 A caw broke against the trunks.
 
@@ -628,7 +628,7 @@ Oddly doubled.
 
 Velen flinched.
 
-The raven turned its head abruptly. Its body followed after a slight delay, making the motion look poorly joined. Curved talons tightened against the bark.
+The raven turned its head abruptly. Its body held the old position for several strange moments before the shoulders jerked after it, making the motion look poorly joined. Curved talons dug into the weathered bark.
 
 “Blightwatcher,” Varun breathed.
 
@@ -636,9 +636,9 @@ Brunti studied the creature.
 
 It lowered itself along the branch, jagged feathers lifting from its shoulders. Their shadows trembled in the slanting moonlight that had begun to reach through the canopy. Another caw started, stopped short, and left an uncomfortable quiet.
 
-Its wings opened just enough to show the dark space beneath them.
+Its wings opened with a dry, uneven rustle, throwing a broad shadow upon the forest floor.
 
-Its grip loosened.
+One talon loosened, then the other.
 
 Sira stepped back from the open ground.
 
