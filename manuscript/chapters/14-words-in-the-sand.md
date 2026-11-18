@@ -692,9 +692,7 @@ They parted at the junction under a sky veiled with high cloud. Nera remained be
 
 Brunti kept the temple sketch beside the archive drawing, each wrapped separately.
 
-One was a trace of an old craft technique that might someday help her understand the Skyland memorial. The other was a record of an unfamiliar philosophy whose missing lines had nothing to do with her.
-
-The distinction mattered.
+The worn corner of the temple sketch caught against the other folder. Brunti straightened the papers and wrapped them separately again, careful not to crease the old marks.
 
 By the time the desert lay behind them, rain had begun falling somewhere ahead. It appeared first as a grey veil at the horizon, then as a darker edge beneath the clouds. The next caravan master checked the bridge reports and chose a longer, safer approach toward the wetlands beyond.
 
