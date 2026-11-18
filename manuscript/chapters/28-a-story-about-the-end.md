@@ -514,7 +514,13 @@ Tarnel put the thimble back.
 
 “That's how I remember her most clearly. Not from the story of Atranor. From all the little things she corrected.”
 
-He closed the lid.
+He closed the lid. The little clasp caught against the worn lining; he lifted one corner with the same patient motion, and it settled. Brunti's sound hand had already moved toward her tool pouch. She let it rest on the table.
+
+“Would you like me to look at the catch?”
+
+“No,” Tarnel said, without embarrassment. “I remember how she opened it.”
+
+Brunti nodded. The case was his to keep, including the small inconvenience.
 
 “My nephew asked whether there would be a sign if she chose to return in another life. Some mark that would tell us it was her.”
 
@@ -808,6 +814,16 @@ Sira gave her a look.
 
 Sira tied the bundle.
 
+“And the girl with the walking stick?” Brunti asked.
+
+“She stayed with the caretakers at the staffed southern relay when our wagon passed through. The family has received the address and the keeper's account, but I haven't seen confirmation that they've met. The boy is still cared for at Elda's shelter.”
+
+Brunti remembered the girl asking whether someone would wake her when her family arrived.
+
+“Will you keep asking?”
+
+“Yes. That's part of the work I still have.”
+
 Brunti wanted to ask whether her friend would come to the Skyland for the convergence. She wanted to ask whether she would still be angry when they met again.
 
 Instead she said, “Thank you for coming to the lazaret.”
@@ -835,6 +851,12 @@ Then she looked at the brace.
 “I won't.”
 
 “That's a promise I intend to check.”
+
+“Then write to me when the wall is repaired,” Sira said. “Not a council account. Tell me how it went, and what you were able to do.”
+
+“I will.”
+
+Sira tightened the last knot on the message bundle. She had not said that her anger was gone.
 
 Brunti moved her sound hand toward Sira.
 
