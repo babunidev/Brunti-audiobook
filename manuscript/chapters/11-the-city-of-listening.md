@@ -760,13 +760,7 @@ Velen nodded.
 
 Brunti considered the wavering light.
 
-The garden was not theirs to repair. The missing beat was real, but its cause remained here, in the water and stone and living plants of Aetherion. It did not belong to the old memorial simply because she had heard something similar.
-
-They found a caretaker near the next path and described what they had seen, including the stone that brightened early and the one that failed to answer. The caretaker thanked them and called for another worker to examine the brook's flow.
-
-Brunti did not offer a solution.
-
-She gave the observations.
+They found a caretaker near the next path and described what they had seen, including the stone that brightened early and the one that failed to answer. The caretaker knelt by the brook and felt the current with two fingers. A second worker came to examine the little channel while the visitors returned to the archive road.
 
 ***
 
@@ -872,11 +866,7 @@ Velen had gone inside to finish their request. Sira waited beside Brunti with he
 
 Brunti considered the road ahead.
 
-There would be more delays. More people to meet, more places where she would have to listen rather than decide. The Skyland's convergence would not wait for her certainty. Darrik would continue making the structure safe whether or not she returned with a perfect history.
-
-But in her pack lay a copy of a drawing that had survived long enough to show two separate places beneath one old cover.
-
-It was the first physical evidence she had found.
+The copy in Brunti's pack had survived long enough to show two separate places beneath one old cover. On the road outside the archive, a pair of workers carrying ladders made room for her and Sira to pass; she felt the folded drawing through its cloth sleeve and let them go ahead.
 
 She touched the folded paper through the cloth.
 
