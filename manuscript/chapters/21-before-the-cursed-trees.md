@@ -4,7 +4,7 @@ The winter did not end at the last mountain.
 
 For several days after leaving Everwinter, Brunti carried its cold in the fine seams of her hands. The mineral binding around her wrist had grown smooth again, but she could still remember the careful way the stag had lowered itself behind the stones, and the trembling of the blue arrow it carried.
 
-Below Frostwind, the snow thinned into narrow stripes along the roads. Trees appeared singly at first, then in quiet clusters. Water ran again beneath the bridges. A roadside market was selling the first green leaves of a new growing season, although frost still lay in the shaded corners of its stalls.
+Below Frostwind, the snow thinned into narrow stripes along the roads. Trees appeared singly at first, then in quiet clusters. Water ran again beneath the bridges. A roadside market was selling fresh greens brought up from the warmer lowland roads, although frost still lay in the shaded corners of its stalls.
 
 Enna accompanied them as far as the southern junction where the winter patrols ended. There she returned the cord she had carried through the mountains to its proper place in her pack.
 
