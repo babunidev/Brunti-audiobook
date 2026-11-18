@@ -350,9 +350,9 @@ Brunti heard the word *Veilwalker* and stopped.
 
 ***
 
-The woman said she had seen two eyes above the flowers.
+The woman said she had seen two enormous eyes high above the wildflowers, nearly level with the crowns of the nearby trees.
 
-They were suspended in the eastern meadow, lidless and steady, without any face she could distinguish behind them. Beneath the eyes hung a long tendril that lowered itself among the stems, probing slowly through the blossoms. Other tentacles moved at the edge of the shape. No clear body appeared.
+They hovered above the eastern meadow, lidless and steady, without any face she could distinguish behind them. A long tendril descended from the barely visible shape, feeling through the blossoms far below. Other tentacles drifted through the air without touching the ground. No clear body appeared.
 
 “I thought it was looking for something,” she said.
 
