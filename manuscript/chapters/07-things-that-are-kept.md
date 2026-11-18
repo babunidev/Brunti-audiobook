@@ -450,9 +450,7 @@ At the guardian's feet she sat and took out her notebook.
 
 She drew the crossed stream, the cairn and the figure overlooking them. Beneath the sketch she added the place where she had left the metal clasp.
 
-No one had asked her to leave it. No reward would follow.
-
-She felt lighter for having done so.
+A small fish flashed beneath the shallow water and vanished under the far platform. Brunti pulled her boots clear of the stream before the damp crept into their seams.
 
 ***
 
@@ -486,13 +484,7 @@ Brunti wondered whether she should be offended. She found that she was mostly gr
 
 “Beyond the forest roads. There is also a Verdani bookbinder whose shop is known to travelers, though I cannot promise which of them will have what you need.”
 
-A direction, not a certainty.
-
-Brunti copied the keeper's instructions. The road to Aetherion still lay ahead. The old memorial waited at home, held safely while Darrik prepared for the convergence. She had learned many things in the forest and none of them could yet repair the wall.
-
-But she had begun to understand a different craft.
-
-A thing could be found without being taken. It could be kept without being hidden. It could be remembered without claiming that the memory was complete.
+Brunti copied the keeper's instructions on the back of a scrap already creased by the road. Sira read the names aloud so they would remember whom to ask for when the forest paths gave way to market stalls.
 
 The keeper wished them a safe road and turned back into the trees.
 
