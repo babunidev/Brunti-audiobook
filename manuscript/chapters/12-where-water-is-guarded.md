@@ -846,9 +846,7 @@ Brunti came behind them with the tools.
 
 She looked once toward the river, where Iren's old tree stood small in the distance.
 
-The keeper had stayed to watch the passing boats and hear the news of travelers. He had offered them food and names and the directions needed to reach people who were waiting.
-
-Nothing in his kindness had required a test.
+The keeper remained beside the river, small now beneath his old tree. A boat passed him with baskets stacked in its bow; he lifted a hand to its pilot, who waved back.
 
 Brunti adjusted her pack and followed the caravan eastward.
 
