@@ -688,7 +688,7 @@ She watched it lift a hand.
 
 Beneath the sleeve, a faint line of pale mineral appeared at the wrist.
 
-Brunti's breath stopped for a moment.
+She watched the pale line disappear beneath the sleeve.
 
 The figure did not look back.
 
