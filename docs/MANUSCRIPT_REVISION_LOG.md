@@ -99,3 +99,15 @@
 ## How to record subsequent work
 
 For each later revision package add **date, issue IDs, proposal vs selected direction, changed chapter paths, exact Git commit, source-lore revision, passages affected, verification performed, unresolved dependencies and editorial approval status**. Stage completion does not alone imply publication readiness. Preserve the story world's unresolved questions; never silently supply an undocumented solution.
+
+## 18 November 2026 — Stage 5 semantic comparison complete; manuscript R12/R13 minor clarity fixes
+
+**Direction/proposal/implementation:** Under Babuni's already delegated literary drafting authority and approved compatibility policy for older lore, ChatGPT (**GPT-6**) directly compared all **26** previously unreviewed current-game descriptions to their actual manuscript paragraphs (Ch**2, 21–25**), completing **203/203 targeted source-scene ID checks** in [continuation F](REVISION_STAGE_5_CONTINUATION_06.md). The 26 source objects are unchanged between `Morkahja` `952437c5c59d` and `2ba61f5a6bc`; no source-game or world-canon edits were proposed or made. **No line-by-line human approval** was obtained.
+
+**Confirmed line-level defects and selected edits:**
+- **Chapter 22**, [`25600724774f788e693fc09ba3e2d5f9adb258c9`](https://github.com/babunidev/audiobookGrimnir/commit/25600724774f788e693fc09ba3e2d5f9adb258c9): opening “warning cost them a button” contradicted the actual later return of the button and Sira's money payment. Changed to **“almost cost”**, **4,813 → 4,814 words** (+1). All five Ch22 source placements unchanged.
+- **Chapter 25**, [`10748fbe7bfcdaf15230c3de76f10faceaf07a46`](https://github.com/babunidev/audiobookGrimnir/commit/10748fbe7bfcdaf15230c3de76f10faceaf07a46): two consecutive descriptions of Brunti sitting against identical damp root wood repeated the same action. Consolidated into one rest beat and retained wrist pain and distant crack, **5,407 → 5,398 words** (−9). Blackwood's `20050 → 19666 → 19667 → 19668` follow order, missing-time passage ambiguity and unknown guardian condition are unchanged.
+
+**Verification:** After both prose commits, all **30 chapter files refetched** from GitHub. Whitespace-token count (token must contain Unicode letter or number): **37,570 + 52,476 + 56,687 = 146,733 total**. Compared all 26 source records against two game revisions; structural ID ledger verification and Markdown path checks are detailed in [continuation F](REVISION_STAGE_5_CONTINUATION_06.md).
+
+**Remaining blocked acceptance:** Even with **203/203 targeted source hooks checked**, Stage 5 still requires an uninterrupted full-novel line read, 109 scene briefs/functions, comprehensive canon/calendar/atlas/props review, real spoken-performance/audio-listening evaluation, and **separate human final literary approval**. This is draft review, not publication or narration certification.
