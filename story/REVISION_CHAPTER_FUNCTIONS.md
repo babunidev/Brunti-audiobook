@@ -55,3 +55,9 @@ The narrative **does** have a coherent macro-arc: unsafe local repair → docume
 **Next revision handoff:** [Stage 1 repairs R1–R4](../docs/MANUSCRIPT_REVISION_PLAN.md), then Stage 2 causes/clock, then Stage 3 scene-by-scene variety. The current map is a *diagnostic index*; it does not approve new plot events, alter chapter assignments or replace the later full line-by-line review.
 
 **Verification boundary:** Read actual chapter material for these functional descriptions and consulted the existing causal chain/audit; not a complete 145k-word professional edit nor a comprehensive re-check of every game's source paragraph. **No prose changed.**
+
+## Stage 3 revised-prose chapter functions — 18 November 2026
+
+**Historical note:** The Stage 0 table above describes the unedited starting draft and is retained for traceability. The later [Stage 3 report](../docs/REVISION_STAGE_3_REVIEW.md) gives a **30-chapter function register linked to the revised prose**. ChatGPT (**GPT-6**) made targeted literary changes across **all 26 travel chapters (3–28)** to reduce the repeated structure of strange sign → memorial analogy → negated claim → notebook lesson. Sensory consequences, humor, companionship, patient work, the actual Keldor rescue and Blackwood's unstable geography now carry more passages without additional explanation. Ch1–2 and 29–30 remain intentionally unchanged to preserve their distinct opening/final craft functions.
+
+This is an **internally checked draft pass**. The [203-source placement matrix](PLACEMENT_MATRIX.md) and all link chains are structurally intact, but the revised function register is **chapter-level**, not a tag/acceptance record for each source description. A **complete line-by-line reread, all 109 scene-brief checks and all 203 game encounter fidelity checks remain open** under Stage 5. Current index: [145,771 counted words](../manuscript/chapters/README.md), 30 chapters, no human literary acceptance.
