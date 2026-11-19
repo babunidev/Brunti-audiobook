@@ -5,11 +5,31 @@
 ## How these differ from the literary manuscripts
 
 - One **individual plain-text script per chapter**, with a human-readable chapter title as the first line. If pasted directly into text-to-speech, the title may be spoken. In Studio, avoid accidentally narrating a title twice if it is also supplied as chapter metadata.
-- Original manuscript's standalone `***` scene dividers are replaced by **`[pause]`**, with surrounding blank lines. Ordinary paragraphs and dialogue are otherwise left at their original positions; no automated laughter, sobbing, whispering, speaker changes or invented sound effects are added.
+- Original manuscript's standalone `***` scene dividers are replaced by **`[pause]`**, with surrounding blank lines. Ordinary paragraphs and dialogue remain in their original sequence; **53 selectively placed performance cues** now precede particular spoken lines. No synthetic laughter, sobbing, extra dialogue, speaker switches or environmental sound effects have been added.
 - Every chapter has exactly one final **`[long pause]`** cue after its last actual prose sentence. This applies to **Chapter 30** as an ending tail, too.
 - The **first prose line of each following chapter has no automatic introductory pause**; a chapter join should be produced via **real timed silence**, not by trusting the preceding chapter's terminal tag.
 - Inline Markdown emphasis markers are removed for plain-text performance. The words and punctuation of the novel are otherwise retained, and the exported text is not a new literary rewrite.
 - **Only ElevenLabs v3/v4 square-bracket tags** are used. No SSML break tags, v2 syntax or proprietary TTS commands are included.
+
+## Selected performance cues — editorial pass of all 30 chapters (19 November 2026)
+
+Following Babuni's explicit request for the **entire book** to receive carefully chosen Eleven v3/v4 audio tags, ChatGPT (**GPT-6**) reopened **all 30 full narration scripts** and placed **53 voice-only direction tags** next to actual relevant speech. This is an **editorial production pass**, not an automatic regex applied to every emotional word in the novel.
+
+| Cue | Count | Intended use |
+| --- | ---: | --- |
+| `[thoughtful]` | 15 | Measured reflections and consequential statements |
+| `[softly]` | 14 | Gentle conversation, quiet care or subdued speech |
+| `[curious]` | 12 | Genuine questions and moments of discovery |
+| `[whispers]` | 9 | Quiet warnings and dialogue already explicitly whispered |
+| `[mischievously]` | 2 | Small, context-supported moments of teasing |
+| `[shouts]` | 1 | A single call that the prose expressly describes as shouted |
+| **Total** | **53** | **One or two cues per chapter; no overacting** |
+
+**Examples:** [Chapter 5](05-the-lives-of-the-vale.txt) marks the already-whispered question about an animal's cub; [Chapter 10](10-the-shelter-beyond-the-veil.txt) marks Brunti's explicitly shouted road warning; [Chapter 23](23-those-who-still-tend-the-forest.txt) marks the child's quiet “You can”; [Chapter 29](29-the-work-of-bringing-back.txt) gives reflective delivery to Brunti's accountable homecoming statement. The eerie [Blackwood sequence](25-the-door-in-the-cliff.txt) intentionally has very few tags, leaving atmosphere to the prose and the existing pauses.
+
+**Verification:** Reopened every amended script **and its corresponding canonical chapter**. Removing only the 53 new performance tags reproduces the prior clean narration output exactly, including **271 existing `[pause]` scene separators**, **30 `[long pause]` chapter endings**, chapter titles, wording and order. No manuscript was changed, so the book still counts **146,816 words**.
+
+**Auditory limitation:** v3/v4 tags are generative directions, not fixed performances. The selected narrator may interpret them differently or occasionally speak an instruction. No ElevenLabs voice output has yet been rendered and listened to. Remove or refine any specific tag that sounds artificial; do not assume every cue will be retained in final mastered audio.
 
 ## Import and chapter-break handling
 
