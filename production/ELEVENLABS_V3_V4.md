@@ -92,6 +92,12 @@ A practical v3/v4 dialog test (not from the manuscript):
 - [ElevenLabs: ElevenCreative Studio](https://elevenlabs.io/docs/eleven-creative/products/studio)
 - [ElevenLabs: structured chapter import](https://elevenlabs.io/docs/help-center/product/studio/studio/how-do-i-add-chapters-to-a-studio-project)
 
+## 19 November 2026 — selective dialogue-performance pass applied to all 30 scripts
+
+At Babuni's explicit request, ChatGPT (**GPT-6**) reviewed the actual 30 narration scripts and inserted a **further 53 contextual performance cues** (15 `[thoughtful]`, 14 `[softly]`, 12 `[curious]`, 9 `[whispers]`, 2 `[mischievously]`, 1 `[shouts]`). The source language was not rewritten: every inserted cue precedes an actual existing line, and the six families of tags direct the **voice only**. For example, the single shouting tag matches Brunti's explicitly shouted warning; whispered cues accompany literal whispered lines. No mechanical tags for every laugh or sigh and no environmental sound effects were added.
+
+The [chapter index and cue inventory](scripts/eleven-v3-v4/README.md) records the full distribution and review logic. For every chapter, the edited narration text was compared after cue removal to the **current canonical manuscript-to-narration transformation**. **30/30 passed** with all **271** old scene markers and **30** final long-pause cues intact. This is text verification only. Both v3 and v4 may render a given performance cue differently; in particular, gentle/reflective instructions are **suggestions**, not locks on tone. No Studio import or rendered sound was reviewed.
+
 ## 19 November 2026 — all 30 derived narration scripts created
 
 At Babuni's explicit request, ChatGPT (**GPT-6**) derived **one full plain-text script for each of the thirty novel chapters**, indexed at [`production/scripts/eleven-v3-v4/`](scripts/eleven-v3-v4/README.md). The conversion uses **`[pause]` at every established `***` scene separator (271 cues total)** and **exactly one `[long pause]` after each chapter's final prose line (30 cues)**. Only the technical heading marker and inline Markdown emphasis punctuation were removed; speech content, dialogue, paragraph breaks, order and known lore remain unchanged. **All 30 output files were reopened and checked for terminal cues and absence of raw Markdown scene separators.** The literary manuscript remains **146,816 counted words** with no prose edits.
