@@ -2,7 +2,7 @@
 
 **Confirmed model choice by Babuni: ElevenLabs v3 and v4 only.** See the [v3/v4 narration cues, scene pauses and chapter-join guide](ELEVENLABS_V3_V4.md). The guide is a documented production convention, not evidence of generated or approved audio.
 
-**30/30 narration scripts are now drafted and available** in [the v3/v4 script index](scripts/eleven-v3-v4/README.md), generated from the 146,816-word working novel. **No narrated audio exists in this repository.** Final literary review, Studio import, voice decisions, audio generation and timing tests remain outstanding.
+**30/30 narration scripts are now drafted and available** in [the v3/v4 script index](scripts/eleven-v3-v4/README.md), generated from the 146,816-word working novel. They include **271 scene pauses, 30 chapter-ending pauses, and 53 selectively placed voice-delivery cues**; all spoken content was cross-checked against its source. **No narrated audio exists in this repository.** Final literary review, Studio import, voice decisions, audio generation and timing tests remain outstanding.
 
 ## Proposed sequence
 
