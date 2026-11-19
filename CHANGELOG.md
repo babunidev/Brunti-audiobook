@@ -454,3 +454,10 @@ The Nereval river-rune question, remaining 95 source-scene checks, full-book/can
 - Refetched **all 30 manuscripts** and verified new total: **146,816 counted words, +83**. Updated [chapter index](manuscript/chapters/README.md), [map audit](docs/REVISION_STAGE_5_MAP_ROUTE_AUDIT.md), roadmap, decisions, chronology, revision plan/log, three chapter reviews and development journal.
 
 **Scope:** Novel-only travel orientation and continuity. No plot result, encounter source, game mechanic, authoritative map, specific distance/road naming or canonical Sarga coordinate changed. Stage 5 still needs whole-book/109-scene/literary/atlas/real audio and independent editorial verification; 203/203 individual source-scene comparisons remain complete.
+
+## 2026-11-19 — ElevenLabs v3/v4-only narration guide (documentation)
+
+- Recorded Babuni's explicit audiobook model choice: **ElevenLabs v3 and v4 only**.
+- Created [ElevenLabs v3/v4 narration guide](production/ELEVENLABS_V3_V4.md), grounded in current vendor documentation: `[pause]`, `[long pause]`, `[laughs]`, `[whispers]` and similar audio cues for derived narration scripts, not canonical novel prose.
+- Addressed the user-reported Chapter 2→3 run-on with a **working 3-second real silence** at a joined chapter boundary in Studio's timeline/final assembly. Because audio tags do not guarantee exact pause durations, playback of the actual chapter join remains a required production test.
+- Updated [production README](production/README.md), repository README, decision record, development log and roadmap. **No manuscript prose changed (146,816 words), no narration exports, no audio generated or rendered, no rights/editorial approval.**
