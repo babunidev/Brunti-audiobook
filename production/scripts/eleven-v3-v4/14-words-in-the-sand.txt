@@ -150,7 +150,7 @@ Her hair was bound beneath a sand-colored scarf, and the skin of her hands was m
 
 Sira raised her hand.
 
-“Who knows how much their companions need?”
+[curious] “Who knows how much their companions need?”
 
 Sira glanced toward Brunti and Velen.
 
@@ -432,7 +432,7 @@ Nera drank too quickly at first.
 
 The young woman's hand trembled around the cup.
 
-“Thought there was a shorter way,” she murmured.
+[softly] “Thought there was a shorter way,” she murmured.
 
 “From where?”
 

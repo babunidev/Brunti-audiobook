@@ -192,7 +192,7 @@ Sira took time to answer.
 
 “Then why go?”
 
-“Someone I knew had died. I was carrying words for her family. There were people waiting for me, and I was afraid of speaking them badly. The cave was quiet enough to remember what I had been asked to say.”
+[softly] “Someone I knew had died. I was carrying words for her family. There were people waiting for me, and I was afraid of speaking them badly. The cave was quiet enough to remember what I had been asked to say.”
 
 Brunti listened.
 
@@ -304,7 +304,7 @@ Velen examined the small stone support.
 
 The guardian stood where they had been throughout the work.
 
-“Why did you mend it?” they asked.
+[curious] “Why did you mend it?” they asked.
 
 Brunti looked up.
 

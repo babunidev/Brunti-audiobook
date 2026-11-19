@@ -256,7 +256,7 @@ Sira knelt a few paces away.
 
 Calen looked at the bank beyond her. A narrow row of posts emerged from the water. The missing planks between them were not visible.
 
-“That's the old reed route,” he said quietly. “It was flooded after yesterday's rain.”
+[softly] “That's the old reed route,” he said quietly. “It was flooded after yesterday's rain.”
 
 Leta brushed the mud from her fingers.
 
@@ -316,7 +316,7 @@ Between them and the station lay a stretch of water broken by submerged roots an
 
 Sira turned to Leta.
 
-“Do you want to stay here while Calen finds help, or would you rather come with us if we can make the crossing safely?”
+[softly] “Do you want to stay here while Calen finds help, or would you rather come with us if we can make the crossing safely?”
 
 Leta took another bite and considered.
 

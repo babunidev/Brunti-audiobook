@@ -28,7 +28,7 @@ The rest dissolved into a sound too torn to be language. The unfinished shapes s
 
 Velen was already reaching for their notebook.
 
-“Don't go closer,” Enna whispered.
+[whispers] “Don't go closer,” Enna whispered.
 
 The circle widened. Loose ice skated over the surface of the snow. Outside the spinning ring, the drifts remained almost perfectly still.
 
@@ -470,7 +470,7 @@ The stag watched them approach.
 
 Its eyes were dark and steady, with a faint radiance gathering near their edges. A cloud of breath gathered at its muzzle, then thinned into the still air. When it turned its head toward Brunti, the arrow moved and its foreleg trembled again.
 
-“Don't touch the shaft,” Enna said softly.
+[softly] “Don't touch the shaft,” Enna said softly.
 
 “I wasn't going to.”
 

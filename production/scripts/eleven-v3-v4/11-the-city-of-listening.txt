@@ -54,7 +54,7 @@ The Grand Confluence lay among them, where the city's avenues met.
 
 Brunti could feel the care beneath the cobbles. Some stones carried load along the street's length. Others had been fitted to release pressure around drains and narrow channels. The workmanship changed from section to section without becoming careless.
 
-“Four builders,” she murmured.
+[softly] “Four builders,” she murmured.
 
 “Many more than four,” Sira said. “But four traditions agreed on the city.”
 
@@ -262,7 +262,7 @@ She looked at the ledger notation.
 
 Velen nodded once.
 
-“Now we have two separate questions. What was built? And where can it safely remain?”
+[thoughtful] “Now we have two separate questions. What was built? And where can it safely remain?”
 
 Brunti found the distinction irritating because it was so clearly necessary.
 
