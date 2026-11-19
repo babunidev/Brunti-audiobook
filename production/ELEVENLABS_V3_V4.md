@@ -79,7 +79,7 @@ A practical v3/v4 dialog test (not from the manuscript):
 
 - Maintain **one narrative chapter per Studio chapter** and preserve chapter headings/numbering. A correctly structured document or EPUB is preferable to pasting thirty chapters as one continuous paragraph. Confirm the chapter list in Studio after import.
 - Preserve scene breaks from the manuscript's `***` markers as **nonspoken structure**, translating them to actual paragraph/clip divisions where useful. Never synthesize the literal asterisks.
-- Keep narration-only scripts in a **future `production/scripts/`** area, not in `manuscript/chapters/`. Choose whether titles are narrated; use the same convention for all 30 chapters.
+- The **30 complete narration scripts** are now in [`production/scripts/eleven-v3-v4/`](scripts/eleven-v3-v4/README.md), separate from the canonical `manuscript/chapters/`. All include first-line spoken titles by default; avoid duplicating the title if Studio already narrates its own chapter heading.
 - For each generated chapter, log model (v3 or v4), voice, revision of manuscript, cue decisions, verified silence between chapters, quality issues and resulting file/version. Do not claim a clip is finalized until its **rendered audio is listened to**.
 - A generated Chapter 2 alone is not sufficient to validate a Chapter 2→3 boundary. Check the actual **joined output**, including any website/game player's transition.
 - Any final pause timings, added vocal reactions or edition-specific script modifications must remain separate from the **146,816-word novel draft count**, which does not include TTS cues.
@@ -92,4 +92,8 @@ A practical v3/v4 dialog test (not from the manuscript):
 - [ElevenLabs: ElevenCreative Studio](https://elevenlabs.io/docs/eleven-creative/products/studio)
 - [ElevenLabs: structured chapter import](https://elevenlabs.io/docs/help-center/product/studio/studio/how-do-i-add-chapters-to-a-studio-project)
 
-**Implementation status:** production workflow documented for Eleven v3/v4 only; **no narration-only chapter exports, Studio editing actions, audio generation, quality tests or final production approval performed in this repository**. The Chapter 2→3 pause is an explicit **production target**, not a verified audible result.
+## 19 November 2026 — all 30 derived narration scripts created
+
+At Babuni's explicit request, ChatGPT (**GPT-6**) derived **one full plain-text script for each of the thirty novel chapters**, indexed at [`production/scripts/eleven-v3-v4/`](scripts/eleven-v3-v4/README.md). The conversion uses **`[pause]` at every established `***` scene separator (271 cues total)** and **exactly one `[long pause]` after each chapter's final prose line (30 cues)**. Only the technical heading marker and inline Markdown emphasis punctuation were removed; speech content, dialogue, paragraph breaks, order and known lore remain unchanged. **All 30 output files were reopened and checked for terminal cues and absence of raw Markdown scene separators.** The literary manuscript remains **146,816 counted words** with no prose edits.
+
+**Crucial audio limitation:** These cues are in the **prepared scripts**, not rendered files. ElevenLabs v3/v4 tags do not guarantee seconds of silence, especially when placed at the end of an independently generated chapter. The **actual audible join** must still have its own **3-second timeline/assembly gap** and be listened to. In particular **Chapter 2→3 remains unverified in actual output**, because no ElevenLabs Studio project/audio was edited or rendered here. **Not performed:** voice selection, external uploads, audio generation, playback, mastering, production sign-off or release.
