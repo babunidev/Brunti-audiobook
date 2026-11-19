@@ -180,7 +180,7 @@ Mara described a bronze treasure chest half-concealed among wildflowers on the S
 
 Mara looked at Brunti's hammer.
 
-“Some people think anything they can break belongs to them. I prefer people who know the difference between opening a thing and being permitted to open it.”
+[thoughtful] “Some people think anything they can break belongs to them. I prefer people who know the difference between opening a thing and being permitted to open it.”
 
 Brunti took out her notebook and drew the chest from Mara's account. The bronze had weathered for years, but its workmanship remained distinct. She would have liked to see the lock.
 
@@ -428,7 +428,7 @@ A little farther on, a russet shape bounced above the meadow grass, hung briefly
 
 Brunti smiled.
 
-“Is it one of her cubs?” she whispered.
+[whispers] “Is it one of her cubs?” she whispered.
 
 “We don't know,” Sira said.
 

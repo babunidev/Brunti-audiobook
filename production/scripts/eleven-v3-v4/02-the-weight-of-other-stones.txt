@@ -16,7 +16,7 @@ Brunti turned the block over. There were five fresh marks in the stone, the last
 
 Nemi waited for the praise to become something larger. When it did not, she set the block down and looked at the empty space beside Brunti's tools.
 
-“Why did they close the memorial passage?”
+[curious] “Why did they close the memorial passage?”
 
 Brunti had expected the question eventually. She had not expected it before breakfast.
 
@@ -370,7 +370,7 @@ She did.
 
 She might once have heard this as an instruction to come home without pride. Now she thought of the three wounded warriors, of a bowl that had scraped across a floor, and of a dim fire where no one knew what the people gathered around it wanted.
 
-“What if it is not enough?” she asked.
+[thoughtful] “What if it is not enough?” she asked.
 
 “Then it will be what we have.”
 

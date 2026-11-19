@@ -202,7 +202,7 @@ Her voice was thin under the rushing air.
 
 Brunti looked again at the bandits. The one with the blade was recovering his footing. Another held a wooden staff. The third had moved behind a low rock where he could approach without crossing the strongest gust.
 
-“Can you reach the road?” Brunti shouted.
+[shouts] “Can you reach the road?” Brunti shouted.
 
 “Not while they hold the sides!”
 
@@ -296,7 +296,7 @@ She was a courier, traveling between outer trade stations with several small pac
 
 Aru had settled beside her in the lee of the bank.
 
-“The road has a talent for giving the same lesson to different people,” the Rokur murmured.
+[thoughtful] “The road has a talent for giving the same lesson to different people,” the Rokur murmured.
 
 Brunti glanced at Sira, expecting another remark.
 

@@ -70,7 +70,7 @@ Sira laughed, then grew quiet.
 
 The little casket seemed to have been laid among the ferns rather than discarded. Nothing was broken. The wood had weathered, but its edges were sound, and the flowers growing around it had not been crushed by recent movement.
 
-“Perhaps someone left it here to remember a person,” Sira said.
+[thoughtful] “Perhaps someone left it here to remember a person,” Sira said.
 
 “Perhaps it holds something they wished to hide.”
 
@@ -206,7 +206,7 @@ The carving was scarcely more than a handful of cuts, yet it suggested a travele
 
 “The carving.”
 
-“And who can correct it?”
+[curious] “And who can correct it?”
 
 Brunti looked up.
 

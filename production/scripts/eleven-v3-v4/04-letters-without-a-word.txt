@@ -32,7 +32,7 @@ Brunti measured the depth of the cut with the blunt end of her pencil.
 
 “Would a boundary stone bear only one letter?”
 
-“Some would. Some wouldn't.” Eda looked out across the green hills. “There are old accounts of treasures in these folds, too. And stories that the land is kinder to people who don't tear it apart looking for them.”
+[thoughtful] “Some would. Some wouldn't.” Eda looked out across the green hills. “There are old accounts of treasures in these folds, too. And stories that the land is kinder to people who don't tear it apart looking for them.”
 
 Brunti drew the letter and the flowers around it. She was tempted to uncover the stone's buried edge, to see whether another mark lay below the soil, but the fine roots had woven themselves through every exposed seam.
 
@@ -298,7 +298,7 @@ At the next shelter, a traveling record-keeper was copying accounts from merchan
 
 Brunti showed him the seven letters, with their places and the circumstances of their discovery. He examined the page, turning it sideways once, then handed it back.
 
-“Do you know what they mean?” she asked.
+[curious] “Do you know what they mean?” she asked.
 
 “No.”
 

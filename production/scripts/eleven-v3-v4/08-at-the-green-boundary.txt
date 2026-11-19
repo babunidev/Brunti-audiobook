@@ -52,7 +52,7 @@ The wolf did not bare its teeth. It did not lower its head or prepare to leap. I
 
 Sira took a quiet step nearer to Brunti.
 
-“Don't move toward it,” she whispered.
+[whispers] “Don't move toward it,” she whispered.
 
 “I wasn't going to.”
 
@@ -170,7 +170,7 @@ But there was no sign that the wolf understood her words, or that understanding 
 
 Sira lowered her hands to her sides, palms open.
 
-“We are travelers,” she said quietly. “We have followed a path that may not be ours.”
+[softly] “We are travelers,” she said quietly. “We have followed a path that may not be ours.”
 
 Brunti glanced at her.
 

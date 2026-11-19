@@ -90,7 +90,7 @@ A few marks remained where the moss had thinned. They were too worn to read. The
 
 “Enchanted Glades,” Eda said. “The name is older than any map I own.”
 
-“Who made the pillars?”
+[curious] “Who made the pillars?”
 
 “Someone who was here before I was.”
 
@@ -204,7 +204,7 @@ Brunti watched the butterfly rise and drift away.
 
 “You haven't opened it.”
 
-“I can remember a butterfly.”
+[thoughtful] “I can remember a butterfly.”
 
 “That sounds healthy.”
 
