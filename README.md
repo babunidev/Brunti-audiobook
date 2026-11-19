@@ -33,7 +33,7 @@ The existing world lore belongs to [MorkahjaWorld](https://github.com/babunidev/
 | [Roadmap](ROADMAP.md) | Steps and what is complete versus deferred |
 | [Whole-manuscript story audit](docs/WHOLE_MANUSCRIPT_STORY_AUDIT.md) | Found plot and continuity issues; targeted Stage 1–4 draft repairs implemented, final close-read still pending |
 | [Manuscript area](manuscript/chapters/README.md) | Where eventual chapters will live |
-| [Audio workflow](production/README.md) | Narration and production stages, not yet started |
+| [Audio workflow](production/README.md) · [ElevenLabs v3/v4 narration guide](production/ELEVENLABS_V3_V4.md) | Narration and production stages, including explicit pauses at chapter joins; no repository audio production yet |
 
 The [documentation guide](docs/DOCUMENTATION.md), [project rules](AGENTS.md), [decision log](docs/DECISIONS.md), [development journal](docs/DEVLOG.md), and [changelog](CHANGELOG.md) keep the work traceable.
 
