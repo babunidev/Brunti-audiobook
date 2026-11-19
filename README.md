@@ -3,7 +3,7 @@
 **Working title:** *Brunti*  
 **Creative:** Babuni  
 **Stage:** 3 — 30/30 draft chapters; Stages 1–4 targeted prose edits completed, Stage 5 verification IN PROGRESS; independent review and production outstanding  
-**Format:** Fantasy novel and planned narrated audiobook; **thirty first-draft chapters** exist, **no recordings**.
+**Format:** Fantasy novel and planned narrated audiobook; **thirty first-draft chapters** and **thirty derived ElevenLabs v3/v4 narration scripts** exist; **no recordings**.
 
 Through this project, I am adapting the encounters of [Morkahja](https://github.com/babunidev/Morkahja) into one continuous fantasy journey, led by a young Grimnir warrior named Brunti. The story can draw on an encounter directly, pass it through a traveler's memory, or preserve it as a song, testimony or archived account. Game mechanics need not become the novel's plot.
 
@@ -19,7 +19,7 @@ The existing world lore belongs to [MorkahjaWorld](https://github.com/babunidev/
 | [Character arcs](story/CHARACTER_ARCS.md) | Brunti, Darrik, Sira, Velen, relationships and growth |
 | [Causal chain](story/CAUSAL_CHAIN.md) | Why each of the 30 chapters leads to the next |
 | [Scene plan](story/scenes/README.md) | **109 concrete scene briefs** covering all 203 encounters across the 30 proposed chapters |
-| [Manuscript](manuscript/chapters/README.md) | **Chapters 1–30 draft prose** (146,742 counted words; Stages 1–4 targeted revision and Stage 5 targeted source/rhythm fixes); all planned chapters drafted, none independently editorially approved |
+| [Manuscript](manuscript/chapters/README.md) | **Chapters 1–30 draft prose** (146,816 counted words; Stages 1–4 targeted revision and Stage 5 map/source fixes); all planned chapters drafted, none independently editorially approved |
 | [Manuscript review ledger](docs/MANUSCRIPT_REVIEW.md) · [Chapters 3–4 review](docs/CHAPTERS_03_04_REVIEW.md) · [Chapters 5–6 review](docs/CHAPTERS_05_06_REVIEW.md) · [Chapters 7–8 review](docs/CHAPTERS_07_08_REVIEW.md) · [Chapter 9 review](docs/CHAPTER_09_REVIEW.md) · [Chapter 10 review](docs/CHAPTER_10_REVIEW.md) · [Chapter 11 review](docs/CHAPTER_11_REVIEW.md) · [Chapter 12 review](docs/CHAPTER_12_REVIEW.md) · [Chapter 13 review](docs/CHAPTER_13_REVIEW.md) · [Chapter 14 review](docs/CHAPTER_14_REVIEW.md) · [Chapter 15 review](docs/CHAPTER_15_REVIEW.md) · [Chapter 16 review](docs/CHAPTER_16_REVIEW.md) · [Chapter 17 review](docs/CHAPTER_17_REVIEW.md) · [Chapter 18 review](docs/CHAPTER_18_REVIEW.md) · [Chapter 19 review](docs/CHAPTER_19_REVIEW.md) · [Chapter 20 review](docs/CHAPTER_20_REVIEW.md) · [Chapter 21 review](docs/CHAPTER_21_REVIEW.md) · [Chapter 22 review](docs/CHAPTER_22_REVIEW.md) · [Chapter 23 review](docs/CHAPTER_23_REVIEW.md) · [Chapter 24 review](docs/CHAPTER_24_REVIEW.md) · [Chapter 25 review](docs/CHAPTER_25_REVIEW.md) · [Chapter 26 review](docs/CHAPTER_26_REVIEW.md) · [Chapter 27 review](docs/CHAPTER_27_REVIEW.md) · [Chapter 28 review](docs/CHAPTER_28_REVIEW.md) · [Chapter 29 review](docs/CHAPTER_29_REVIEW.md) · [Chapter 30 review](docs/CHAPTER_30_REVIEW.md) | Drafted encounters, lore tensions, source-check evidence and editorial gaps |
 | [Continuity register](docs/SCENE_CONTINUITY.md) | Source-confirmed constraints, scene-level safeguards and unresolved travel/lore checks |
 | [Encounter atlas](story/ENCOUNTER_ATLAS.md) | All 203 source encounters, IDs, source groups, narrative categories and tracking |
@@ -33,7 +33,7 @@ The existing world lore belongs to [MorkahjaWorld](https://github.com/babunidev/
 | [Roadmap](ROADMAP.md) | Steps and what is complete versus deferred |
 | [Whole-manuscript story audit](docs/WHOLE_MANUSCRIPT_STORY_AUDIT.md) | Found plot and continuity issues; targeted Stage 1–4 draft repairs implemented, final close-read still pending |
 | [Manuscript area](manuscript/chapters/README.md) | Where eventual chapters will live |
-| [Audio workflow](production/README.md) · [ElevenLabs v3/v4 narration guide](production/ELEVENLABS_V3_V4.md) | Narration and production stages, including explicit pauses at chapter joins; no repository audio production yet |
+| [Audio workflow](production/README.md) · [30 ElevenLabs v3/v4 chapter scripts](production/scripts/eleven-v3-v4/README.md) · [Narration guide](production/ELEVENLABS_V3_V4.md) | Separate ready-to-import chapter text with 271 scene-pause cues and 30 ending cues; real audio and timed chapter joins not yet produced |
 
 The [documentation guide](docs/DOCUMENTATION.md), [project rules](AGENTS.md), [decision log](docs/DECISIONS.md), [development journal](docs/DEVLOG.md), and [changelog](CHANGELOG.md) keep the work traceable.
 
