@@ -64,7 +64,7 @@ Brunti leaned forward.
 
 “I've sold things to people who have.”
 
-“What did you see yourself?”
+[curious] “What did you see yourself?”
 
 The old man looked offended, as though she had asked him to distinguish one kind of coin from another.
 
@@ -222,7 +222,7 @@ Then his head turned sharply toward the opening where the travelers stood. The g
 
 Sira stopped beside Brunti.
 
-“Don't approach,” Varun whispered.
+[whispers] “Don't approach,” Varun whispered.
 
 The Gobbl released his arm, slowly, as though expecting it to betray him again. Both clawed hands spread wide. His attention fixed on the patch of open ground between the fallen tree and the road.
 

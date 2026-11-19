@@ -398,7 +398,7 @@ The drifter's gaze moved toward the trees.
 
 Velen took a strip of the blue-and-green shelter cloth and tied it to the nearest branch.
 
-“We can keep one marker in sight until the next,” they said. “You don't have to hold the whole route in your head.”
+[softly] “We can keep one marker in sight until the next,” they said. “You don't have to hold the whole route in your head.”
 
 Brunti moved to the woman's other side without touching her.
 
@@ -592,7 +592,7 @@ The boy looked up.
 
 His eyes moved from Sira to Brunti's broad mineral shoulders and then to Velen's folded papers.
 
-“You can,” he whispered.
+[whispers] “You can,” he whispered.
 
 They did not hurry toward him.
 

@@ -390,7 +390,7 @@ The older memory-keeper studied Brunti.
 
 Brunti looked toward the caretaker.
 
-“Because the people here had to keep doing the work while I chased an answer I did not need.” She looked at the caretaker again. “And because I was more afraid of coming back with an unfinished record than of making you wait for me. I should have known the difference.”
+[thoughtful] “Because the people here had to keep doing the work while I chased an answer I did not need.” She looked at the caretaker again. “And because I was more afraid of coming back with an unfinished record than of making you wait for me. I should have known the difference.”
 
 [pause]
 
@@ -442,7 +442,7 @@ Darrik's hands stilled over the diagram.
 
 “No.”
 
-“Then where would we go to listen?”
+[curious] “Then where would we go to listen?”
 
 He hesitated.
 

@@ -160,7 +160,7 @@ Nemi watched her inspection.
 
 Brunti studied the bar.
 
-“I don't think I would.”
+[thoughtful] “I don't think I would.”
 
 Nemi considered this answer and looked a little disappointed.
 
@@ -464,7 +464,7 @@ The elder nodded.
 
 “That's part of hearing both.”
 
-“Is that how they sounded when they were alive?”
+[curious] “Is that how they sounded when they were alive?”
 
 Brunti looked at the two stones.
 
