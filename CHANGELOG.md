@@ -469,3 +469,11 @@ The Nereval river-rune question, remaining 95 source-scene checks, full-book/can
 - Verified the source-to-script textual round-trip at conversion and **re-fetched all 30 generated files**: chapter headings, scene-pause count, terminal chapter cues, and absence of raw Markdown scene separators. Specifically verified Chapter 2 ending / Chapter 3 beginning.
 - Updated [production workflow](production/README.md), [v3/v4 guide](production/ELEVENLABS_V3_V4.md), repository README, decision and development records.
 - **Not verified or done:** any actual ElevenLabs Studio import, audio voice render, a guaranteed real 3-second interval between sequential chapters, playback test, final manuscript approval or distribution. Timed silence remains a required audio-stage edit even if `[long pause]` is present in a standalone text script.
+
+## 2026-11-19 — Voice direction added to all thirty ElevenLabs v3/v4 scripts
+
+- Updated all **30** separate [narration text scripts](production/scripts/eleven-v3-v4/README.md) with **53 hand-selected performance tags**, grounded in actual lines of the manuscript: **15 `[thoughtful]`, 14 `[softly]`, 12 `[curious]`, 9 `[whispers]`, 2 `[mischievously]`, 1 `[shouts]`**.
+- Preserved all **271 existing `[pause]` scene divisions** and **30 final `[long pause]` chapter endings**; did not auto-insert theatrical laughs/sighs, invented emotional actions, sound effects, or dialogue.
+- Verified all **30 revised script files** against the thirty current `manuscript/chapters/*.md` sources. After stripping the 53 added performance cues, the scripts matched the established clean narration transform **exactly** (30/30).
+- Updated production guide, [narration index](production/scripts/eleven-v3-v4/README.md), README, roadmap, editorial decision record and development journal. The **146,816-word novel text is unchanged**.
+- **Still pending:** actual v3/v4 speech rendering, voice-specific tag review, real timed chapter gaps, narrator audition, audio mastering and editorial release approval.
