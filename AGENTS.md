@@ -24,3 +24,7 @@ Use `story/` for planning, `manuscript/chapters/` for prose, `production/` for a
 Follow `docs/DOCUMENTATION.md` for first-person creative project voice and accurate AI/model attribution. Distinguish **direction, proposal, approved decision, draft, reviewed manuscript, recorded audio and publication**. Update roadmap, development journal, decisions and changelog when appropriate; never claim tests, editorial approval or distribution that did not occur.
 
 Protect contributors' credits, personal data, credentials and rights. Link external art at first; do not copy unrelated private data, commissioned music or third-party audio into this public repository.
+
+## Human–AI collaboration record
+
+`docs/AI_COLLABORATION.md` is the short record of how Babuni works with AI and who did what, with the same text in all of Babuni's repositories. Do not add dated entries, session notes or per-change attribution to it. Record each contribution in `docs/DEVLOG.md` (what Babuni asked for and what the AI did, naming the tool and model) and in `CHANGELOG.md`. Change `docs/AI_COLLABORATION.md` only to add a row to its "Who did what" table when a new AI tool or model starts contributing to this project, or when Babuni revises the shared text.
