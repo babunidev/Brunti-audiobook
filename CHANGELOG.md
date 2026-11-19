@@ -461,3 +461,11 @@ The Nereval river-rune question, remaining 95 source-scene checks, full-book/can
 - Created [ElevenLabs v3/v4 narration guide](production/ELEVENLABS_V3_V4.md), grounded in current vendor documentation: `[pause]`, `[long pause]`, `[laughs]`, `[whispers]` and similar audio cues for derived narration scripts, not canonical novel prose.
 - Addressed the user-reported Chapter 2→3 run-on with a **working 3-second real silence** at a joined chapter boundary in Studio's timeline/final assembly. Because audio tags do not guarantee exact pause durations, playback of the actual chapter join remains a required production test.
 - Updated [production README](production/README.md), repository README, decision record, development log and roadmap. **No manuscript prose changed (146,816 words), no narration exports, no audio generated or rendered, no rights/editorial approval.**
+
+## 2026-11-19 — 30 standalone Eleven v3/v4 narration scripts generated
+
+- Created the [separate narration-script collection](production/scripts/eleven-v3-v4/README.md): **30 complete `.txt` files** derived from the corresponding `manuscript/chapters/*.md` in numerical order. The novel's 30 files and **146,816-word** count were left unchanged.
+- Converted all **271 actual `***` literary scene separators** into `[pause]` tags and added exactly **one `[long pause]` at every chapter ending (30 total)**. Converted chapter headings to plain spoken title lines and stripped only inline Markdown italics punctuation. No inserted laughter, cries or other newly invented acting/sound content.
+- Verified the source-to-script textual round-trip at conversion and **re-fetched all 30 generated files**: chapter headings, scene-pause count, terminal chapter cues, and absence of raw Markdown scene separators. Specifically verified Chapter 2 ending / Chapter 3 beginning.
+- Updated [production workflow](production/README.md), [v3/v4 guide](production/ELEVENLABS_V3_V4.md), repository README, decision and development records.
+- **Not verified or done:** any actual ElevenLabs Studio import, audio voice render, a guaranteed real 3-second interval between sequential chapters, playback test, final manuscript approval or distribution. Timed silence remains a required audio-stage edit even if `[long pause]` is present in a standalone text script.
