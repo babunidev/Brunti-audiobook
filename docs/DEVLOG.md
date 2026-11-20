@@ -439,3 +439,9 @@ Under Babuni's instruction to add appropriate Eleven v3/v4 audio tags **througho
 The manuscript files were **not changed**. New tags were placed in the **30 separate `.txt` narration scripts** in three ten-chapter commits. Every chapter was separately re-fetched alongside its canonical `.md` source and checked: after removing only the added voice tags, the derived text matches its source exactly, including the established **271 scene pauses** and **30 terminal long pauses**; no substantive prose mutations or missing chapters were found. The canonical draft stays **146,816 words**.
 
 **Status:** Complete all-chapter **text-level selective cue placement and programmatic source preservation checks**; NOT complete audio or voice validation. No direct ElevenLabs Studio project edit, audio export, actual three-second inter-chapter silence test, narrator-voice performance review, mastering, rights sign-off, or publication. The final chosen voice can make some tags sound artificial; those choices remain subject to listening.
+
+## 20 November 2026 — the first episode goes out
+
+Chapter 1, *Skyland Morning*, is now out as an audio episode on [Indikin.online](https://indikin.online/share/film/chapter-one-skyland-morning?v=5.0), a friend's platform I want to support. A release on babuni.dev will follow once payments are set up there; until then, the Indikin episode is where people can listen.
+
+Claude Code (**Claude Opus 5.5**) added the listen link to the README and updated the status lines that still said no audio existed, and connected this repository to the Grimnir project on babuni.dev. The audio was produced and published by me outside this repository; the AI did not listen to or check the episode.

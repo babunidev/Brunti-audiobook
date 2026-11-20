@@ -3,11 +3,15 @@
 **Working title:** *Brunti*  
 **Creative:** Babuni  
 **Stage:** 3 — 30/30 draft chapters; Stages 1–4 targeted prose edits completed, Stage 5 verification IN PROGRESS; independent review and production outstanding  
-**Format:** Fantasy novel and planned narrated audiobook; **thirty first-draft chapters** and **thirty derived ElevenLabs v3/v4 narration scripts** exist; **no recordings**.
+**Format:** Fantasy novel and planned narrated audiobook; **thirty first-draft chapters** and **thirty derived ElevenLabs v3/v4 narration scripts** exist; **Chapter 1 is published as audio** on Indikin.online; Chapters 2–30 are not published.
 
 Through this project, I am adapting the encounters of [Morkahja](https://github.com/babunidev/Morkahja) into one continuous fantasy journey, led by a young Grimnir warrior named Brunti. The story can draw on an encounter directly, pass it through a traveler's memory, or preserve it as a song, testimony or archived account. Game mechanics need not become the novel's plot.
 
 The existing world lore belongs to [MorkahjaWorld](https://github.com/babunidev/MorkahjaWorld). This repository holds **original literary adaptation and draft prose**, not new game canon. The selected working fiction has not received independent human line-editing or world-canon approval.
+
+## Listen
+
+**[Chapter One — Skyland Morning](https://indikin.online/share/film/chapter-one-skyland-morning?v=5.0)** is the first published episode of the audiobook, streaming on Indikin.online. Further chapters follow there; a release on babuni.dev comes once payments are in place there.
 
 ## Start here
 
@@ -41,7 +45,7 @@ The [documentation guide](docs/DOCUMENTATION.md), [project rules](AGENTS.md), [d
 
 The encounter atlas was indexed from `Morkahja/server/game/encountersdata.json` at commit `58576f063627752f77cdf99514baad875d509114`; later game sources changed **19**, then **5**, then **1**, then **2**, then **1**, then **1**, then **8**, then **5**, then **5**, then **4**, then **2**, then **8**, then **2**, then **4**, then **2**, then **5**, then **2**, then **2**, then **2**, then **7**, then **2**, then **6**, then **4** additional encounter descriptions and were [reviewed and reconciled where already drafted](docs/SOURCE_RECONCILIATION.md). The current reviewed literary baseline is `952437c5c59da26a2f873f1a18590496f88a2354`. It remains the source coverage ledger. The [scene plan](story/scenes/README.md) assigns all 203 records to specific scenes. **All 203** distinct source encounters have now been adapted into first-draft prose in Chapters 2–28 and 30, with Chapter 29 providing original connecting fiction. **0 remain planned and 0 have received independent editorial verification.** No encounter adaptation has passed independent editorial approval. World facts are checked against `MorkahjaWorld`; proposals in this repository never override that archive.
 
-**Current limits:** A 30-chapter working story direction and cast now exist under delegated creative drafting, but they remain **novel-only fiction**, not additions to Morkahja canon or an editorially completed manuscript. The title is provisional, the existing poster has not been imported, and there is no final reviewed manuscript, audio, media-rights clearance or publication.
+**Current limits:** A 30-chapter working story direction and cast now exist under delegated creative drafting, but they remain **novel-only fiction**, not additions to Morkahja canon or an editorially completed manuscript. The title is provisional, the existing poster has not been imported, and there is no final reviewed manuscript or media-rights clearance. Chapter 1 is the only published audio so far.
 
 ## Editorial revision status — 19 November 2026
 
@@ -53,4 +57,4 @@ The encounter atlas was indexed from `Morkahja/server/game/encountersdata.json` 
 
 **Latest manuscript edits:** At Babuni's explicit direction, the three [map-route orientation issues](docs/REVISION_STAGE_5_MAP_ROUTE_AUDIT.md) are now implemented in prose: Chapter 14 clarifies the **Ohgar→Vale southern approaches→east to Karrhu** multi-day caravan journey (+27 words); Chapter 17 names the **Karrhu northern crossings→outer Vale waystations→mountain trade routes** (+51), keeping Cliffs of Sarga geographically unplaced; Chapter 28 replaces a misleading **“northbound caravan”** with an explicit **upland Skyland landing-route destination** (+5). Earlier Ch22/25 copyedits and Ch17's Ressa/Orena distinction remain in force. **All 30 chapters were refetched and recounted at 146,816 words** (+83). No plot outcomes, source encounters or game/world canon changed.
 
-**Stage 5 not yet accepted:** Full consecutive line-by-line literary read, [109 scene-brief](story/scenes/README.md) function comparison, complete atlas/canon/relative travel checks, real read-aloud/performer listening assessment (Ch5/7/13/16/20/24 density watchlist), and separate human final editorial approval are outstanding. **Narrator-ready scripts, audio recordings, media-rights clearance, publication and game/world canon amendments are not claimed.**
+**Stage 5 not yet accepted:** Full consecutive line-by-line literary read, [109 scene-brief](story/scenes/README.md) function comparison, complete atlas/canon/relative travel checks, real read-aloud/performer listening assessment (Ch5/7/13/16/20/24 density watchlist), and separate human final editorial approval are outstanding. **Narrator-ready scripts, media-rights clearance and game/world canon amendments are not claimed; apart from the published Chapter 1 episode, no audio is released.**

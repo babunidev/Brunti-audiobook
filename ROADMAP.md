@@ -36,7 +36,7 @@
 - [ ] Create clean narrator scripts and pronunciation notes.
 - [ ] Approve narrator/voices, pacing, sound design and audio style.
 - [ ] Verify rights for cover, audio, music, effects and other assets.
-- [ ] Record/generate, listen, edit, master and publish audio only after review.
+- [ ] Record/generate, listen, edit, master and publish audio only after review. *Chapter 1 was published on Indikin.online on 20 November 2026; Chapters 2–30 remain open, and a babuni.dev release waits on payments.*
 
 A completed inventory is **not** evidence that its encounters have already been adapted into the story.
 
