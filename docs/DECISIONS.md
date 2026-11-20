@@ -232,3 +232,14 @@ ChatGPT (**GPT-6**) created [thirty complete standalone ElevenLabs v3/v4 narrati
 **Editorial approach chosen for the production draft:** Preserve every existing spoken sentence; insert tags only ahead of actual dialogue, favoring explicit whispered/shouted lines and genuinely reflective or curious exchanges. Use **`[thoughtful]` 15, `[softly]` 14, `[curious]` 12, `[whispers]` 9, `[mischievously]` 2, `[shouts]` 1**. No gratuitous `[laughs]` or `[sighs]` where narration already describes the action; no creature or environmental sound synthesis. Retain the manuscript's **271 scene pauses** and the production scripts' **30 chapter-ending pauses**, separate from the actual Studio audio silence requirement.
 
 **Verification and authority:** Compared every edited narration script with its current manuscript chapter using the established clean-text transform and stripping only the 53 new performance tags; **all 30 files matched exactly**. The literary manuscript still contains **146,816 counted words**, with no story or character-text edits. Tags are a production **working selection**, not tested generated-audio output, fixed timing, narrator approval, or an authorization to modify original novel files. Eleven v3 and v4 interpret short square-bracket directions but their fidelity varies by voice.
+
+## 20 November 2026 — release the scripts as they are, one episode at a time
+
+**Status: explicit human decision by Babuni, based on Babuni's own listening.**
+
+- **Voice:** a voice Babuni cloned in ElevenLabs narrates the audiobook.
+- **Scripts:** the [v3/v4 narration scripts](../production/scripts/eleven-v3-v4/README.md) go into ElevenLabs Studio one chapter at a time, unchanged, and are exported without further editing. Chapters 1–7 have been rendered this way.
+- **Release:** every chapter is listened to by Babuni before it goes out, then published as its own episode on [Indikin.online](https://indikin.online/share/storymaker/babuni?v=5.0). babuni.dev follows once payments are set up there.
+- **Basis:** Babuni listened to Chapters 1 and 2 at least twice each and was satisfied, with almost nothing to fix; one other listener's response has been positive so far.
+
+**Not decided or verified here:** independent editorial approval of the manuscript, a mastering pass, a combined edition with timed chapter joins, and the voice and service rights noted in [RIGHTS](RIGHTS.md). No AI listened to the audio.

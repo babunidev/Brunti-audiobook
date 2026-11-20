@@ -2,6 +2,8 @@
 
 **19 November 2026 | First derived narration scripts.** Prepared by **ChatGPT (GPT-6)** at Babuni's request. The **30 complete `.txt` files** contain the current manuscript chapter text with intentional speech-pacing markers. The source novel remains separately maintained in [`manuscript/chapters/`](../../../manuscript/chapters/README.md). **The complete chapter list here is a ready-to-import production draft, not generated or approved audio.**
 
+**20 November 2026 update:** Babuni has imported the scripts for Chapters 1–7 unchanged into ElevenLabs Studio and rendered them with a cloned voice; Chapter 1 is published. See the [production status](../../README.md#current-workflow-babuni-20-november-2026).
+
 ## How these differ from the literary manuscripts
 
 - One **individual plain-text script per chapter**, with a human-readable chapter title as the first line. If pasted directly into text-to-speech, the title may be spoken. In Studio, avoid accidentally narrating a title twice if it is also supplied as chapter metadata.

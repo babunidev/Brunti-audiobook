@@ -2,7 +2,7 @@
 
 **18 November 2026 | Internal manuscript-revision evidence.** ChatGPT (**GPT-6**) edited the novel under Babuni's previously delegated literary-drafting direction and the instruction to proceed to Stage 2. These are **novel-only, AI-written draft changes**, not additions to established MorkahjaWorld lore, independent human editorial acceptance, a source-game content update or an audiobook release.
 
-**Scope:** [R5–R9](MANUSCRIPT_REVISION_PLAN.md). Baseline for this pass is the [Stage 1 completed documentation commit `a2455ef3c30a8477078996187c60a8e4e211213c`](https://github.com/babunidev/audiobookGrimnir/tree/a2455ef3c30a8477078996187c60a8e4e211213c), not the older first-draft state. See [Stage 0 dependency map](../story/REVISION_CHRONOLOGY_AND_OBJECTS.md), [stage 1 report](REVISION_STAGE_1_REVIEW.md), and [current chapter index](../manuscript/chapters/README.md). The game source ledger still pins `952437c5c59d` pending reconciliation of later source-text changes.
+**Scope:** [R5–R9](MANUSCRIPT_REVISION_PLAN.md). Baseline for this pass is the [Stage 1 completed documentation commit `a2455ef3c30a8477078996187c60a8e4e211213c`](https://github.com/babunidev/Brunti-audiobook/tree/a2455ef3c30a8477078996187c60a8e4e211213c), not the older first-draft state. See [Stage 0 dependency map](../story/REVISION_CHRONOLOGY_AND_OBJECTS.md), [stage 1 report](REVISION_STAGE_1_REVIEW.md), and [current chapter index](../manuscript/chapters/README.md). The game source ledger still pins `952437c5c59d` pending reconciliation of later source-text changes.
 
 ## R5 — relative convergence and journey clock
 

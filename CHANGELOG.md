@@ -1,5 +1,15 @@
 # Changelog
 
+## 2026-11-20 — repository renamed to Brunti-audiobook
+
+- Renamed the GitHub repository from `audiobookGrimnir` to `Brunti-audiobook` at Babuni's request; GitHub redirects the old address. Commit links in the documentation now use the new name; the Stage 0 baseline keeps the name it recorded at the time. Claude Code (Claude Opus 5.5).
+
+## 2026-11-20 — Audio workflow and Chapters 1–7 rendered
+
+- `production/README.md` now describes the working audio workflow (cloned ElevenLabs voice, scripts imported unchanged into Studio, exported as-is, listened to before release) and a per-chapter status table: Chapters 1–7 rendered, 1–2 listened to, Chapter 1 published. Claude Code (Claude Opus 5.5).
+- Updated the status lines in `README.md` and the script index, the Stage 4 checklist in `ROADMAP.md`, and added the release decision to `docs/DECISIONS.md` and a journal entry to `docs/DEVLOG.md`. Claude Code (Claude Opus 5.5).
+- `docs/RIGHTS.md` notes the cloned narration voice and that its consent and service terms are still to be recorded. Claude Code (Claude Opus 5.5).
+
 ## 2026-11-20 — Chapter 1 published
 
 - The listen link now points to Babuni's Indikin.online page (https://indikin.online/share/storymaker/babuni?v=5.0); the direct episode link did not work. Claude Code (Claude Opus 5.5).

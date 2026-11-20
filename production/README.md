@@ -1,8 +1,27 @@
-# Audiobook production — scripts prepared, audio production pending
+# Audiobook production — Chapters 1–7 rendered, Chapter 1 published
 
 **Confirmed model choice by Babuni: ElevenLabs v3 and v4 only.** See the [v3/v4 narration cues, scene pauses and chapter-join guide](ELEVENLABS_V3_V4.md). The guide is a documented production convention, not evidence of generated or approved audio.
 
-**30/30 narration scripts are now drafted and available** in [the v3/v4 script index](scripts/eleven-v3-v4/README.md), generated from the 146,816-word working novel. They include **271 scene pauses, 30 chapter-ending pauses, and 53 selectively placed voice-delivery cues**; all spoken content was cross-checked against its source. **No narrated audio is stored in this repository.** Babuni published Chapter 1 as an audio episode on [Indikin.online](https://indikin.online/share/storymaker/babuni?v=5.0) on 20 November 2026; the audio files themselves stay outside Git. Final literary review, Studio import, voice decisions, audio generation and timing tests remain outstanding.
+**30/30 narration scripts are now drafted and available** in [the v3/v4 script index](scripts/eleven-v3-v4/README.md), generated from the 146,816-word working novel. They include **271 scene pauses, 30 chapter-ending pauses, and 53 selectively placed voice-delivery cues**; all spoken content was cross-checked against its source. **No narrated audio is stored in this repository.** Babuni published Chapter 1 as an audio episode on [Indikin.online](https://indikin.online/share/storymaker/babuni?v=5.0) on 20 November 2026; the audio files themselves stay outside Git. Final literary review remains outstanding.
+
+## Current workflow (Babuni, 20 November 2026)
+
+| Step | What happens |
+| --- | --- |
+| Voice | A voice cloned by Babuni in ElevenLabs narrates every chapter. |
+| Import | Each `.txt` script from [`scripts/eleven-v3-v4/`](scripts/eleven-v3-v4/README.md) goes into an ElevenLabs Studio project as its own chapter, **unchanged**. |
+| Export | The chapter is exported from Studio as it comes, without further audio editing. |
+| Listening check | Babuni listens to each rendered chapter in full before it is released. |
+| Release | One chapter at a time, as an episode on [Indikin.online](https://indikin.online/share/storymaker/babuni?v=5.0); later also on babuni.dev. |
+
+| Chapter | Rendered | Listened by Babuni | Published |
+| --- | --- | --- | --- |
+| 1 — Skyland Morning | yes | yes, at least twice | Indikin.online, 20 Nov 2026 |
+| 2 — The Weight of Other Stones | yes | yes, at least twice | no |
+| 3–7 | yes | planned from 21 Nov 2026 | no |
+| 8–30 | no | — | no |
+
+Babuni reports that the exported chapters sound good, with almost nothing to correct so far, and one other listener has responded positively. The exact ElevenLabs model version used for each render, the voice-clone details, and timings are not recorded here. Because each chapter is released as a separate episode, the three-second chapter join described in the guide only matters for a future combined edition.
 
 ## Proposed sequence
 

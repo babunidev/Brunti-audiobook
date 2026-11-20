@@ -4,7 +4,7 @@
 
 ## Scope and current source pin
 
-- **Current audiobook source:** `main` at the start of this continuation, [`dde7ae06bcc16620453b1ce562a97ab6692f97f3`](https://github.com/babunidev/audiobookGrimnir/tree/dde7ae06bcc16620453b1ce562a97ab6692f97f3).
+- **Current audiobook source:** `main` at the start of this continuation, [`dde7ae06bcc16620453b1ce562a97ab6692f97f3`](https://github.com/babunidev/Brunti-audiobook/tree/dde7ae06bcc16620453b1ce562a97ab6692f97f3).
 - **Current game source parsed and checked:** [Morkahja `2ba61f5a6bcde383ed2a931c3d2a06c87404dffd`](https://github.com/babunidev/Morkahja/blob/2ba61f5a6bcde383ed2a931c3d2a06c87404dffd/server/game/encountersdata.json).
 - **Literary baseline comparison:** [Morkahja `952437c5c59da26a2f873f1a18590496f88a2354`](https://github.com/babunidev/Morkahja/blob/952437c5c59da26a2f873f1a18590496f88a2354/server/game/encountersdata.json). **All 40 Chapters 5–8 source JSON objects are exactly unchanged** between these two versions, including prose, titles, IDs and follow metadata. The game has other changes elsewhere in the 203-record catalog, already covered in [continuation B](REVISION_STAGE_5_CONTINUATION_02.md).
 - **Manuscript passages directly read:** [Chapter 5](../manuscript/chapters/05-the-lives-of-the-vale.md), [Chapter 6](../manuscript/chapters/06-under-eldertree.md), [Chapter 7](../manuscript/chapters/07-things-that-are-kept.md) and [Chapter 8](../manuscript/chapters/08-at-the-green-boundary.md). Their assigned source passages were checked against the full current encounter descriptions and the [placement matrix](../story/PLACEMENT_MATRIX.md), with Chapter 4's closing meeting and Chapter 7's opening/continuity also inspected.
@@ -93,7 +93,7 @@
 
 ## F. Repository integrity and distinct-ID recount
 
-At audiobook `main` revision [`e04d45ccbc43f0552053a50d67c0e19b8cb74b1f`](https://github.com/babunidev/audiobookGrimnir/tree/e04d45ccbc43f0552053a50d67c0e19b8cb74b1f), the GitHub tree was fetched recursively without truncation. **All nine Markdown documents created/edited in this continuation** were read back and their **382 relative Markdown link destinations** were checked against tracked file paths: **zero missing destinations**. This test does not validate anchor fragments, external websites, render quality or audio.
+At audiobook `main` revision [`e04d45ccbc43f0552053a50d67c0e19b8cb74b1f`](https://github.com/babunidev/Brunti-audiobook/tree/e04d45ccbc43f0552053a50d67c0e19b8cb74b1f), the GitHub tree was fetched recursively without truncation. **All nine Markdown documents created/edited in this continuation** were read back and their **382 relative Markdown link destinations** were checked against tracked file paths: **zero missing destinations**. This test does not validate anchor fragments, external websites, render quality or audio.
 
 The three targeted audit ledgers were independently parsed for explicit table-ID entries and the union compared with the **203 current game `mEncounterID` values**: first ledger **57 table appearances / 54 unique**, continuation B **22 table appearances / 22 unique** (including two deliberate rechecks), continuation C **40 appearances / 40 unique**. The **final union is exactly 108 distinct IDs**, all found in game source, with **95** remaining. The six duplicate IDs counted in continuation C are `20039, 20065, 20093, 20096, 20036, 20115`. The game source count includes normalized numeric IDs **1** and **2** corresponding to JSON keys `00001` and `00002`.
 

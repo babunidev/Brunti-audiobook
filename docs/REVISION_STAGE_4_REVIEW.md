@@ -2,7 +2,7 @@
 
 **18 November 2026 | Targeted novel-draft edits by ChatGPT (GPT-6), under Babuni's prior delegated creative-writing authority and explicit direction to proceed to Stage 4.** This report records the draft implementation, textual checks and limits; it is **not** independent human approval, a game/world-canon update, final narrator script, recording or publication.
 
-**Baseline:** audiobook `main` at the [end of Stage 3](https://github.com/babunidev/audiobookGrimnir/tree/433b2066464aeafff9d59ff665bd7a639d6e944e) (`433b2066464aeafff9d59ff665bd7a639d6e944e`); [Stage 3 function report](REVISION_STAGE_3_REVIEW.md) and [staged plan](MANUSCRIPT_REVISION_PLAN.md). **Current draft:** 30 chapters, **146,659 counted words** including chapter headings under the established Unicode-letter/numeral whitespace-token count; **+888** from 145,771 at Stage 3. Seven chapters edited: **1, 2, 11, 23, 28, 29 and 30**. [Chapter index](../manuscript/chapters/README.md).
+**Baseline:** audiobook `main` at the [end of Stage 3](https://github.com/babunidev/Brunti-audiobook/tree/433b2066464aeafff9d59ff665bd7a639d6e944e) (`433b2066464aeafff9d59ff665bd7a639d6e944e`); [Stage 3 function report](REVISION_STAGE_3_REVIEW.md) and [staged plan](MANUSCRIPT_REVISION_PLAN.md). **Current draft:** 30 chapters, **146,659 counted words** including chapter headings under the established Unicode-letter/numeral whitespace-token count; **+888** from 145,771 at Stage 3. Seven chapters edited: **1, 2, 11, 23, 28, 29 and 30**. [Chapter index](../manuscript/chapters/README.md).
 
 ## R10 — two distinct lives, anonymous until the on-page inscriptions
 

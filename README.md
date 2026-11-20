@@ -2,8 +2,8 @@
 
 **Working title:** *Brunti*  
 **Creative:** Babuni  
-**Stage:** 3 — 30/30 draft chapters; Stages 1–4 targeted prose edits completed, Stage 5 verification IN PROGRESS; independent review and production outstanding  
-**Format:** Fantasy novel and planned narrated audiobook; **thirty first-draft chapters** and **thirty derived ElevenLabs v3/v4 narration scripts** exist; **Chapter 1 is published as audio** on Indikin.online; Chapters 2–30 are not published.
+**Stage:** 3 — 30/30 draft chapters; Stages 1–4 targeted prose edits completed, Stage 5 verification IN PROGRESS; independent review outstanding; audio production under way, one episode at a time  
+**Format:** Fantasy novel and narrated audiobook in progress; **thirty first-draft chapters** and **thirty derived ElevenLabs v3/v4 narration scripts** exist; **Chapters 1–7 are rendered as audio** with a cloned voice in ElevenLabs Studio; **Chapter 1 is published** on Indikin.online; Chapters 2–30 are not published.
 
 Through this project, I am adapting the encounters of [Morkahja](https://github.com/babunidev/Morkahja) into one continuous fantasy journey, led by a young Grimnir warrior named Brunti. The story can draw on an encounter directly, pass it through a traveler's memory, or preserve it as a song, testimony or archived account. Game mechanics need not become the novel's plot.
 
@@ -11,7 +11,7 @@ The existing world lore belongs to [MorkahjaWorld](https://github.com/babunidev/
 
 ## Listen
 
-**Chapter One — Skyland Morning**, the first published episode of the audiobook, streams on [Babuni's Indikin.online page](https://indikin.online/share/storymaker/babuni?v=5.0). The audiobook will also come to babuni.dev once payments are set up on the site.
+**Chapter One — Skyland Morning**, the first published episode of the audiobook, streams on [Babuni's Indikin.online page](https://indikin.online/share/storymaker/babuni?v=5.0). Every episode is meant to go out there, one at a time, each after I have listened to it myself. The audiobook will also come to babuni.dev once payments are set up on the site.
 
 ## Start here
 

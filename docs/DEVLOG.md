@@ -445,3 +445,11 @@ The manuscript files were **not changed**. New tags were placed in the **30 sepa
 Chapter 1, *Skyland Morning*, is now out as an audio episode on [Indikin.online](https://indikin.online/share/storymaker/babuni?v=5.0), a friend's platform I want to support. A release on babuni.dev will follow once payments are set up there; until then, my Indikin page is where people can listen.
 
 Claude Code (**Claude Opus 5.5**) added the listen link to the README and updated the status lines that still said no audio existed, and connected this repository to the Grimnir project on babuni.dev. The audio was produced and published by me outside this repository; the AI did not listen to or check the episode.
+
+## 20 November 2026 — seven chapters with a cloned voice
+
+The working method has turned out simpler than the production guide expected. In ElevenLabs I cloned a voice, added each narration script from `production/scripts/eleven-v3-v4/` to a Studio project as its own chapter without changing anything, and exported it exactly as it came out. Seven chapters exist this way so far. Having listened to Chapters 1 and 2 at least twice each, I like how they sound; there is almost nothing bad in them. Chapter 3 onwards is next on my list, starting 21 November. One other listener has heard the episodes too and finds them good so far.
+
+So I am going with it: I will listen to each chapter myself, then release it as its own episode on Indikin.online, and later on babuni.dev as well.
+
+Claude Code (**Claude Opus 5.5**) recorded this workflow and status in the production README, script index, roadmap, decision log, rights notes and changelog, from my account of it. The AI did not listen to or check any audio, and the model version and voice-clone details for the renders were not recorded.

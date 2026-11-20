@@ -5,7 +5,7 @@
 ## Immutable revision anchor
 
 - **Audiobook repository:** `babunidev/audiobookGrimnir`.
-- **Starting `main` commit:** [`0916221b5940d1a48229c4dc216207bd523202e0`](https://github.com/babunidev/audiobookGrimnir/tree/0916221b5940d1a48229c4dc216207bd523202e0). Subsequent documentation commits do not modify the manuscript baseline.
+- **Starting `main` commit:** [`0916221b5940d1a48229c4dc216207bd523202e0`](https://github.com/babunidev/Brunti-audiobook/tree/0916221b5940d1a48229c4dc216207bd523202e0). Subsequent documentation commits do not modify the manuscript baseline.
 - **Reviewed game-source revision:** [`952437c5c59da26a2f873f1a18590496f88a2354`](https://github.com/babunidev/Morkahja/tree/952437c5c59da26a2f873f1a18590496f88a2354) from the project source ledger.
 - **Checked game `main` at Stage 0:** `66245f2f5ca4fcddc21e9fd4d0c44290760c6c58`. The compare endpoint reports **10 newer commits** and edits to `server/game/encountersdata.json` (10 line additions and 10 deletions). **The changed encounter contents have not yet been reconciled against the manuscript**; this is a flagged Stage 5/source-edit dependency, not a statement of which IDs changed.
 - **Novel status:** first draft (30 chapters), independently editorial-approved chapters **0**, audiobook scripts/audio **not complete**. All 203 matrix rows say `Draft v1`, not independently verified source fidelity.

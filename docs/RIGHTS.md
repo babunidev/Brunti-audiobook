@@ -4,4 +4,6 @@ The game's [content license](https://github.com/babunidev/Morkahja/blob/main/CON
 
 For now, Brunti portrait 104 and frame 75 are **links** to the game source, not new copied assets. The previously mentioned poster has not been imported or verified. No commissioned music, unlicensed effects or voices are added here. Keep provenance and the credits of other contributors, including Nikita Malko for commissioned Morkahja compositions.
 
+**Narration voice (20 November 2026):** The published and rendered chapters use a voice Babuni cloned in ElevenLabs. Whose voice it is, the consent behind it, and the ElevenLabs plan terms that cover commercial release are not yet recorded here; note them before the babuni.dev paid release.
+
 Before distribution, establish permissions for artwork, any source adaptations beyond the original creative's rights, narration voices, audio generation service terms, music, effects and the final manuscript's publication license. A public GitHub workspace is not itself rights clearance.

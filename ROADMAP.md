@@ -31,12 +31,12 @@
 - [ ] Revise all chapters into a complete, coherent literary narrative; independent human editorial approval outstanding.
 - [ ] Verify all **203** encounter integrations, full continuity, canonical constraints and prose quality in the finished manuscript.
 
-## Stage 4 — narrated edition (not started)
+## Stage 4 — narrated edition (in progress, episode by episode)
 
-- [ ] Create clean narrator scripts and pronunciation notes.
-- [ ] Approve narrator/voices, pacing, sound design and audio style.
-- [ ] Verify rights for cover, audio, music, effects and other assets.
-- [ ] Record/generate, listen, edit, master and publish audio only after review. *Chapter 1 was published on Indikin.online on 20 November 2026; Chapters 2–30 remain open, and a babuni.dev release waits on payments.*
+- [ ] Create clean narrator scripts and pronunciation notes. *All 30 v3/v4 scripts exist; no separate pronunciation notes yet.*
+- [x] Choose narrator voice and audio style: Babuni chose a cloned ElevenLabs voice and the scripts unchanged (20 November 2026).
+- [ ] Verify rights for cover, audio, music, effects and other assets. *Voice-clone and service terms still to be recorded in [RIGHTS](docs/RIGHTS.md).*
+- [ ] Record/generate, listen and publish every chapter. *Chapters 1–7 rendered; 1–2 listened to by Babuni; Chapter 1 published on Indikin.online on 20 November 2026; a babuni.dev release waits on payments.*
 
 A completed inventory is **not** evidence that its encounters have already been adapted into the story.
 
