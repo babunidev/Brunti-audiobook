@@ -11,7 +11,7 @@ The existing world lore belongs to [MorkahjaWorld](https://github.com/babunidev/
 
 ## Listen
 
-**[Chapter One — Skyland Morning](https://indikin.online/share/film/chapter-one-skyland-morning?v=5.0)** is the first published episode of the audiobook, streaming on Indikin.online. The audiobook will also come to babuni.dev once payments are set up on the site.
+**Chapter One — Skyland Morning**, the first published episode of the audiobook, streams on [Babuni's Indikin.online page](https://indikin.online/share/storymaker/babuni?v=5.0). The audiobook will also come to babuni.dev once payments are set up on the site.
 
 ## Start here
 
