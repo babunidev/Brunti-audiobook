@@ -3,7 +3,7 @@
 ## 2026-11-20 — Chapter 1 published
 
 - The listen link now points to Babuni's Indikin.online page (https://indikin.online/share/storymaker/babuni?v=5.0); the direct episode link did not work. Claude Code (Claude Opus 5.5).
-- Added a Listen section to `README.md` linking the first published episode, [Chapter One — Skyland Morning](https://indikin.online/share/film/chapter-one-skyland-morning?v=5.0) on Indikin.online, and updated the format and status lines that said no audio exists. Claude Code (Claude Opus 5.5).
+- Added a Listen section to `README.md` linking the first published episode, [Chapter One — Skyland Morning](https://indikin.online/share/storymaker/babuni?v=5.0) on Indikin.online, and updated the format and status lines that said no audio exists. Claude Code (Claude Opus 5.5).
 - `production/README.md` notes the published episode; audio files remain outside the repository. Claude Code (Claude Opus 5.5).
 
 ## 2026-11-19 — human–AI collaboration record

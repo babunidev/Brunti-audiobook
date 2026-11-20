@@ -442,6 +442,6 @@ The manuscript files were **not changed**. New tags were placed in the **30 sepa
 
 ## 20 November 2026 — the first episode goes out
 
-Chapter 1, *Skyland Morning*, is now out as an audio episode on [Indikin.online](https://indikin.online/share/film/chapter-one-skyland-morning?v=5.0), a friend's platform I want to support. A release on babuni.dev will follow once payments are set up there; until then, the Indikin episode is where people can listen.
+Chapter 1, *Skyland Morning*, is now out as an audio episode on [Indikin.online](https://indikin.online/share/storymaker/babuni?v=5.0), a friend's platform I want to support. A release on babuni.dev will follow once payments are set up there; until then, my Indikin page is where people can listen.
 
 Claude Code (**Claude Opus 5.5**) added the listen link to the README and updated the status lines that still said no audio existed, and connected this repository to the Grimnir project on babuni.dev. The audio was produced and published by me outside this repository; the AI did not listen to or check the episode.
