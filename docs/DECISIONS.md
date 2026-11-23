@@ -1,5 +1,9 @@
 # Creative direction and decisions
 
+## 23 November 2026 — German source terminology, proposals not approved
+
+Under Babuni's request to proceed to the **next step** after creating the German edition workspace, ChatGPT (**GPT-6**) completed a targeted source-backed terminology survey. The [German glossary](../manuscript/translations/de/GLOSSARY.md) now distinguishes **verified original spellings** (source evidence, not human translation sign-off), **proposed literary German wording**, and **still open naming issues**. Primary checks used pinned MorkahjaWorld `f56a7c3d2034652e1c5961f0ece9c3ef52b52b48`, English novel `86d9bdccf32315f5a4a1dbf0a345f96d30cc39b4` (13 selected chapters) and the established project story/character planning records. A GitHub compare found four newer world-repo commits touching only project/docs files, so the pinned lore was retained. **No choice is represented as an explicit Babuni-approved German term.** In particular, German treatment of proper names, technical Grimnir metaphors, and Atranor wording remains revisable during the chapter pilot. No English narrative or world/game canon was amended.
+
 ## 23 November 2026 — authorized German-edition foundation
 
 Babuni asked ChatGPT to proceed with **Stage 1** of the German audiobook translation plan **in a new repository folder**. This authorizes creating translation infrastructure and records, not changing English prose or approving any particular German literary sentence or term. The working location `manuscript/translations/de/` preserves the English chapters under `manuscript/chapters/`; future German narration scripts remain separate in `production/`. ChatGPT (**GPT-6**) proposed the initial style, glossary scaffold and status criteria; those editorial suggestions are **not** individually human-approved. English source pin: `86d9bdccf32315f5a4a1dbf0a345f96d30cc39b4`. Translation and recording have not begun.

@@ -1,6 +1,6 @@
 # Brunti — deutsche Ausgabe (de)
 
-**Arbeitsstand: 23. November 2026 — Übersetzungsgrundlage angelegt, 0/30 Kapitel übersetzt.**
+**Arbeitsstand: 23. November 2026 — Stufe 2 Quellen- und Terminologieprüfung dokumentiert, 0/30 Kapitel übersetzt.**
 **Status:** Eigenständige literarische Übersetzung in Vorbereitung; weder sprachlich abgenommen noch vertont oder veröffentlicht.
 
 Für diese Ausgabe möchte ich Bruntis Geschichte auf Deutsch erzählen, ohne die bestehende englische Fassung zu überschreiben. Der Roman bleibt eine literarische Adaption der Begegnungen aus Morkahja und wird dadurch nicht automatisch Weltkanon.
@@ -18,16 +18,16 @@ Das englische Manuskript ist die **unmittelbare literarische Übersetzungsvorlag
 
 - [STYLE_GUIDE.md](STYLE_GUIDE.md) — vorläufige literarische und redaktionelle Übersetzungsregeln.
 - [STATUS.md](STATUS.md) — verbindliche Dateizuordnung und noch offene Arbeits-/Prüfstatus für alle 30 Kapitel.
-- [GLOSSARY.md](GLOSSARY.md) — Terminologie-Sammelstelle; Übersetzungen noch nicht abschließend festgelegt.
+- [GLOSSARY.md](GLOSSARY.md) — quellengestütztes Namen- und Terminologieregister; literarische Vorschläge ausdrücklich nicht endgültig freigegeben.
 - `chapters/NN-english-slug.md` — **geplanter** Speicherort der deutschen Romanprosa; noch keine solchen Dateien angelegt.
 
 ## Abfolge
 
 1. **Stufe 1 — angelegt:** Verzeichnis, dokumentierte Ausgangsversion, Regeln, Statusregister und Terminologiegerüst.
-2. **Stufe 2 — offen:** Namen, Orte, Kulturen und Begriffe anhand der englischen Kapitel und MorkahjaWorld prüfen; Glossarentscheidungen ausdrücklich festhalten.
+2. **Stufe 2 — Quellenarbeit durchgeführt, Sprachfreigabe offen:** Namen, Orte, Kulturen und Begriffe aus dem gepinnten MorkahjaWorld und 13 ausgewählten englischen Romankapiteln geprüft; Vorschläge, belegte Schreibweisen und offene Entscheidungen im Glossar getrennt. Keine vollständige 30-Kapitel-Konkordanz und keine menschliche Übersetzungsfreigabe.
 3. **Stufe 3 — offen:** Kapitel 1 und 2 als literarische Probe übersetzen, auf Sprachfluss und Vorlesbarkeit prüfen und den Stil nachschärfen.
 4. **Stufe 4 — offen:** Kapitel 3–30 abschnittsweise anhand eines jeweils festgehaltenen, hinreichend stabilen englischen Stands übertragen; Kontinuität und 203 Begegnungsbezüge dort prüfen, wo sie erscheinen.
 5. **Stufe 5 — offen:** Nur aus geprüfter deutscher Romanprosa getrennte ElevenLabs-v3/v4-Texte unter `production/scripts/eleven-v3-v4/de/` ableiten. Keine Produktions-Tags in die Romanprosa.
 6. **Stufe 6 — offen:** Deutsche Episoden separat anhören, freigeben, mit Rechten/Metadaten versehen und ihren Veröffentlichungsstand führen.
 
-**Abgrenzung:** Stufe 1 schafft ausschließlich den Arbeitsrahmen. Es gibt keine übersetzten Kapitel, keine freigegebenen Wortentscheidungen, keine deutschen ElevenLabs-Skripte und keine deutschen Audiodateien.
+**Abgrenzung:** Die Stufen 1–2 schaffen Arbeitsrahmen und einen belegten Terminologievorrat. Es gibt weiterhin keine übersetzten Kapitel, keine menschlich freigegebenen Wortentscheidungen, keine deutschen ElevenLabs-Skripte und keine deutschen Audiodateien.

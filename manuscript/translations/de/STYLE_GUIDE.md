@@ -46,3 +46,9 @@ Die deutschen `.md`-Kapitel bleiben saubere Prosa. Erst nach Prüfung entsteht j
 ## Änderungsdisziplin
 
 Bei englischen Revisionen den betreffenden deutschen Stand als **Synchronisierung zu prüfen** markieren; neue englische Sätze nicht heimlich in bereits freigegebenes Deutsch einarbeiten. Entscheidungen und eventuelle Freigaben nach [docs/DECISIONS.md](../../../docs/DECISIONS.md), Entwicklungsnachweise nach [docs/DEVLOG.md](../../../docs/DEVLOG.md) und konkrete Änderungen im [CHANGELOG.md](../../../CHANGELOG.md) führen. [docs/AI_COLLABORATION.md](../../../docs/AI_COLLABORATION.md) bleibt unverändert, sofern kein neues Tool/Modell dort aufgenommen werden muss.
+
+## Quellenbasierte Terminologie — Arbeitsstand Stufe 2
+
+Das [Begriffsregister](GLOSSARY.md) enthält nun aus dem gepinnten Weltkanon und **13 gezielt geprüften** englischen Kapiteln abgeleitete Namensbelege und deutsche Formulierungsvorschläge. Die Kürzel **B (Quellschreibweise belegt), V (literarischer Vorschlag), O (offen)** bezeichnen **keine menschliche Freigabe**. Insbesondere „Skyland“, „Erinnerungsstein“, „Gedenkstein“, „Konvergenz“ sowie Ortsnamen in Keldor sind beim Übersetzen als unterschiedliche Bedeutungsfelder zu lesen, nicht per Suchen-und-Ersetzen zu lokalisieren.
+
+Die fünf Schutzregeln im Glossar gelten als **Prüfkriterien**, nicht als neu erfundener Kanon. Frühere Gottheiten-/Atranor-Bestimmungen, Figurennamen und die unaufgelösten sieben Buchstaben `A H K J O M A` bleiben unverändert in ihrer Bedeutung. Besonders auf Satzrhythmus und natürliche deutsche Genitiv- und Kompositabildung ist erst am tatsächlichen Kapiteltext zu entscheiden; hier ist noch kein Versmaß oder Stil endgültig bestätigt.

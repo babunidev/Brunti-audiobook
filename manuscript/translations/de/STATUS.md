@@ -2,6 +2,8 @@
 
 **Erfasst am 23. November 2026.** Englische Ausgangsbasis: [`86d9bdccf32315f5a4a1dbf0a345f96d30cc39b4`](https://github.com/babunidev/Brunti-audiobook/tree/86d9bdccf32315f5a4a1dbf0a345f96d30cc39b4) auf `main` vor Beginn dieser Edition.
 
+**Stufe 2 (Terminologie):** Kanon- und Manuskriptbelege geprüft; deutschsprachige Kandidaten im [Glossar](GLOSSARY.md) erfasst, **keine** menschliche Freigabe. Der Pilot bleibt ausstehend.
+
 **Kontrolle:** 30 vorhandene englische Kapiteldateien gezählt (Dateinamen `01`–`30`). **0/30** deutsche Manuskriptdateien erstellt; **0** deutsch intern überprüft; **0** menschlich freigegeben; **0** deutsche Narrationsskripte; **0** deutsche Aufnahmen oder Veröffentlichungen. Das englische Manuskript selbst ist weiterhin Entwurf mit offener abschließender redaktioneller Abnahme.
 
 | Nr. | Englische Quelle | Geplanter deutscher Pfad | Übersetzung | Redaktion | Narration |

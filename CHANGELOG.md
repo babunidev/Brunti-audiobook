@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-11-23 — German literary edition Stage 2 source-backed terminology
+
+- Expanded `manuscript/translations/de/GLOSSARY.md` with pinned lore-source references, literary German candidates, verified proper-name spellings, ambiguity flags, and safeguards for Grimnir memory, moving Skylands, Atranor/divine law, geography and Blackwood. ChatGPT (GPT-6).
+- Reviewed 13 selected English manuscript chapters and relevant pinned MorkahjaWorld race, place, tradition, history and pantheon articles. GitHub branch comparison found four newer MorkahjaWorld commits that changed documentation only, not the inspected lore files. This was a targeted terminology review, **not** a complete 30-chapter or 203-encounter audit.
+- Updated German style, edition overview/status and root roadmap/navigation; logged source evidence and boundaries in decision/journal records. English chapter prose, game/world canon, production text and audio remain unchanged. **0/30 German chapters translated; 0 human translation approvals.**
+
 ## 2026-11-23 — German literary edition Stage 1 foundation
 
 - Added `manuscript/translations/de/` with a German-edition README, provisional literary style and source-fidelity guide, terminology scaffold, and 30-chapter translation status register. Source English manuscript pinned to `86d9bdccf32315f5a4a1dbf0a345f96d30cc39b4`. ChatGPT (GPT-6).
