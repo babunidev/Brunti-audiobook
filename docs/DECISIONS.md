@@ -1,5 +1,9 @@
 # Creative direction and decisions
 
+## 23 November 2026 — authorized German-edition foundation
+
+Babuni asked ChatGPT to proceed with **Stage 1** of the German audiobook translation plan **in a new repository folder**. This authorizes creating translation infrastructure and records, not changing English prose or approving any particular German literary sentence or term. The working location `manuscript/translations/de/` preserves the English chapters under `manuscript/chapters/`; future German narration scripts remain separate in `production/`. ChatGPT (**GPT-6**) proposed the initial style, glossary scaffold and status criteria; those editorial suggestions are **not** individually human-approved. English source pin: `86d9bdccf32315f5a4a1dbf0a345f96d30cc39b4`. Translation and recording have not begun.
+
 ## 17 November 2026 — stated by Babuni
 
 - Build a dedicated GitHub workspace for a fantasy adventure audiobook derived from **all** Morkahja encounters.

@@ -453,3 +453,11 @@ The working method has turned out simpler than the production guide expected. In
 So I am going with it: I will listen to each chapter myself, then release it as its own episode on Indikin.online, and later on babuni.dev as well.
 
 Claude Code (**Claude Opus 5.5**) recorded this workflow and status in the production README, script index, roadmap, decision log, rights notes and changelog, from my account of it. The AI did not listen to or check any audio, and the model version and voice-clone details for the renders were not recorded.
+
+## 23 November 2026 — laying out a German edition
+
+For Brunti's German edition, I asked ChatGPT to carry out the first stage of the translation plan **inside a new folder in the existing repository**. This keeps the established English story and its audio project intact, while giving future German chapters an explicit home, source revision and independent editorial status.
+
+ChatGPT (**GPT-6**, connected GitHub tools) inspected the repository rules, documentation and sources, the existing 30 English chapter filenames, current production status and recent change records. It established [the German-edition workspace](../manuscript/translations/de/README.md), drafted a provisional [German style/fidelity guide](../manuscript/translations/de/STYLE_GUIDE.md), a [terminology scaffold](../manuscript/translations/de/GLOSSARY.md), and a [30-chapter status register](../manuscript/translations/de/STATUS.md). The exact English starting revision is `86d9bdccf32315f5a4a1dbf0a345f96d30cc39b4`; the registered canonical-world and source-game pins remain those already listed in [SOURCES](SOURCES.md).
+
+**Verification and limits:** Before writing, GitHub returned 30 numbered English chapter files and no existing `manuscript/translations/` directory. The new register contains 30 distinct numbered mappings and records **zero** German manuscripts, reviews, narration scripts, rendered audio and German publications. The English source review's remaining Stage 5 editorial gates are not bypassed. No new world canon, source-game files, existing English manuscript chapter text, ElevenLabs project, recording or release was changed. Style and terms are preparatory proposals, not explicit human translation approvals.

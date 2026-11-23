@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-11-23 — German literary edition Stage 1 foundation
+
+- Added `manuscript/translations/de/` with a German-edition README, provisional literary style and source-fidelity guide, terminology scaffold, and 30-chapter translation status register. Source English manuscript pinned to `86d9bdccf32315f5a4a1dbf0a345f96d30cc39b4`. ChatGPT (GPT-6).
+- Updated project README, roadmap, documentation guide, decisions and development journal to identify the new German edition without conflating its stages with the English manuscript's stages. ChatGPT (GPT-6).
+- Verified the 30 English chapter filenames at the pinned commit. **No German chapters, German narration scripts, audio, source-game/world lore changes, human approval or release.**
+
 ## 2026-11-20 — repository renamed to Brunti-audiobook
 
 - Renamed the GitHub repository from `audiobookGrimnir` to `Brunti-audiobook` at Babuni's request; GitHub redirects the old address. Commit links in the documentation now use the new name; the Stage 0 baseline keeps the name it recorded at the time. Claude Code (Claude Opus 5.5).

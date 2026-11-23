@@ -13,7 +13,8 @@ Whenever AI contributes, identify the product/tool and confirmed model where pos
 - `README.md`: accessible entry point and present status.
 - `CONCEPT.md`: creative brief and boundaries.
 - `story/`: literary proposals, people, structural planning, encounter coverage.
-- `manuscript/chapters/`: eventual actual chapter prose and draft template.
+- `manuscript/chapters/`: English novel chapter prose and draft template.
+- `manuscript/translations/de/`: separate German literary edition, translation rules, terminology proposals and per-chapter provenance/status; no audio production tags in novel prose.
 - `production/`: narration/audio workflow.
 - `docs/SOURCES.md`: pinned provenance and authoritative source hierarchy.
 - `docs/CONTENT.md`: categorization method and cross-reference rules.
